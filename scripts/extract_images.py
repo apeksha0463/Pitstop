@@ -27,6 +27,7 @@ Notes:
 from __future__ import annotations
 
 import mimetypes
+import sys
 import time
 import urllib.parse
 from pathlib import Path
@@ -34,7 +35,16 @@ from typing import Optional
 
 import requests
 
-from scripts.utils import EXTRACTED_IMAGES_DIR
+_HERE = Path(__file__).resolve().parent
+_ROOT = _HERE.parent
+for _p in (str(_ROOT), str(_HERE)):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
+
+try:
+    from scripts.utils import EXTRACTED_IMAGES_DIR
+except ImportError:
+    from utils import EXTRACTED_IMAGES_DIR
 
 # Seconds between individual image downloads (be polite to servers)
 IMAGE_DOWNLOAD_DELAY: float = 0.5

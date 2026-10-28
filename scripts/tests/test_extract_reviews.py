@@ -1,6 +1,6 @@
 """
-tests/test_extract_reviews.py
-==============================
+scripts/tests/test_extract_reviews.py
+=====================================
 Tests for scripts/extract_reviews.py — the main extraction loop.
 
 Covers:
@@ -23,15 +23,21 @@ from pathlib import Path
 from unittest.mock import patch
 
 # ---------------------------------------------------------------------------
-# Ensure project root is importable when run from tests/ or project root
+# Ensure repo root and scripts dir are on sys.path
 # ---------------------------------------------------------------------------
-_HERE = Path(__file__).resolve().parent      # tests/
-_ROOT = _HERE.parent                          # project root
-if str(_ROOT) not in sys.path:
-    sys.path.insert(0, str(_ROOT))
+_HERE = Path(__file__).resolve().parent      # scripts/tests/
+_SCRIPTS = _HERE.parent                      # scripts/
+_ROOT = _SCRIPTS.parent                      # repository root
+for _p in (str(_ROOT), str(_SCRIPTS)):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
 
-from scripts import extract_reviews
-from scripts.utils import flatten_review, make_review_fingerprint
+try:
+    from scripts import extract_reviews
+    from scripts.utils import flatten_review, make_review_fingerprint
+except ImportError:
+    import extract_reviews
+    from utils import flatten_review, make_review_fingerprint
 
 # ---------------------------------------------------------------------------
 # Shared fixtures
@@ -132,11 +138,10 @@ def _run_mocked(responses, max_requests=20, save_raw=False):
     with tempfile.TemporaryDirectory() as tmpdir:
         output_path = Path(tmpdir) / "out.json"
         with (
-            patch("scripts.extract_reviews.fetch_page", side_effect=fake_fetch),
-            patch("scripts.extract_reviews.REQUEST_DELAY_SECONDS", 0),
-            patch("scripts.extract_reviews.save_json") as mock_save,
+            patch.object(extract_reviews, "fetch_page", side_effect=fake_fetch),
+            patch.object(extract_reviews, "REQUEST_DELAY_SECONDS", 0),
+            patch.object(extract_reviews, "save_json") as mock_save,
         ):
-            # Route save_json calls to real filesystem in tmpdir
             import json as _json
 
             def real_save(data, path, **kw):
@@ -240,8 +245,8 @@ class TestPartialSaveOnError(unittest.TestCase):
             output_path = Path(tmpdir) / "out.json"
 
             with (
-                patch("scripts.extract_reviews.fetch_page", side_effect=fake_fetch),
-                patch("scripts.extract_reviews.save_json") as mock_save,
+                patch.object(extract_reviews, "fetch_page", side_effect=fake_fetch),
+                patch.object(extract_reviews, "save_json") as mock_save,
             ):
                 def real_save(data, path, **kw):
                     p = Path(path)
@@ -281,8 +286,8 @@ class TestNoSecretLeakage(unittest.TestCase):
             output_path = Path(tmpdir) / "out.json"
 
             with (
-                patch("scripts.extract_reviews.fetch_page", return_value=page1),
-                patch("scripts.extract_reviews.save_json") as mock_save,
+                patch.object(extract_reviews, "fetch_page", return_value=page1),
+                patch.object(extract_reviews, "save_json") as mock_save,
             ):
                 def real_save(data, path, **kw):
                     p = Path(path)
@@ -333,9 +338,4 @@ class TestOutputSchema(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    print("Running extract_reviews tests (no real API calls)...\n")
-    loader = unittest.TestLoader()
-    suite = loader.loadTestsFromModule(sys.modules[__name__])
-    runner = unittest.TextTestRunner(verbosity=2)
-    result = runner.run(suite)
-    sys.exit(0 if result.wasSuccessful() else 1)
+    unittest.main(verbosity=2)

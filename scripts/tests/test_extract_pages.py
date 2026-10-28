@@ -1,6 +1,6 @@
 """
-tests/test_extract_pages.py
-============================
+scripts/tests/test_extract_pages.py
+===================================
 Tests for scripts/extract_pages.py — raw page persistence.
 
 Covers:
@@ -17,33 +17,37 @@ from __future__ import annotations
 
 import json
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-_HERE = Path(__file__).resolve().parent
-_ROOT = _HERE.parent
-if str(_ROOT) not in sys.path:
-    sys.path.insert(0, str(_ROOT))
+_HERE = Path(__file__).resolve().parent      # scripts/tests/
+_SCRIPTS = _HERE.parent                      # scripts/
+_ROOT = _SCRIPTS.parent                      # repository root
+for _p in (str(_ROOT), str(_SCRIPTS)):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
 
-import scripts.extract_pages as ep
-from scripts.utils import EXTRACTED_PAGES_DIR
+try:
+    import scripts.extract_pages as ep
+    from scripts.utils import EXTRACTED_PAGES_DIR
+except ImportError:
+    import extract_pages as ep
+    from utils import EXTRACTED_PAGES_DIR
 
 
 class TestSavePage(unittest.TestCase):
 
     def test_save_creates_file(self):
-        import tempfile
         data = {"reviews": [{"id": "r1"}], "serpapi_pagination": {}}
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)
             with patch.object(ep, "EXTRACTED_PAGES_DIR", fake_dir):
-                # Re-import to pick up patched constant in the module
                 path = ep.save_page("0xABCD:0x1234", 1, data)
                 self.assertTrue(path.exists())
 
     def test_saved_content_is_readable_json(self):
-        import tempfile
         data = {"reviews": [{"id": "r1"}], "source": "test"}
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)
@@ -53,7 +57,6 @@ class TestSavePage(unittest.TestCase):
             self.assertEqual(loaded["source"], "test")
 
     def test_filename_uses_safe_id_and_page_number(self):
-        import tempfile
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)
             with patch.object(ep, "EXTRACTED_PAGES_DIR", fake_dir):
@@ -64,7 +67,6 @@ class TestSavePage(unittest.TestCase):
 class TestLoadPage(unittest.TestCase):
 
     def test_load_returns_dict(self):
-        import tempfile
         data = {"key": "value", "nested": {"a": 1}}
         with tempfile.TemporaryDirectory() as tmpdir:
             p = Path(tmpdir) / "test_page.json"
@@ -77,7 +79,6 @@ class TestLoadPage(unittest.TestCase):
             ep.load_page(Path("/nonexistent/path/page.json"))
 
     def test_load_corrupt_file_raises(self):
-        import tempfile
         with tempfile.TemporaryDirectory() as tmpdir:
             p = Path(tmpdir) / "bad.json"
             p.write_text("{ not valid json }", encoding="utf-8")
@@ -88,7 +89,6 @@ class TestLoadPage(unittest.TestCase):
 class TestListAndCount(unittest.TestCase):
 
     def test_list_returns_sorted_paths(self):
-        import tempfile
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)
             with patch.object(ep, "EXTRACTED_PAGES_DIR", fake_dir):
@@ -101,7 +101,6 @@ class TestListAndCount(unittest.TestCase):
         self.assertEqual(len(names), 3)
 
     def test_count_matches_saved_files(self):
-        import tempfile
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)
             with patch.object(ep, "EXTRACTED_PAGES_DIR", fake_dir):
@@ -111,7 +110,6 @@ class TestListAndCount(unittest.TestCase):
         self.assertEqual(count, 2)
 
     def test_list_empty_when_no_files(self):
-        import tempfile
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)
             with patch.object(ep, "EXTRACTED_PAGES_DIR", fake_dir):
@@ -119,7 +117,6 @@ class TestListAndCount(unittest.TestCase):
         self.assertEqual(pages, [])
 
     def test_iter_saved_pages_yields_dicts(self):
-        import tempfile
         payload = {"data_id": "x", "page": 1}
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)

@@ -1,0 +1,25 @@
+# data/.gitignore
+# Exclude generated datasets and downloaded images while preserving structure & seed data
+
+# Ignore everything in generated directories
+extracted_pages/*
+extracted_images/*
+processed/*
+output/*
+
+# Exclude generated data formats
+*.json
+*.tsv
+*.parquet
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+
+# Preserve folder structure with .gitkeep
+!.gitkeep
+!*/.gitkeep
+
+# Allow seed raw dataset CSVs
+!raw_data/*.csv

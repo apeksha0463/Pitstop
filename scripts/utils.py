@@ -1,7 +1,7 @@
 """
 scripts/utils.py
 ================
-Shared helpers for the Google Maps Review Extractor.
+Shared helpers for the Pitstop Google Maps Review Extractor.
 
 Covers:
   - API request execution with retry/rate-limit handling
@@ -9,12 +9,12 @@ Covers:
   - Review deduplication fingerprinting
   - Pagination utility
   - JSON persistence (save_json)
-  - Path helpers (project-root-relative, pathlib-based)
+  - Path helpers (pathlib-based, relative to repository root)
+  - Environment configuration loading (sources/.env)
   - Input validation
 
-All paths are built with pathlib.Path so the project works on both
-Windows and Linux regardless of the working directory, as long as the
-script is launched from the project root.
+All paths are built with pathlib.Path so the project works reliably
+across platforms regardless of working directory.
 """
 
 from __future__ import annotations
@@ -30,23 +30,26 @@ import requests
 from dotenv import load_dotenv
 
 # ---------------------------------------------------------------------------
-# Project layout — all paths relative to the package root
+# Project layout — all paths relative to the repository root
 # ---------------------------------------------------------------------------
 
-# Resolving: scripts/ -> google-maps-review-extractor/
+# Resolving: scripts/ -> Pitstop/ (repository root)
 PROJECT_ROOT: Path = Path(__file__).resolve().parent.parent
 
+SCRIPTS_DIR: Path = PROJECT_ROOT / "scripts"
 DATA_DIR: Path = PROJECT_ROOT / "data"
 RAW_DATA_DIR: Path = DATA_DIR / "raw_data"
 EXTRACTED_PAGES_DIR: Path = DATA_DIR / "extracted_pages"
 EXTRACTED_IMAGES_DIR: Path = DATA_DIR / "extracted_images"
 PROCESSED_DIR: Path = DATA_DIR / "processed"
-OUTPUT_DIR: Path = PROJECT_ROOT / "output"
+OUTPUT_DIR: Path = DATA_DIR / "output"
+SOURCES_DIR: Path = PROJECT_ROOT / "sources"
+DEFAULT_ENV_FILE: Path = SOURCES_DIR / ".env"
 
 
 def ensure_dirs() -> None:
-    """Create all required data directories if they don't exist."""
-    for d in (RAW_DATA_DIR, EXTRACTED_PAGES_DIR, EXTRACTED_IMAGES_DIR, PROCESSED_DIR, OUTPUT_DIR):
+    """Create all required data and sources directories if they don't exist."""
+    for d in (RAW_DATA_DIR, EXTRACTED_PAGES_DIR, EXTRACTED_IMAGES_DIR, PROCESSED_DIR, OUTPUT_DIR, SOURCES_DIR):
         d.mkdir(parents=True, exist_ok=True)
 
 
@@ -75,7 +78,7 @@ def load_api_key(env_path: Path | None = None) -> str:
 
     Args:
         env_path: Optional explicit path to the .env file.
-                  Defaults to PROJECT_ROOT / '.env'.
+                  Defaults to SOURCES_DIR / '.env'.
 
     Returns:
         The validated API key string.
@@ -83,17 +86,28 @@ def load_api_key(env_path: Path | None = None) -> str:
     Raises:
         SystemExit on missing or placeholder key.
     """
-    dotenv_path = env_path or (PROJECT_ROOT / ".env")
+    if env_path is not None:
+        dotenv_path = env_path
+    elif DEFAULT_ENV_FILE.exists():
+        dotenv_path = DEFAULT_ENV_FILE
+    elif (PROJECT_ROOT / ".env").exists():
+        dotenv_path = PROJECT_ROOT / ".env"
+    elif (SCRIPTS_DIR / ".env").exists():
+        dotenv_path = SCRIPTS_DIR / ".env"
+    else:
+        dotenv_path = DEFAULT_ENV_FILE
+
     load_dotenv(dotenv_path=dotenv_path)
 
     key = os.environ.get("SERPAPI_API_KEY", "").strip()
     if not key:
         print("[ERROR] SERPAPI_API_KEY not found.")
-        print("  -> Create a .env file with: SERPAPI_API_KEY=your_key_here")
-        print("  -> See .env.example for reference.")
+        print(f"  -> Create a .env file at: {DEFAULT_ENV_FILE}")
+        print("  -> Format: SERPAPI_API_KEY=your_key_here")
+        print("  -> See scripts/.env.example for reference.")
         sys.exit(1)
     if key == "YOUR_PRIVATE_API_KEY_HERE":
-        print("[ERROR] Replace the placeholder in .env with your real SerpApi key.")
+        print("[ERROR] Replace the placeholder in sources/.env with your real SerpApi key.")
         sys.exit(1)
     return key
 
@@ -149,8 +163,8 @@ def flatten_review(raw: dict) -> dict:
             for p in photos
             if isinstance(p, dict)
         ],
-        "review_link": raw.get("link") or None,
-        "source":      "Google Maps via SerpApi",
+        "review_link":            raw.get("link") or None,
+        "source":                 "Google Maps via SerpApi",
     }
 
 
@@ -158,13 +172,13 @@ def extract_place_info(first_page_data: dict) -> dict:
     """Pull restaurant-level metadata from the first API response."""
     place = first_page_data.get("place_info", {}) or {}
     return {
-        "restaurant_name":       place.get("title") or place.get("name") or "Unknown",
-        "address":               place.get("address") or None,
-        "rating":                place.get("rating") or None,
+        "restaurant_name":        place.get("title") or place.get("name") or "Unknown",
+        "address":                place.get("address") or None,
+        "rating":                 place.get("rating") or None,
         "total_reviews_reported": place.get("reviews") or place.get("total_reviews") or None,
-        "type":                  place.get("type") or None,
-        "phone":                 place.get("phone") or None,
-        "website":               place.get("website") or None,
+        "type":                   place.get("type") or None,
+        "phone":                  place.get("phone") or None,
+        "website":                place.get("website") or None,
     }
 
 
@@ -182,14 +196,14 @@ def save_json(data: dict, filepath: Path | str) -> None:
 
 def make_output_path(data_id: str, restaurant_name: str = "") -> Path:
     """
-    Generate a unique, timestamped output path under OUTPUT_DIR.
+    Generate a unique, timestamped output path under data/output/.
 
     Args:
         data_id:          The Google Maps ``data_id``.
         restaurant_name:  Optional restaurant name for a friendlier filename.
 
     Returns:
-        A :class:`pathlib.Path` that does not yet exist.
+        A :class:`pathlib.Path` inside OUTPUT_DIR that does not yet exist.
     """
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -250,7 +264,7 @@ def fetch_page(
             )
 
             if response.status_code == 401:
-                raise RuntimeError("Invalid API key (HTTP 401). Check your .env file.")
+                raise RuntimeError("Invalid API key (HTTP 401). Check your sources/.env file.")
             if response.status_code == 429:
                 wait = 30 * attempt
                 print(f"  [WARN] Rate limited (HTTP 429). Waiting {wait}s before retry {attempt}/{max_retries}...")

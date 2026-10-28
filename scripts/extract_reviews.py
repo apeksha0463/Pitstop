@@ -1,25 +1,25 @@
 """
 scripts/extract_reviews.py
 ==========================
-Main entry point for the Google Maps Review Extractor.
+Main entry point for the Pitstop Google Maps Review Extractor.
 
 Accepts a Google Maps restaurant ``data_id`` (entered interactively or
 passed as a command-line argument), fetches all available reviews using
 SerpApi's ``google_maps_reviews`` engine with automatic pagination,
-deduplicates results, and saves the final JSON to ``output/``.
+deduplicates results, and saves the final JSON to ``data/output/``.
 
 Intermediate page-level responses are optionally saved to
 ``data/extracted_pages/`` for debugging and reproducibility.
 
-Usage (from the project root):
+Usage (from the repository root):
 
-    python -m scripts.extract_reviews
-    # or
     python scripts/extract_reviews.py
+    # or
+    python -m scripts.extract_reviews
 
 To pass the data_id non-interactively:
 
-    python -m scripts.extract_reviews --data-id 0xABCD:0x1234
+    python scripts/extract_reviews.py --data-id 0xABCD:0x1234
 """
 
 from __future__ import annotations
@@ -31,29 +31,46 @@ import time
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
-# Ensure the project root is on sys.path so ``scripts`` can be imported
-# when the file is run directly (python scripts/extract_reviews.py).
+# Ensure repository root and scripts dir are on sys.path
 # ---------------------------------------------------------------------------
 _HERE = Path(__file__).resolve().parent          # scripts/
-_ROOT = _HERE.parent                              # project root
-if str(_ROOT) not in sys.path:
-    sys.path.insert(0, str(_ROOT))
+_ROOT = _HERE.parent                              # repository root
+for _p in (str(_ROOT), str(_HERE)):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
 
-from scripts.utils import (
-    DIVIDER,
-    MAX_REQUESTS,
-    REQUEST_DELAY_SECONDS,
-    SAVE_EVERY_N_PAGES,
-    extract_place_info,
-    fetch_page,
-    flatten_review,
-    load_api_key,
-    make_output_path,
-    make_raw_page_path,
-    make_review_fingerprint,
-    prompt_data_id,
-    save_json,
-)
+try:
+    from scripts.utils import (
+        DIVIDER,
+        MAX_REQUESTS,
+        REQUEST_DELAY_SECONDS,
+        SAVE_EVERY_N_PAGES,
+        extract_place_info,
+        fetch_page,
+        flatten_review,
+        load_api_key,
+        make_output_path,
+        make_raw_page_path,
+        make_review_fingerprint,
+        prompt_data_id,
+        save_json,
+    )
+except ImportError:
+    from utils import (
+        DIVIDER,
+        MAX_REQUESTS,
+        REQUEST_DELAY_SECONDS,
+        SAVE_EVERY_N_PAGES,
+        extract_place_info,
+        fetch_page,
+        flatten_review,
+        load_api_key,
+        make_output_path,
+        make_raw_page_path,
+        make_review_fingerprint,
+        prompt_data_id,
+        save_json,
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -174,7 +191,7 @@ def run_extraction(
                 if place_info.get("address"):
                     print(f"Address    : {place_info['address']}")
                 if place_info.get("rating"):
-                    print(f"Rating     : {place_info['rating']} ★")
+                    print(f"Rating     : {place_info['rating']} \u2605")
                 if place_info.get("total_reviews_reported"):
                     print(f"Total reviews on Google Maps : {place_info['total_reviews_reported']}")
                 print()
@@ -289,8 +306,8 @@ def parse_args() -> argparse.Namespace:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=(
             "Example:\n"
-            "  python -m scripts.extract_reviews\n"
-            "  python -m scripts.extract_reviews --data-id 0x3bae160000000000:0x123456789abcdef0\n"
+            "  python scripts/extract_reviews.py\n"
+            "  python scripts/extract_reviews.py --data-id 0x3bae160000000000:0x123456789abcdef0\n"
         ),
     )
     parser.add_argument(

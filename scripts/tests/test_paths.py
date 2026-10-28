@@ -1,35 +1,43 @@
 """
-tests/test_paths.py
-====================
-Tests for path utilities in scripts/utils.py.
+scripts/tests/test_paths.py
+===========================
+Tests for path utilities and configuration in scripts/utils.py.
 
 Covers:
-  - PROJECT_ROOT resolves to the project root (not scripts/)
-  - All data subdirectory constants are children of data/
-  - OUTPUT_DIR is inside the project root
+  - PROJECT_ROOT resolves to the repository root
+  - SCRIPTS_DIR, DATA_DIR, and SOURCES_DIR are children of PROJECT_ROOT
+  - OUTPUT_DIR is inside DATA_DIR (data/output/)
+  - All data subdirectories are children of DATA_DIR
   - make_output_path returns a Path inside OUTPUT_DIR
   - make_output_path embeds the safe data_id and a timestamp
   - make_output_path with a restaurant name produces a friendlier filename
   - make_raw_page_path returns a Path inside EXTRACTED_PAGES_DIR
   - save_json creates intermediate directories automatically
   - ensure_dirs creates all required directories
+  - load_api_key validates keys correctly
 """
 
 from __future__ import annotations
 
 import json
+import os
 import sys
 import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-_HERE = Path(__file__).resolve().parent
-_ROOT = _HERE.parent
-if str(_ROOT) not in sys.path:
-    sys.path.insert(0, str(_ROOT))
+_HERE = Path(__file__).resolve().parent      # scripts/tests/
+_SCRIPTS = _HERE.parent                      # scripts/
+_ROOT = _SCRIPTS.parent                      # repository root
+for _p in (str(_ROOT), str(_SCRIPTS)):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
 
-from scripts import utils
+try:
+    from scripts import utils
+except ImportError:
+    import utils
 
 
 class TestProjectRoot(unittest.TestCase):
@@ -37,14 +45,17 @@ class TestProjectRoot(unittest.TestCase):
     def test_project_root_is_not_scripts_dir(self):
         self.assertNotEqual(utils.PROJECT_ROOT.name, "scripts")
 
-    def test_project_root_contains_requirements_txt(self):
-        self.assertTrue((utils.PROJECT_ROOT / "requirements.txt").exists())
+    def test_scripts_contains_requirements_txt(self):
+        self.assertTrue((utils.SCRIPTS_DIR / "requirements.txt").exists())
 
     def test_data_dir_is_child_of_project_root(self):
         self.assertEqual(utils.DATA_DIR.parent, utils.PROJECT_ROOT)
 
-    def test_output_dir_is_child_of_project_root(self):
-        self.assertEqual(utils.OUTPUT_DIR.parent, utils.PROJECT_ROOT)
+    def test_sources_dir_is_child_of_project_root(self):
+        self.assertEqual(utils.SOURCES_DIR.parent, utils.PROJECT_ROOT)
+
+    def test_output_dir_is_child_of_data_dir(self):
+        self.assertEqual(utils.OUTPUT_DIR.parent, utils.DATA_DIR)
 
 
 class TestDataSubdirConstants(unittest.TestCase):
@@ -97,7 +108,7 @@ class TestMakeOutputPath(unittest.TestCase):
             fake_output = Path(tmpdir)
             with patch.object(utils, "OUTPUT_DIR", fake_output):
                 p1 = utils.make_output_path("0xABCD:0x1234")
-                time.sleep(1)   # ensure different timestamp
+                time.sleep(1)
                 p2 = utils.make_output_path("0xABCD:0x1234")
         self.assertNotEqual(p1, p2)
 
@@ -242,6 +253,24 @@ class TestExtractPlaceInfo(unittest.TestCase):
         self.assertIsNone(info["rating"])
 
 
+class TestLoadApiKey(unittest.TestCase):
+
+    def test_loads_key_from_env_file(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            fake_env = Path(tmpdir) / ".env"
+            fake_env.write_text("SERPAPI_API_KEY=test_valid_key_12345\n", encoding="utf-8")
+            with patch.dict(os.environ, {}, clear=True):
+                key = utils.load_api_key(fake_env)
+                self.assertEqual(key, "test_valid_key_12345")
+
+    def test_exits_on_placeholder_key(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            fake_env = Path(tmpdir) / ".env"
+            fake_env.write_text("SERPAPI_API_KEY=YOUR_PRIVATE_API_KEY_HERE\n", encoding="utf-8")
+            with patch.dict(os.environ, {}, clear=True):
+                with self.assertRaises(SystemExit):
+                    utils.load_api_key(fake_env)
+
+
 if __name__ == "__main__":
-    print("Running path & utility tests...\n")
     unittest.main(verbosity=2)

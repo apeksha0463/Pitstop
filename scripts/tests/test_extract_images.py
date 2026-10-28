@@ -1,6 +1,6 @@
 """
-tests/test_extract_images.py
-=============================
+scripts/tests/test_extract_images.py
+====================================
 Tests for scripts/extract_images.py — review image downloading.
 
 Covers:
@@ -15,16 +15,22 @@ Covers:
 from __future__ import annotations
 
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
-_HERE = Path(__file__).resolve().parent
-_ROOT = _HERE.parent
-if str(_ROOT) not in sys.path:
-    sys.path.insert(0, str(_ROOT))
+_HERE = Path(__file__).resolve().parent      # scripts/tests/
+_SCRIPTS = _HERE.parent                      # scripts/
+_ROOT = _SCRIPTS.parent                      # repository root
+for _p in (str(_ROOT), str(_SCRIPTS)):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
 
-import scripts.extract_images as ei
+try:
+    import scripts.extract_images as ei
+except ImportError:
+    import extract_images as ei
 
 
 # ---------------------------------------------------------------------------
@@ -51,8 +57,6 @@ def _fake_response(content: bytes = b"FAKEIMAGE", status: int = 200):
 class TestDownloadReviewImages(unittest.TestCase):
 
     def test_downloads_single_image(self):
-        import tempfile
-
         reviews = [_make_review("r1", ["https://example.com/photo1.jpg"])]
         fake_resp = _fake_response()
 
@@ -60,7 +64,7 @@ class TestDownloadReviewImages(unittest.TestCase):
             fake_dir = Path(tmpdir)
             with (
                 patch.object(ei, "EXTRACTED_IMAGES_DIR", fake_dir),
-                patch("scripts.extract_images.requests.get", return_value=fake_resp),
+                patch.object(ei.requests, "get", return_value=fake_resp),
             ):
                 report = ei.download_review_images(reviews, "0xABCD:0x1234", delay=0)
 
@@ -68,8 +72,6 @@ class TestDownloadReviewImages(unittest.TestCase):
         self.assertEqual(report["failed"], 0)
 
     def test_skips_none_urls(self):
-        import tempfile
-
         reviews = [_make_review("r1", [None, "", None])]
 
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -81,8 +83,6 @@ class TestDownloadReviewImages(unittest.TestCase):
         self.assertEqual(report["skipped"], 3)
 
     def test_skips_already_downloaded(self):
-        import tempfile
-
         reviews = [_make_review("r1", ["https://example.com/photo1.jpg"])]
         fake_resp = _fake_response()
 
@@ -90,7 +90,7 @@ class TestDownloadReviewImages(unittest.TestCase):
             fake_dir = Path(tmpdir)
             with (
                 patch.object(ei, "EXTRACTED_IMAGES_DIR", fake_dir),
-                patch("scripts.extract_images.requests.get", return_value=fake_resp),
+                patch.object(ei.requests, "get", return_value=fake_resp),
             ):
                 # First download
                 ei.download_review_images(reviews, "0xABCD:0x1234", delay=0)
@@ -101,16 +101,15 @@ class TestDownloadReviewImages(unittest.TestCase):
         self.assertEqual(report["skipped"], 1)
 
     def test_handles_download_error_gracefully(self):
-        import tempfile
-
         reviews = [_make_review("r1", ["https://example.com/photo_bad.jpg"])]
 
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)
             with (
                 patch.object(ei, "EXTRACTED_IMAGES_DIR", fake_dir),
-                patch(
-                    "scripts.extract_images.requests.get",
+                patch.object(
+                    ei.requests,
+                    "get",
                     side_effect=Exception("Connection refused"),
                 ),
             ):
@@ -121,8 +120,6 @@ class TestDownloadReviewImages(unittest.TestCase):
         self.assertEqual(report["failed"], 1)
 
     def test_max_images_cap(self):
-        import tempfile
-
         reviews = [
             _make_review("r1", [
                 "https://example.com/p1.jpg",
@@ -136,7 +133,7 @@ class TestDownloadReviewImages(unittest.TestCase):
             fake_dir = Path(tmpdir)
             with (
                 patch.object(ei, "EXTRACTED_IMAGES_DIR", fake_dir),
-                patch("scripts.extract_images.requests.get", return_value=fake_resp),
+                patch.object(ei.requests, "get", return_value=fake_resp),
             ):
                 report = ei.download_review_images(
                     reviews, "0xABCD:0x1234", delay=0, max_images=2
@@ -145,8 +142,6 @@ class TestDownloadReviewImages(unittest.TestCase):
         self.assertEqual(report["downloaded"], 2)
 
     def test_empty_reviews_returns_zero_counts(self):
-        import tempfile
-
         with tempfile.TemporaryDirectory() as tmpdir:
             fake_dir = Path(tmpdir)
             with patch.object(ei, "EXTRACTED_IMAGES_DIR", fake_dir):

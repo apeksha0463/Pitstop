@@ -23,10 +23,20 @@ Typical usage from the extraction loop (called by extract_reviews.py):
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 from typing import Iterator
 
-from scripts.utils import EXTRACTED_PAGES_DIR, save_json
+_HERE = Path(__file__).resolve().parent
+_ROOT = _HERE.parent
+for _p in (str(_ROOT), str(_HERE)):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
+
+try:
+    from scripts.utils import EXTRACTED_PAGES_DIR, save_json
+except ImportError:
+    from utils import EXTRACTED_PAGES_DIR, save_json
 
 
 def _safe_id(data_id: str, max_len: int = 40) -> str:
