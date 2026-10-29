@@ -1,0 +1,7 @@
+# sources/.gitignore
+# Protect credentials and private environment files.
+# sources/.env holds the real SerpApi key and must NEVER be committed.
+.env
+*.env
+.env.*
+!.env.example

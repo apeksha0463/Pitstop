@@ -1,13 +1,14 @@
 # data/.gitignore
 # Exclude generated datasets and downloaded images while preserving structure & seed data
 
-# Ignore everything in generated directories
+# Ignore everything in generated directories (incl. per-restaurant image folders)
 extracted_pages/*
 extracted_images/*
 processed/*
 output/*
+raw_data/serpapi/
 
-# Exclude generated data formats
+# Exclude generated data formats anywhere under data/
 *.json
 *.tsv
 *.parquet
@@ -16,6 +17,11 @@ output/*
 *.png
 *.webp
 *.gif
+*.avif
+*.heic
+*.bmp
+*.part
+*.tmp
 
 # Preserve folder structure with .gitkeep
 !.gitkeep

@@ -1,6 +1,0 @@
-# sources/.gitignore
-# Protect credentials and private environment files
-.env
-*.env
-.env.*
-!.env.example

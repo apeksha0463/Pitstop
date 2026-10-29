@@ -16,3 +16,7 @@ __pycache__/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Partial / temporary downloads
+*.part
+*.tmp

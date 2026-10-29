@@ -1,33 +1,36 @@
 """
 scripts/utils.py
 ================
-Shared helpers for the Pitstop Google Maps Review Extractor.
+Shared helpers for the Pitstop Google Maps Review / Review-Image Extractor.
 
 Covers:
-  - API request execution with retry/rate-limit handling
-  - Review normalisation (flatten_review)
-  - Review deduplication fingerprinting
-  - Pagination utility
-  - JSON persistence (save_json)
-  - Path helpers (pathlib-based, relative to repository root)
-  - Environment configuration loading (sources/.env)
+  - Project paths (pathlib-based, relative to the repository root)
+  - API key loading (sources/.env) and validation via SerpApi's free
+    Account API (which does not consume search credits)
+  - SerpApi request execution with retry/rate-limit handling
+  - Secret redaction for anything written to disk
+  - Review normalisation, review-image URL extraction and deduplication
+  - JSON persistence and saved-page (cache) helpers
   - Input validation
 
 All paths are built with pathlib.Path so the project works reliably
-across platforms regardless of working directory.
+from Windows PowerShell, VS Code or any other working directory.
 """
 
 from __future__ import annotations
 
-import datetime
+import copy
+import hashlib
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
+from typing import Any, Iterator
 
 import requests
-from dotenv import load_dotenv
+from dotenv import dotenv_values
 
 # ---------------------------------------------------------------------------
 # Project layout — all paths relative to the repository root
@@ -53,19 +56,66 @@ def ensure_dirs() -> None:
         d.mkdir(parents=True, exist_ok=True)
 
 
+def to_project_relative(path: Path | str) -> str:
+    """
+    Return *path* as a forward-slash string relative to the project root
+    (e.g. ``data/extracted_images/x.jpg``). Paths outside the project are
+    returned unchanged so nothing is silently misreported.
+    """
+    p = Path(path).resolve()
+    try:
+        return p.relative_to(PROJECT_ROOT).as_posix()
+    except ValueError:
+        return p.as_posix()
+
+
 # ---------------------------------------------------------------------------
-# Configuration defaults (can be overridden by callers)
+# Configuration defaults (can be overridden by callers / CLI flags)
 # ---------------------------------------------------------------------------
 
-MAX_REQUESTS: int = 10
+# Conservative default to protect SerpApi free-plan credits.
+# 1 request = 1 search credit. Override with --max-requests.
+MAX_REQUESTS: int = 5
 REQUEST_DELAY_SECONDS: float = 1.5
 REQUEST_TIMEOUT_SECONDS: int = 30
 MAX_RETRIES: int = 3
-SAVE_EVERY_N_PAGES: int = 5
+# Progress is saved after every page; kept for backwards compatibility.
+SAVE_EVERY_N_PAGES: int = 1
+# Reviews per page for paginated requests (SerpApi allows 1-20).
+REVIEWS_PER_PAGE: int = 20
 
 SERPAPI_ENDPOINT: str = "https://serpapi.com/search.json"
+SERPAPI_ACCOUNT_ENDPOINT: str = "https://serpapi.com/account.json"
 
 DIVIDER: str = "=" * 44
+
+_PLACEHOLDER_KEYS = {
+    "YOUR_PRIVATE_API_KEY_HERE",
+    "PASTE_YOUR_NEW_KEY_HERE",
+    "YOUR_SERPAPI_KEY_HERE",
+    "YOUR_ACTUAL_SERPAPI_KEY_HERE",
+}
+
+
+# ---------------------------------------------------------------------------
+# Errors (messages never include the API key)
+# ---------------------------------------------------------------------------
+
+class SerpApiError(RuntimeError):
+    """Unrecoverable SerpApi failure."""
+
+
+class InvalidApiKeyError(SerpApiError):
+    """The API key was rejected by SerpApi."""
+
+
+class CreditsExhaustedError(SerpApiError):
+    """The SerpApi account has no searches left (or hit its plan limit)."""
+
+
+_CREDIT_KEYWORDS = ("run out of searches", "credits", "quota", "plan", "searches left", "limit")
+_INVALID_KEY_KEYWORDS = ("invalid api key", "api key", "unauthorized")
+_NO_RESULTS_KEYWORDS = ("hasn't returned any results", "has not returned any results", "no results")
 
 
 # ---------------------------------------------------------------------------
@@ -74,42 +124,116 @@ DIVIDER: str = "=" * 44
 
 def load_api_key(env_path: Path | None = None) -> str:
     """
-    Load and validate the SerpApi key from the .env file.
+    Load and sanity-check the SerpApi key from ``sources/.env``.
 
-    Args:
-        env_path: Optional explicit path to the .env file.
-                  Defaults to SOURCES_DIR / '.env'.
-
-    Returns:
-        The validated API key string.
+    The file is read with ``python-dotenv`` (BOM-tolerant). A value in
+    ``sources/.env`` takes precedence over any stale ``SERPAPI_API_KEY``
+    already in the process environment. The key is never printed.
 
     Raises:
-        SystemExit on missing or placeholder key.
+        SystemExit on a missing, placeholder or malformed key.
     """
-    if env_path is not None:
-        dotenv_path = env_path
-    elif DEFAULT_ENV_FILE.exists():
-        dotenv_path = DEFAULT_ENV_FILE
-    elif (PROJECT_ROOT / ".env").exists():
-        dotenv_path = PROJECT_ROOT / ".env"
-    elif (SCRIPTS_DIR / ".env").exists():
-        dotenv_path = SCRIPTS_DIR / ".env"
-    else:
-        dotenv_path = DEFAULT_ENV_FILE
+    dotenv_path = Path(env_path) if env_path is not None else DEFAULT_ENV_FILE
 
-    load_dotenv(dotenv_path=dotenv_path)
+    key = ""
+    if dotenv_path.exists():
+        values = dotenv_values(dotenv_path, encoding="utf-8-sig")
+        key = (values.get("SERPAPI_API_KEY") or "").strip()
+    if not key:
+        key = os.environ.get("SERPAPI_API_KEY", "").strip()
 
-    key = os.environ.get("SERPAPI_API_KEY", "").strip()
     if not key:
         print("[ERROR] SERPAPI_API_KEY not found.")
-        print(f"  -> Create a .env file at: {DEFAULT_ENV_FILE}")
+        print(f"  -> Create the file: {to_project_relative(DEFAULT_ENV_FILE)}")
         print("  -> Format: SERPAPI_API_KEY=your_key_here")
         print("  -> See scripts/.env.example for reference.")
         sys.exit(1)
-    if key == "YOUR_PRIVATE_API_KEY_HERE":
+    if key.upper() in _PLACEHOLDER_KEYS or "PASTE" in key.upper() or key.upper().startswith("YOUR_"):
         print("[ERROR] Replace the placeholder in sources/.env with your real SerpApi key.")
         sys.exit(1)
+    if len(key) < 20 or re.search(r"\s", key):
+        print("[ERROR] The SERPAPI_API_KEY in sources/.env looks malformed "
+              "(too short or contains spaces). Copy it again from "
+              "https://serpapi.com/manage-api-key")
+        sys.exit(1)
     return key
+
+
+def validate_api_key(api_key: str, *, timeout: int = 15) -> dict | None:
+    """
+    Check the key against SerpApi's Account API (does NOT use search credits).
+
+    Returns:
+        A dict with non-secret account info (plan name, searches left), or
+        ``None`` if the account endpoint could not be reached (network issue)
+        so the caller may decide whether to continue.
+
+    Raises:
+        InvalidApiKeyError:    the key was rejected.
+        CreditsExhaustedError: the account has zero searches left.
+    """
+    try:
+        resp = requests.get(SERPAPI_ACCOUNT_ENDPOINT, params={"api_key": api_key}, timeout=timeout)
+    except requests.exceptions.RequestException:
+        # Exception text may contain the request URL (with the key) — never print it.
+        return None
+
+    try:
+        body = resp.json()
+    except ValueError:
+        body = {}
+
+    error = str(body.get("error") or "")
+    if resp.status_code == 401 or any(k in error.lower() for k in _INVALID_KEY_KEYWORDS):
+        raise InvalidApiKeyError(
+            "SerpApi rejected the API key in sources/.env (invalid or revoked). "
+            "Check it at https://serpapi.com/manage-api-key"
+        )
+    if resp.status_code != 200 or error:
+        return None
+
+    info = {
+        "plan_name":           body.get("plan_name"),
+        "searches_per_month":  body.get("searches_per_month"),
+        "plan_searches_left":  body.get("plan_searches_left"),
+        "total_searches_left": body.get("total_searches_left"),
+        "this_hour_searches":  body.get("this_hour_searches"),
+        "account_rate_limit_per_hour": body.get("account_rate_limit_per_hour"),
+    }
+    left = info["total_searches_left"]
+    if isinstance(left, int) and left <= 0:
+        raise CreditsExhaustedError(
+            "Your SerpApi account has no searches left this month. "
+            "Wait for the monthly reset or upgrade the plan."
+        )
+    return info
+
+
+# ---------------------------------------------------------------------------
+# Secret redaction
+# ---------------------------------------------------------------------------
+
+REDACTED = "[REDACTED]"
+
+
+def redact_secrets(obj: Any, secret: str | None = None) -> Any:
+    """
+    Return a deep copy of *obj* with every ``api_key`` field removed and any
+    occurrence of *secret* inside string values replaced by ``[REDACTED]``.
+    Use on every API payload before it is written to disk.
+    """
+    def _walk(o: Any) -> Any:
+        if isinstance(o, dict):
+            return {k: _walk(v) for k, v in o.items() if str(k).lower() != "api_key"}
+        if isinstance(o, list):
+            return [_walk(v) for v in o]
+        if isinstance(o, str):
+            if secret and secret in o:
+                o = o.replace(secret, REDACTED)
+            return re.sub(r"(api_key=)[^&\s\"']+", r"\1" + REDACTED, o)
+        return o
+
+    return _walk(copy.deepcopy(obj))
 
 
 # ---------------------------------------------------------------------------
@@ -125,22 +249,81 @@ def make_review_fingerprint(review: dict) -> str:
     """
     if review.get("review_id"):
         return str(review["review_id"])
-    author = str(review.get("user", {}).get("name", "") or review.get("author", ""))
+    user = review.get("user") if isinstance(review.get("user"), dict) else {}
+    author = str(user.get("name", "") or review.get("author", ""))
     date = str(review.get("date", "") or review.get("iso_date", ""))
     text = str(review.get("snippet", "") or review.get("text", ""))[:80]
     return f"{author}|{date}|{text}"
+
+
+# Keys that may hold an image URL when an image entry is an object.
+_IMAGE_URL_KEYS = ("image", "url", "link", "original", "src", "image_url", "thumbnail")
+# Non-URL metadata worth keeping when present on an image object.
+_IMAGE_META_KEYS = ("title", "caption", "width", "height", "thumbnail", "type", "source")
+
+
+def _is_http_url(value: Any) -> bool:
+    return isinstance(value, str) and value.strip().lower().startswith(("http://", "https://"))
+
+
+def extract_review_images(raw: dict) -> list[dict]:
+    """
+    Extract the images attached to ONE review, whatever shape SerpApi used.
+
+    Handles ``images`` (current API: list of URL strings) and the legacy
+    ``photos`` field, and tolerates a single string, a single object, lists
+    of objects with differing keys, ``None`` and junk entries.
+
+    Returns a list of ``{"image_url": ..., "image_index": n, ...metadata}``
+    dicts, deduplicated by URL within the review. URLs are never invented:
+    entries without a usable http(s) URL are dropped.
+    """
+    entries: list[Any] = []
+    for field in ("images", "photos"):
+        value = raw.get(field)
+        if value is None:
+            continue
+        if isinstance(value, (list, tuple)):
+            entries.extend(value)
+        else:
+            entries.append(value)
+
+    images: list[dict] = []
+    seen: set[str] = set()
+    for entry in entries:
+        url: str | None = None
+        meta: dict = {}
+        if isinstance(entry, str):
+            url = entry.strip()
+        elif isinstance(entry, dict):
+            for k in _IMAGE_URL_KEYS:
+                if _is_http_url(entry.get(k)):
+                    url = entry[k].strip()
+                    break
+            meta = {
+                k: entry[k] for k in _IMAGE_META_KEYS
+                if k in entry and entry[k] not in (None, "") and entry[k] != url
+            }
+        if not _is_http_url(url) or url in seen:
+            continue
+        seen.add(url)
+        images.append({"image_url": url, "image_index": len(images) + 1, **meta})
+    return images
 
 
 def flatten_review(raw: dict) -> dict:
     """
     Normalise a raw SerpApi review object into a clean, consistent dict.
 
-    Preserves all useful fields and applies safe fallbacks for missing data.
-    The API key is never stored in the returned dict.
+    The original review text is preserved verbatim. ``images`` holds only
+    images attached to this review (never general restaurant photos); each
+    entry later gains ``local_path`` / ``download_status`` from the image
+    downloader. The API key is never stored in the returned dict.
     """
-    user = raw.get("user", {}) or {}
+    user = raw.get("user") if isinstance(raw.get("user"), dict) else {}
     owner_response = raw.get("owner_answer", None) or raw.get("owner_response", None)
-    photos = raw.get("photos", []) or []
+    images = extract_review_images(raw)
+    extracted = raw.get("extracted_snippet") if isinstance(raw.get("extracted_snippet"), dict) else {}
 
     return {
         "review_id":              raw.get("review_id") or raw.get("id") or None,
@@ -148,22 +331,21 @@ def flatten_review(raw: dict) -> dict:
         "author_url":             user.get("link") or None,
         "author_local_guide":     user.get("local_guide", False),
         "author_reviews_count":   user.get("reviews") or None,
-        "rating":                 raw.get("rating") or None,
+        "author_photos_count":    user.get("photos") or None,
+        "rating":                 raw.get("rating") if raw.get("rating") is not None else None,
         "date":                   raw.get("date") or None,
         "iso_date":               raw.get("iso_date") or None,
         "iso_date_of_last_edit":  raw.get("iso_date_of_last_edit") or None,
         "text":                   raw.get("snippet") or raw.get("text") or None,
+        "text_original_language": extracted.get("original") or None,
         "language":               raw.get("language") or None,
         "translated":             raw.get("translated", False),
         "likes":                  raw.get("likes") or 0,
+        "details":                raw.get("details") if isinstance(raw.get("details"), dict) else None,
         "owner_response":         owner_response,
-        "photos_count":           len(photos),
-        "photos": [
-            p.get("link") or p.get("url")
-            for p in photos
-            if isinstance(p, dict)
-        ],
         "review_link":            raw.get("link") or None,
+        "images_count":           len(images),
+        "images":                 images,
         "source":                 "Google Maps via SerpApi",
     }
 
@@ -187,51 +369,109 @@ def extract_place_info(first_page_data: dict) -> dict:
 # ---------------------------------------------------------------------------
 
 def save_json(data: dict, filepath: Path | str) -> None:
-    """Save *data* as an indented, UTF-8 JSON file at *filepath*."""
+    """
+    Save *data* as an indented UTF-8 JSON file at *filepath*.
+
+    Writes to a temporary file first and then replaces the target, so an
+    interruption never leaves a half-written (corrupt) progress file.
+    """
     filepath = Path(filepath)
     filepath.parent.mkdir(parents=True, exist_ok=True)
-    with open(filepath, "w", encoding="utf-8") as fh:
+    tmp = filepath.with_name(filepath.name + ".tmp")
+    with open(tmp, "w", encoding="utf-8") as fh:
         json.dump(data, fh, ensure_ascii=False, indent=2)
+    os.replace(tmp, filepath)
+
+
+def load_json(filepath: Path | str) -> dict:
+    """Load a UTF-8 JSON file. Raises FileNotFoundError / ValueError."""
+    filepath = Path(filepath)
+    if not filepath.exists():
+        raise FileNotFoundError(f"File not found: {filepath}")
+    with open(filepath, encoding="utf-8") as fh:
+        try:
+            return json.load(fh)
+        except json.JSONDecodeError as exc:
+            raise ValueError(f"Cannot parse JSON from {filepath}: {exc}") from exc
+
+
+def safe_name(value: str, max_len: int = 40) -> str:
+    """Return a filesystem-safe fragment: only ``[A-Za-z0-9_-]`` characters."""
+    cleaned = re.sub(r"[^A-Za-z0-9_-]+", "_", value or "").strip("_")
+    return cleaned[:max_len] or "unknown"
+
+
+def safe_data_id(data_id: str, max_len: int = 40) -> str:
+    """Filesystem-safe form of a Google Maps ``data_id`` (``:`` -> ``_``)."""
+    return safe_name(data_id, max_len)
 
 
 def make_output_path(data_id: str, restaurant_name: str = "") -> Path:
     """
-    Generate a unique, timestamped output path under data/output/.
+    Return the stable per-restaurant output path under ``data/output/``.
 
-    Args:
-        data_id:          The Google Maps ``data_id``.
-        restaurant_name:  Optional restaurant name for a friendlier filename.
-
-    Returns:
-        A :class:`pathlib.Path` inside OUTPUT_DIR that does not yet exist.
+    One file per restaurant: ``<restaurant_name>_<data_id>.json`` (or
+    ``restaurant_reviews_<data_id>.json`` when the name is unknown).
+    Re-runs merge into this same file instead of creating new ones.
     """
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    safe_id = data_id.replace(":", "_").replace("/", "_").replace("\\", "_")[:40]
-
-    if restaurant_name:
-        safe_name = (
-            "".join(c if c.isalnum() or c in " _-" else "_" for c in restaurant_name)
-            .strip()
-            .replace(" ", "_")[:30]
-        )
-        filename = f"{safe_name}_{safe_id}_{timestamp}.json"
+    sid = safe_data_id(data_id)
+    if restaurant_name and restaurant_name != "Unknown":
+        filename = f"{safe_name(restaurant_name, 30)}_{sid}.json"
     else:
-        filename = f"restaurant_reviews_{safe_id}_{timestamp}.json"
-
+        filename = f"restaurant_reviews_{sid}.json"
     return OUTPUT_DIR / filename
 
 
 def make_raw_page_path(data_id: str, page_num: int) -> Path:
-    """Return a path for saving a raw API page response in data/extracted_pages/."""
+    """Path for a full (redacted) raw API response: ``data/raw_data/serpapi/``."""
+    folder = RAW_DATA_DIR / "serpapi"
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{safe_data_id(data_id)}_page{page_num:03d}.json"
+
+
+def make_extracted_page_path(data_id: str, page_num: int) -> Path:
+    """Path for a page-level extraction summary in ``data/extracted_pages/``."""
     EXTRACTED_PAGES_DIR.mkdir(parents=True, exist_ok=True)
-    safe_id = data_id.replace(":", "_").replace("/", "_").replace("\\", "_")[:40]
-    return EXTRACTED_PAGES_DIR / f"{safe_id}_page{page_num:03d}.json"
+    return EXTRACTED_PAGES_DIR / f"{safe_data_id(data_id)}_page{page_num:03d}.json"
+
+
+def make_cache_manifest_path(data_id: str) -> Path:
+    """Path of the manifest describing the latest cached raw pages for *data_id*."""
+    folder = RAW_DATA_DIR / "serpapi"
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{safe_data_id(data_id)}_cache.json"
+
+
+def iter_cached_pages(data_id: str) -> Iterator[dict]:
+    """
+    Yield the raw pages recorded by the latest live run for *data_id*,
+    in order, so results can be rebuilt without spending API credits.
+    Yields nothing if no cache manifest exists.
+    """
+    manifest_path = make_cache_manifest_path(data_id)
+    if not manifest_path.exists():
+        return
+    manifest = load_json(manifest_path)
+    for rel in manifest.get("pages", []):
+        yield load_json(PROJECT_ROOT / rel)
+
+
+def short_hash(value: str, length: int = 10) -> str:
+    """Deterministic short hex digest (used for unique, safe filenames)."""
+    return hashlib.sha1(value.encode("utf-8")).hexdigest()[:length]
 
 
 # ---------------------------------------------------------------------------
 # HTTP / API layer
 # ---------------------------------------------------------------------------
+
+def _error_message(response: requests.Response) -> str:
+    try:
+        return str(response.json().get("error") or "")
+    except ValueError:
+        return ""
+
 
 def fetch_page(
     api_key: str,
@@ -243,91 +483,121 @@ def fetch_page(
     """
     Fetch a single page from SerpApi with retry and rate-limit handling.
 
+    Only transient failures (timeouts, connection errors, HTTP 5xx and
+    hourly rate limits) are retried; SerpApi does not bill failed searches.
+
     Args:
-        api_key:     The SerpApi key (used only in the request; never stored).
-        params:      Query parameters for the SerpApi request.
+        api_key:     The SerpApi key (sent only in the request; never stored).
+        params:      Query parameters (without ``api_key``).
         max_retries: Number of attempts before raising.
         timeout:     HTTP request timeout in seconds.
 
     Returns:
-        Parsed JSON dict from the API response.
+        Parsed JSON dict from the API response. A "no results" response is
+        returned as a page with ``reviews == []``.
 
     Raises:
-        RuntimeError on unrecoverable failures.
+        InvalidApiKeyError, CreditsExhaustedError, SerpApiError.
+        Error messages never contain the API key.
     """
+    query = {k: v for k, v in params.items() if k != "api_key"}
+    query["api_key"] = api_key
+
     for attempt in range(1, max_retries + 1):
         try:
-            response = requests.get(
-                SERPAPI_ENDPOINT,
-                params=params,
-                timeout=timeout,
-            )
-
-            if response.status_code == 401:
-                raise RuntimeError("Invalid API key (HTTP 401). Check your sources/.env file.")
-            if response.status_code == 429:
-                wait = 30 * attempt
-                print(f"  [WARN] Rate limited (HTTP 429). Waiting {wait}s before retry {attempt}/{max_retries}...")
-                time.sleep(wait)
-                continue
-            if response.status_code == 400:
-                raise RuntimeError(
-                    "Bad request (HTTP 400). The data_id may be invalid or malformed."
-                )
-            if response.status_code >= 500:
-                wait = 10 * attempt
-                print(f"  [WARN] Server error (HTTP {response.status_code}). Retrying in {wait}s...")
-                time.sleep(wait)
-                continue
-
-            response.raise_for_status()
-
-            try:
-                data = response.json()
-            except ValueError:
-                raise RuntimeError("SerpApi returned non-JSON content.")
-
-            # SerpApi wraps quota errors inside the JSON body
-            if "error" in data:
-                error_msg = data["error"]
-                if any(kw in error_msg.lower() for kw in ("credits", "quota", "plan")):
-                    raise RuntimeError(
-                        "SerpApi credit/quota exhausted. Your free-plan monthly limit may be reached."
-                    )
-                raise RuntimeError(f"SerpApi API error: {error_msg}")
-
-            return data
-
+            response = requests.get(SERPAPI_ENDPOINT, params=query, timeout=timeout)
         except requests.exceptions.Timeout:
             if attempt < max_retries:
                 print(f"  [WARN] Request timed out. Retry {attempt}/{max_retries}...")
                 time.sleep(5 * attempt)
-            else:
-                raise RuntimeError("Request repeatedly timed out. Check your network connection.")
-
+                continue
+            raise SerpApiError("Request repeatedly timed out. Check your network connection.")
         except requests.exceptions.ConnectionError:
             if attempt < max_retries:
                 print(f"  [WARN] Connection error. Retry {attempt}/{max_retries}...")
                 time.sleep(5 * attempt)
-            else:
-                raise RuntimeError("Cannot connect to SerpApi. Check your internet connection.")
+                continue
+            raise SerpApiError("Cannot connect to SerpApi. Check your internet connection.")
+        except requests.exceptions.RequestException as exc:
+            # Do not echo str(exc): it can contain the full request URL.
+            raise SerpApiError(f"HTTP request failed ({type(exc).__name__}).")
 
-        except RuntimeError:
-            raise
+        status = response.status_code
+        error_msg = _error_message(response)
+        lowered = error_msg.lower()
 
-    raise RuntimeError("All retries exhausted.")
+        if status == 401 or (status == 403 and "api key" in lowered):
+            raise InvalidApiKeyError("Invalid API key (HTTP 401). Check your sources/.env file.")
+        if status == 429:
+            if any(kw in lowered for kw in ("run out of searches", "searches left", "plan", "credits")):
+                raise CreditsExhaustedError(
+                    "SerpApi credits exhausted: your plan has no searches left."
+                )
+            if attempt < max_retries:
+                wait = 30 * attempt
+                print(f"  [WARN] Rate limited (HTTP 429). Waiting {wait}s before retry {attempt}/{max_retries}...")
+                time.sleep(wait)
+                continue
+            raise SerpApiError("Rate limited by SerpApi (HTTP 429). Try again later.")
+        if status >= 500:
+            if attempt < max_retries:
+                wait = 10 * attempt
+                print(f"  [WARN] Server error (HTTP {status}). Retrying in {wait}s...")
+                time.sleep(wait)
+                continue
+            raise SerpApiError(f"SerpApi server error (HTTP {status}).")
+        if status == 400:
+            detail = f": {error_msg}" if error_msg else ""
+            raise SerpApiError(f"Bad request (HTTP 400){detail}. The data_id may be invalid or malformed.")
+        if status != 200:
+            detail = f": {error_msg}" if error_msg else ""
+            raise SerpApiError(f"SerpApi returned HTTP {status}{detail}.")
+
+        try:
+            data = response.json()
+        except ValueError:
+            raise SerpApiError("SerpApi returned non-JSON content.")
+
+        # SerpApi also reports some errors inside a 200 JSON body
+        if data.get("error"):
+            body_err = str(data["error"])
+            low = body_err.lower()
+            if any(kw in low for kw in _NO_RESULTS_KEYWORDS):
+                data.setdefault("reviews", [])
+                return data
+            if "invalid api key" in low:
+                raise InvalidApiKeyError("Invalid API key. Check your sources/.env file.")
+            if any(kw in low for kw in _CREDIT_KEYWORDS):
+                raise CreditsExhaustedError(
+                    "SerpApi credit/quota exhausted. Your free-plan monthly limit may be reached."
+                )
+            raise SerpApiError(f"SerpApi API error: {redact_secrets(body_err, api_key)}")
+
+        return data
+
+    raise SerpApiError("All retries exhausted.")
 
 
 # ---------------------------------------------------------------------------
 # Input helpers
 # ---------------------------------------------------------------------------
 
-def prompt_data_id() -> str:
+_DATA_ID_RE = re.compile(r"^0x[0-9a-fA-F]+:0x[0-9a-fA-F]+$")
+
+
+def is_valid_data_id(data_id: str) -> bool:
+    """True if *data_id* looks like a Google Maps feature id (``0x...:0x...``)."""
+    return bool(_DATA_ID_RE.match(data_id or ""))
+
+
+def prompt_data_id(prompt: str = "Enter Google Maps restaurant data_id: ") -> str:
     """Prompt the user for a Google Maps data_id and validate it."""
-    print("Enter the Google Maps restaurant data_id.")
-    print("(Example format: 0x3bae160000000000:0x123456789abcdef0)\n")
-    data_id = input("Restaurant data_id: ").strip()
+    data_id = input(prompt).strip().strip('"').strip("'")
     if not data_id:
         print("[ERROR] data_id cannot be empty. Exiting.")
+        sys.exit(1)
+    if not is_valid_data_id(data_id):
+        print("[ERROR] That does not look like a Google Maps data_id.")
+        print("        Expected format: 0x3bae160000000000:0x123456789abcdef0")
         sys.exit(1)
     return data_id
