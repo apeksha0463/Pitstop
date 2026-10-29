@@ -223,12 +223,13 @@ class TestPagination(unittest.TestCase):
         self.assertEqual(result["collection_status"], "stopped_at_request_limit")
         self.assertFalse(result["collection_complete"])
 
-    def test_empty_first_page_marks_completed(self):
+    def test_empty_first_page_marks_completed_with_no_reviews(self):
         page1 = make_page_response([])
 
         result = _run_mocked([page1])
         self.assertEqual(result["reviews_collected"], 0)
-        self.assertEqual(result["collection_status"], "completed")
+        self.assertEqual(result["collection_status"], "completed_with_no_reviews")
+        self.assertTrue(result["collection_complete"])
 
 
 class TestPartialSaveOnError(unittest.TestCase):
@@ -274,7 +275,8 @@ class TestPartialSaveOnError(unittest.TestCase):
                 result = _json.load(fh)
 
         self.assertEqual(result["reviews_collected"], 1)
-        self.assertEqual(result["collection_status"], "stopped_on_error")
+        self.assertEqual(result["collection_status"], "partial")
+        self.assertEqual(result["api_error"]["page"], 2)
         self.assertFalse(result["collection_complete"])
 
 
@@ -467,7 +469,7 @@ class TestReviewImagePipeline(_PipelineBase):
         self.assertEqual(out["images_downloaded"], 3)
         by_id = {r["review_id"]: r for r in out["reviews"]}
         self.assertEqual(by_id["r1"]["images"], [])
-        self.assertEqual(by_id["r2"]["images"][0]["local_path"], "data/extracted_images/0xAB_0xCD/r2_1.jpg")
+        self.assertEqual(by_id["r2"]["images"][0]["local_path"], "data/extracted_images/0xAB_0xCD/review_r2_1.jpg")
         self.assertEqual(by_id["r3"]["images"][1]["download_status"], "downloaded")
         self.assertTrue((self.root / by_id["r3"]["images"][1]["local_path"]).exists())
 
@@ -536,7 +538,8 @@ class TestPaginationParams(_PipelineBase):
 
     def test_empty_page_with_token_is_not_complete(self):
         out = self.run_pages([make_page_response([], next_token="t2")])
-        self.assertEqual(out["collection_status"], "stopped_empty_page")
+        self.assertEqual(out["collection_status"], "partial")
+        self.assertIn("empty page", out["stop_reason"])
         self.assertFalse(out["collection_complete"])
 
     def test_request_budget_exhausted(self):
@@ -555,17 +558,22 @@ class TestApiErrorsAndPartialSaves(_PipelineBase):
         p1 = make_page_response([img_review("r1", ["https://img.test/1"])], next_token="t2")
         out = self.run_pages([p1, _utils.CreditsExhaustedError("SerpApi credits exhausted.")],
                              ok_urls={"https://img.test/1"})
-        self.assertEqual(out["collection_status"], "stopped_credits_exhausted")
+        self.assertEqual(out["collection_status"], "quota_exhausted")
+        self.assertEqual(out["api_error"]["type"], "quota_exhausted")
         self.assertFalse(out["collection_complete"])
         saved = json.loads(self.output_file().read_text(encoding="utf-8"))
         self.assertEqual(saved["reviews_collected"], 1)
         self.assertEqual(saved["images_downloaded"], 1)
 
-    def test_invalid_key_on_first_page_saves_nothing(self):
+    def test_invalid_key_on_first_page_saved_as_api_error(self):
         out = self.run_pages([_utils.InvalidApiKeyError("Invalid API key.")])
-        self.assertIsNone(out)
-        self.assertFalse((self.root / "data" / "output").exists()
-                         and any((self.root / "data" / "output").iterdir()))
+        self.assertEqual(out["collection_status"], "api_error")
+        self.assertFalse(out["collection_complete"])
+        self.assertEqual(out["reviews_collected"], 0)
+        self.assertEqual(out["api_error"]["type"], "invalid_api_key")
+        saved = json.loads(self.output_file().read_text(encoding="utf-8"))
+        self.assertEqual(saved["collection_status"], "api_error")
+        self.assertNotIn(SECRET_KEY, self.all_written_text())
 
     def test_progress_saved_after_every_page(self):
         p1 = make_page_response([img_review("r1", [])], next_token="t2")
@@ -581,7 +589,7 @@ class TestApiErrorsAndPartialSaves(_PipelineBase):
         with patch.object(extract_reviews, "save_json", side_effect=spy):
             self.run_pages([p1, p2, KeyboardInterrupt()])
         self.assertEqual(snapshots[:2], [("in_progress", 1), ("in_progress", 2)])
-        self.assertEqual(snapshots[-1], ("interrupted_by_user", 2))
+        self.assertEqual(snapshots[-1], ("partial", 2))
 
     def test_raw_and_page_files_written_and_redacted(self):
         p1 = make_page_response([img_review("r1", ["https://img.test/1"])])
@@ -603,9 +611,9 @@ class TestApiErrorsAndPartialSaves(_PipelineBase):
         self.assertEqual(out["previous_reviews_retained"], 1)
         self.assertEqual(len(list((self.root / "data" / "output").glob("*.json"))), 1)
 
-    def test_output_filename_uses_restaurant_name(self):
+    def test_output_filename_is_restaurant_id_reviews(self):
         self.run_pages([make_page_response([img_review("r1", [])])])
-        self.assertEqual(self.output_file().name, "Test_Restaurant_0xAB_0xCD.json")
+        self.assertEqual(self.output_file().name, "0xAB_0xCD_reviews.json")
 
 
 class TestCacheAndCli(_PipelineBase):

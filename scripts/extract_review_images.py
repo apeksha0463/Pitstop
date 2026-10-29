@@ -3,12 +3,14 @@ scripts/extract_review_images.py
 ================================
 PITSTOP REVIEW IMAGE EXTRACTOR — main entry point.
 
-Fetches Google Maps reviews for one restaurant (``data_id``) through
-SerpApi's ``google_maps_reviews`` engine, extracts the images ATTACHED TO
-EACH REVIEW (the review's ``images`` field — never general restaurant
-photos), downloads them to ``data/extracted_images/<data_id>/`` and saves
-one JSON file per restaurant in ``data/output/`` that links every image to
-its review.
+For one restaurant (``data_id``) it first looks up and downloads the
+restaurant's MAIN PHOTO (``scripts/restaurant_photos.py``, saved as
+``restaurant_main.<ext>``), then fetches Google Maps reviews through
+SerpApi's ``google_maps_reviews`` engine and downloads the images ATTACHED
+TO EACH REVIEW (the review's ``images`` field). Everything goes to
+``data/extracted_images/<data_id>/``; one JSON file per restaurant
+(``data/output/<data_id>_reviews.json``) keeps the categories separate and
+lists them in order: main photo, review photos, then other listing photos.
 
 Usage (from the repository root, e.g. Windows PowerShell):
 
@@ -20,7 +22,9 @@ Download rules:
   - The response must be HTTP 200, declare an image Content-Type (when one is
     sent) AND start with known image magic bytes — HTML error pages are rejected.
   - The extension comes from the file's magic bytes, never from the remote URL.
-  - Filenames: ``<review_id>_<n>.<ext>``; an existing different file is never
+  - Filenames: ``review_<review_id>_<n>.<ext>``; files saved by earlier runs
+    under the old ``<review_id>_<n>`` name are reused, not renamed or
+    downloaded again; an existing different file is never
     overwritten (a ``_2``, ``_3`` ... suffix is used instead).
   - Identical images (same URL or same bytes) are stored once and referenced
     by every review that has them.
@@ -83,6 +87,9 @@ IMAGE_MAX_RETRIES: int = 2
 MAX_IMAGE_BYTES: int = 25 * 1024 * 1024
 
 MANIFEST_NAME: str = "_manifest.json"
+
+# Review image files are named review_<review_id>_<n>.<ext>
+REVIEW_FILE_PREFIX: str = "review_"
 
 USER_AGENT: str = "Pitstop-Review-Image-Extractor/1.0 (+python-requests)"
 
@@ -217,9 +224,10 @@ class ReviewImageDownloader:
         p = utils.PROJECT_ROOT / rel_path
         return p if p.exists() and _is_valid_image_file(p) else None
 
-    def _remember(self, url: str, slot: str, rel_path: str, sha: str) -> None:
+    def _remember(self, url: str, slot: Optional[str], rel_path: str, sha: str) -> None:
         self._manifest["by_url"][url] = rel_path
-        self._manifest["by_slot"][slot] = rel_path
+        if slot:
+            self._manifest["by_slot"][slot] = rel_path
         self._manifest["by_sha256"][sha] = rel_path
 
     # -- public API --------------------------------------------------------
@@ -235,19 +243,33 @@ class ReviewImageDownloader:
         for entry in review.get("images") or []:
             if entry.get("download_status") in (STATUS_DOWNLOADED, STATUS_ALREADY) and self._existing_valid(entry.get("local_path")):
                 continue
-            entry.update(self._process_one(entry.get("image_url"), stem, int(entry.get("image_index") or 1)))
+            index = int(entry.get("image_index") or 1)
+            # The slot key keeps the bare stem so manifests from earlier runs still match
+            entry.update(self._process_one(entry.get("image_url"), f"{REVIEW_FILE_PREFIX}{stem}_{index}", f"{stem}#{index}"))
             changed = True
         if changed:
             self._save_manifest()
         return review
 
+    def process_restaurant_image(self, entry: dict, file_stem: str) -> dict:
+        """
+        Download a restaurant listing image (main photo or other listing
+        photo) to ``<file_stem>.<ext>`` and update *entry* in place.
+
+        Unlike review images there is no per-slot reuse: a different URL is
+        never assumed to be the same photo as a file saved earlier.
+        """
+        if not (entry.get("download_status") in (STATUS_DOWNLOADED, STATUS_ALREADY)
+                and self._existing_valid(entry.get("local_path"))):
+            entry.update(self._process_one(entry.get("image_url"), file_stem, None))
+            self._save_manifest()
+        return entry
+
     # -- internals ---------------------------------------------------------
 
-    def _process_one(self, url: Optional[str], stem: str, index: int) -> dict:
+    def _process_one(self, url: Optional[str], file_stem: str, slot: Optional[str]) -> dict:
         if not isinstance(url, str) or not url.lower().startswith(("http://", "https://")):
             return {"local_path": None, "download_status": STATUS_INVALID_URL, "error": "Missing or non-http(s) URL"}
-
-        slot = f"{stem}#{index}"
 
         # Same URL already handled during this run (e.g. shared by two reviews)
         if url in self._url_results:
@@ -257,7 +279,7 @@ class ReviewImageDownloader:
             return dict(prior)
 
         # Reuse files saved by an earlier run for this URL or this review slot
-        for rel in (self._manifest["by_url"].get(url), self._manifest["by_slot"].get(slot)):
+        for rel in (self._manifest["by_url"].get(url), self._manifest["by_slot"].get(slot) if slot else None):
             if self._existing_valid(rel):
                 result = {"local_path": rel, "download_status": STATUS_ALREADY}
                 self._manifest["by_url"][url] = rel
@@ -272,13 +294,13 @@ class ReviewImageDownloader:
                     "error": f"Image download limit of {self.max_images} reached"}
 
         self.download_attempts += 1
-        result = self._download(url, stem, index, slot)
+        result = self._download(url, file_stem, slot)
         self._url_results[url] = result
         if self.delay > 0:
             time.sleep(self.delay)
         return dict(result)
 
-    def _download(self, url: str, stem: str, index: int, slot: str) -> dict:
+    def _download(self, url: str, file_stem: str, slot: Optional[str]) -> dict:
         last_error = "unknown error"
         for attempt in range(1, self.max_retries + 2):
             try:
@@ -304,13 +326,13 @@ class ReviewImageDownloader:
                     return {"local_path": None, "download_status": STATUS_FAILED, "http_status": status, "error": last_error}
                 if status != 200:
                     return {"local_path": None, "download_status": STATUS_FAILED, "http_status": status, "error": f"HTTP {status}"}
-                return self._save_response(resp, url, stem, index, slot)
+                return self._save_response(resp, url, file_stem, slot)
             finally:
                 resp.close()
 
         return {"local_path": None, "download_status": STATUS_FAILED, "error": last_error}
 
-    def _save_response(self, resp: requests.Response, url: str, stem: str, index: int, slot: str) -> dict:
+    def _save_response(self, resp: requests.Response, url: str, file_stem: str, slot: Optional[str]) -> dict:
         content_type = (resp.headers.get("Content-Type") or "").split(";")[0].strip().lower()
         if content_type and not content_type.startswith("image/"):
             return {"local_path": None, "download_status": STATUS_NOT_IMAGE, "http_status": 200,
@@ -322,7 +344,7 @@ class ReviewImageDownloader:
                     "content_type": content_type, "error": "Image exceeds size limit"}
 
         self.folder.mkdir(parents=True, exist_ok=True)
-        tmp = self.folder / f".{stem}_{index}.part"
+        tmp = self.folder / f".{file_stem}.part"
         sha = hashlib.sha256()
         size = 0
         head = b""
@@ -362,7 +384,7 @@ class ReviewImageDownloader:
             self._remember(url, slot, rel, digest)
             return {"local_path": rel, "download_status": STATUS_ALREADY, **meta}
 
-        dest = self.folder / f"{stem}_{index}{ext}"
+        dest = self.folder / f"{file_stem}{ext}"
         n = 2
         while dest.exists():
             # Never overwrite: reuse only if it is byte-identical
@@ -371,7 +393,7 @@ class ReviewImageDownloader:
                 rel = to_project_relative(dest)
                 self._remember(url, slot, rel, digest)
                 return {"local_path": rel, "download_status": STATUS_ALREADY, **meta}
-            dest = self.folder / f"{stem}_{index}_{n}{ext}"
+            dest = self.folder / f"{file_stem}_{n}{ext}"
             n += 1
 
         os.replace(tmp, dest)
@@ -426,6 +448,9 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
             "  python scripts/extract_review_images.py\n"
             "  python scripts/extract_review_images.py --data-id 0x3bae19cd83892495:0xc4ee26c182749dfe --max-requests 3\n"
             "  python scripts/extract_review_images.py --data-id 0x...:0x... --from-cache\n"
+            "  python scripts/extract_review_images.py --data-id 0x...:0x... --no-main-photo\n"
+            "  python scripts/extract_review_images.py --data-id 0x...:0x... --sort-by qualityScore"
+            " --expected-name \"The Food Factory\" --diagnostics\n"
         ),
     )
     parser.add_argument("--data-id", metavar="DATA_ID", default=None,
@@ -440,6 +465,11 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
                         help="Record review image URLs but do not download files.")
     parser.add_argument("--skip-key-check", action="store_true",
                         help="Skip the (free) SerpApi account check before searching.")
+    try:
+        from scripts.extract_reviews import add_common_args
+    except ImportError:
+        from extract_reviews import add_common_args
+    add_common_args(parser)
     args = parser.parse_args(argv)
     if args.max_requests < 1:
         parser.error("--max-requests must be at least 1")
@@ -471,8 +501,12 @@ def main(argv: Optional[list[str]] = None) -> int:
         from_cache=args.from_cache,
         skip_key_check=args.skip_key_check,
         downloader=ReviewImageDownloader(data_id, max_images=args.max_images, enabled=not args.no_download),
+        sort_by=args.sort_by,
+        diagnostics=args.diagnostics,
+        expected_name=args.expected_name,
+        **extract_reviews.restaurant_photo_options(args),
     )
-    return 0 if result is not None else 1
+    return extract_reviews.exit_code(result)
 
 
 if __name__ == "__main__":

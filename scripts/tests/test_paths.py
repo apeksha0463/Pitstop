@@ -10,7 +10,7 @@ Covers:
   - All data subdirectories are children of DATA_DIR
   - make_output_path returns a Path inside OUTPUT_DIR
   - make_output_path embeds the safe data_id and a timestamp
-  - make_output_path with a restaurant name produces a friendlier filename
+  - make_output_path is <data_id>_reviews.json; legacy output files are found
   - make_raw_page_path returns a Path inside EXTRACTED_PAGES_DIR
   - save_json creates intermediate directories automatically
   - ensure_dirs creates all required directories
@@ -97,9 +97,20 @@ class TestMakeOutputPath(unittest.TestCase):
         path = self._run("0xABCD:0x1234")
         self.assertNotIn(":", path.name)
 
-    def test_restaurant_name_included_when_given(self):
-        path = self._run("0xABCD:0x1234", "Swathi Delicacy")
-        self.assertIn("Swathi", path.name)
+    def test_filename_is_restaurant_id_reviews_json(self):
+        self.assertEqual(self._run("0xABCD:0x1234", "Swathi Delicacy").name, "0xABCD_0x1234_reviews.json")
+        self.assertEqual(self._run("0xABCD:0x1234").name, "0xABCD_0x1234_reviews.json")
+
+    def test_legacy_output_files_found_newest_first(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            out = Path(tmpdir)
+            with patch.object(utils, "OUTPUT_DIR", out):
+                old = out / "restaurant_reviews_0xABCD_0x1234_20261027_115048.json"
+                named = out / "Cafe_0xABCD_0x1234.json"
+                for i, p in enumerate((old, named, out / "0xABCD_0x1234_reviews.json", out / "Cafe_0x1_0x2.json")):
+                    p.write_text("{}", encoding="utf-8")
+                    os.utime(p, (1000 + i, 1000 + i))
+                self.assertEqual(utils.legacy_output_paths("0xABCD:0x1234"), [named, old])
 
     def test_one_stable_file_per_restaurant(self):
         """Re-runs for the same restaurant target the same file (merged, not duplicated)."""

@@ -128,7 +128,7 @@ class TestBasicDownloads(_TempProject):
         img = review["images"][0]
         self.assertEqual(img["download_status"], "downloaded")
         self.assertEqual(img["image_url"], "https://img.test/a")
-        self.assertEqual(img["local_path"], "data/extracted_images/0xAB_0xCD/rev1_1.jpg")
+        self.assertEqual(img["local_path"], "data/extracted_images/0xAB_0xCD/review_rev1_1.jpg")
         self.assertEqual((self.root / img["local_path"]).read_bytes(), JPEG)
         self.assertEqual(img["file_size_bytes"], len(JPEG))
 
@@ -140,13 +140,13 @@ class TestBasicDownloads(_TempProject):
         })
         review = dl.process_review(make_review("rev2", ["https://img.test/1.jpg", "https://img.test/2", "https://img.test/3"]))
         paths = [Path(i["local_path"]).name for i in review["images"]]
-        self.assertEqual(paths, ["rev2_1.png", "rev2_2.webp", "rev2_3.jpg"])
+        self.assertEqual(paths, ["review_rev2_1.png", "review_rev2_2.webp", "review_rev2_3.jpg"])
         self.assertTrue(all(i["download_status"] == "downloaded" for i in review["images"]))
 
     def test_remote_filename_is_not_trusted(self):
         dl = self.downloader({"https://img.test/payload.exe": FakeResponse(body=JPEG)})
         review = dl.process_review(make_review("rev3", ["https://img.test/payload.exe"]))
-        self.assertTrue(review["images"][0]["local_path"].endswith("rev3_1.jpg"))
+        self.assertTrue(review["images"][0]["local_path"].endswith("review_rev3_1.jpg"))
 
     def test_no_partial_files_left_behind(self):
         dl = self.downloader({"https://img.test/a": FakeResponse(body=JPEG),
@@ -258,22 +258,22 @@ class TestDeduplicationAndOverwrite(_TempProject):
 
     def test_existing_different_file_is_not_overwritten(self):
         self.folder.mkdir(parents=True)
-        existing = self.folder / "rev1_1.jpg"
+        existing = self.folder / "review_rev1_1.jpg"
         existing.write_bytes(JPEG_2)
         dl = self.downloader({"https://img.test/a": FakeResponse(body=JPEG)})
         img = dl.process_review(make_review("rev1", ["https://img.test/a"]))["images"][0]
         self.assertEqual(existing.read_bytes(), JPEG_2, "existing file must be preserved")
-        self.assertTrue(img["local_path"].endswith("rev1_1_2.jpg"))
+        self.assertTrue(img["local_path"].endswith("review_rev1_1_2.jpg"))
         self.assertEqual((self.root / img["local_path"]).read_bytes(), JPEG)
 
     def test_existing_identical_file_is_reused(self):
         self.folder.mkdir(parents=True)
-        (self.folder / "rev1_1.jpg").write_bytes(JPEG)
+        (self.folder / "review_rev1_1.jpg").write_bytes(JPEG)
         dl = self.downloader({"https://img.test/a": FakeResponse(body=JPEG)})
         img = dl.process_review(make_review("rev1", ["https://img.test/a"]))["images"][0]
         self.assertEqual(img["download_status"], "already_downloaded")
-        self.assertTrue(img["local_path"].endswith("rev1_1.jpg"))
-        self.assertEqual(len(list(self.folder.glob("rev1_*"))), 1)
+        self.assertTrue(img["local_path"].endswith("review_rev1_1.jpg"))
+        self.assertEqual(len(list(self.folder.glob("review_rev1_*"))), 1)
 
     def test_rerun_reuses_manifest_without_new_requests(self):
         first = self.downloader({"https://img.test/a": FakeResponse(body=JPEG)})

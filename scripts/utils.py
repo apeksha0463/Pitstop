@@ -46,6 +46,9 @@ EXTRACTED_PAGES_DIR: Path = DATA_DIR / "extracted_pages"
 EXTRACTED_IMAGES_DIR: Path = DATA_DIR / "extracted_images"
 PROCESSED_DIR: Path = DATA_DIR / "processed"
 OUTPUT_DIR: Path = DATA_DIR / "output"
+# Filtered (--query / --topic-id) runs are kept apart from the full review history,
+# in a "washroom" sub-folder of each data folder (see filtered_dir()).
+FILTERED_SUBDIR: str = "washroom"
 SOURCES_DIR: Path = PROJECT_ROOT / "sources"
 DEFAULT_ENV_FILE: Path = SOURCES_DIR / ".env"
 
@@ -256,6 +259,11 @@ def make_review_fingerprint(review: dict) -> str:
     return f"{author}|{date}|{text}"
 
 
+# image_type values: the three image categories are never mixed.
+IMAGE_TYPE_MAIN = "main_restaurant_photo"
+IMAGE_TYPE_RESTAURANT = "restaurant_photo"
+IMAGE_TYPE_REVIEW = "customer_review_photo"
+
 # Keys that may hold an image URL when an image entry is an object.
 _IMAGE_URL_KEYS = ("image", "url", "link", "original", "src", "image_url", "thumbnail")
 # Non-URL metadata worth keeping when present on an image object.
@@ -307,7 +315,8 @@ def extract_review_images(raw: dict) -> list[dict]:
         if not _is_http_url(url) or url in seen:
             continue
         seen.add(url)
-        images.append({"image_url": url, "image_index": len(images) + 1, **meta})
+        images.append({"image_url": url, "image_index": len(images) + 1,
+                       "image_type": IMAGE_TYPE_REVIEW, **meta})
     return images
 
 
@@ -350,17 +359,249 @@ def flatten_review(raw: dict) -> dict:
     }
 
 
+# place_info.type values that are parts of a building, not reviewable businesses.
+_NON_LISTING_PLACE_TYPES = {"level", "floor", "building level", "building floor"}
+
+
 def extract_place_info(first_page_data: dict) -> dict:
-    """Pull restaurant-level metadata from the first API response."""
+    """
+    Pull restaurant-level metadata from the first API response.
+
+    ``restaurant_name`` is taken verbatim from ``place_info.title`` (the
+    field SerpApi documents); ``name_source`` records where it came from,
+    and ``place_warning`` explains when the data_id does not look like a
+    restaurant listing (e.g. a building floor called "G").
+    """
     place = first_page_data.get("place_info", {}) or {}
-    return {
-        "restaurant_name":        place.get("title") or place.get("name") or "Unknown",
+    search_info = first_page_data.get("search_information", {}) or {}
+    if place.get("title"):
+        name, source = place["title"], "place_info.title"
+    elif place.get("name"):
+        name, source = place["name"], "place_info.name"
+    else:
+        name, source = "Unknown", None
+    info = {
+        "restaurant_name":        name,
+        "name_source":            source,
         "address":                place.get("address") or None,
         "rating":                 place.get("rating") or None,
         "total_reviews_reported": place.get("reviews") or place.get("total_reviews") or None,
         "type":                   place.get("type") or None,
         "phone":                  place.get("phone") or None,
         "website":                place.get("website") or None,
+        "reviews_results_state":  search_info.get("reviews_results_state") or None,
+    }
+    info["place_warning"] = place_warning(info)
+    return info
+
+
+def place_warning(info: dict) -> str | None:
+    """Explain why the place returned for a data_id may not be the intended restaurant."""
+    if info.get("name_source") is None:
+        return "The response has no place_info title; the restaurant name is NOT verified."
+    ptype = str(info.get("type") or "").strip().lower()
+    if ptype in _NON_LISTING_PLACE_TYPES:
+        return (
+            f"SerpApi resolved this data_id to '{info['restaurant_name']}' of type "
+            f"'{info.get('type')}', a floor/level of a building, not a restaurant listing. "
+            "Google Maps URLs for places inside a building can carry the floor's ID. "
+            "Open the restaurant's own listing and copy the 0x...:0x... value after '!1s' in its URL."
+        )
+    if not (info.get("address") or info.get("rating") or info.get("total_reviews_reported")):
+        return (
+            f"'{info['restaurant_name']}' has no address, rating or review count in the response; "
+            "it may not be a business listing. Check the data_id."
+        )
+    return None
+
+
+def name_matches(actual: str | None, expected: str | None) -> bool | None:
+    """Case-insensitive check that *actual* is (or contains) *expected*; None when nothing to compare."""
+    if not expected:
+        return None
+    a = re.sub(r"\s+", " ", str(actual or "")).strip().casefold()
+    e = re.sub(r"\s+", " ", expected).strip().casefold()
+    return bool(a) and (a == e or e in a)
+
+
+# ---------------------------------------------------------------------------
+# Restaurant (listing) photo helpers — SerpApi Google Maps Place Results
+# ---------------------------------------------------------------------------
+
+def data_cid_from_data_id(data_id: str) -> str:
+    """
+    Decimal CID (``data_cid``) of a ``0x...:0x...`` data_id: its second part.
+
+    SerpApi's ``google_maps`` engine accepts ``data_cid`` on its own, so the
+    restaurant's place details can be looked up from the data_id we already have.
+    """
+    return str(int(data_id.split(":")[1], 16))
+
+
+def verify_place_identity(place: dict, data_id: str) -> tuple[bool, str | None]:
+    """
+    Confirm that a ``place_results`` object is the restaurant behind *data_id*.
+
+    Returns ``(verified, field_used)``. The returned ``data_id`` is compared
+    first, then ``data_cid``; a name match alone is never accepted.
+    """
+    returned_id = str(place.get("data_id") or "").strip().lower()
+    if returned_id:
+        return returned_id == data_id.strip().lower(), "data_id"
+    returned_cid = str(place.get("data_cid") or "").strip()
+    if returned_cid:
+        return returned_cid == data_cid_from_data_id(data_id), "data_cid"
+    return False, None
+
+
+def photo_key(url: str) -> str:
+    """
+    Identity of a photo regardless of the requested size.
+
+    Google image URLs end in a size suffix (``=w129-h86-k-no``), so the same
+    photo appears under several URLs; stripping it lets duplicates be found.
+    """
+    if "googleusercontent.com" in url:
+        return re.sub(r"=[^/=]*$", "", url)
+    return url
+
+
+def select_main_photo(place: dict) -> tuple[dict | None, str | None]:
+    """
+    Pick the restaurant's main photo from a ``place_results`` object.
+
+    Uses the documented ``thumbnail`` field (the listing's primary image).
+    Only when it is missing does it fall back to a listing category image
+    (``images[]``, preferring the "All" category), labelled as a fallback.
+    Returns ``(photo, None)`` or ``(None, reason)``.
+    """
+    thumb = place.get("thumbnail")
+    if _is_http_url(thumb):
+        return {
+            "image_url": thumb.strip(),
+            "image_type": IMAGE_TYPE_MAIN,
+            "source_field": "place_results.thumbnail",
+            "selection_method": "primary_listing_thumbnail",
+            "is_fallback": False,
+        }, None
+    images = [i for i in place.get("images") or [] if isinstance(i, dict) and _is_http_url(i.get("thumbnail"))]
+    pick = next((i for i in images if str(i.get("title") or "").strip().casefold() == "all"), None)
+    pick = pick or (images[0] if images else None)
+    if pick:
+        return {
+            "image_url": pick["thumbnail"].strip(),
+            "image_type": IMAGE_TYPE_MAIN,
+            "source_field": f"place_results.images[title={pick.get('title')!r}]",
+            "selection_method": "fallback_listing_category_thumbnail",
+            "is_fallback": True,
+        }, None
+    return None, "The place details response has no 'thumbnail' and no listing 'images'."
+
+
+def extract_listing_photos(place: dict, exclude: set[str] | None = None) -> list[dict]:
+    """
+    Restaurant listing photos from ``place_results.images`` (one per category),
+    skipping photos whose key is in *exclude* (e.g. the main photo) and duplicates.
+    """
+    seen = set(exclude or ())
+    photos: list[dict] = []
+    for img in place.get("images") or []:
+        if not isinstance(img, dict) or not _is_http_url(img.get("thumbnail")):
+            continue
+        url = img["thumbnail"].strip()
+        if photo_key(url) in seen:
+            continue
+        seen.add(photo_key(url))
+        photos.append({"image_url": url, "image_type": IMAGE_TYPE_RESTAURANT,
+                       "category": img.get("title") or None, "source_field": "place_results.images"})
+    return photos
+
+
+PLACE_REVIEWS_SOURCE = "place_results.user_reviews.most_relevant"
+_REVIEW_ID_IN_LINK = re.compile(r"!1s([^!]+)!")
+
+
+def extract_place_user_reviews(place: dict) -> list[dict]:
+    """
+    Customer reviews embedded in a ``place_results`` object
+    (``user_reviews.most_relevant``), normalised like ``flatten_review``.
+
+    These are Google's "most relevant" reviews and often carry the photos
+    the reviewer attached (``images[].thumbnail``), which the newest reviews
+    from the reviews engine may not have. The ``review_id`` is read from the
+    review ``link`` so the same review from both sources can be merged.
+    """
+    reviews: list[dict] = []
+    for r in (place.get("user_reviews") or {}).get("most_relevant") or []:
+        if not isinstance(r, dict):
+            continue
+        match = _REVIEW_ID_IN_LINK.search(str(r.get("link") or ""))
+        review = flatten_review({
+            "review_id": match.group(1) if match else None,
+            "user": {"name": r.get("username"), "reviews": r.get("user_review_count"),
+                     "photos": r.get("user_photo_count")},
+            "rating": r.get("rating"),
+            "date": r.get("date"),
+            "iso_date": r.get("date_iso8601"),
+            "snippet": r.get("description"),
+            "link": r.get("link"),
+            "images": r.get("images"),
+        })
+        review["source"] = f"Google Maps place details ({PLACE_REVIEWS_SOURCE}) via SerpApi"
+        for img in review["images"]:
+            img["source_field"] = f"{PLACE_REVIEWS_SOURCE}[].images"
+        reviews.append(review)
+    return reviews
+
+
+def extract_photos_api_photos(data: dict, exclude: set[str] | None = None) -> list[dict]:
+    """Restaurant photos from one ``google_maps_photos`` response, deduplicated against *exclude*."""
+    seen = set(exclude or ())
+    photos: list[dict] = []
+    for entry in data.get("photos") or []:
+        if not isinstance(entry, dict):
+            continue
+        url = next((entry[k].strip() for k in _IMAGE_URL_KEYS if _is_http_url(entry.get(k))), None)
+        if not url or photo_key(url) in seen:
+            continue
+        seen.add(photo_key(url))
+        photos.append({"image_url": url, "image_type": IMAGE_TYPE_RESTAURANT,
+                       "photo_id": entry.get("photo_id") or None, "source_field": "google_maps_photos.photos"})
+    return photos
+
+
+def describe_response(data: dict, http_status: int | None = None) -> dict:
+    """
+    Safe, credential-free summary of one SerpApi reviews response, used to
+    debug what the API actually returned (structure only, no URLs/keys).
+    """
+    reviews = data.get("reviews") if isinstance(data.get("reviews"), list) else []
+    pagination = data.get("serpapi_pagination")
+    first = next((r for r in reviews if isinstance(r, dict)), None)
+    first_images = first.get("images") if first else None
+    image_entries = first_images if isinstance(first_images, list) else ([] if first_images is None else [first_images])
+    shapes = sorted({
+        "dict(" + ",".join(sorted(e)) + ")" if isinstance(e, dict) else type(e).__name__
+        for e in image_entries
+    })
+    place = data.get("place_info") if isinstance(data.get("place_info"), dict) else {}
+    search_info = data.get("search_information") if isinstance(data.get("search_information"), dict) else {}
+    return {
+        "http_status":             http_status,
+        "search_status":           (data.get("search_metadata") or {}).get("status"),
+        "api_error":               redact_secrets(str(data["error"])) if data.get("error") else None,
+        "top_level_keys":          sorted(data),
+        "place_title":             place.get("title"),
+        "place_type":              place.get("type"),
+        "reviews_results_state":   search_info.get("reviews_results_state"),
+        "reviews_in_response":     len(reviews),
+        "reviews_with_images":     sum(1 for r in reviews if isinstance(r, dict) and r.get("images")),
+        "has_serpapi_pagination":  "serpapi_pagination" in data,
+        "has_next_page_token":     isinstance(pagination, dict) and bool(pagination.get("next_page_token")),
+        "first_review_keys":       sorted(first) if first else None,
+        "first_review_has_images": bool(first) and "images" in first,
+        "first_review_image_count": len(image_entries) if first else None,
+        "first_review_image_entry_types": shapes if first else None,
     }
 
 
@@ -406,55 +647,147 @@ def safe_data_id(data_id: str, max_len: int = 40) -> str:
     return safe_name(data_id, max_len)
 
 
-def make_output_path(data_id: str, restaurant_name: str = "") -> Path:
+def review_filter_tag(query: str | None = None, topic_id: str | None = None) -> str | None:
+    """
+    Label for a filtered review search: ``query:<text>`` or ``topic:<id>``.
+
+    Saved on every review the search returned (``matched_by``) and used to
+    keep each filter's raw pages apart. None for an unfiltered search.
+    """
+    if topic_id:
+        return f"topic:{topic_id.strip()}"
+    if query:
+        return f"query:{query.strip()}"
+    return None
+
+
+def filtered_dir(base: Path, review_filter: str | None) -> Path:
+    """*base*, or its ``washroom/`` sub-folder for a filtered run."""
+    return base / FILTERED_SUBDIR if review_filter else base
+
+
+def _filter_slug(review_filter: str) -> str:
+    return safe_name(review_filter.replace(":", "-"), 60)
+
+
+def make_output_path(data_id: str, restaurant_name: str = "", review_filter: str | None = None) -> Path:
     """
     Return the stable per-restaurant output path under ``data/output/``.
 
-    One file per restaurant: ``<restaurant_name>_<data_id>.json`` (or
-    ``restaurant_reviews_<data_id>.json`` when the name is unknown).
-    Re-runs merge into this same file instead of creating new ones.
+    One file per restaurant: ``<restaurant_id>_reviews.json`` where the
+    restaurant id is the filesystem-safe ``data_id``. Re-runs merge into this
+    same file instead of creating new ones. *restaurant_name* is accepted for
+    backwards compatibility and no longer affects the filename.
+
+    Filtered runs (*review_filter* set) all merge into one file per
+    restaurant in ``data/output/washroom/``.
     """
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    folder = filtered_dir(OUTPUT_DIR, review_filter)
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{safe_data_id(data_id)}_reviews.json"
+
+
+def legacy_output_paths(data_id: str) -> list[Path]:
+    """
+    Output files written by earlier versions for *data_id*
+    (``<name>_<data_id>.json``, ``restaurant_reviews_<data_id>[_<timestamp>].json``),
+    newest first, so their reviews can be merged into the current file.
+    """
+    if not OUTPUT_DIR.exists():
+        return []
     sid = safe_data_id(data_id)
-    if restaurant_name and restaurant_name != "Unknown":
-        filename = f"{safe_name(restaurant_name, 30)}_{sid}.json"
-    else:
-        filename = f"restaurant_reviews_{sid}.json"
-    return OUTPUT_DIR / filename
+    current = make_output_path(data_id)
+    found = [p for p in OUTPUT_DIR.glob(f"*{sid}*.json") if p != current]
+    return sorted(found, key=lambda p: p.stat().st_mtime, reverse=True)
 
 
-def make_raw_page_path(data_id: str, page_num: int) -> Path:
-    """Path for a full (redacted) raw API response: ``data/raw_data/serpapi/``."""
+def _page_stem(data_id: str, review_filter: str | None) -> str:
+    sid = safe_data_id(data_id)
+    return f"{sid}_{_filter_slug(review_filter)}" if review_filter else sid
+
+
+def make_raw_page_path(data_id: str, page_num: int, review_filter: str | None = None) -> Path:
+    """Path for a full (redacted) raw API response: ``data/raw_data/serpapi/`` (``.../washroom/`` when filtered)."""
+    folder = filtered_dir(RAW_DATA_DIR / "serpapi", review_filter)
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{_page_stem(data_id, review_filter)}_page{page_num:03d}.json"
+
+
+def make_extracted_page_path(data_id: str, page_num: int, review_filter: str | None = None) -> Path:
+    """Path for a page-level extraction summary in ``data/extracted_pages/`` (``.../washroom/`` when filtered)."""
+    folder = filtered_dir(EXTRACTED_PAGES_DIR, review_filter)
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{_page_stem(data_id, review_filter)}_page{page_num:03d}.json"
+
+
+def make_cache_manifest_path(data_id: str, review_filter: str | None = None) -> Path:
+    """Path of the manifest describing the latest cached raw pages for *data_id* (and filter)."""
+    folder = filtered_dir(RAW_DATA_DIR / "serpapi", review_filter)
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{_page_stem(data_id, review_filter)}_cache.json"
+
+
+def make_place_cache_path(data_id: str) -> Path:
+    """Path of the cached (redacted) Google Maps place-details response for *data_id*."""
     folder = RAW_DATA_DIR / "serpapi"
     folder.mkdir(parents=True, exist_ok=True)
-    return folder / f"{safe_data_id(data_id)}_page{page_num:03d}.json"
+    return folder / f"{safe_data_id(data_id)}_place.json"
 
 
-def make_extracted_page_path(data_id: str, page_num: int) -> Path:
-    """Path for a page-level extraction summary in ``data/extracted_pages/``."""
-    EXTRACTED_PAGES_DIR.mkdir(parents=True, exist_ok=True)
-    return EXTRACTED_PAGES_DIR / f"{safe_data_id(data_id)}_page{page_num:03d}.json"
-
-
-def make_cache_manifest_path(data_id: str) -> Path:
-    """Path of the manifest describing the latest cached raw pages for *data_id*."""
+def make_photos_cache_path(data_id: str) -> Path:
+    """Path of the cached (redacted) Google Maps Photos API pages for *data_id*."""
     folder = RAW_DATA_DIR / "serpapi"
     folder.mkdir(parents=True, exist_ok=True)
-    return folder / f"{safe_data_id(data_id)}_cache.json"
+    return folder / f"{safe_data_id(data_id)}_photos.json"
 
 
-def iter_cached_pages(data_id: str) -> Iterator[dict]:
+def iter_cached_pages(data_id: str, review_filter: str | None = None) -> Iterator[dict]:
     """
-    Yield the raw pages recorded by the latest live run for *data_id*,
-    in order, so results can be rebuilt without spending API credits.
-    Yields nothing if no cache manifest exists.
+    Yield the raw pages recorded by the latest live run for *data_id*
+    (and *review_filter*), in order, so results can be rebuilt without
+    spending API credits. Yields nothing if no cache manifest exists.
     """
-    manifest_path = make_cache_manifest_path(data_id)
+    manifest_path = make_cache_manifest_path(data_id, review_filter)
     if not manifest_path.exists():
         return
     manifest = load_json(manifest_path)
     for rel in manifest.get("pages", []):
         yield load_json(PROJECT_ROOT / rel)
+
+
+def extract_topics(data: dict) -> list[dict]:
+    """The ``topics`` array of a first reviews page as ``{keyword, id, mentions}`` dicts."""
+    return [
+        {"keyword": t.get("keyword"), "id": t["id"], "mentions": t.get("mentions")}
+        for t in data.get("topics") or []
+        if isinstance(t, dict) and t.get("id")
+    ]
+
+
+def load_saved_topics(data_id: str) -> list[dict]:
+    """
+    Review topics for *data_id* read from saved first-page raw responses
+    (unfiltered and filtered), deduplicated by topic id. Uses 0 credits.
+    """
+    sid = safe_data_id(data_id)
+    raw_dir = RAW_DATA_DIR / "serpapi"
+    paths = [raw_dir / f"{sid}_page001.json"]
+    if (raw_dir / FILTERED_SUBDIR).exists():
+        paths += sorted((raw_dir / FILTERED_SUBDIR).glob(f"{sid}_*_page001.json"))
+    topics: list[dict] = []
+    seen: set[str] = set()
+    for path in paths:
+        if not path.exists():
+            continue
+        try:
+            data = load_json(path)
+        except (OSError, ValueError):
+            continue
+        for topic in extract_topics(data):
+            if topic["id"] not in seen:
+                seen.add(topic["id"])
+                topics.append(topic)
+    return topics
 
 
 def short_hash(value: str, length: int = 10) -> str:
@@ -479,6 +812,7 @@ def fetch_page(
     *,
     max_retries: int = MAX_RETRIES,
     timeout: int = REQUEST_TIMEOUT_SECONDS,
+    meta: dict | None = None,
 ) -> dict:
     """
     Fetch a single page from SerpApi with retry and rate-limit handling.
@@ -491,6 +825,9 @@ def fetch_page(
         params:      Query parameters (without ``api_key``).
         max_retries: Number of attempts before raising.
         timeout:     HTTP request timeout in seconds.
+        meta:        Optional dict filled with ``http_status`` (and
+                     ``api_message`` for "no results" bodies), also when
+                     an exception is raised.
 
     Returns:
         Parsed JSON dict from the API response. A "no results" response is
@@ -523,6 +860,8 @@ def fetch_page(
             raise SerpApiError(f"HTTP request failed ({type(exc).__name__}).")
 
         status = response.status_code
+        if meta is not None:
+            meta["http_status"] = status
         error_msg = _error_message(response)
         lowered = error_msg.lower()
 
@@ -563,6 +902,8 @@ def fetch_page(
             body_err = str(data["error"])
             low = body_err.lower()
             if any(kw in low for kw in _NO_RESULTS_KEYWORDS):
+                if meta is not None:
+                    meta["api_message"] = redact_secrets(body_err, api_key)
                 data.setdefault("reviews", [])
                 return data
             if "invalid api key" in low:
@@ -572,6 +913,12 @@ def fetch_page(
                     "SerpApi credit/quota exhausted. Your free-plan monthly limit may be reached."
                 )
             raise SerpApiError(f"SerpApi API error: {redact_secrets(body_err, api_key)}")
+
+        search_status = str((data.get("search_metadata") or {}).get("status") or "")
+        if search_status.lower() == "error":
+            raise SerpApiError("SerpApi reported search_metadata.status = 'Error' without details.")
+        if "reviews" in data and not isinstance(data["reviews"], list):
+            raise SerpApiError("Unexpected response: 'reviews' is not a list.")
 
         return data
 
