@@ -3,8 +3,7 @@
 Pitstop collects Google Maps reviews for a restaurant through the
 [SerpApi Google Maps Reviews API](https://serpapi.com/google-maps-reviews-api).
 For each restaurant it downloads the **main restaurant photo** shown on the
-Google Maps listing, then the **images that customers attached to their
-reviews**, and saves everything in one JSON file per restaurant, with the main
+Google Maps listing and saves everything in one JSON file per restaurant, with the main
 photo listed first.
 
 > Image categories are never mixed. Each image has an `image_type`:
@@ -184,40 +183,6 @@ The reviews response has no restaurant image, so the restaurant is looked up
    `data/raw_data/serpapi/<data_id>_place.json` and reused on later runs (0
    credits). Use `--refresh-place` to look the restaurant up again.
 
-## 5. How review image extraction works
-
-1. **Request.** `GET https://serpapi.com/search.json` with
-   `engine=google_maps_reviews`, `data_id`, `hl=en` and `sort_by=newestFirst`.
-2. **Paginate.** Each next page uses `serpapi_pagination.next_page_token`. On
-   those requests Pitstop also sends `num=20` (SerpApi's maximum). The first
-   page uses SerpApi's default page size, as a precaution: SerpApi may reject
-   `num` on a request without a token, and a failed first request would waste
-   the run. The run stops when there is no next token (**completed**),
-   when the request budget is used up, or when the API reports an error.
-3. **Extract images per review.** Each review's `images` field is parsed. The
-   current API returns a list of URL strings. Object entries (`image`, `url`,
-   `link`, `original`, `thumbnail`, ...), single values and the legacy `photos`
-   field are also handled. Entries without an http(s) URL are dropped, so no
-   image is ever invented. The reviewer's profile picture is not a review
-   image and is never collected.
-4. **Download promptly.** Image URLs are temporary, so images are downloaded
-   right after each page:
-   - sequential downloads, (5 s connect, 20 s read) timeouts, at most 2
-     retries for timeouts, 429 or 5xx responses;
-   - the response must be HTTP 200, have an `image/*` Content-Type (if one is
-     sent) **and** start with real image bytes (JPEG/PNG/WebP/GIF/AVIF/HEIC/BMP).
-     HTML error pages are rejected;
-   - the extension comes from the file's bytes, never from the remote URL;
-   - files are named `review_<review_id>_<n>.<ext>` (files saved earlier as
-     `<review_id>_<n>.<ext>` are reused, not renamed) and never overwritten. A
-     different existing file gets a `_2`, `_3`, ... suffix;
-   - identical images (same URL or same bytes) are stored once and referenced
-     by every review that has them;
-   - `_manifest.json` in each image folder lets later runs reuse files instead
-     of downloading them again;
-   - a failed download is recorded on that image and the run continues.
-5. **Save after every page.** The output JSON is rewritten atomically after
-   each page, so a crash, Ctrl+C or API error keeps everything collected so far.
 
 ### Output files
 
