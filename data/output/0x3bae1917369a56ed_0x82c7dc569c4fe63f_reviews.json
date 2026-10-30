@@ -174,6 +174,37 @@
   ],
   "reviews": [
     {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTWJHVmFSMTgxVGxWb1NqVmhlVFJCVnpJNVMxRRAB",
+      "author": "VisalVinod",
+      "author_url": "https://www.google.com/maps/contrib/104971168740875952469?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T06:49:40Z",
+      "iso_date_of_last_edit": "2026-10-29T06:49:40Z",
+      "text": "Very bad experience from this restaurant i ordered chicken tandoori alfam and shawarma roll and plate. All of them where burnt. And i have contacted the restaurant and i haven't received any updates regarding on that. Now i have stomach pain vomiting and head ache after having the food from their if you can't provide good food dont accept the order its a humble request",
+      "text_original_language": "Very bad experience from this restaurant i ordered chicken tandoori alfam and shawarma roll and plate. All of them where burnt. And i have contacted the restaurant and i haven't received any updates regarding on that. Now i have stomach pain vomiting and head ache after having the food from their if you can't provide good food dont accept the order its a humble request",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Delivery",
+        "meal_type": "Other",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "dietary_restrictions": "Very bad and poor quality food they are serving."
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsTWJHVmFSMTgxVGxWb1NqVmhlVFJCVnpJNVMxRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOllMbGVaR181TlVoSjVheTRBVzI5S1E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi"
+    },
+    {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeGJWbGpUVEJ0WVMweU9WRjBTV3RCU0dKc01sRRAB",
       "author": "vinay kumar",
       "author_url": "https://www.google.com/maps/contrib/114034215924221808624?hl=en",
@@ -181,7 +212,7 @@
       "author_reviews_count": 12,
       "author_photos_count": null,
       "rating": 4.0,
-      "date": "20 hours ago",
+      "date": "a day ago",
       "iso_date": "2026-10-28T09:30:20Z",
       "iso_date_of_last_edit": "2026-10-28T09:30:20Z",
       "text": null,
@@ -194,7 +225,8 @@
       "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21JeGJWbGpUVEJ0WVMweU9WRjBTV3RCU0dKc01sRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOmIxbVljTTBtYS0yOVF0SWtBSGJsMlE%7C%7C?hl=en",
       "images_count": 0,
       "images": [],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xselpsbHpUREJZYm5GVWQxRlplbE5ZUzBOelowRRAB",
@@ -204,7 +236,7 @@
       "author_reviews_count": 21,
       "author_photos_count": 24,
       "rating": 4.0,
-      "date": "a day ago",
+      "date": "2 days ago",
       "iso_date": "2026-10-27T08:42:13Z",
       "iso_date_of_last_edit": "2026-10-27T08:42:13Z",
       "text": "Best spot to eat mandi I have tried all falours highly recommended peri peri mandi but I didn't like the rice quality. it was little raw maybe the would have given different type rice",
@@ -225,7 +257,8 @@
       "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xselpsbHpUREJZYm5GVWQxRlplbE5ZUzBOelowRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOllzZllzTDBYbnFUd1FZelNYS0NzZ0E%7C%7C?hl=en",
       "images_count": 0,
       "images": [],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaFJrOXJUbWhWY0VoYWFWVkJTbXhLYUVwQk5sRRAB",
@@ -235,7 +268,7 @@
       "author_reviews_count": 34,
       "author_photos_count": 30,
       "rating": 5.0,
-      "date": "2 days ago",
+      "date": "3 days ago",
       "iso_date": "2026-10-27T02:37:12Z",
       "iso_date_of_last_edit": "2026-10-27T02:37:12Z",
       "text": null,
@@ -256,7 +289,8 @@
       "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSaFJrOXJUbWhWY0VoYWFWVkJTbXhLYUVwQk5sRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOkRhRk9rTmhVcEhaaVVBSmxKaEpBNlE%7C%7C?hl=en",
       "images_count": 0,
       "images": [],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkNk16aEpXV0Y1U0RkMlQxVTJVRzR3YURCak5XYxAB",
@@ -266,7 +300,7 @@
       "author_reviews_count": 13,
       "author_photos_count": 11,
       "rating": 4.0,
-      "date": "3 days ago",
+      "date": "4 days ago",
       "iso_date": "2026-10-26T02:17:46Z",
       "iso_date_of_last_edit": "2026-10-26T02:17:46Z",
       "text": "Food was good. And budget wise ok.",
@@ -287,7 +321,8 @@
       "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkNk16aEpXV0Y1U0RkMlQxVTJVRzR3YURCak5XYxAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOjd6MzhJWWF5SDd2T1U2UG4waDBjNWc%7C%7C?hl=en",
       "images_count": 0,
       "images": [],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poa2RUaGpXRlpoYWpoS2VtMU9hbEJYUlVSYVdWRRAB",
@@ -850,7 +885,7 @@
   "image_summary": {
     "main_photo_downloaded": true,
     "main_photo_is_fallback": false,
-    "reviews_collected": 20,
+    "reviews_collected": 21,
     "reviews_with_images": 5,
     "review_images_found": 17,
     "unique_review_image_urls": 17,
@@ -859,22 +894,22 @@
     "review_image_download_failures": 0
   },
   "review_coverage": {
-    "reviews_reported_by_google": 6408,
-    "reviews_collected": 20,
+    "reviews_reported_by_google": 6409,
+    "reviews_collected": 21,
     "all_reported_reviews_collected": false,
-    "note": "SerpApi stopped offering pages after 20 of the 6408 reviews Google reports for this place. Only the reviews returned by the API were collected; run again with --fresh to bypass SerpApi's cached result."
+    "note": "SerpApi stopped offering pages after 21 of the 6409 reviews Google reports for this place. The first response had no 'serpapi_pagination' block at all. Only the reviews returned by the API were collected; run again with --fresh to bypass SerpApi's cached result."
   },
   "source": "SerpApi Google Maps Reviews",
   "restaurant_name_source": "place_info.title",
-  "expected_restaurant_name": null,
-  "restaurant_name_matches_expected": null,
+  "expected_restaurant_name": "Dine Spot Restaurant",
+  "restaurant_name_matches_expected": true,
   "place_warning": null,
   "address": "Shop No: 177, 4JC8+CXJ, Bagalur Main Rd, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka 560064, India",
   "rating": 3.9,
   "type": "Kerala restaurant",
   "phone": null,
   "website": null,
-  "total_reviews_reported": 6408,
+  "total_reviews_reported": 6409,
   "reviews_results_state": null,
   "main_restaurant_photo_unavailable_reason": null,
   "restaurant_photos": [],
@@ -892,7 +927,7 @@
     "place_reviews_with_images": 5,
     "title_matches_reviews_place": true
   },
-  "reviews_collected": 20,
+  "reviews_collected": 21,
   "reviews_with_images": 5,
   "images_found": 17,
   "unique_image_urls": 17,
@@ -901,12 +936,12 @@
   "images_failed": 0,
   "images_download_failed": 0,
   "duplicates_skipped": 0,
-  "previous_reviews_retained": 0,
-  "pages_fetched": 2,
-  "api_requests_used": 2,
+  "previous_reviews_retained": 16,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
   "restaurant_details_requests_used": 0,
-  "api_requests_used_total": 2,
-  "max_requests": 5,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
   "sort_by": "newestFirst",
   "from_cache": false,
   "collection_complete": true,
@@ -924,44 +959,10 @@
         "reviews",
         "search_metadata",
         "search_parameters",
-        "serpapi_pagination",
         "topics"
       ],
       "place_title": "Dine Spot Restaurant",
       "place_type": "Kerala restaurant",
-      "reviews_results_state": null,
-      "reviews_in_response": 10,
-      "reviews_with_images": 0,
-      "has_serpapi_pagination": true,
-      "has_next_page_token": true,
-      "first_review_keys": [
-        "date",
-        "iso_date",
-        "iso_date_of_last_edit",
-        "likes",
-        "link",
-        "position",
-        "rating",
-        "review_id",
-        "source",
-        "user"
-      ],
-      "first_review_has_images": false,
-      "first_review_image_count": 0,
-      "first_review_image_entry_types": []
-    },
-    {
-      "page": 2,
-      "http_status": 200,
-      "search_status": "Success",
-      "api_error": null,
-      "top_level_keys": [
-        "reviews",
-        "search_metadata",
-        "search_parameters"
-      ],
-      "place_title": null,
-      "place_type": null,
       "reviews_results_state": null,
       "reviews_in_response": 5,
       "reviews_with_images": 0,
@@ -987,6 +988,6 @@
       "first_review_image_entry_types": []
     }
   ],
-  "images_folder": "data/extracted_images/0x3bae1917369a56ed_0x82c7dc569c4fe63f",
-  "extracted_at": "2026-10-29T12:09:48"
+  "images_folder": null,
+  "extracted_at": "2026-10-30T13:22:59"
 }

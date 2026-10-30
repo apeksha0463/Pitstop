@@ -1,0 +1,240 @@
+{
+  "search_metadata": {
+    "id": "6ae44d156d1a187773bb3c7f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6UeMP6j61fMHyyBabj0GEsoSeqWSKIXlm7cFCdoAlT4/6ae44d156d1a187773bb3c7f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6UeMP6j61fMHyyBabj0GEsoSeqWSKIXlm7cFCdoAlT4/6ae44d156d1a187773bb3c7f.md",
+    "created_at": "2026-10-30 07:53:57 UTC",
+    "processed_at": "2026-10-30 07:53:57 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e390a5514f65:0x3b8f2ca25b4423de!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/6UeMP6j61fMHyyBabj0GEsoSeqWSKIXlm7cFCdoAlT4/6ae44d156d1a187773bb3c7f.html",
+    "prettify_html_file": "https://serpapi.com/searches/6UeMP6j61fMHyyBabj0GEsoSeqWSKIXlm7cFCdoAlT4/6ae44d156d1a187773bb3c7f.prettify",
+    "total_time_taken": 0.66
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e390a5514f65:0x3b8f2ca25b4423de",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Nandagokula AC Veg restaurant",
+    "address": "Shri Nakoda Avanti 108 Parshwanath Jain Temple, State Highway 96, Devanahalli, Binnamangala, Karnataka 562110, India",
+    "rating": 4,
+    "reviews": 8846,
+    "type": "Vegetarian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "masala dosa",
+      "mentions": 67,
+      "id": "gRqo30Mwcms"
+    },
+    {
+      "keyword": "south indian food",
+      "mentions": 87,
+      "id": "Jk-Caz57Xj4"
+    },
+    {
+      "keyword": "ac seating",
+      "mentions": 4,
+      "id": "BMpf59ZTs84"
+    },
+    {
+      "keyword": "neer dosa",
+      "mentions": 13,
+      "id": "AQ7A7UAcZW8"
+    },
+    {
+      "keyword": "idli",
+      "mentions": 28,
+      "id": "Cw9CZWkNxus"
+    },
+    {
+      "keyword": "highway restaurant",
+      "mentions": 160,
+      "id": "Donqtxs789M"
+    },
+    {
+      "keyword": "clean toilets",
+      "mentions": 28,
+      "id": "GOAutvr8ue0"
+    },
+    {
+      "keyword": "north indian food",
+      "mentions": 42,
+      "id": "KU6D_TolXnc"
+    },
+    {
+      "keyword": "roti",
+      "mentions": 17,
+      "id": "ATzxRGgqYW8"
+    },
+    {
+      "keyword": "vada",
+      "mentions": 12,
+      "id": "A8vA_gNj5wc"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twUmRreFhiR1ZmTXpsblRGbEpXbUYwWm1ORGMyYxAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CAIQACodChtycF9oOkpRdkxXbGVfMzlnTFlJWmF0ZmNDc2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T14:24:58Z",
+      "iso_date_of_last_edit": "2026-10-28T14:24:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twUmRreFhiR1ZmTXpsblRGbEpXbUYwWm1ORGMyYxAB",
+      "user": {
+        "name": "Ashwin Karanam",
+        "link": "https://www.google.com/maps/contrib/111287175630224441818?hl=en",
+        "contributor_id": "111287175630224441818",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL3GiQ11Lo9uRfT9beIM2I0kgi3L1ve0h97s16bsErBE2tK2I8=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 9,
+        "photos": 0
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkVFlpMU5WMGgyT0V4WVFXdHljMDh0UkhOV2JYYxAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CAIQACodChtycF9oOkdTYi1NV0h2OExYQWtyc08tRHNWbXc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T14:09:08Z",
+      "iso_date_of_last_edit": "2026-10-28T14:09:08Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfdr54-iaZuQloIM9zMd0-ehdWnQB1si2npASsoOxQUsLOERrM8gs5x0P58fcKiOPpMLEC9RutKa6u81cgKM2gCefT1LrIUCV610zK-6yTbJ4FWfKbOHbgl9af248lwYDOIf1W5WcPnVZc=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe3lyLOmVhdFNZtF-P8tZQMrsGRQCLZXarpvJPDc7-9EkSCRPEYWuFuFOPUdrtxFOhQ_rUTloBDv9qfXMrkg6oI5bXHdt-L7rb1PP94jBbc8ljhYDq8Xp7TqYEsh_6Yv86G-nb4Geq5XZIP=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcTdXyDPRRTKcNGIHXhqGOfZ0T_PKSpJMwXgkDsRhzMUG5ex-t0WlvRBItRp0KprUJa7ob0LZngPSor6Fy9_NNNieRTbW-pFpJNS0QkftlLRnwUud5Hh_6ItUN-f2m2cu6pg7G5gqFO5ESc=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeuKIdosozMC2cIIRwm9-6Lq-GPEngPa5qN1dHcKAC5IRxX_p7UKDL5NMZkaDLRlSmdMd_GuqzQPyLoQU9kkd0BCdmapEMhIDbS81FONZxROdEMWtvaowOjKt6_qR9hBXtVUVW4NHbXVvhv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcluCJHIxczbZzyD7yBZ7KzsL_rlAFQjxJPvk-0_pI_8vPHmNJNpAphIIKHd8UTBaFTUj0G69SzfLa5lbggtpwlyZShqbnULw95-Vu8bVxTp1LofNeN-Ve6sdiGJLmzfNU0sK8-qCX1nzkk=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcbR9QgSIfSaVbFt892ySSuk_MhK5ME6KnXC1sUEytHdir3g8NE4OKCJnTJEqmU0wZzXUuW8lyHLfyeiCtF5sx1GJNufFhf-pG5wWDXO2yYdA3QoOGCPdv_Gxsd6m-vaE-W7oMFpVB3Wvg=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVFlpMU5WMGgyT0V4WVFXdHljMDh0UkhOV2JYYxAB",
+      "user": {
+        "name": "Ranjan Prasad",
+        "link": "https://www.google.com/maps/contrib/112177758335612791550?hl=en",
+        "contributor_id": "112177758335612791550",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIm6KFb7e2aQjYc1vF2khRdDgAuRiY7fvEOY3Bxw-mvyIGLIg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 317,
+        "photos": 2397
+      },
+      "snippet": "Nandagokula AC Veg restaurant is a popular vegetarian stop located along State Highway 96 in Devanahalli, situated near the Shri Nakoda Avanti 108 Parshwanath Jain Temple. It is a frequent highway stop for travelers heading toward the airport, Nandi Hills, or Hyderabad on NH 44.\n​Cuisine: Pure vegetarian offering South Indian breakfast classics, North Indian curries, Chinese dishes, and chaats.\n​Timings: Open daily from 8:00 AM to 10:30 PM.",
+      "extracted_snippet": {
+        "original": "Nandagokula AC Veg restaurant is a popular vegetarian stop located along State Highway 96 in Devanahalli, situated near the Shri Nakoda Avanti 108 Parshwanath Jain Temple. It is a frequent highway stop for travelers heading toward the airport, Nandi Hills, or Hyderabad on NH 44.\n​Cuisine: Pure vegetarian offering South Indian breakfast classics, North Indian curries, Chinese dishes, and chaats.\n​Timings: Open daily from 8:00 AM to 10:30 PM."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "noise_level": "Moderate noise",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKb2VqUnhWVll3WVdsbVQwZFhiRGxHVFRCMFgyYxAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CAIQACodChtycF9oOlJoejRxVVYwYWlmT0dXbDlGTTB0X2c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T09:44:37Z",
+      "iso_date_of_last_edit": "2026-10-27T09:44:37Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKb2VqUnhWVll3WVdsbVQwZFhiRGxHVFRCMFgyYxAB",
+      "user": {
+        "name": "Sanjay Harane",
+        "link": "https://www.google.com/maps/contrib/116755431434932215549?hl=en",
+        "contributor_id": "116755431434932215549",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXbrslmKF7mGXje9bnoDKIc6nPBjF9ir179LDbBKxn6q1nwffZs=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 32,
+        "photos": 0
+      },
+      "snippet": "Great",
+      "extracted_snippet": {
+        "original": "Great"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214cWJFbDZPVFZKVnpSWUxWcFZTamM1TFhaMmJHYxAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CAIQACodChtycF9oOmxqbEl6OTVJVzRYLVpVSjc5LXZ2bGc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T08:28:58Z",
+      "iso_date_of_last_edit": "2026-10-23T08:28:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cWJFbDZPVFZKVnpSWUxWcFZTamM1TFhaMmJHYxAB",
+      "user": {
+        "name": "Darling Rafi Darling Rafi",
+        "link": "https://www.google.com/maps/contrib/104937446091871485147?hl=en",
+        "contributor_id": "104937446091871485147",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIY8GHT8pdIdZEWhNLlaSfjOz3djgvUzTf4rcCUboEQeXUEow=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 4
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SVVdYZGZUMDkzYjJWdE5WRmtRalUxWTB0M2QzYxAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CAIQACodChtycF9oOnRUWXdfT093b2VtNVFkQjU1Y0t3d3c%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T09:37:26Z",
+      "iso_date_of_last_edit": "2026-10-21T09:37:26Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLchFvsjZVTtgo_13SCbheHGqw6ysY8SyWMrimyqpYWzwYr1t8gUSpJLJE_e0Jg7Lh2hjzLnr8zCnWPuRCNQOyv2ZhFcd9CMfuVNrUTcgywp2inibuEvSLlfzsntydWaRGEc2exvmkzy9RL1=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLefQvkdLlJwa1EbIw2GELPPahIFzvhMCVaLfePgdrJuNIpX6vLYcQvGWs-yk3kOdVlgSn6PSyeCP7VjcS0GVL2ibUdCivj6BMnzXhcgZqbrd6fZrHaSz7uoRWs1XdkHPIvIvYwlM7r8Yn4=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVVdYZGZUMDkzYjJWdE5WRmtRalUxWTB0M2QzYxAB",
+      "user": {
+        "name": "shreyas shreyas",
+        "link": "https://www.google.com/maps/contrib/104270800774233834772?hl=en",
+        "contributor_id": "104270800774233834772",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXh3CrkR1gxgvXsfrj1ZHbBp_vQNmlTXmjBOM8MzjJ61y8Y3gg=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 2
+      },
+      "snippet": "Very bad maintaining even in Ac in dine in no ac was running and the plates are very old bad condition and Full dirty all over the corners of table no hygienic",
+      "extracted_snippet": {
+        "original": "Very bad maintaining even in Ac in dine in no ac was running and the plates are very old bad condition and Full dirty all over the corners of table no hygienic"
+      },
+      "likes": 0
+    }
+  ]
+}

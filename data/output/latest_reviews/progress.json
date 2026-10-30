@@ -1,0 +1,248 @@
+{
+  "saved_at": "2026-10-30T13:24:40",
+  "restaurants": {
+    "0x3bae19cda2f74b29:0x52801f4a0d16f2cf": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae19cd83892495:0xc4ee26c182749dfe": {
+      "next_page": 2,
+      "next_page_token": "CjEIARIpCgoAP7_LAeJu____EhD_2goUJrIkNBpTn4AAAAAAGgn92TkCa-OhnE8YACIA:10",
+      "finished": false
+    },
+    "0x3bae1972883c93a5:0x346e917a45e2026d": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae185a451f1a95:0xbb8f21195855c1f6": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true,
+      "fresh": true,
+      "fresh_retried": true
+    },
+    "0x3bae19542b663c05:0x88b58d30d2de9f91": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae199ebb434785:0x925928a22e4df686": {
+      "next_page": 2,
+      "next_page_token": "Ci8IARInCgoAP72F6Meyuv__EhC_tUAaAdaGDtxMu3IAAAAAGgf_Al6MeyuvGAAiAA:10",
+      "finished": false
+    },
+    "0x3bae197c7ce97a4b:0x250d4a877cdc8f24": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae19006fc77e73:0xfd95f7b89961f952": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae18f8ec42e37f:0x5d26865d797bda32": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae19abdd77a72f:0x74f0cec84dee5ccd": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae190663f1db5b:0x29670e7908cd74f7": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1917369a56ed:0x82c7dc569c4fe63f": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true,
+      "fresh": true,
+      "fresh_retried": true
+    },
+    "0x3bae197d9384cd9d:0x11226b272c6be0b2": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae196f3efabe1d:0x787bbf94a8ef0dde": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1916b73138af:0x606c34389cd7e6bd": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true,
+      "fresh": true,
+      "fresh_retried": true
+    },
+    "0x3bae1ecd0a5c0543:0xd4b712c05a110e71": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1f028ffa149b:0x4848588589cb9493": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true,
+      "fresh": true,
+      "fresh_retried": true
+    },
+    "0x3bae1f00671f5ff9:0x9527fccf27b2f187": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1fcd0ceaa3a3:0x920c3e619894eb14": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1f7477b556d3:0x8c7dfe0eb0754e5c": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1ebf50072b75:0x444bc75f4a582a0a": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1fb4350494a7:0xe439478d17ad2e1a": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1e842d0cbdd1:0xd4eb870efbba7967": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1e86941cd0db:0x5d472c182c9721f3": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1f8c15fece47:0x92e69992bab29c56": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1fb999936ad5:0x79374f06ffceb889": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1f0058d97905:0xe73592bbe64cf6a7": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1d00468c4e4f:0xb472f74e2a0cfb45": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1d3f2f5b9811:0xf49561b63d6d7d65": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bae1d6611382485:0xd2f76e5fd6d82382": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e390a5514f65:0x3b8f2ca25b4423de": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e397f793c70f:0x60862294e68b1a37": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e29159d69fe1:0x324d96dade0efb15": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e3ae98bda1eb:0x8370cc11593217b3": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e3f2fe781a35:0xa978b861803d2fbb": {
+      "next_page": 1,
+      "next_page_token": null,
+      "finished": false
+    },
+    "0x3bb1e371772cff9f:0x4eb6f86a41629776": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e30070aee50f:0x4b5fdf769acaf73f": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e56ca53ca115:0x9ae11bd0462879f2": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1ef7b3a68cf11:0x346e2f8b991ea805": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1f1110c2b23ab:0x69175de9332ae531": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1e520cfaa728b:0x45550c587033f0ac": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1f3b47678b4ad:0x7ea45b9283828a19": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1f387d961ff7f:0x5e5f63a1d714047b": {
+      "next_page": 2,
+      "next_page_token": null,
+      "finished": true
+    },
+    "0x3bb1f35e46db6f73:0x6ba914581ed1edcf": {
+      "next_page": 1,
+      "next_page_token": null,
+      "finished": false
+    },
+    "0x3bb1f35231de3245:0x2317d9c04322686c": {
+      "next_page": 1,
+      "next_page_token": null,
+      "finished": false
+    }
+  }
+}

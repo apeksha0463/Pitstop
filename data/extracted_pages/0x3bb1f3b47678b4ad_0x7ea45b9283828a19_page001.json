@@ -1,0 +1,80 @@
+{
+  "data_id": "0x3bb1f3b47678b4ad:0x7ea45b9283828a19",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "IVTC",
+    "place_type": "Indian restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdk1FTnJOVzg0ZEVWM1JEZHZlbEJMTWtoTGNWRRAB",
+      "author": "Venu Venu",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxbWFGVk5jbTFaTFVNM04xRkVSV3hrTmt4cGVGRRAB",
+      "author": "Anupriya Verma",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aSFl6bFdhRVF5TURSMWEwRlJkRXhwUkUxVFRrRRAB",
+      "author": "naveen ramappa",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tseFVsZERZazF1WVhGR2ExY3lOVWRSUTBWaVFuYxAB",
+      "author": "Poorvika Harish",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNVoxbGpkWFZNVWsxNE4yNWpRa1J4V0ZjM2QwRRAB",
+      "author": "Divya Arora",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    }
+  ]
+}

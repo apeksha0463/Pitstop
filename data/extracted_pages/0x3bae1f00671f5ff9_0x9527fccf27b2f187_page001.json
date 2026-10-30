@@ -1,0 +1,79 @@
+{
+  "data_id": "0x3bae1f00671f5ff9:0x9527fccf27b2f187",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "LIQUID SKY FAMILY FINE DINE AND BAR",
+    "place_type": "Fine dining restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUU0zTnFTR041VlROWk0xbFVObTluYjNSMWVtYxAB",
+      "author": "Prateek Miranda",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NWJIRXlaMU0zVm5oNFJrWndkekpNZERWWFdHYxAB",
+      "author": "Abhay Yadav",
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcVJXUkhUMnBPTURFM2NWTmliRGxYU2xkSlkwRRAB",
+      "author": "Sakkath Hot Biryani",
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STVkwMU9VVmxQUlZORFdHTlFSbmx1YmpkaGNGRRAB",
+      "author": "NAVY々SEALs",
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paS1UyWlpUR1E1YWtkblVrRmZkMHRXZG5aVE1tYxAB",
+      "author": "Nirmal Saha",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "images": []
+    }
+  ]
+}

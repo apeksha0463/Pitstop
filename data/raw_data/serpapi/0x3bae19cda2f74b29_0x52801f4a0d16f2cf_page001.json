@@ -1,0 +1,226 @@
+{
+  "search_metadata": {
+    "id": "6ae44cb953938173d00f01e8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Qu5Ocz7insxIkFMNQYgM8IRRgrxIqyHCvnqNfVGmHVs/6ae44cb953938173d00f01e8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Qu5Ocz7insxIkFMNQYgM8IRRgrxIqyHCvnqNfVGmHVs/6ae44cb953938173d00f01e8.md",
+    "created_at": "2026-10-30 07:52:25 UTC",
+    "processed_at": "2026-10-30 07:52:25 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19cda2f74b29:0x52801f4a0d16f2cf!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Qu5Ocz7insxIkFMNQYgM8IRRgrxIqyHCvnqNfVGmHVs/6ae44cb953938173d00f01e8.html",
+    "prettify_html_file": "https://serpapi.com/searches/Qu5Ocz7insxIkFMNQYgM8IRRgrxIqyHCvnqNfVGmHVs/6ae44cb953938173d00f01e8.prettify",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19cda2f74b29:0x52801f4a0d16f2cf",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "NEKTR",
+    "address": "3rd Floor, 10/1, Jakkur Rd, Jakkuru Layout, Jakkur, Bengaluru, Karnataka 560064, India",
+    "rating": 4.8,
+    "reviews": 200,
+    "type": "Bar"
+  },
+  "topics": [
+    {
+      "keyword": "rooftop",
+      "mentions": 8,
+      "id": "QBbpTqePsM4"
+    },
+    {
+      "keyword": "stuffed mushroom",
+      "mentions": 2,
+      "id": "QWUUm-fWblQ"
+    },
+    {
+      "keyword": "polite staff",
+      "mentions": 7,
+      "id": "B30PdHtYgDQ"
+    },
+    {
+      "keyword": "food suggestions",
+      "mentions": 6,
+      "id": "BNirob4oQAA"
+    },
+    {
+      "keyword": "responsive staff",
+      "mentions": 2,
+      "id": "AeVHtBXsgDg"
+    },
+    {
+      "keyword": "relaxed evening",
+      "mentions": 3,
+      "id": "YNArfB9T4lc"
+    },
+    {
+      "keyword": "ambience",
+      "mentions": 18,
+      "id": "JGvrBjVCxMw"
+    },
+    {
+      "keyword": "hospitality",
+      "mentions": 15,
+      "id": "FHdFkJbU8aY"
+    },
+    {
+      "keyword": "non veg food",
+      "mentions": 3,
+      "id": "BYzzkaQgfDk"
+    },
+    {
+      "keyword": "food quality",
+      "mentions": 2,
+      "id": "ANy51bJICSk"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsQlkwODJkazlwUVhNNE4ySXRRVFpyT1Rad00xRRAB!2m1!1s0x0:0x52801f4a0d16f2cf!3m1!1s2@1:CAIQACodChtycF9oOklBY082dk9pQXM4N2ItQTZrOTZwM1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "13 hours ago",
+      "iso_date": "2026-10-29T18:21:40Z",
+      "iso_date_of_last_edit": "2026-10-29T18:21:40Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQlkwODJkazlwUVhNNE4ySXRRVFpyT1Rad00xRRAB",
+      "user": {
+        "name": "SUDHEER SHETTY",
+        "link": "https://www.google.com/maps/contrib/113453550003590322855?hl=en",
+        "contributor_id": "113453550003590322855",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL6f5OAIgUdyuuuC1rebK4s2LpgBQizLvr2Uz8B4Ub8tdaBCQ=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Good ambience good service\nHem kumar was very polite and friendly and made the service go smooth.\nOver all it was too good. Highly recommend for food and peace of mind.",
+      "extracted_snippet": {
+        "original": "Good ambience good service\nHem kumar was very polite and friendly and made the service go smooth.\nOver all it was too good. Highly recommend for food and peace of mind."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paQllraHFOMmRUVFZSWmNXVmxUR0ZLT0RBM2QwRRAB!2m1!1s0x0:0x52801f4a0d16f2cf!3m1!1s2@1:CAIQACodChtycF9oOjZBYkhqN2dTTVRZcWVlTGFKODA3d0E%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T07:38:10Z",
+      "iso_date_of_last_edit": "2026-10-29T07:38:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paQllraHFOMmRUVFZSWmNXVmxUR0ZLT0RBM2QwRRAB",
+      "user": {
+        "name": "chandan kar",
+        "link": "https://www.google.com/maps/contrib/117045351946379388949?hl=en",
+        "contributor_id": "117045351946379388949",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJSwHmSBHRP_AYqOyFYWMEOwLO_JReQtAwkksxi-u796HwM0L7A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 11,
+        "photos": 21
+      },
+      "details": {
+        "food": 3,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psM1dHb3laVUZUZG1SNmFEVmFaMGRvT1ZOSE0zYxAB!2m1!1s0x0:0x52801f4a0d16f2cf!3m1!1s2@1:CAIQACodChtycF9oOjl3WGoyZUFTdmR6aDVaZ0doOVNHM3c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T15:27:06Z",
+      "iso_date_of_last_edit": "2026-10-27T15:27:06Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psM1dHb3laVUZUZG1SNmFEVmFaMGRvT1ZOSE0zYxAB",
+      "user": {
+        "name": "Shawn Paes",
+        "link": "https://www.google.com/maps/contrib/117683694952110533509?hl=en",
+        "contributor_id": "117683694952110533509",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUENEUazSHm4IRAoI-sb4LV17qAGCxsBwjzP3jnNL09ipyQiwcCPQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 91,
+        "photos": 103
+      },
+      "snippet": "Food I felt was very limited by since we were one of the two ppl in the restraint at lunch it felt great and the scene from roof top os good and amazing wind. They also have nice toit beer",
+      "extracted_snippet": {
+        "original": "Food I felt was very limited by since we were one of the two ppl in the restraint at lunch it felt great and the scene from roof top os good and amazing wind. They also have nice toit beer"
+      },
+      "details": {
+        "price_per_person": "₹2,000+",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkVldraFFNM2xZT0cxVWEzUmlYM05rYjFCc1VFRRAB!2m1!1s0x0:0x52801f4a0d16f2cf!3m1!1s2@1:CAIQACodChtycF9oOjdVWkhQM3lYOG1Ua3RiX3Nkb1BsUEE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T08:37:13Z",
+      "iso_date_of_last_edit": "2026-10-27T08:37:13Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVldraFFNM2xZT0cxVWEzUmlYM05rYjFCc1VFRRAB",
+      "user": {
+        "name": "Amruta Padgaonkar",
+        "link": "https://www.google.com/maps/contrib/116482975926448977549?hl=en",
+        "contributor_id": "116482975926448977549",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVWbqlvXXL5fX8Z9PbyN0GBevdI3KHwJaJRzI2cxXQmXZun_LPy=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 18,
+        "photos": 9
+      },
+      "details": {
+        "price_per_person": "₹1,400–1,600",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 4,
+        "noise_level": "Moderate noise",
+        "group_size": "2 people",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Vegetarian menu or section",
+        "parking_space": "Not sure"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25FNWVEbERNamczVW01WVlrbG9aVlZoTUZaa1JWRRAB!2m1!1s0x0:0x52801f4a0d16f2cf!3m1!1s2@1:CAIQACodChtycF9oOnE5eDlDMjg3Um5YYkloZVVhMFZkRVE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-26T00:19:11Z",
+      "iso_date_of_last_edit": "2026-10-26T00:19:11Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdqZeAJs-Tzt9bdrpfaiSsO-pLtUBpoHPDM6yaozbqyFAvRV_nEWza7aCXr5Hn53U9sCl_5--f2ymV6UmrGT6XwtUCQHYsdRyYgsMI0Hgj2XNA8CA1t6FvT1PK36KSPa9pFjAgRZ9dwDWEH=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNWVEbERNamczVW01WVlrbG9aVlZoTUZaa1JWRRAB",
+      "user": {
+        "name": "Shanu Khandelwal",
+        "link": "https://www.google.com/maps/contrib/105337139666349253934?hl=en",
+        "contributor_id": "105337139666349253934",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJP25Iz4aBkuWyYm8HN_TNTuJGKeSmi1gPts-jAIlu3sC9pCwrj=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 59,
+        "photos": 45
+      },
+      "snippet": "Beautiful Views, Disappointing Food – A Really Bad Dining Experience at NEKTR\n\nThe views at NEKTR are absolutely amazing, and the ambience is beautiful. Unfortunately, the food was nowhere close to what we expected, making it a very disappointing experience.\n\nHere’s what went wrong with almost everything we ordered:\n\n* Malai Broccoli: Loaded with cardamom and so sweet that it tasted more like a dessert than a savoury starter.\n* Chicken Coriander Soup: Just chicken broth with barely two tiny pieces of chicken. Extremely disappointing.\n* Tofu Tom Kha Soup: Essentially spicy coconut milk with just two micro-mini tofu dumplings. There was hardly anything substantial in it.\n* Dark Chocolate Mousse: The worst part of the meal. It tasted more like chocolate halwa than mousse, and to make matters worse, it wasn’t even served cold.\n\nThe food was so disappointing that we eventually gave up on NEKTR and walked to the Biryani Zone in the next building for our main course.\n\nWhile the view is undoubtedly beautiful, a great ambience cannot compensate for such poor food quality and execution. We came expecting a wonderful dining experience but left thoroughly disappointed.\n\nNEKTR has a beautiful setting, but the food definitely needs serious improvement. Not an experience we would want to repeat.",
+      "extracted_snippet": {
+        "original": "Beautiful Views, Disappointing Food – A Really Bad Dining Experience at NEKTR\n\nThe views at NEKTR are absolutely amazing, and the ambience is beautiful. Unfortunately, the food was nowhere close to what we expected, making it a very disappointing experience.\n\nHere’s what went wrong with almost everything we ordered:\n\n* Malai Broccoli: Loaded with cardamom and so sweet that it tasted more like a dessert than a savoury starter.\n* Chicken Coriander Soup: Just chicken broth with barely two tiny pieces of chicken. Extremely disappointing.\n* Tofu Tom Kha Soup: Essentially spicy coconut milk with just two micro-mini tofu dumplings. There was hardly anything substantial in it.\n* Dark Chocolate Mousse: The worst part of the meal. It tasted more like chocolate halwa than mousse, and to make matters worse, it wasn’t even served cold.\n\nThe food was so disappointing that we eventually gave up on NEKTR and walked to the Biryani Zone in the next building for our main course.\n\nWhile the view is undoubtedly beautiful, a great ambience cannot compensate for such poor food quality and execution. We came expecting a wonderful dining experience but left thoroughly disappointed.\n\nNEKTR has a beautiful setting, but the food definitely needs serious improvement. Not an experience we would want to repeat."
+      },
+      "details": {
+        "food": 1
+      },
+      "likes": 0
+    }
+  ]
+}

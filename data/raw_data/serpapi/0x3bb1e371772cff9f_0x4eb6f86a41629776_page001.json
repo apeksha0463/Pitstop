@@ -1,0 +1,281 @@
+{
+  "search_metadata": {
+    "id": "6ae44d20fdb9776ac0a523d1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OOklxK146b1C-aS22mouUFyQd68oowWrmWgoVyF5xUk/6ae44d20fdb9776ac0a523d1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/OOklxK146b1C-aS22mouUFyQd68oowWrmWgoVyF5xUk/6ae44d20fdb9776ac0a523d1.md",
+    "created_at": "2026-10-30 07:54:08 UTC",
+    "processed_at": "2026-10-30 07:54:08 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e371772cff9f:0x4eb6f86a41629776!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/OOklxK146b1C-aS22mouUFyQd68oowWrmWgoVyF5xUk/6ae44d20fdb9776ac0a523d1.html",
+    "prettify_html_file": "https://serpapi.com/searches/OOklxK146b1C-aS22mouUFyQd68oowWrmWgoVyF5xUk/6ae44d20fdb9776ac0a523d1.prettify",
+    "total_time_taken": 0.64
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e371772cff9f:0x4eb6f86a41629776",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Adyar Ananda Bhavan - A2B",
+    "address": "Ward no 10, Shop No. 975, 119/2, BB Rd, near Rani circle, Devanahalli Town, Karnataka 562110, India",
+    "rating": 4.6,
+    "reviews": 10102,
+    "type": "Vegetarian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "idli",
+      "mentions": 68,
+      "id": "Cw9CZWkNxus"
+    },
+    {
+      "keyword": "pongal",
+      "mentions": 37,
+      "id": "DhRpIeI1erc"
+    },
+    {
+      "keyword": "Rava Masala Dosa",
+      "mentions": 42,
+      "id": "gAug33IwYss"
+    },
+    {
+      "keyword": "polite staff",
+      "mentions": 205,
+      "id": "B30PdHtYgDQ"
+    },
+    {
+      "keyword": "sambar",
+      "mentions": 25,
+      "id": "JiT9ZvNSMhM"
+    },
+    {
+      "keyword": "vada",
+      "mentions": 16,
+      "id": "A8vA_gNj5wc"
+    },
+    {
+      "keyword": "south indian food",
+      "mentions": 51,
+      "id": "Jk-Caz57Xj4"
+    },
+    {
+      "keyword": "mini tiffin",
+      "mentions": 9,
+      "id": "ED_W3bxHfwE"
+    },
+    {
+      "keyword": "chutney",
+      "mentions": 20,
+      "id": "YD3JP_Zmbk8"
+    },
+    {
+      "keyword": "twuisa",
+      "mentions": 6,
+      "id": "ECLGESnPZuc"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKalZrdFBNVTUyYkcxSlUxQXRXR2d6ZVRoTU5sRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOkJjVktPMU52bG1JU1AtWGgzeThMNlE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "14 hours ago",
+      "iso_date": "2026-10-29T17:20:41Z",
+      "iso_date_of_last_edit": "2026-10-29T17:20:41Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeIjtGbZqcPHT5HxdCBkq0P4Vm5BrpfnlmBp3CXOBtp1r2X9KzqceECDHC1a4yc9gDWXoAcnKRe6jQinMvMsQ8XmWqly6iXY36mtcuv1tOEqSuSLSj31Q8RGc29AlHrgNtE9qffZiwQcpN8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeziTUaTl_19PsRJI_33Ohg12TuEYMLM6SIYEGfDZ5LYuA3Wc5Yn4v38_hkf0VPedvSgzlNfS9E9Q0GuK33Mym2LaMPSHAkIWugRd2d035i4Rstlk9Rf3q4VcQ_5Rs455J6BxMOH3p8L0de=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfzjlP4-bMUqrAUhqkcsRPWX2S2G27awA4dqaw-SodMhxc7zjx6nkNR0FY0VKwdOjXqkduf_mdpE1F5Mbj9lsDhFF5Yr31nOJ_8f9amKPOP6BmvBzSqFiP_itcpxMgutuueTUpi4hCQYoQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKalZrdFBNVTUyYkcxSlUxQXRXR2d6ZVRoTU5sRRAB",
+      "user": {
+        "name": "Aishwarya Bogar",
+        "link": "https://www.google.com/maps/contrib/105969927109437527912?hl=en",
+        "contributor_id": "105969927109437527912",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLzaJf3bkFSuRkutLJxPihajbdVSDv39Gv__86Tgzm4ANQXzA=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 3
+      },
+      "snippet": "Food severed was either not salty or too spicy worst branch of A2B all food worth 2.5k was wasted",
+      "extracted_snippet": {
+        "original": "Food severed was either not salty or too spicy worst branch of A2B all food worth 2.5k was wasted"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "group_size": "3-4 people",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Would not recommend"
+      },
+      "likes": 0,
+      "response": {
+        "date": "13 hours ago",
+        "iso_date": "2026-10-29T18:00:22Z",
+        "iso_date_of_last_edit": "2026-10-29T18:00:22Z",
+        "snippet": "Dear Aishwarya Bogar,\n\nWe're really sorry to hear that your experience didn't meet your expectations. It sounds frustrating to have dishes that were either too salty or too spicy, especially when you were looking forward to your meal. Thank you for sharing your thoughts with us; we’ll take this feedback to heart as we strive to improve.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Aishwarya Bogar,\n\nWe're really sorry to hear that your experience didn't meet your expectations. It sounds frustrating to have dishes that were either too salty or too spicy, especially when you were looking forward to your meal. Thank you for sharing your thoughts with us; we’ll take this feedback to heart as we strive to improve.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKTE0wMDVka2haWkU5cFRYUjVabGMzU2pneE1FRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOlJLM005dkhZZE9pTXR5Zlc3SjgxMEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "16 hours ago",
+      "iso_date": "2026-10-29T15:47:57Z",
+      "iso_date_of_last_edit": "2026-10-29T15:47:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTE0wMDVka2haWkU5cFRYUjVabGMzU2pneE1FRRAB",
+      "user": {
+        "name": "BASAVARAJA BASAVARAJA",
+        "link": "https://www.google.com/maps/contrib/114145732620886993852?hl=en",
+        "contributor_id": "114145732620886993852",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK8aqSx4s8U-6SOV98ZJLgPQpwRsSSOCblSnp-2pTDZkFmSFA=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Good service by manaranjan",
+      "extracted_snippet": {
+        "original": "Good service by manaranjan"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "2 people",
+        "wait_time": "No wait"
+      },
+      "likes": 0,
+      "response": {
+        "date": "14 hours ago",
+        "iso_date": "2026-10-29T17:01:17Z",
+        "iso_date_of_last_edit": "2026-10-29T17:01:17Z",
+        "snippet": "Dear BASAVARAJA BASAVARAJA,\n\nThanks for the shoutout to Manaranjan! We’re thrilled to hear you enjoyed the service. Our team always strives to create a great dining experience for everyone.\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear BASAVARAJA BASAVARAJA,\n\nThanks for the shoutout to Manaranjan! We’re thrilled to hear you enjoyed the service. Our team always strives to create a great dining experience for everyone.\n\nThanks \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKeFRYUnhNa3BUTWxoRFFsbG1URmRWVEcxd2NrRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOlJxTXRxMkpTMlhDQllmTFdVTG1wckE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "22 hours ago",
+      "iso_date": "2026-10-29T09:28:34Z",
+      "iso_date_of_last_edit": "2026-10-29T09:28:34Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeFRYUnhNa3BUTWxoRFFsbG1URmRWVEcxd2NrRRAB",
+      "user": {
+        "name": "Kruthika Devraj",
+        "link": "https://www.google.com/maps/contrib/103655943119975601196?hl=en",
+        "contributor_id": "103655943119975601196",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ8mca4KC9FrEVx3RT5-kLmc3PM-czKkyWBKFrPqj7xRwXqWw=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Geetha kumari",
+      "extracted_snippet": {
+        "original": "Geetha kumari",
+        "translated": "Geetha Kumari"
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "21 hours ago",
+        "iso_date": "2026-10-29T10:01:58Z",
+        "iso_date_of_last_edit": "2026-10-29T10:01:58Z",
+        "snippet": "Dear Kruthika Devraj,\n\nThank you for your review! We’re glad you chose to dine with us and hope you enjoyed your experience. If there’s anything specific you’d like to share about your visit, we’d love to hear more!\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Kruthika Devraj,\n\nThank you for your review! We’re glad you chose to dine with us and hope you enjoyed your experience. If there’s anything specific you’d like to share about your visit, we’d love to hear more!\n\nThanks \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCWmFFd3hVMEozUTJwMVRVSjVVVmhzZG01R05HYxAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOlBZaEwxU0J3Q2p1TUJ5UVhsdm5GNGc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T17:06:40Z",
+      "iso_date_of_last_edit": "2026-10-28T17:06:40Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWmFFd3hVMEozUTJwMVRVSjVVVmhzZG01R05HYxAB",
+      "user": {
+        "name": "ashutosh patil",
+        "link": "https://www.google.com/maps/contrib/112037021079186254662?hl=en",
+        "contributor_id": "112037021079186254662",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK7VCnzayTAbR5Pn8f-CFXEL1H7NYk12HHCxCE3k_thRJbXRQ=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Subash Kumar & Manoranjan for incredible hospitality.",
+      "extracted_snippet": {
+        "original": "Subash Kumar & Manoranjan for incredible hospitality."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "a day ago",
+        "iso_date": "2026-10-28T17:32:37Z",
+        "iso_date_of_last_edit": "2026-10-28T17:32:37Z",
+        "snippet": "Dear ashutosh patil,\n\nWe're thrilled to hear you enjoyed the incredible hospitality from Subash Kumar and Manoranjan! Our team takes pride in making every guest feel special, and it's wonderful to know they made a positive impact on your experience.\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear ashutosh patil,\n\nWe're thrilled to hear you enjoyed the incredible hospitality from Subash Kumar and Manoranjan! Our team takes pride in making every guest feel special, and it's wonderful to know they made a positive impact on your experience.\n\nThanks \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Rd1JIUXhaR3A0VkdwRlV6YzJjV0YwZVhsb1VVRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOnQwRHQxZGp4VGpFUzc2cWF0eXloUUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T17:06:35Z",
+      "iso_date_of_last_edit": "2026-10-28T17:06:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Rd1JIUXhaR3A0VkdwRlV6YzJjV0YwZVhsb1VVRRAB",
+      "user": {
+        "name": "Chaitra K",
+        "link": "https://www.google.com/maps/contrib/111068113393936619955?hl=en",
+        "contributor_id": "111068113393936619955",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUMzwu60MWYIbo9IQRgmSSGXRpJ5a_JWsXFzIRLGRflOG971Xg=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Manoranjan was of great help!",
+      "extracted_snippet": {
+        "original": "Manoranjan was of great help!"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "a day ago",
+        "iso_date": "2026-10-28T17:32:39Z",
+        "iso_date_of_last_edit": "2026-10-28T17:32:39Z",
+        "snippet": "Dear Chaitra K,\n\nWe're so glad to hear that Manoranjan made a positive impact during your visit! It's always wonderful to know our team is providing great help and making your experience enjoyable.\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Chaitra K,\n\nWe're so glad to hear that Manoranjan made a positive impact during your visit! It's always wonderful to know our team is providing great help and making your experience enjoyable.\n\nThanks \nTeam A2B"
+        }
+      }
+    }
+  ]
+}

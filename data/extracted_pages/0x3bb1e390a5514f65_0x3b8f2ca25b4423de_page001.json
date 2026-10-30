@@ -1,0 +1,138 @@
+{
+  "data_id": "0x3bb1e390a5514f65:0x3b8f2ca25b4423de",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Nandagokula AC Veg restaurant",
+    "place_type": "Vegetarian restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 2,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twUmRreFhiR1ZmTXpsblRGbEpXbUYwWm1ORGMyYxAB",
+      "author": "Ashwin Karanam",
+      "rating": 5.0,
+      "date": "a day ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVFlpMU5WMGgyT0V4WVFXdHljMDh0UkhOV2JYYxAB",
+      "author": "Ranjan Prasad",
+      "rating": 4.0,
+      "date": "a day ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdr54-iaZuQloIM9zMd0-ehdWnQB1si2npASsoOxQUsLOERrM8gs5x0P58fcKiOPpMLEC9RutKa6u81cgKM2gCefT1LrIUCV610zK-6yTbJ4FWfKbOHbgl9af248lwYDOIf1W5WcPnVZc=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3lyLOmVhdFNZtF-P8tZQMrsGRQCLZXarpvJPDc7-9EkSCRPEYWuFuFOPUdrtxFOhQ_rUTloBDv9qfXMrkg6oI5bXHdt-L7rb1PP94jBbc8ljhYDq8Xp7TqYEsh_6Yv86G-nb4Geq5XZIP=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTdXyDPRRTKcNGIHXhqGOfZ0T_PKSpJMwXgkDsRhzMUG5ex-t0WlvRBItRp0KprUJa7ob0LZngPSor6Fy9_NNNieRTbW-pFpJNS0QkftlLRnwUud5Hh_6ItUN-f2m2cu6pg7G5gqFO5ESc=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuKIdosozMC2cIIRwm9-6Lq-GPEngPa5qN1dHcKAC5IRxX_p7UKDL5NMZkaDLRlSmdMd_GuqzQPyLoQU9kkd0BCdmapEMhIDbS81FONZxROdEMWtvaowOjKt6_qR9hBXtVUVW4NHbXVvhv=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcluCJHIxczbZzyD7yBZ7KzsL_rlAFQjxJPvk-0_pI_8vPHmNJNpAphIIKHd8UTBaFTUj0G69SzfLa5lbggtpwlyZShqbnULw95-Vu8bVxTp1LofNeN-Ve6sdiGJLmzfNU0sK8-qCX1nzkk=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbR9QgSIfSaVbFt892ySSuk_MhK5ME6KnXC1sUEytHdir3g8NE4OKCJnTJEqmU0wZzXUuW8lyHLfyeiCtF5sx1GJNufFhf-pG5wWDXO2yYdA3QoOGCPdv_Gxsd6m-vaE-W7oMFpVB3Wvg=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKb2VqUnhWVll3WVdsbVQwZFhiRGxHVFRCMFgyYxAB",
+      "author": "Sanjay Harane",
+      "rating": 4.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cWJFbDZPVFZKVnpSWUxWcFZTamM1TFhaMmJHYxAB",
+      "author": "Darling Rafi Darling Rafi",
+      "rating": 5.0,
+      "date": "6 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVVdYZGZUMDkzYjJWdE5WRmtRalUxWTB0M2QzYxAB",
+      "author": "shreyas shreyas",
+      "rating": 2.0,
+      "date": "a week ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchFvsjZVTtgo_13SCbheHGqw6ysY8SyWMrimyqpYWzwYr1t8gUSpJLJE_e0Jg7Lh2hjzLnr8zCnWPuRCNQOyv2ZhFcd9CMfuVNrUTcgywp2inibuEvSLlfzsntydWaRGEc2exvmkzy9RL1=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefQvkdLlJwa1EbIw2GELPPahIFzvhMCVaLfePgdrJuNIpX6vLYcQvGWs-yk3kOdVlgSn6PSyeCP7VjcS0GVL2ibUdCivj6BMnzXhcgZqbrd6fZrHaSz7uoRWs1XdkHPIvIvYwlM7r8Yn4=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    }
+  ]
+}

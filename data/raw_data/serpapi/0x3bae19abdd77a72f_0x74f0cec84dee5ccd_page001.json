@@ -1,0 +1,208 @@
+{
+  "search_metadata": {
+    "id": "6ae44cce1bd4f04ceffd71e2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/NeB8eSviAne0ajipWvygy1A_DWT4yzyms9pSpieCxtc/6ae44cce1bd4f04ceffd71e2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/NeB8eSviAne0ajipWvygy1A_DWT4yzyms9pSpieCxtc/6ae44cce1bd4f04ceffd71e2.md",
+    "created_at": "2026-10-30 07:52:46 UTC",
+    "processed_at": "2026-10-30 07:52:46 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19abdd77a72f:0x74f0cec84dee5ccd!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/NeB8eSviAne0ajipWvygy1A_DWT4yzyms9pSpieCxtc/6ae44cce1bd4f04ceffd71e2.html",
+    "prettify_html_file": "https://serpapi.com/searches/NeB8eSviAne0ajipWvygy1A_DWT4yzyms9pSpieCxtc/6ae44cce1bd4f04ceffd71e2.prettify",
+    "total_time_taken": 0.73
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19abdd77a72f:0x74f0cec84dee5ccd",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Kanhaji",
+    "address": "B-7, SLN Shopping Complex, 842/10, Kogilu Main Rd, Maruthi Nagar, Kogilu, Bengaluru, Karnataka 560064, India",
+    "rating": 3.6,
+    "reviews": 939,
+    "type": "North Indian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "jalebi",
+      "mentions": 20,
+      "id": "IksyUFEKc-c"
+    },
+    {
+      "keyword": "pav bhaji",
+      "mentions": 26,
+      "id": "IE0g3FBJa8s"
+    },
+    {
+      "keyword": "chaats",
+      "mentions": 25,
+      "id": "MSwE__oHdUk"
+    },
+    {
+      "keyword": "samosa",
+      "mentions": 18,
+      "id": "BH8tTn9TYbc"
+    },
+    {
+      "keyword": "kachori",
+      "mentions": 10,
+      "id": "Qx7V_ZYN-U8"
+    },
+    {
+      "keyword": "rasmalai",
+      "mentions": 6,
+      "id": "RmFsLn0KVj8"
+    },
+    {
+      "keyword": "bhelpuri",
+      "mentions": 5,
+      "id": "Ik840DHbfus"
+    },
+    {
+      "keyword": "sambar",
+      "mentions": 5,
+      "id": "JiT9ZvNSMhM"
+    },
+    {
+      "keyword": "chole bhature",
+      "mentions": 9,
+      "id": "AB7A_1zpf2E"
+    },
+    {
+      "keyword": "panipuri",
+      "mentions": 5,
+      "id": "Kg1Y7NLnao8"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSc2NIQlVabkJVVW1kSWJGVk9MWE5NYW01M2RsRRAB!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CAIQACodChtycF9oOlRscHBUZnBUUmdIbFVOLXNMam53dlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T02:54:39Z",
+      "iso_date_of_last_edit": "2026-10-25T02:54:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSc2NIQlVabkJVVW1kSWJGVk9MWE5NYW01M2RsRRAB",
+      "user": {
+        "name": "Aadi Kar",
+        "link": "https://www.google.com/maps/contrib/110529765727763593671?hl=en",
+        "contributor_id": "110529765727763593671",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUAFcdE79I0snT1OUv3h1-SLJ44f-jtFp_OL7Yov-fVp4CU-XQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 8,
+        "photos": 133
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taRVFVOUdhbFZvWm13emNHaEplbU5OZUhWUldFRRAB!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CAIQACodChtycF9oOkZEQU9GalVoZmwzcGhJemNNeHVRWEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T12:43:14Z",
+      "iso_date_of_last_edit": "2026-10-04T12:43:14Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRVFVOUdhbFZvWm13emNHaEplbU5OZUhWUldFRRAB",
+      "user": {
+        "name": "Rishabh Sequeira",
+        "link": "https://www.google.com/maps/contrib/107556598112321184281?hl=en",
+        "contributor_id": "107556598112321184281",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWCAdRGNsm0BXwKk6FvxH344kWRwsyeusGm4ySaU27LxLSrYfg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 8,
+        "photos": 90
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoMWNsbzRlRmRIZVRkb1IwTmpRMlZrUzB4blprRRAB!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CAIQACodChtycF9oOlh1clo4eFdHeTdoR0NjQ2VkS0xnZkE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-29T10:03:47Z",
+      "iso_date_of_last_edit": "2026-09-29T10:03:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMWNsbzRlRmRIZVRkb1IwTmpRMlZrUzB4blprRRAB",
+      "user": {
+        "name": "Rakesh Kumar",
+        "link": "https://www.google.com/maps/contrib/111769283597961110399?hl=en",
+        "contributor_id": "111769283597961110399",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKH45Fmw8Wq3sf4UQ5ZeEbq7ZYO-nHPaNOfU_hadYuf7vTxsQ=s120-c-rp-mo-br100",
+        "reviews": 12,
+        "photos": 0
+      },
+      "snippet": "Worst food , Frech fries were burnt and Chola was pathetic taste",
+      "extracted_snippet": {
+        "original": "Worst food , Frech fries were burnt and Chola was pathetic taste"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25VMFZGZDROazVuVm1SM1UySjBjV0prYVhrdFNXYxAB!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CAIQACodChtycF9oOnU0VFd4Nk5nVmR3U2J0cWJkaXktSWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T15:16:23Z",
+      "iso_date_of_last_edit": "2026-09-28T15:16:23Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMFZGZDROazVuVm1SM1UySjBjV0prYVhrdFNXYxAB",
+      "user": {
+        "name": "Manish Kumar",
+        "link": "https://www.google.com/maps/contrib/105343366161419984423?hl=en",
+        "contributor_id": "105343366161419984423",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIA9na7Vh0ZSXO9SegDnvclC9iMS3jzNn8nsbumcaPqz_ZU_A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 40,
+        "photos": 12
+      },
+      "snippet": "All items are costlier than the any of surrounding restaurant.\nCheck the menu.\nEven AC hall of nearby restaurants charges less than KANHAJI",
+      "extracted_snippet": {
+        "original": "All items are costlier than the any of surrounding restaurant.\nCheck the menu.\nEven AC hall of nearby restaurants charges less than KANHAJI"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "food": 3,
+        "service": 2,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSVE5rdEVjalprYm14Tk1FUk5TazV3ZFZCQmNXYxAB!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CAIQACodChtycF9oOjRTNktEcjZkbmxNMERNSk5wdVBBcWc%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T02:03:33Z",
+      "iso_date_of_last_edit": "2026-09-25T02:03:33Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSVE5rdEVjalprYm14Tk1FUk5TazV3ZFZCQmNXYxAB",
+      "user": {
+        "name": "Megha R SHETTY",
+        "link": "https://www.google.com/maps/contrib/103803659190694132523?hl=en",
+        "contributor_id": "103803659190694132523",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVQHvOYKjBQ1nNXVwvSQkOZVlGVjOp-OGzQocHw9tg2ZbgtIou3=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 28,
+        "photos": 11
+      },
+      "snippet": "Had pani puri and masala puri here. The pani puri water was served ice-cold, straight from the fridge, which didn’t feel very good. The masala puri tasted more like dal chaat and was not to my liking wouldn’t recommend it. The gobi was just okay, nothing special.",
+      "extracted_snippet": {
+        "original": "Had pani puri and masala puri here. The pani puri water was served ice-cold, straight from the fridge, which didn’t feel very good. The masala puri tasted more like dal chaat and was not to my liking wouldn’t recommend it. The gobi was just okay, nothing special."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Other",
+        "price_per_person": "₹200–400",
+        "food": 2,
+        "service": 3,
+        "atmosphere": 3,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    }
+  ]
+}

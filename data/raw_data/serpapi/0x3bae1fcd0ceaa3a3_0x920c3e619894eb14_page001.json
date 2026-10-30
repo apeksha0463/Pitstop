@@ -1,0 +1,207 @@
+{
+  "search_metadata": {
+    "id": "6ae44cf3c85051b935638446",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/DvYe57FXPVWzgLPDJ_yNXcELciXI3CbdHa7FfbLCYVU/6ae44cf3c85051b935638446.json",
+    "markdown_endpoint": "https://serpapi.com/searches/DvYe57FXPVWzgLPDJ_yNXcELciXI3CbdHa7FfbLCYVU/6ae44cf3c85051b935638446.md",
+    "created_at": "2026-10-30 07:53:23 UTC",
+    "processed_at": "2026-10-30 07:53:23 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1fcd0ceaa3a3:0x920c3e619894eb14!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/DvYe57FXPVWzgLPDJ_yNXcELciXI3CbdHa7FfbLCYVU/6ae44cf3c85051b935638446.html",
+    "prettify_html_file": "https://serpapi.com/searches/DvYe57FXPVWzgLPDJ_yNXcELciXI3CbdHa7FfbLCYVU/6ae44cf3c85051b935638446.prettify",
+    "total_time_taken": 0.29
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1fcd0ceaa3a3:0x920c3e619894eb14",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "BEE ONE FAMILY RESTAURANT",
+    "address": "Balaji complex. Vidyanagar cross New airport road Bangalore North . 562157, Karnataka 562157, India",
+    "rating": 4.2,
+    "reviews": 188,
+    "type": "Kerala restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "pepper chicken gravy",
+      "mentions": 3,
+      "id": "Li50HcYhopA"
+    },
+    {
+      "keyword": "puttu with kadala",
+      "mentions": 2,
+      "id": "yKlZr2olO6s"
+    },
+    {
+      "keyword": "malabar food",
+      "mentions": 2,
+      "id": "bU2hf7hyWpw"
+    },
+    {
+      "keyword": "parotta",
+      "mentions": 2,
+      "id": "AgzZ7OIuICU"
+    },
+    {
+      "keyword": "value for money",
+      "mentions": 2,
+      "id": "BOy-1osMzBE"
+    },
+    {
+      "keyword": "food quality",
+      "mentions": 3,
+      "id": "ANy51bJICSk"
+    },
+    {
+      "keyword": "kerala food",
+      "mentions": 3,
+      "id": "Ft-B6yjr_AQ"
+    },
+    {
+      "keyword": "food",
+      "mentions": 7,
+      "id": "BFzIY7owYWU"
+    },
+    {
+      "keyword": "tea",
+      "mentions": 4,
+      "id": "KXsE_ToEcM8"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psSFduWnFTV3hpWVhsRk4xUnBXbVpLY3pGSlFXYxAB!2m1!1s0x0:0x920c3e619894eb14!3m1!1s2@1:CAIQACodChtycF9oOjlHWnZqSWxiYXlFN1RpWmZKczFJQWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T01:31:49Z",
+      "iso_date_of_last_edit": "2026-10-24T01:31:49Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSFduWnFTV3hpWVhsRk4xUnBXbVpLY3pGSlFXYxAB",
+      "user": {
+        "name": "Devesh Goel",
+        "link": "https://www.google.com/maps/contrib/103429456756204511882?hl=en",
+        "contributor_id": "103429456756204511882",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVkdHnn1VjJrx3NwUmHlVVWj7YjAQfnCajvPZCF4MFotHyiC-Q=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 6,
+        "photos": 59
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210WFZqUjVjbkJ5TFROZk0yUnZOSGgzWTJ4MVdsRRAB!2m1!1s0x0:0x920c3e619894eb14!3m1!1s2@1:CAIQACodChtycF9oOmtXVjR5cnByLTNfM2RvNHh3Y2x1WlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-29T00:11:12Z",
+      "iso_date_of_last_edit": "2026-09-29T00:11:12Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WFZqUjVjbkJ5TFROZk0yUnZOSGgzWTJ4MVdsRRAB",
+      "user": {
+        "name": "Jay Prakash",
+        "link": "https://www.google.com/maps/contrib/101573880041020376901?hl=en",
+        "contributor_id": "101573880041020376901",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX_9isbAv58Jfy_J9apfp30e9rP_4dgPJyC-W3MsbA7lnrKw_0=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 6,
+        "photos": 81
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21zeGIxOVNTRlZLYlhkaVFVMTVOMWh2WW10Q1FXYxAB!2m1!1s0x0:0x920c3e619894eb14!3m1!1s2@1:CAIQACodChtycF9oOmsxb19SSFVKbXdiQU15N1hvYmtCQWc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T10:11:36Z",
+      "iso_date_of_last_edit": "2026-08-27T10:11:36Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdqH910ZuRsBVdtmnzC5_KqSgagKOE7SC469TgkXgKLQfr2qyqDmvvxiikTt0yvgi3CdQjQt5flrbY_IDYW7ugg5lcPiwUKf5zr_b6UMKsNbmUdvf8rv1jRBtbsRPTKb00UbfRjsdIsHHb5=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdmUqqJoTsBM6pxtUGQrvZd39ZOBqrkT2cpPu48Kf6xUTazk8Um55sV3YuNlbKO03bNgzt8ao7RKgf5kfxGKz9hklTgWtpATsfV6hTxBfT4zie6fcerzn0Ct77S34o8cFeSnSJ3ZFB1a4S0=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeGIxOVNTRlZLYlhkaVFVMTVOMWh2WW10Q1FXYxAB",
+      "user": {
+        "name": "Piyush Pathak",
+        "link": "https://www.google.com/maps/contrib/116715287177491969844?hl=en",
+        "contributor_id": "116715287177491969844",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXXGlm4hqisyLC2H6pq7b19Iqg89FVTbE73BaLHs6a1O77CQev8KA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 109,
+        "photos": 588
+      },
+      "snippet": "In 80 rupees you will get veg mill",
+      "extracted_snippet": {
+        "original": "In 80 rupees you will get veg mill"
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxM2IwWXRaWFppVW1nNVFtbE5hRlpHZUhKME5IYxAB!2m1!1s0x0:0x920c3e619894eb14!3m1!1s2@1:CAIQACodChtycF9oOi13b0YtZXZiUmg5QmlNaFZGeHJ0NHc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-02T22:10:32Z",
+      "iso_date_of_last_edit": "2026-03-02T22:10:32Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxM2IwWXRaWFppVW1nNVFtbE5hRlpHZUhKME5IYxAB",
+      "user": {
+        "name": "GUJJALA ANJIREDDY",
+        "link": "https://www.google.com/maps/contrib/101980673212740476905?hl=en",
+        "contributor_id": "101980673212740476905",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocISWU_hZA3UkNsWBToDmxbxW9nK0XduyoQAtSNEXYD-x_-K_g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 526,
+        "photos": 218
+      },
+      "snippet": "Quality and quantity is nice",
+      "extracted_snippet": {
+        "original": "Quality and quantity is nice"
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoT1EzUTNaRmwyVFhkVmQxbzRNRmgzYWtsaVExRRAB!2m1!1s0x0:0x920c3e619894eb14!3m1!1s2@1:CAIQACodChtycF9oOlhOQ3Q3ZFl2TXdVd1o4MFh3akliQ1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-01T09:24:24Z",
+      "iso_date_of_last_edit": "2025-11-01T09:24:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoT1EzUTNaRmwyVFhkVmQxbzRNRmgzYWtsaVExRRAB",
+      "user": {
+        "name": "Prajwal Choudhari",
+        "link": "https://www.google.com/maps/contrib/102441244467684758848?hl=en",
+        "contributor_id": "102441244467684758848",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLdx-MzngXSkNkZ1oIorze7-xdJq5QPCgrCA1VF5Y34dZXsNw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 18
+      },
+      "details": {
+        "order_type": "Dine in",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 4,
+        "reservation": "Not sure",
+        "seating_type": "Indoor dining area, Outdoor patio / terrace"
+      },
+      "likes": 0
+    }
+  ]
+}

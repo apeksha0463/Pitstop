@@ -1,0 +1,3370 @@
+{
+  "restaurant": "Dhaba On The Highway",
+  "data_id": "0x3bae1d3f2f5b9811:0xf49561b63d6d7d65",
+  "google_review_count": "519",
+  "reviews_total": 100,
+  "reviews_with_text": 66,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 0,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcGJGcGtNVVZXYUdOcmRGcEVaeko2U2prNFEzYxAB",
+      "author": "Sanjivani Handa",
+      "author_url": "https://www.google.com/maps/contrib/111316471621654712505?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 2,
+      "author_photos_count": 7,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T07:59:03Z",
+      "iso_date_of_last_edit": "2026-10-26T07:59:03Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Sanjivani,\n\nThank you for taking a moment to rate us. Your support is sincerely appreciated, and we look forward to welcoming you again to Dhaba on the Highway.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOcGJGcGtNVVZXYUdOcmRGcEVaeko2U2prNFEzYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOlNpbFpkMUVWaGNrdFpEZzJ6Sjk4Q3c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todFYwc3dNRkZSU1hOMVdHSTVRMU5PVkRkTFgyYxAB",
+      "author": "Deepak S",
+      "author_url": "https://www.google.com/maps/contrib/108939731403445967288?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 272,
+      "author_photos_count": 183,
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T10:14:31Z",
+      "iso_date_of_last_edit": "2026-10-25T10:14:31Z",
+      "text": "Wrost food....",
+      "text_original_language": "Wrost food....",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "reservation": "Reservations not required",
+        "group_size": "3-4 people"
+      },
+      "owner_response": {
+        "text": "Dear Deepak,\n\nWe are sorry to know that your dining experience did not meet your expectations. We take your feedback seriously and would appreciate the opportunity to understand your concerns better.\n\nPlease share your contact details with me at arvindks@signatureclubresort.com, and I will personally reach out to you to understand what went wrong and address your concerns.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2todFYwc3dNRkZSU1hOMVdHSTVRMU5PVkRkTFgyYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOkhtV0swMFFRSXN1WGI5Q1NOVDdLX2c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSk0zaHJXR0p6ZERkWmFHVnRUMTlFWDNOU1FtYxAB",
+      "author": "Navya Devang",
+      "author_url": "https://www.google.com/maps/contrib/118233013724636563921?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": 30,
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T09:56:11Z",
+      "iso_date_of_last_edit": "2026-10-25T09:56:11Z",
+      "text": "Food was worst ! This was our first time to try punjabi food , we had come from Yelahanka to try but it turned out a nightmare ! No basic masala’s , no salt , no taste !",
+      "text_original_language": "Food was worst ! This was our first time to try punjabi food , we had come from Yelahanka to try but it turned out a nightmare ! No basic masala’s , no salt , no taste !",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹800–1,000",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 3,
+        "reservation": "Not sure",
+        "group_size": "3-4 people"
+      },
+      "owner_response": {
+        "text": "Dear Navya,\n\nWe are truly sorry that your first experience with us was so disappointing, especially after making the trip from Yelahanka to dine with us. This is certainly not the impression we would want you to take away from Dhaba on the Highway.\n\nWe take your comments regarding the taste and seasoning of the food seriously and would appreciate the opportunity to understand your experience in greater detail. Please share your contact details with me at arvindks@signatureclubresort.com, and I will personally reach out to you to discuss your concerns.\n\nWe sincerely hope you will give us another opportunity to provide you with the dining experience you expected.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWSk0zaHJXR0p6ZERkWmFHVnRUMTlFWDNOU1FtYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOjVJM3hrWGJzdDdZaGVtT19EX3NSQmc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTmVISkhURkphYVZaR2NqVnFaemRmUVVNNFRIYxAB",
+      "author": "Kamal Venkat",
+      "author_url": "https://www.google.com/maps/contrib/114932914280051435857?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 105,
+      "author_photos_count": 540,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T18:07:32Z",
+      "iso_date_of_last_edit": "2026-10-24T18:07:32Z",
+      "text": "Good food and service was quick. They accepted the booking via District app.",
+      "text_original_language": "Good food and service was quick. They accepted the booking via District app.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Kamal,\n\nThank you for sharing your feedback. We are glad you enjoyed the food and prompt service, and that your booking experience was convenient. We truly appreciate your support and look forward to welcoming you back to Dhaba on the Highway for another enjoyable meal.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWTmVISkhURkphYVZaR2NqVnFaemRmUVVNNFRIYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOlVNeHJHTFJaaVZGcjVqZzdfQUM4THc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ2NIZGpRM0E0T1ZSamJqUjFRbDlEWlRsbVIyYxAB",
+      "author": "Abhilash Shetty",
+      "author_url": "https://www.google.com/maps/contrib/115460377975404367754?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 60,
+      "author_photos_count": 83,
+      "rating": 4.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T22:15:57Z",
+      "iso_date_of_last_edit": "2026-10-23T22:15:57Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Abhilash,\n\nThank you for taking a moment to rate us. Your support is sincerely appreciated, and we look forward to welcoming you again to Dhaba on the Highway.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xQ2NIZGpRM0E0T1ZSamJqUjFRbDlEWlRsbVIyYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOm1CcHdjQ3A4OVRjbjR1Ql9DZTlmR2c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSa1FrNDNSSEl6UTFWS1QzTnVVMmwyZEU5Uk1XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T11:07:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Darapaneni,\n\nThank you for taking a moment to rate us. Your support is sincerely appreciated, and we look forward to welcoming you again to Dhaba on the Highway.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZeE1VUlJaRkJ0YmpOV1dIVjZhV2RaYUhORmJYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 77,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T06:05:09Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Manoj,\n\nWe are sorry to see your rating and would genuinely appreciate the opportunity to understand what may have gone wrong during your experience with us. Please share your contact details with me at arvindks@signatureclubresort.com, and I will personally reach out to understand your concerns and address them.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNeU9XOURaRzlMWHpobFpFVkplbkZtTmxSbU5rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 27,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T15:28:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "So what I liked this restaurant is that the food is so tasty and the ambience was so nice. I always wanted this restaurant to be perfect and this restaurant is the best.\n\nIf you are looking for an authentic Punjabi cuisine, you must try this restaurant.\n\nThank you for your good service and the delicious food.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Achyut,\n\nThank you for sharing your wonderful feedback. We are delighted that you enjoyed the flavours, ambience, and warm service at Dhaba on the Highway. Your appreciation means a great deal to our team. We look forward to welcoming you back for another enjoyable dining experience.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVlUzWTBiakV0UkhKS1dtbEVXamxwWTNob1oyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-03T15:58:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Ankita,\n\nThank you for taking the time to share your feedback. We are delighted to know that your experience with us was a positive one.\n\nYour support is truly appreciated and serves as great encouragement to our team as we continue to provide memorable dining experiences and warm hospitality to all our guests.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kbWN6TkpkVGxmTlU0NVlsWjVXbTFRU2pscVJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-03T03:43:16Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Adithya,\n\nThank you for taking the time to share your feedback. We are delighted to know that your experience with us was a positive one.\n\nYour support is truly appreciated and serves as great encouragement to our team as we continue to provide memorable dining experiences and warm hospitality to all our guests.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oS1ZYaHRPRzlQWjNaU1lVVnhORlJHWnpacWNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-29T13:47:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "This place is fantastic! The food tastes awesome, and the atmosphere is really good. I definitely recommend it! 😋✨👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Farhat,\n\nThank you for sharing your wonderful feedback. We are delighted to know that you enjoyed the food, ambience, and overall experience at Dhaba on the Highway.\n\nYour kind recommendation means a great deal to us and serves as wonderful encouragement to our culinary and service teams. We are pleased that the flavours, atmosphere, and hospitality made your visit a memorable one.\n\nWe truly appreciate your support and look forward to welcoming you back for many more delightful dining experiences.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNM2JFeGZlV0ppTkVSbU1VVkZVMHgwTmpSNmQzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 90,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-29T12:34:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is okay okay only",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Akarshan,\n\nThank you for taking the time to share your feedback. We appreciate your candid comments and are sorry to learn that your experience did not fully meet your expectations.\n\nWhile we are pleased that you chose to dine with us, we regret that the food did not leave the impression you were hoping for. Feedback such as yours is valuable, as it helps us better understand our guests' expectations and identify areas for improvement.\n\nWe would appreciate the opportunity to understand your experience in greater detail and address your concerns personally. Kindly share your contact number with us or write to us at arvindks@signatureclubresort.com, and our team will be happy to connect with you.\n\nThank you for bringing this to our attention. We hope to have the opportunity to welcome you back and provide a much-improved dining experience.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKaFNEUXpkbFpxTmtWaVdURnFiRmxuTWxSSmNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 82,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T10:47:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "​The food was great and it’s a good location off the highway. But the service experience was poor. They refused to honor our EazyDiner walk-in discount after we ate, saying we needed a reservation. They should have warned us beforehand instead of surprising us with the bill. Very unprofessional.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Ashley,\n\nThank you for taking the time to share your feedback. We are pleased to know that you enjoyed the food and appreciated our convenient location.\n\nAt the same time, we sincerely regret the disappointment you experienced regarding the EazyDiner offer. We understand how frustrating it can be when expectations regarding an advertised promotion are not met, and we apologize for the confusion caused.\n\nWe would appreciate the opportunity to understand the details of your experience and review the matter with the concerned team. Kindly share your contact number with us or write to us at arvindks@signatureclubresort.com, and we will be happy to connect with you personally.\n\nThank you for bringing this to our attention. Your feedback is valuable and helps us improve the experience we provide to our guests.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbVZrY3lWR1Z4VTBwdmQyaGlWa3RUUzBWTE5HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 57,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T10:32:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food! Great stop off the highway. But they denied honoring partner payment (eazydiner) citing we didn't have reservation. We were paying via walk in offer. They denied the regular walk-in offer. They could've told us they don't accept anything before we started the food. Instead they denied a walk in payment offer. This is very unprofessional and unacceptable.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear Pranav,\n\nThank you for taking the time to share your feedback. We are pleased to know that you enjoyed the food and found us to be a great stop off the highway.\n\nAt the same time, we sincerely regret the disappointment you experienced regarding the EazyDiner offer. We understand your concern and agree that any applicable offer terms should be communicated clearly to guests upfront, allowing them to make an informed decision before dining.\n\nWe would appreciate the opportunity to understand the details of your experience and review the matter with the concerned team. Kindly share your contact number with us or write to us at arvindks@signatureclubresort.com, and we will be happy to connect with you personally.\n\nThank you for bringing this to our attention. Your feedback is valuable to us and helps us improve the guest experience.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjNU1IWmphMUZqY2pOb2FsQldVRTV2WkRKSFptYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T12:33:57Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Tejas,\n\nThank you for taking the time to share your feedback. We are delighted to know that your experience with us was a positive one.\n\nYour support is truly appreciated and serves as great encouragement to our team as we continue to provide memorable dining experiences and warm hospitality to all our guests.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sT1dHSm1WbGhRVUdkbVoyZzBjVzlCYld4cFlsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T09:14:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Best punjabi food in Devanahalli. Sarson ka saag and kulfi falooda must try.",
+      "text_original_language": null,
+      "language": "hi",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Krishanu,\n\nThank you for sharing your wonderful feedback. We are delighted to know that you enjoyed your dining experience and appreciated the authentic Punjabi flavours served at Dhaba on the Highway.\n\nIt is especially rewarding to hear that the Sarson Ka Saag and Kulfi Falooda stood out as highlights of your visit. Our culinary team takes great pride in delivering traditional flavours, and your appreciation is a wonderful encouragement to them.\n\nThank you for your recommendation. We look forward to welcoming you back for another memorable dining experience.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkgTXzZxQVX_C-MC3dE_TWB6U2RPJ7IcIQwPZRUog-eKLxq4oCvVhzbeTHX94JAMFVzm7Bh89NTLfYH7jqRe7dRQGK5ISbfiG-85rkAvUKlFhK2zG0pudUO22MYsrRHyXwzJ94XgHvSrRW=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaFdVaEhiRmxxWHpSUGVHUTFXWFZRUVVoVFVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T11:18:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food and super quick service. However, they refused to accept payment through District despite being listed there with a 10% discount. They claimed a reservation was required, even though the app clearly said “no reservation required.” Disappointing to advertise an offer and then refuse to honour it.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Sakshi,\n\nThank you for taking the time to share your feedback. We are pleased to know that you enjoyed the food and appreciated the quick service extended by our team.\n\nAt the same time, we sincerely regret the inconvenience regarding the District offer. We understand your disappointment and apologize for the confusion caused. Guest satisfaction is important to us, and we appreciate you bringing this matter to our attention.\n\nWe would like to understand the details of your experience better and review the concern with the concerned team. Kindly share your contact number with us or write to us at arvindks@signatureclubresort.com, and we will be happy to connect with you directly.\n\nThank you once again for your valuable feedback. We look forward to the opportunity to address your concerns.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CS1JubDZhVFppYW05WGFXZElkelJpV0RFdFpHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-19T08:55:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was excellent, so was the ambience. Ramandeep's service was great! Thank you!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Arpita,\n\nThank you for sharing your lovely feedback. We are delighted that you enjoyed your time at Dhaba on the Highway, particularly the food and ambience.\n\nYour special appreciation for Ramandeep is wonderful to hear, and your kind words will certainly be a great encouragement to him and the team. We truly value your support and look forward to welcoming you back for another enjoyable dining experience.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVU5EYzFRbkYzUVc0M09GRjROa2RpY2xOU05rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-12T18:49:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had dinner at dhaba resturant enjoyed lot with your hospitality  good service by@ RAMAN",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Krushang,\n\nThank you for sharing your experience with us. We are delighted to know that you enjoyed your dinner and appreciated the hospitality extended by our team.\n\nA special thank you for recognizing Raman for his attentive service and warm hospitality. Your kind words are truly appreciated and will certainly be shared with him. Recognition such as yours serves as a wonderful encouragement for our team to continue delivering memorable dining experiences.\n\nWe look forward to welcoming you back to Dhaba on the Highway soon.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTlEzbHlNVGhUU0dkclRWVnJPWFJVVG5OUmFHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-12T18:45:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service was excellent with proper grooming etiquette thank you so much raman for great hospitality",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ankush,\n\nThank you for sharing your feedback. We are delighted to know that you appreciated the service standards and professionalism demonstrated by our team.\n\nA special thank you for recognizing Raman for his excellent hospitality and well-groomed, courteous service. Your appreciation is truly valued and will be shared with him. Feedback such as yours is a wonderful source of encouragement for our team to continue delivering exceptional dining experiences.\n\nWe look forward to welcoming you back to Dhaba on the Highway soon.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUGFqWnBUWGxCUW1aMVdGbHpSR0ZWY2xacFNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-12T12:03:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "Here all service staff behaviour is so much good... 🤗\n\nand especially thank you Raman 🤗🙏",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Dipan,\n\nThank you for sharing your feedback. We are delighted to know that you had an enjoyable experience with us and that our team made a positive impression through their warm hospitality.\n\nA special thank you for recognizing Raman for his courteous service and support. Your kind words are truly appreciated and will be shared with him. Recognition such as yours is a great source of motivation for our team to continue delivering memorable dining experiences for our guests.\n\nWe look forward to welcoming you back to Dhaba on the Highway soon.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NeFIwWmtTVXg0VDNoMmRVVlJZa2hmZFVWbFJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-06T17:11:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "Hmm to be honest, I had much expectations from this place but on every aspect, it failed me.\n\nAmbience was good but a rope smell and mosquito was making it worse.\n\nService, yes it was okay. I did not feel any issue.\n\nFood: Tandoori chicken- It was chewy.\nButter Naan: Worst. Half cooked and chewy. My Jaws are still hurting.\nChicken tikka masala- again chewy.\n\nI was so upset that could not feel ordering anything else. All the items are overpriced. I did not feel worth.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Dear Raghav,\n\nThank you for taking the time to share your feedback. We are sorry to learn that your dining experience did not meet your expectations.\n\nWhile we are pleased to know that you appreciated the ambience and found the service satisfactory, we regret that the food quality, value perception, and overall experience fell short of what you had anticipated. Your comments regarding the dishes served, dining environment, and pricing have been noted and shared with the concerned teams for review.\n\nWe would appreciate the opportunity to understand your concerns in greater detail and address them appropriately. Kindly share your contact number with us or write to us at arvindks@signatureclubresort.com, and our team will be happy to connect with you personally.\n\nThank you for bringing this to our attention. Your feedback helps us improve and serve our guests better.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4V2NISlFXbHBQVFMxNmRsRnRiSGxWWlVJeVpuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-06T09:33:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great ambience and amazing authentic Punjabi food! Quick and warm service too💜💜✨",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Aakruti,\n\nThank you for sharing your feedback. We are delighted to know that you enjoyed the ambience, authentic Punjabi flavours, and the warm hospitality extended by our team.\n\nYour kind words are truly appreciated and serve as great encouragement to our culinary and service teams as they continue to create memorable dining experiences for our guests.\n\nWe look forward to welcoming you back to Dhaba on the Highway soon.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Vd05XbE9hbXRGZDNka1YwTk9kbWxyWldSYU1FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 574,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-04T17:15:47Z",
+      "iso_date_of_last_edit": null,
+      "text": "Awesome food.keep it up...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Karthick,\n\nThank you for sharing your feedback. We are delighted to know that you enjoyed the food and had a memorable dining experience with us.\n\nYour appreciation means a great deal to our team and motivates us to continue delivering authentic flavours and warm hospitality to all our guests.\n\nWe look forward to welcoming you back to Dhaba on the Highway soon.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhIVCZ0cXsbvyPi4BZKFXqbxOnE6Fz6_VebjRAcfIQIkmVI9cZvXuCGwr5T5KR69rVN-IOMA0trjqwRXD5xhSEbsPvwtIvPdKJp2G3_tJcUp5F6-Yz4uBH2WLU1kDrOSK4lZG4ELq4siQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5P6VHHmoumBVcLzk7GebBRVC4_hN_-nEGcyQ7gRk-fImBUt8jvlAacxFpMtw_qhWxqV45Rv8S4VpjSxRSfMbeCCD9RpWH1bhKemKuryJ4ECvYFdVKqI_wIxG4CkltC0ZPNiCoYGorKK4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4eN6m7MTXeaQjsOrPE3h9RFSY4ULKEzgjZpqdqg2cT5fRYwQtLUM0GNT2Ta37nWrEv6IU26OtbMsI8hFo7jESgPgVuLK10cwCAUDDMwCDmHvmJuCfaoUC5qwtZmAxS_K6EplHAN55aPE=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OTE4wbEdhVnByVjJwVVZXbHZZMVZGT1hnME5VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T14:32:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tasty punjabi food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Meera,\n\nThank you for sharing your feedback. We are delighted to know that you enjoyed the Punjabi flavours and had a pleasant dining experience with us.\n\nYour appreciation is truly valued and serves as great encouragement to our culinary and service teams as they strive to deliver authentic tastes and memorable experiences for our guests.\n\nWe look forward to welcoming you back to Dhaba on the Highway soon.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMWFqbENSR2xOZUZoa2VtcDBaVm94Y21oRVRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 60,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T13:41:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Not that great authentic punjabi dishes...too pricy for the taste & quality given.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Mahesh,\n\nThank you for taking the time to share your feedback. We are sorry to learn that your dining experience did not meet your expectations.\n\nAt Dhaba on the Highway, we strive to deliver authentic flavours and a memorable dining experience, and we regret that the food quality and overall value did not align with your expectations. Your comments have been noted and shared with our culinary team for review.\n\nWe would appreciate the opportunity to understand your concerns in greater detail and make things right. Kindly share your contact number with us or write to us at arvindks@signatureclubresort.com, and our team will be happy to connect with you personally.\n\nThank you for bringing this to our attention. Your feedback helps us improve and serve our guests better.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRNU16YzNiMk5RUjBsRmNYaFJTMVp1VlhkcVUwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T16:17:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service on time staff good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Raj,\n\nThank you for sharing your feedback. We are delighted to know that you had a pleasant experience with us and that our team was able to serve you promptly.\n\nYour appreciation of the timely service and our associates' efforts is truly valued. Feedback such as yours motivates us to continue delivering warm hospitality and memorable dining experiences for all our guests.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210YVkxaHVUWEJFUkZOUmJtMWZVV1pEV0RSWGMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T15:10:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pavandeep and Ravikiran were welcoming and had a good service. I loved the food and would love to visit again.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Apoorva,\n\nThank you for sharing your feedback. We are delighted to know that you enjoyed your dining experience and appreciated both the food and hospitality during your visit.\n\nA special thank you for recognizing Pavandeep and Ravikiran for their warm welcome and attentive service. It is always encouraging to receive appreciation for our team members, and your kind words will certainly be shared with them.\n\nWe truly value your support and look forward to welcoming you back to Dhaba on the Highway for another memorable dining experience.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwblgxTjVaRmhtT0RkVlNucDJNMmxaZURCR05tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-10T08:04:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food.\nAmazing lassi.\nLoved the ambience.\n\nSpecial thanks to Pavan for taking care of lunch.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Copilot said:\n\nDear Avinash,\n\nThank you for sharing your feedback. We are delighted to know that you enjoyed the food, especially the lassi, and appreciated the ambience during your visit.\n\nA special thank you for recognizing Pavan. We are pleased to know that the efforts contributed positively to your dining experience. Your kind words will certainly be shared with Pavan and the team.\n\nWe truly appreciate your support and look forward to welcoming you back for another memorable experience at Dhaba on the Highway.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTGJsTjJSRGxHVFhOSFdURmlXbll5ZDJsT1MzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 33,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-09T12:21:53Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Sowmya,\n\nThank you for taking the time to share your feedback. We are delighted to know that your experience with us was a positive one.\n\nYour support is truly appreciated and serves as great encouragement to our team as we continue to provide memorable dining experiences and warm hospitality to all our guests.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeFgySkNVV2xuUjNoaWIyMXVPV2w1WWpSRGVIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 41,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T15:44:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Ambience is great and tandoori chicken was delicious. Thanks for the great service Pavan",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rakshitha,\n\nThank you for sharing your feedback. We are delighted to know that you enjoyed the ambience and that the dining experience was memorable.\n\nA special thank you for recognizing Pavan for attentive service. Your appreciation will certainly be shared with the entire team, as feedback like yours is a wonderful source of encouragement for our team.\n\nWe truly value your kind words and look forward to welcoming you back for another enjoyable dining experience.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGc00zUmpYemRVUldSVldraFdNMEZUWXkxTVRHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T15:34:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice food. Good service from Pavandeep",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Adarsh,\n\nThank you for sharing your feedback. We are delighted to know that you enjoyed the food and had a pleasant dining experience with us.\n\nA special thank you for recognizing Pavandeep for his service. Your kind words are truly appreciated and will be shared with him. Recognition such as yours is a great source of encouragement for our team to continue delivering memorable experiences to our guests.\n\nWarm Regards\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sNlltcGtlRGRpVkRaZlUycERNR0Z2UlhJNVNYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-25T10:01:36Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Sonika,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aSmFsaHNVRjlSUTFOWWN6QjRVRzVTWTI1elRrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 409,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-19T18:25:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great taste and hospitality.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Debasis,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you enjoyed both the culinary experience and the hospitality extended by our team. Your kind words are truly encouraging and motivate us to continue delivering memorable dining experiences for all our guests.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSVVVTTNOakIwU0VoMlUwZ3hlRmhmT1RVemVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-14T11:29:17Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Kiran,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVlFrUlRNVmxNTW05d1lpMW5ZMlpRVFdsMlMyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 25,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-06T08:28:40Z",
+      "iso_date_of_last_edit": null,
+      "text": "One of the best butter chicken i have ever had",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Anish,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you had such an enjoyable dining experience with us. Your appreciation is truly encouraging for our culinary team and motivates us to continue delivering authentic flavours and memorable experiences for all our guests.\n\nWe truly value your recommendation and look forward to welcoming you back again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMlRVaGxiVWhQVm5WYVFUWjBTMlpaZERNeFVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-04T11:39:21Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Nitigya,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWlMyVlZhMjExTFZabFVqSnhNR3hNWTE5UlpWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-27T17:25:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pawandeep looked after us very well. Overall a wonderful experience.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Reema,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you had a wonderful experience with us. Your appreciation is truly encouraging and means a lot to our team.\n\nWe will be pleased to convey your kind words to Pawandeep for the attentive care extended during your visit.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOSFMxOVpPV05ZZEhkWGNsSTRibUpxY2swMlkyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-27T15:32:02Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Paras,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabk1tNVliVlZmU3pWSWIydE5ZVmROYWxKclJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-24T16:50:56Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Kavitha,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psWWNXZFVTSGxIZFZNeExWUTFPRFY1VFdWcU1tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-22T08:12:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "The ambience is good. And the food is delicious !!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Amrutha,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you enjoyed the ambience and had a pleasant dining experience with us. Your appreciation of the food is truly encouraging and motivates our team to continue delivering memorable visits for all our guests.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaE4wVjVlR056TVMxTWEySmtNVWhVVUZaNGJsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 50,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-21T16:14:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and Mdm Pawandeep really took care of us.\n\nI would recommend the garlic naan and chicken tikka masala. The partially chicken with minced chicken and omlette may not be for everyone. The Garlic naan is thin and crisp so specify ur preference if u prefer thick and well done",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Anveshan,\n\nThank you for taking the time to share your detailed feedback.\n\nWe’re delighted to know that you had an enjoyable dining experience with us and that the overall service and flavours met your expectations. Your appreciation is truly encouraging for our team.\n\nWe will be pleased to convey your kind words to Ms. Pawandeep for the attentive care extended during your visit. We also value your thoughtful inputs, as they help us enhance our offerings and ensure guest preferences are well catered to.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORGJGSmZhRTFoUTBWamRtNXVUMWhZT1VGTmRtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-21T15:11:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pawandeep has provided excellent service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Anand,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you had a positive experience with us. Your appreciation is truly encouraging and means a lot to our team.\n\nWe will be happy to convey your kind words to Pawandeep for the attentive service extended during your visit.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMVFteHlRalYyY1VWaWRVYzFiR3hFWjNWRmRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-21T10:11:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Too much waiting time after ordering food. Ill staffed waiters and cooks. Mosquitos hovering on table. Stale mouth freshner served at end.\n\nBest avoided.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear Avaneesh,\n\nThank you for taking the time to share your feedback.\n\nWe’re truly sorry to know that your experience did not meet expectations. The concerns you’ve highlighted regarding service delays, staff availability, and overall dining experience are disappointing to note and certainly not reflective of the standards we aim to maintain.\n\nPlease be assured that your feedback has been taken very seriously and shared with the concerned teams for immediate review and corrective action.\n\nI would sincerely appreciate the opportunity to understand your experience in more detail and address your concerns personally. Kindly share your contact details with me at arvindks@signatureclubresort.com, and I will reach out to you directly.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NM0xWWnJiRVZmTUdJd1ZWbENZVlJqTW5NdGJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-20T15:25:37Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Prashant,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5QlNXaG9aazVZUTFoNmFscGlWMWg1Um5wdk1IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-20T10:11:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Karthik,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMmIwZFNielEzZUZOMGVIZzNZMGhvY0VGRU1sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-20T10:06:31Z",
+      "iso_date_of_last_edit": null,
+      "text": "We recently visited Dhaba on the Highway, Devanahalli, and it was one of the most authentic Punjabi dhaba experiences we’ve had. The food was absolutely outstanding—every dish was packed with rich, authentic flavors. The kebabs were incredibly tender and literally melted in the mouth. The Murg Patiala was delicious, and the kebab platter was simply the highlight of the meal. The service was equally impressive, with the staff being attentive and courteous throughout our visit. Highly recommended for a weekend lunch or dinner with family and friends. We will definitely be visiting again!” ⭐⭐⭐⭐⭐",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ipsita,\n\nThank you for taking the time to share such a detailed and wonderful review of your experience with us.\n\nWe’re delighted to know that your visit was truly enjoyable and that the flavours and overall dining experience met your expectations. Your appreciation of our service is especially encouraging and motivates our team to continue delivering authentic and memorable experiences for all our guests.\n\nWe truly value your recommendation and look forward to welcoming you again soon for many more enjoyable visits.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsd2NtUldXbEZFVEVNd2FIRXROMEp1ZURGVFprRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-20T08:10:40Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rajeev,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KaGRHOVBOSEJYY1hOVWVuRTFiemxKZFZabVVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-18T16:54:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great service - quick and friendly waiter, Manveer! Food is delicious and the place is vibrant with colours.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Uziel,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you had an enjoyable experience with us. Your appreciation of the service and overall ambience is truly encouraging for our team and motivates us to continue delivering memorable dining experiences.\n\nWe will be pleased to convey your kind words to Manveer for the attentive care extended during your visit.\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seVFYbzNORTVKYkhSeFdFOTBSbWs1VW5oQ05rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 35,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-18T16:50:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Wonderful experience. Thanks to Manveer for the excellent service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Subhajit,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that your dining experience with us was a memorable one. Your appreciation is truly encouraging and means a lot to our team.\n\nWe will be pleased to convey your kind words to Manveer for the attentive care extended during your visit. Feedback like yours motivates us to continue delivering warm and consistent hospitality for all our guests.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMGVrbzVSRXQwZWsxNFpFRkNaM1l0YjJoR1IzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-16T16:23:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Not at all tasty… expected much better",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Miska,\n\nThank you for taking the time to share your feedback.\n\nWe’re truly sorry to know that your dining experience did not meet expectations. This is certainly not the standard we strive to deliver, and we regret that your visit did not leave a positive impression.\n\nYour feedback has been taken seriously and shared with our culinary team for review. I would also appreciate the opportunity to understand your experience in more detail and address your concerns personally. Kindly share your contact details with me at arvindks@signatureclubresort.com, and I will reach out to you directly.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0b1FXOTFObG80YzIxM2NGZG9SbU5vT1d3dGMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 36,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-16T08:09:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "This restaurant is great option for north indian punjabi food , great service staff specially pawandeep.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Akanksha,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you enjoyed your dining experience with us. Your appreciation of the overall service and authentic flavours is truly encouraging for our team.\n\nWe will be pleased to convey your kind words to Pawandeep for the attentive care extended during your visit. Feedback like yours motivates us to continue delivering consistently high standards in both food and service.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205b1kwVkdka0pqUTNOaVptNU9iRlZmV1hkd05uYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 29,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-13T16:08:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was good and everything we ordered was served fairly quickly. Servers were professional and smiling though it was a busy Saturday evening service. Ramandeep was especially great , ensuring we were served well",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Smita,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that your dining experience with us was a pleasant one, especially during a busy service period. Your appreciation of our team’s professionalism and warm approach is truly encouraging.\nWe will be pleased to convey your kind words to Ramandeep for the attentive care extended during your visit. Feedback like yours motivates us to continue delivering consistent and thoughtful service to all our guests.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dGF6WTVNMFZGTkdwWVIwZDJibWw0ZW00NUxYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-13T16:03:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent food, quick service, and a pleasant atmosphere. Raman was very helpful ..",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Jatin,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that your dining experience with us was a pleasant one. Your appreciation of the overall service and experience is truly encouraging for our team.\n\nWe will be pleased to convey your kind words to Raman for the attentive care and support extended during your visit. Feedback like yours motivates us to continue delivering warm and memorable experiences for all our guests.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVlMyZHdkVzVsU0hKTGNWbDZSMnRWWDBoVWJtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-13T14:09:37Z",
+      "iso_date_of_last_edit": null,
+      "text": "Disrespect to Punjabi Food! We ordered typical punjabi cuisine food items- sarson da saag, chicken tikka, butter chicken, daal makhni,; expecting some finger licking, authentic food. But everything was horrendous except chicken tikka and lassi. Pretty much unpalatable if you have tasted Punjabi food. Still trying to figure out whether these ratings are for real! Seeing that only, we drove 50 kms!! Feeling cheated :(",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 4,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Nishit,\n\nThank you for taking the time to share your feedback.\n\nWe are truly sorry to know that your dining experience did not meet expectations, especially after you made the effort to visit us from such a distance. We understand how disappointing this must have been, and this is certainly not the experience we wish any guest to have with us.\n\nYour feedback has been taken very seriously and shared with our culinary team for immediate review. I would sincerely appreciate the opportunity to understand your concerns in more detail and address them personally. Kindly share your contact details with me at arvindks@signatureclubresort.com, and I will reach out to you directly.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeWVtbHRaa293TlZGTmRXVjJSVGhoVVhSc1IyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-12T16:09:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "\"Highly recommend this place!\nThe food was delicious, and the service was top-notch. Special thanks to Raman for being so polite, attentive, and making our dining experience wonderful.\"\nRaman took excellent care of us and provided amazing service. We Will definitely come here again 🫶❣️",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rohit,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that your dining experience with us was a memorable one. Your appreciation of the overall experience and the attentive care extended by our team is truly encouraging.\n\nWe will be pleased to convey your kind words to Raman for ensuring a pleasant and comfortable visit. Feedback like yours motivates us to continue delivering warm and consistent hospitality for all our guests.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcGFHUndjMk5IUm5SQk0ydElNVEZDT0VsM1FtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-12T14:16:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was delicious service also excellent byy Raman  provided excellent Care.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Deep,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you had an enjoyable dining experience with us. Your appreciation of the overall service and dining quality is truly encouraging for our team.\n\nWe will be pleased to convey your kind words to Raman for their attentive care and support. Feedback like yours motivates us to continue delivering warm and memorable experiences for all our guests.\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVFpYRkVNekJOYm01NlgzWlNhMmcwTURObE1tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-12T13:34:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "I had a wonderful experience at this restaurant. The food was excellent, and the service was outstanding. Raman Deep Kaur took great care of us, and I will definitely come back again.\"",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sakina,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that your dining experience with us was a memorable one. Your appreciation of the service and overall experience is truly encouraging and means a lot to our team.\n\nWe will be pleased to convey your kind words to Ms. Raman Deep Kaur for her attentive care. Feedback like yours motivates us to continue delivering warm and consistent hospitality.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOaWNYUjJOWEJVT0doeExVcFJjM0pPZFhWVVNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-07T13:18:16Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Pankaj,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4YVpUWXdaa0o2V0RCSlJUQmFZVU0wTldoTmRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-07T08:28:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "All menu items not present there, taste of food is good. Sometime in delivery taking more time",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Sarita,\n\nThank you for taking the time to share your feedback.\n\nWe’re pleased to know that you enjoyed certain aspects of the dining experience. At the same time, we regret that a few elements did not fully meet your expectations. Your input regarding the availability of menu options and the time taken for service has been noted and shared with the concerned teams for improvement.\n\nWe truly value your feedback as it helps us enhance our overall guest experience, and we look forward to welcoming you again for a smoother and more satisfying visit.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNGJ6bFNibFJKY0dWT01VOXBPV2R2U1VWVWRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-01T03:09:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear Nethi,\n\nThank you for taking the time to share your rating.\n\nWe’re truly sorry to know that your experience did not meet expectations. This is certainly not the impression we aim to create for our guests. I would sincerely appreciate the opportunity to understand your concerns better and address them personally. Kindly share your contact details with me at arvindks@signatureclubresort.com, and I will reach out to you directly.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ob1ZtOTBWbmRrVUVwUFFuVk5Sa3gxVHpGcFMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 43,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-05-31T14:45:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Overall good\nDon't order biryani",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Ankit,\n\nThank you for taking the time to share your feedback.\n\nWe’re pleased to know that your overall experience with us was positive; however, I’m truly sorry that part of your dining experience did not meet expectations. We understand how this can impact your visit, and your feedback has been taken seriously and shared with our culinary team for immediate review.\n\nI would sincerely appreciate the opportunity to understand your experience in more detail and make this right. Kindly share your contact details with me at arvindks@signatureclubresort.com, and I will personally reach out to you.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNE5GVmZXRFpCU25ST2FEazRiV3BSZW1veVduYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-29T16:59:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Authentic Punjabi Food served with love by the people of Punjab.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Karamjot,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that you enjoyed your dining experience with us. Your appreciation of the flavours and the warmth of our team is truly encouraging and motivates us to continue delivering authentic and memorable experiences for our guests.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwM04ydDRjbXQzV2xCMmJXNXZiRUZ0WjFaVlMyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-29T09:26:03Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Deepanker,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMmFGOUpVVWhVV1ZZMFkwRlJOR3hpZEU1Q1VGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 149,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-28T16:51:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "The atmosphere and seating of this place are quite authentic. But unfortunately that is where the pleasant experience really ends.\n\nWe ordered butter chicken, dal makhni and breads for main course. The server (who had also taken the order) brought malai kofta instead of butter chicken. Despite the order being very clearly communicated to her.\n\nThis could have been accepted as an honest mistake. But when asked to take it back, this lady staff started arguing in a loud voice that it was somehow our mistake. This is simply not acceptable.\n\nOne goes to a restaurant to have a good time. Not to be spoken rudely to in front of your family. This individual clearly does not do her job properly. And misbehaves when she is asked for the correct order.\n\nThe food barely makes the cut. The items we ordered - Dahi papdi, tandoori roti, butter naan, butter chicken and dal makhni - were all just about average. These are all essentials of any Punjabi restaurant and one expects better.\n\nThis restaurant can be avoided. I feel for the promoters here - a lot of thought, effort and capital have clearly gone into running this place. But it’s just not being run properly.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Aniket,\n\nThank you for taking the time to share your feedback.\n\nWe are truly sorry to know that your visit did not turn out to be the experience you had expected. While we are glad that certain aspects of the setting appealed to you, it is disappointing to note that the service and overall dining experience fell short, especially in a situation that should have been handled with far greater care and professionalism.\n\nPlease be assured that courteous service, order accuracy, and respectful communication are basic standards we expect from our team at all times. What you have described is concerning, and this has been taken up seriously with the concerned team for immediate review and corrective action.\n\nI would sincerely appreciate the opportunity to understand your experience in more detail and address your concerns personally. Kindly share your contact details with me at arvindks@signatureclubresort.com, and I will reach out to you directly.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aT1l5MHhSak5uWDA5SVZtaHlkamN3U3psMWVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-27T12:37:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food here is to worth visiting more than once and the ambience is great the staff is very polite and helpful...my husband and me whenever we decide to go for a drive we make sure to have a feast here and now almost every weekend we end up here as I am from Delhi and this place really gets the taste of Delhi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Shalini,\n\nThank you for taking the time to share such a detailed note about your experience with us.\n\nWe’re delighted to know that your visits have been consistently enjoyable and that we’ve become a preferred stop during your drives. It’s especially encouraging to hear that our team has been able to create a welcoming and comfortable dining experience for you.\n\nYour appreciation of the flavours and overall ambience is truly rewarding for our team, and it means a lot to know that the offerings resonate well with your preferences.\n\nWe look forward to welcoming you and your family again for many more memorable visits.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONGVWaDJhWEZsVjNoYVRYTnpTVWMyVTJWcFprRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-26T02:28:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "The resturant owner is charged extra 5% for service charge. This is illigal. When you found this ther owner and staff will fight with you.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Vishal,\n\nThank you for bringing this matter to our attention.\n\nWe take concerns regarding billing practices and guest interactions very seriously. Please be assured that our intention is always to follow applicable guidelines transparently and ensure a respectful and courteous experience for all our guests.\n\nWe regret that your visit did not reflect these standards. Your feedback has been taken up with the concerned team for immediate review to ensure such situations are handled appropriately going forward.\n\nI would appreciate the opportunity to understand your experience in detail and address your concerns personally. Kindly share your contact details with me at arvindks@signatureclubresort.com, and I will reach out to you at the earliest.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WSlNHaHpaVEpTYTFwaVJFZHhOVEJXVUcxVmMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-23T21:36:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 2,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Dear Shaivya,\n\nThank you for taking the time to share your rating.\n\nWe value every guest experience, and I would appreciate the opportunity to understand what fell short and make it right. Kindly share your contact details with me at arvindks@signatureclubresort.com, and I will reach out to you personally to address your concerns.\n\nWarm Regards\nArvind Kumar Sharma \nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTFgwUjZkVXMwVHpsVGRUSlJka1ZIZG5reGRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-18T14:53:53Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Naveenkumar,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwQ2RHRlZhMjh0YW1sQlMzVldjekpPY1haWVdrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 825,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-17T10:12:23Z",
+      "iso_date_of_last_edit": null,
+      "text": "Really enjoyed the entire atmosphere of the place. The restaurant beautifully captures the classic dhaba vibe with spacious seating, vibrant decor, and a relaxed roadside dining experience that feels both energetic and comfortable. The food was absolutely delicious with rich flavors, fresh preparation, and generous portions that made every dish satisfying. The traditional North Indian-style taste and smoky flavors added an authentic touch to the meal. The service was quick, friendly, and attentive, making the overall experience smooth and enjoyable even during busy hours. The place is clean, well maintained, and perfect for family stops, road trips, or casual outings with friends. Definitely one of the best highway dining spots to relax, eat well, and enjoy the travel experience.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Prabhupada,\n\nThank you for taking the time to share such a detailed note about your experience with us.\n\nWe’re delighted to know that your visit was thoroughly enjoyable and that the overall setting, ambience, and dining experience contributed to a memorable outing. Your appreciation of the flavours, service, and upkeep of the restaurant is truly encouraging for our entire team.\n\nFeedback like yours motivates us to continue delivering authentic and engaging dining experiences for all our guests.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUE4wOXJNbnBJVTBONFNITnJObE5FV1RZNFpIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-15T10:23:50Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Yogesh,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rd2QzWm1lWGhKWmxaWE5UZ3pkRWx6UzNZNU5IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 35,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-13T08:47:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Dudd irorge at the hotel",
+      "text_original_language": "Dudd irorge ee hotel",
+      "language": "so",
+      "translated": true,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Mohan,\n\nThank you for taking the time to share your feedback.\n\nWe regret that your experience did not meet expectations. Your input regarding the overall value has been noted and shared with the team for review, as we continuously strive to balance quality and guest satisfaction.\n\nWe would appreciate the opportunity to understand your concerns better. Kindly share your contact details with us at arvindks@signatureclubresort.com, and I will reach out to you personally.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWFRHdHlZVWR1ZW5sVlZWaEVkRXhXWlV0YVpIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 118,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-11T07:55:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Not worth the money and too costly",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Dharmendra,\n\nThank you for taking the time to share your feedback.\n\nWe regret that your experience did not meet your expectations. Your input regarding pricing and overall value has been noted and shared with the team for review, as we continually strive to balance quality and guest satisfaction.\n\nWe would appreciate the opportunity to understand your experience better. Kindly share your contact details with us at arvindks@signatureclubresort.com, and I will reach out to you personally.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVFVIaFVUblp5WDBKMWEyVm9NM0ZIVW1WRlVuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-11T07:44:00Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Smriti,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNlJrMDRVVGQwTlhoTFVYRmxVV1JQZWxSSFNYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-10T09:59:16Z",
+      "iso_date_of_last_edit": null,
+      "text": "Absolutely loved the food. The taste is very exquisite and rich. Must visit restaurant for true North Indian food lovers. Special thanks to Ramandeep for excellent service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Shraddha,\n\nThank you for taking the time to share your feedback.\n\nWe’re delighted to know that your dining experience with us was a memorable one. Your appreciation of the flavours and overall experience is truly encouraging for our culinary and service teams. We will be pleased to convey your kind words to Ms. Ramandeep for her attentive and thoughtful service.\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBeFowTjFPR1ZGYVhWeWFVTlJUalZaUkcweU9XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-10T09:59:11Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Pratik,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSM2EwMUhPRTQ0TTE5VE9UbFVVMFpGUTBjMlJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-09T07:54:56Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Adarsh,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WTVoyaGhVSHBLTW5wWE1HTnBjRmczVVRObWNrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-08T05:59:58Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Avinasi,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OU1V6ZEtTR05uVWt0YVZYUlFaRTE1ZUcxa1VVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 225,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-04T08:44:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was very tasty and good service by pawandeep",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ravi,\n\nThank you for taking the time to share your feedback.\n\nWe’re pleased to know that your visit with us was a pleasant one. Your appreciation of the service extended by our team is truly encouraging, and we will be happy to convey your kind words to Ms. Pawandeep for her attentive and courteous approach.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeGNYTnJVVmxZUm5sYWIyRjVWVzVITjBZNWJVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-04T08:23:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice food very less spicy. And excellent service by Ms pawandeep.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Shweta,\n\nThank you for taking the time to share your feedback.\n\nWe’re pleased to know that your dining experience with us was a pleasant one. Your appreciation of the service extended by our team is truly encouraging, and we will be glad to convey your kind words to Ms. Pawandeep for her attentive and courteous approach.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGdk1UbHpUbUo1UlZGS1RuTlJhSFZNVUdwNlFtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-03T09:36:49Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Shuvam,\n\nThank you for taking the time to share your rating.\n\nWe would truly appreciate the opportunity to understand your experience in more detail and address any concerns you may have. Kindly share your contact details with us at arvindks@signatureclubresort.com, and I will reach out to you personally.\n\nWe look forward to hearing from you.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsNlFYUmtTVWxRWkd0T1lVRklXSFZtYlU5TU1FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-02T08:10:59Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rama Chandra,\n\nThank you for taking the time to share your feedback.\n\nWe’re glad to know that your visit with us met your expectations. Your response is appreciated and encourages our team to continue delivering a pleasant dining experience.\n\nWe look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMFRIZFZMV2hxU2taWFFYZEthMkl4TjFOcGRHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-26T09:34:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Really loved the food here, especially the dal makhani! Thanks to Ramandeep for the great service!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Palak,\n\nThank you for taking the time to share your feedback.\n\nWe’re glad to know that your experience with us was enjoyable. Your appreciation of the service extended by our team is truly encouraging, and we will be happy to pass on your kind words to Ms. Ramandeep for her attentive and courteous support.\n\nWe look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNVIxTmxTbVJDUlRSdFVrSlFVV2RVYVdWNGQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-26T09:24:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was really good …thanks to Ramandeep especially for her hospitality",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Vikas,\n\nThank you for taking the time to share your feedback.\n\nWe’re pleased to know that your visit with us was a pleasant one. Your appreciation of our service team is truly encouraging, and we will be happy to convey your kind words to Ms. Ramandeep for her attentive and warm approach.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KU1lXSjJTM3BHVjFkcmJYaHpaMDR3WmtrelZFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-25T08:34:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Reena,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTlJVNDJWVFl4YkRaNFpYSkJXRWg2WVVabFltYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-23T08:29:01Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Harshpal,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdk9USm5WMDFKYzB4TVdHTnROa1pPZDNaTVVFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-21T16:09:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good ambience and great food.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Arnav,\n\nThank you for taking the time to share your feedback.\n\nWe’re pleased to know that you had an enjoyable experience with us. Your encouragement motivates our team to continue delivering a welcoming and satisfying experience for our guests.\n\nWe look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMmN6WTNjbTFHWkRaVlpFSjJlalphWldNM1pVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-21T15:58:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Really good food\nWorth the spend",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Gurleen,\n\nThank you for sharing your feedback.\n\nWe’re glad to know that your dining experience met your expectations. Such encouragement motivates our team to continue delivering a consistently enjoyable experience for our guests.\n\nWe look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWV2MxbHRWSE55UWsxRlNsSkVjVGhMUmtWbFlWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-20T08:12:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was very tasty... I am come again",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Kamal,\n\nThank you for your kind feedback.\n\nWe’re delighted to know that you enjoyed the food at Dhaba on the Highway. Your appreciation truly motivates our team, and we look forward to welcoming you back again soon for another enjoyable dining experience.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaWVXNXlZWHB0WW01elFuQlJjM1U0VEVkSFpFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-19T15:17:23Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Amelina,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabFlqQkdlVmg2U1RoTVlWcGtiSGhwZVVOdGJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-19T14:52:34Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rupesh,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon for a delightful dining experience.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMlFuUmtVVTVUVHpRM0xVd3RiWGg2ZFhCSU4yYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 21,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-17T14:42:22Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Satabdi,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon for a delightful dining experience.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMldYQmpXRXQ2WWpKaWJVWmpSRnBXZG5kVldtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-17T14:18:02Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Abhinab,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe truly appreciate your support and look forward to welcoming you again soon for another enjoyable dining experience.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTVZIZE1ZMTlQTjBaeWFtVjVSRm8zUzFkdVJVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-16T15:15:44Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pleasant Ambiance and tasty food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Supriya,\n\nThank you for sharing your feedback.\n\nWe’re pleased to know that you enjoyed the pleasant ambience and found the food to your liking at Dhaba on the Highway. Your appreciation encourages our team to continue delivering a warm and enjoyable dining experience.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVWFsVmxSV0pRYzFKVE4xQlhjRTlGUjFsSVgyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-14T15:20:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Best experience and services all staff",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Jyoti,\n\nThank you for taking the time to share your feedback on Dhaba on the Highway.\n\nWe’re pleased to know that you had a positive experience and appreciated the service extended by our team. Your kind words are encouraging and motivate us to continue delivering attentive and consistent service.\n\nWe value your feedback and look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdmF6UkdUMVpEWWtKNU9WUjFVM0F0T0ZwMU5sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 49,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 6 months ago",
+      "iso_date": "2026-04-14T09:31:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "I found myself back at this restaurant thanks to my friends’ demands, and here’s my updated take on the experience!\nThis time, I tried the chicken tandoor, and it was absolutely delicious—highly recommended! The chicken tikka with pepper was also fantastic, with a lovely smoky flavour. We ordered it twice because we weren’t quite happy with just one serving 😜\nFor the main course, we enjoyed butter naan and butter chicken, both of which were excellent.\nThe lassi was even better than before, with a lovely addition of kesar and badam.\nThe seating is comfy and cosy, with a Punjabi feel all around.\nI’d definitely recommend the lassi and chicken tikka (pepper) as my top dishes.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Jatin,\n\nThank you for taking the time to share such a detailed update on your experience at Dhaba on the Highway.\n\nWe’re delighted to know that your return visit lived up to expectations and that you and your friends enjoyed the food. Your appreciation of the chicken tandoor, pepper chicken tikka, butter chicken with naan, and the kesar‑badam lassi is truly encouraging.\n\nIt’s also pleasing to hear that the ambience and seating added to the overall comfort and Punjabi dining experience. Feedback like yours reassures us that consistency in flavour, presentation, and atmosphere continues to resonate with our guests.\n\nWe appreciate your recommendation and look forward to welcoming you again for another enjoyable visit.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejQfHbv6m15NOKn5KEUYM-Qkg_bIcCBP2k5Uzliul9kkBH69ty9T5xCIOsseqWcJ9O4xE0Dv2qDXhNEOBK2K_jxwKFPxIArGTG7LnsQx_lJbq6GOZjNL-24fb1Fb85qH4l0umXiR9g2-o=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRmNFcEpPR0ZvYTNSZmIxbG5ZM2hEUVRCRGNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 55,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-12T17:16:28Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Maheshwar,\n\nThank you for taking the time to rate Dhaba on the Highway.\n\nWe value your feedback and appreciate you choosing to visit us. Your input supports our ongoing efforts to offer a consistent and satisfying dining experience.\n\nWe look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21abGFpMWlSMWxvVERWNU9FMWxYMGQyTlhKbVJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-12T16:30:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Bengaluru vich Punjab Da swad",
+      "text_original_language": "Benguluru vich Punjab Da swad",
+      "language": "mr",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Veekkas,\n\nThank you for taking the time to share your feedback on Dhaba on the Highway.\n\nWe’re pleased to know that the flavours brought a sense of Punjabi authenticity to your experience in Bengaluru. Such feedback reassures us that our culinary focus resonates well with our guests.\n\nWe appreciate your patronage and look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25od2FHaENNRFZoY1hSb2F6azBkV2xTYTBWSk9GRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-12T08:24:55Z",
+      "iso_date_of_last_edit": null,
+      "text": "Must visit place...specially for those who want home like north Indian food..",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Madhu,\n\nThank you for taking the time to share your feedback on Dhaba on the Highway.\n\nWe’re pleased to know that you enjoyed the food and found the experience worth recommending. Feedback such as yours reinforces our focus on offering familiar and comforting cuisine.\n\nWe appreciate your patronage and look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toM1gwbEJSazFEWVd0bFpIQm9halY0T0U0eWFXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-12T08:12:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Proper punjabi Mohal tha ji\nLiked that quote\nSadda Panjal @ Namma Bengaluru",
+      "text_original_language": null,
+      "language": "kn",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Karthik,\n\nThank you for taking the time to share your experience at Dhaba on the Highway.\n\nWe’re pleased to know that the Punjabi ambience and the concept resonated with you, and that the cultural elements added to your overall experience. Feedback such as yours reflects the authenticity we aim to deliver.\n\nWe appreciate your patronage and look forward to welcoming you again.\n\nWarm Regards\nArvind Kumar Sharma\nGeneral Manager\nDhaba on the Highway",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    }
+  ]
+}

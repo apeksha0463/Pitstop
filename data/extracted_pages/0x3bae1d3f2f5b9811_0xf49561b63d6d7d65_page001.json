@@ -1,0 +1,80 @@
+{
+  "data_id": "0x3bae1d3f2f5b9811:0xf49561b63d6d7d65",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Dhaba On The Highway",
+    "place_type": "Punjabi restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "response",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcGJGcGtNVVZXYUdOcmRGcEVaeko2U2prNFEzYxAB",
+      "author": "Sanjivani Handa",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todFYwc3dNRkZSU1hOMVdHSTVRMU5PVkRkTFgyYxAB",
+      "author": "Deepak S",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSk0zaHJXR0p6ZERkWmFHVnRUMTlFWDNOU1FtYxAB",
+      "author": "Navya Devang",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTmVISkhURkphYVZaR2NqVnFaemRmUVVNNFRIYxAB",
+      "author": "Kamal Venkat",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ2NIZGpRM0E0T1ZSamJqUjFRbDlEWlRsbVIyYxAB",
+      "author": "Abhilash Shetty",
+      "rating": 4.0,
+      "date": "6 days ago",
+      "images": []
+    }
+  ]
+}

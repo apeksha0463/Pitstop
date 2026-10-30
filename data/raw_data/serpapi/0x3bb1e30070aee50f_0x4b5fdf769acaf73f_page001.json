@@ -1,0 +1,307 @@
+{
+  "search_metadata": {
+    "id": "6ae44d22bd62cd1f95fa66ef",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Jt3oiaWOXyBvDtTCkC2AI-k9Bj--lzN4o58s32XpAZs/6ae44d22bd62cd1f95fa66ef.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Jt3oiaWOXyBvDtTCkC2AI-k9Bj--lzN4o58s32XpAZs/6ae44d22bd62cd1f95fa66ef.md",
+    "created_at": "2026-10-30 07:54:10 UTC",
+    "processed_at": "2026-10-30 07:54:10 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e30070aee50f:0x4b5fdf769acaf73f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Jt3oiaWOXyBvDtTCkC2AI-k9Bj--lzN4o58s32XpAZs/6ae44d22bd62cd1f95fa66ef.html",
+    "prettify_html_file": "https://serpapi.com/searches/Jt3oiaWOXyBvDtTCkC2AI-k9Bj--lzN4o58s32XpAZs/6ae44d22bd62cd1f95fa66ef.prettify",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e30070aee50f:0x4b5fdf769acaf73f",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Koteshwaram-The Temple of Divine Food",
+    "address": "Sy No 15, Abbachikkanahalli, Southegowdanahalli, Kurubarakunte, Karnataka 562164, India",
+    "rating": 4.3,
+    "reviews": 4691,
+    "type": "Vegetarian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "kids play area",
+      "mentions": 58,
+      "id": "QAhIDbDOvN0"
+    },
+    {
+      "keyword": "dosa",
+      "mentions": 63,
+      "id": "gFrIySD8YW8"
+    },
+    {
+      "keyword": "outdoor seating",
+      "mentions": 18,
+      "id": "AEmHqxr-_tg"
+    },
+    {
+      "keyword": "south indian food",
+      "mentions": 76,
+      "id": "Jk-Caz57Xj4"
+    },
+    {
+      "keyword": "akki roti",
+      "mentions": 15,
+      "id": "ERyxTUpKL3k"
+    },
+    {
+      "keyword": "idly",
+      "mentions": 26,
+      "id": "RytCSTkF3-8"
+    },
+    {
+      "keyword": "clean washrooms",
+      "mentions": 57,
+      "id": "WmGDpqLu7Ow"
+    },
+    {
+      "keyword": "vada",
+      "mentions": 19,
+      "id": "A8vA_gNj5wc"
+    },
+    {
+      "keyword": "spacious",
+      "mentions": 42,
+      "id": "AGtlEJN-3U4"
+    },
+    {
+      "keyword": "sambar",
+      "mentions": 17,
+      "id": "JiT9ZvNSMhM"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GVE0xRmFRVTlwUlZKclkwdGxkelJHWmtkelRGRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOnFTM1FaQU9pRVJrY0tldzRGZkdzTFE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "11 minutes ago",
+      "iso_date": "2026-10-30T07:42:16Z",
+      "iso_date_of_last_edit": "2026-10-30T07:42:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVE0xRmFRVTlwUlZKclkwdGxkelJHWmtkelRGRRAB",
+      "user": {
+        "name": "BALU S REDDY",
+        "link": "https://www.google.com/maps/contrib/112204782517410541246?hl=en",
+        "contributor_id": "112204782517410541246",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL1t5h6gntYnJwtHPZsZUen1RoVhR9sWmltDcleO7vezfcImg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 14,
+        "photos": 4
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "a minute ago",
+        "iso_date": "2026-10-30T07:52:42Z",
+        "iso_date_of_last_edit": "2026-10-30T07:52:42Z",
+        "snippet": "Dear BALU S REDDY,\n\nThank you for taking the time to share your thoughts! We truly appreciate your feedback and are delighted to hear that you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your insights are invaluable to us as we strive to enhance our offerings. \n\nWe’re currently working on improving our service speed to ensure an even better experience on your next visit. We look forward to welcoming you back soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Dear BALU S REDDY,\n\nThank you for taking the time to share your thoughts! We truly appreciate your feedback and are delighted to hear that you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your insights are invaluable to us as we strive to enhance our offerings. \n\nWe’re currently working on improving our service speed to ensure an even better experience on your next visit. We look forward to welcoming you back soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GbVVrUjFYMnQzTVhkWk5XVm9UamR6UjI5SlZVRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOmFmUkR1X2t3MXdZNWVoTjdzR29JVUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "an hour ago",
+      "iso_date": "2026-10-30T06:36:12Z",
+      "iso_date_of_last_edit": "2026-10-30T06:36:12Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbVVrUjFYMnQzTVhkWk5XVm9UamR6UjI5SlZVRRAB",
+      "user": {
+        "name": "Soumya",
+        "link": "https://www.google.com/maps/contrib/104642666704311413076?hl=en",
+        "contributor_id": "104642666704311413076",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLPsKB94woegex2vVhTSFFfiWtW_Xbe-awm9VW5F3XBfeYISw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 32,
+        "photos": 52
+      },
+      "likes": 0,
+      "response": {
+        "date": "an hour ago",
+        "iso_date": "2026-10-30T06:46:31Z",
+        "iso_date_of_last_edit": "2026-10-30T06:46:31Z",
+        "snippet": "Hi there, \n\nThank you so much for your wonderful 5-star review! We at Koteshwaram-The Temple Of divine food are thrilled to have earned your trust. Your support means the world to us, and we’re committed to maintaining our high standards of quality and service. \n\nWe can't wait to welcome you back soon for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Hi there, \n\nThank you so much for your wonderful 5-star review! We at Koteshwaram-The Temple Of divine food are thrilled to have earned your trust. Your support means the world to us, and we’re committed to maintaining our high standards of quality and service. \n\nWe can't wait to welcome you back soon for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xWWNHUmtlR0ZOUVZOa2JYazVaMlpwVjA4d2VGRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOm1YcGRkeGFNQVNkbXk5Z2ZpV08weFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 hours ago",
+      "iso_date": "2026-10-30T03:10:24Z",
+      "iso_date_of_last_edit": "2026-10-30T03:10:24Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcRCuKJff-f0X81szr_u_D-WMgf-MPN_oEEkEinATJR1a2yYVNKBb8VU0nE_pXNsyMCjVDiU4O7VD-LpjbxYzDuUtB0cEOrxUDpB7vp9Hl2qcLT6s7TmMlfj7RjKi93x3rzEnUSV5ATw5WB=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeyxFRWxmligJ0P_-OVuneJB0cHNpsLMPC3HQQ9r7xfJaGecWIfn1Lxm8zGc76PjoesI6cjs8K-G_L-KxtToCncirh3AxbVCqRlR2BuvDWzlkoxiu4jprskl5VNc6p-Ez322uFMELVCZLs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdJhtdSnIdfiOYNmwob-rscCBkMTSRnLfQnQRtoxLiwj_vfcJEMjGRRpgTON8aNfIU_mFlW6nEuvTDxbeqzJfNuQBR7kBraFBfdRp9-32oMCYYt8FYavqWzW-GmhYAvE2KNiyAH9nHalclD=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfm5N8YO4GDhUZJARCCyh5meXK4FX4tpy_0O0YftRqaxwr-r4Yrxb-ZHO608tXfPTXryEjk1yA8xU45DU4Ga57sVXJ42pDQn0tQokxgPNO67eBC6dHPmw5Nrf3RJumhkU7I7zdDkO0wVS9Q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfxy2RNFLw_efE76nRE_pVIx6YMJh9AQeG9YXs_Ms-v5wu1mhxTYl5Tc8CHkD6s7ihnaCsLI99lDbB9n8l6RAQMSR6Jm63Nw1bfCYbOmyluLLykDqdGHEhTJn9joN0fbstjXYejbdYBJTGo=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfjZWoJ7V73Fv29TkHxSHiC2c21xE4mvYH4I6e8wJA-aJ15FmnJuCxiL_PHhfq85meMWUv6az7mdnzxR-PlJSSCkoFtrSGNfbmoh0lWX3pFR5CLWFg2Mc_0eGRXtnlmkI2085ZVbh8v_h-1=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeurTDBoqfOTF8svYflTEcDPMAOy66uCYkY4suwptFKfsbLxcdDttYtSPdAHtxAjkYUYsjjr9V9-rqzVuZ_9DLTrzz1uDoYDHT8RkhZYIfScku1E0YuyExIGcfN_nstMuG784yhMD7TGtJv=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWWNHUmtlR0ZOUVZOa2JYazVaMlpwVjA4d2VGRRAB",
+      "user": {
+        "name": "Harish Prasad",
+        "link": "https://www.google.com/maps/contrib/117903956450625076481?hl=en",
+        "contributor_id": "117903956450625076481",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXqCjPfxkurriADZmsI4fjwZQAW1fAowWKK1mis0cY_TZjyjcAf9A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 379,
+        "photos": 2467
+      },
+      "snippet": "If you are planning a trip to Nandi Hills, Koteshwaram is the perfect place to stop! Located right on the highway outside Bangalore, it is ideal for a breakfast,lunch or dinner stop while heading back to the city. The restaurant is massive with a serene temple-like theme and beautiful seating options. The food quality is excellent, and they have an extensive parking space that easily handles the highway rush. A must-visit spot for families!",
+      "extracted_snippet": {
+        "original": "If you are planning a trip to Nandi Hills, Koteshwaram is the perfect place to stop! Located right on the highway outside Bangalore, it is ideal for a breakfast,lunch or dinner stop while heading back to the city. The restaurant is massive with a serene temple-like theme and beautiful seating options. The food quality is excellent, and they have an extensive parking space that easily handles the highway rush. A must-visit spot for families!"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "Suitable for all group sizes",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian, Large vegetarian selection, Vegetarian menu or section, Clearly labeled vegetarian dishes",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0,
+      "response": {
+        "date": "4 hours ago",
+        "iso_date": "2026-10-30T03:26:09Z",
+        "iso_date_of_last_edit": "2026-10-30T03:26:09Z",
+        "snippet": "Hi Harish,\n\nThank you so much for your wonderful review! We're thrilled you enjoyed your visit to Koteshwaram-The Temple Of divine food. It’s fantastic to hear you appreciated our serene atmosphere and extensive food quality. We strive to create a welcoming stop for travelers on their way to Nandi Hills. Your kind words inspire us to continue providing excellent service. We look forward to welcoming you and your family again soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Hi Harish,\n\nThank you so much for your wonderful review! We're thrilled you enjoyed your visit to Koteshwaram-The Temple Of divine food. It’s fantastic to hear you appreciated our serene atmosphere and extensive food quality. We strive to create a welcoming stop for travelers on their way to Nandi Hills. Your kind words inspire us to continue providing excellent service. We look forward to welcoming you and your family again soon!\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210cVRESXhkRVZFT1RsWk1XVkdlRlI1VjNoV1dsRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOmtqTDIxdEVEOTlZMWVGeFR5V3hWWlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "13 hours ago",
+      "iso_date": "2026-10-29T18:23:37Z",
+      "iso_date_of_last_edit": "2026-10-29T18:26:18Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLchF2qrufLh3-2qUgjHRx4G-GwgYUjZsl6-LC46G99eBkbNcAuCBJeMzjdeDBB5eEgY9tKZPT0Ms3RBfDNgaawLf1Rzsen1dVZrCdd0XwHsD_9Rj9qa2WcS-MuhqO5G8vjLcJKteirZXBJQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfcsthdNbw6WEFhNoyWAfxUElOIJlQqIhxlssDpByk2_xxpMv8epqV89IXoacey2eyWlwzkO0DKatPljHhSuvwG6rJi3xViWmDs0cgXUCycSNEUVI4jQdRpiCunXCrslBhXjkOHfKZBhD8_=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeZrUZk7tLBzKVXiOwivaO-NlNxhGhcquai6zyyUgyf8cvzvYharPxOnGeKMoamTKx5R9NamVNa335MzYoArj3VwIh3THfjl5jTX10EGWevQPCmYJeOaBVzvPjc8vffSQ0YX6ssdm3P5h21=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeTo9pmKX4pvGFL3bF2KZjfRZGMOpgwjug4eHI-UT7s7K1a97Y6WMHZ-EK0KSLD06k2-AV72TQWDzK1BuAK82Qmle_YtUhM9W8PJ2cOlJ5A5-3A3lA9jv8VA3XJ3PjAGBfUlgXBS0BJiNKs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfxQfzPikcd77twldNTviDRBLNoSCq-avl3kfWpt0lMVNp8PzoyRDjy0-VsvUW2grpapKrH-DIFpyiNmATDElv9R-77eRDoYUC7H6567IJV-3PHhxUKn2Q36niXXm0kkDhoTp05geJKt_g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfgjjByrUYN2t4MiELMxH1tFTKElz2aEdaaWeON7iDwb6Y1hnJ_bbbTmZ8dD_n063wEQdXvg3YJ-VrK1_AlBC04OtcNgn_46IkZMfaIn7KMIkPxG7Dr2p9tHFBu-q2K8POwgPNmhDHxgTk0=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcC9cdJpzOiiiw_slxyyQBs-cGDisLzQnpR481ygDu-aNIB49CnymcAEyf8zM9Bn4dP3vhmpYIZtZKfB1ENYzQpKshTQtJP9kzPFY5WbuyRwghzcAc97tE4ODj5Ugy4bFTRMzGb-68IZHY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcDMXWNWz8M51_NGXb7ViDsA6gAlFXi1kUxqI4aDjGb-JP6Tt_HLEeK6KoXVgB6MAQYhluHJtMYz6afk00H7NEgAGpH1LpA_ijeBwpJtO_NwHE3e1zQtgkvj0Tm93NsvVpv-xPxc9Jgqkh8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLda6rdJxlGb3SzPvJWr-Pv0TNY6xs-efVEOzgC3bOWZrio2Fw75X6Kre84MNStvVpd_l2lCBAkdn-8w7w73M8UOl-fgoHCzhcodjefK0FQN48NX6Zzem-gGQf3SWr9WBqOO6vsr9UC5Nspf=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLee8LsIoKjiOmeifohDYk6FbgRGxTfkw6esJPsl-nl7TZ5C47edQwankcMGCdL_iDisiO__A0Wnbl3PsVTVukSXGtFwPa9uWcRiUMpxuplTGuxo7DXmrLZsGtVMvCfaNeVrT3960EwbaUOs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeeGnHirwGxhQVsDSG9X726nDsQyNAvFUbxRzPs6J_-hxZ6tF8KfI9Qu4MFjKWdkdrKVfOtOHQvqGVgWstR06rbLUcvHsSqWYPaU9Ur07YdkUjomL3fm8QBgxrhkoXY8vnxRiZWC6uWbyQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe1Yah-RlnuzSZ2K3zT9V4c82k_HzKIVkbeDutHts983PvL1YA8_sJHMWkFlDVx7NcH8_rgAtw4Qd7yhdDvM-wsmIRdY2mS8Hzg0XFsmY5d4RXytqPpSr09hHMBtdbcLw-hzYzWpmISxgv6=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeru6sxr4vZRuQZKpLXogQbkKomMVzHriTLEcFhkcAAxayPy2SXyH3jM8JUJKszV7xz1xzkPR5FMGdztY28g-23-Ys7LB_edt6xDuclhn19vZxjf96UpofFOd4gdSMtM4VzbR4C4rEnDWa1=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfK5xZq6RYFnoxA804HtBlEJC9a-Cs4ddMSiNt0ANaegaRJbxXhEMznuB6QWGLNsu2e2C_-9xSa_6bNO5-pcWefgFLpRQOaWNUSKzAFhgt0sq7bXxmyp5EI3byiO2PmEtiktsgsuLYeh_Y3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLen6YxoFL9UyKz6M_F2VFb4aa2kmN0CFYmnRZJSP6q1jYpTtw-CBzUxKF2Qhs6m6dBoWXr1zjPiopKIXbzAP-zzIgDaGwqt18MneRvY87d0w5n5TOiQZ9P5a-cpdIoAB5ohoXGVlX3U03ZJ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLek5Vu1ShegiSFCrNed4k64-x-RUInKKyKJ4fmujKHxyh9Xb7l4Z3DfLZvdwFQPLQduxhZLs8qei41ujdUl9IEZ2-M6r2dKguSnei7AsgHcq9Sg0L3ReJjFXzakqSyQ6fVb4cRvFH23Txer=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210cVRESXhkRVZFT1RsWk1XVkdlRlI1VjNoV1dsRRAB",
+      "user": {
+        "name": "Julien LEFEBVRE",
+        "link": "https://www.google.com/maps/contrib/115428509211422388830?hl=en",
+        "contributor_id": "115428509211422388830",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU6prosF1LoqbDBvW9TpsZ7m4Vt4vdohhzihRM1YtUgl6hliJMV=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 497,
+        "photos": 29145
+      },
+      "snippet": "Belles decouvertes sur le\nChemin du retour de nandi hill. Bcp’de places services rapides.\nTeste et aime : dosa, cheese naan (super cremeux, tali,\nMoyen : gulab jamuun\nA noter petit air de jeux pour les enfants.\nUn bon moment en famille.",
+      "extracted_snippet": {
+        "original": "Belles decouvertes sur le\nChemin du retour de nandi hill. Bcp’de places services rapides.\nTeste et aime : dosa, cheese naan (super cremeux, tali,\nMoyen : gulab jamuun\nA noter petit air de jeux pour les enfants.\nUn bon moment en famille.",
+        "translated": "Great discoveries on the\n\nWay back from Nandi Hill. Lots of places with quick service.\nTested and loved: dosa, cheese naan (super creamy), tali.\nAverage: gulab jamuun.\nNote: small playground for children.\nA great time with the family."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "5-8 people",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "dietary_restrictions": "De la place et des places a l’ombre"
+      },
+      "translated_details": {
+        "dietary_restrictions": "Plenty of space and shaded areas"
+      },
+      "likes": 0,
+      "response": {
+        "date": "13 hours ago",
+        "iso_date": "2026-10-29T18:35:41Z",
+        "iso_date_of_last_edit": "2026-10-29T18:35:41Z",
+        "snippet": "Hi Julien,\n\nThank you so much for your wonderful review! We're thrilled to hear that you discovered us on your way back from Nandi Hill and enjoyed the dosa, super creamy cheese naan, and thali. It's also great to know that your family had a lovely time in our small playground. Your feedback is invaluable as we strive to maintain speedy service and quality food at Koteshwaram-The Temple Of divine food. \n\nWe look forward to welcoming you back for more delicious experiences!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Hi Julien,\n\nThank you so much for your wonderful review! We're thrilled to hear that you discovered us on your way back from Nandi Hill and enjoyed the dosa, super creamy cheese naan, and thali. It's also great to know that your family had a lovely time in our small playground. Your feedback is invaluable as we strive to maintain speedy service and quality food at Koteshwaram-The Temple Of divine food. \n\nWe look forward to welcoming you back for more delicious experiences!\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GUWNXTlJMV2cwUlZZNVUzQm5XRzVvUlRGWlVGRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOnFQcWNRLWg0RVY5U3BnWG5oRTFZUFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "21 hours ago",
+      "iso_date": "2026-10-29T10:38:28Z",
+      "iso_date_of_last_edit": "2026-10-29T10:38:28Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUWNXTlJMV2cwUlZZNVUzQm5XRzVvUlRGWlVGRRAB",
+      "user": {
+        "name": "sudhanshu tonpe",
+        "link": "https://www.google.com/maps/contrib/117977055136989885114?hl=en",
+        "contributor_id": "117977055136989885114",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX49kYJI5PERjHiJRlzPsK7_Kpr5IjC86ubDcgNT7F-FSFoMNTI=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 119,
+        "photos": 1024
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹2,000+",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "group_size": "1 person",
+        "recommendation_for_vegetarians": "Highly recommend"
+      },
+      "likes": 0,
+      "response": {
+        "date": "21 hours ago",
+        "iso_date": "2026-10-29T10:48:57Z",
+        "iso_date_of_last_edit": "2026-10-29T10:48:57Z",
+        "snippet": "Hi Sudhanshu,\n\nThank you so much for your wonderful 5-star review! We’re thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support inspires us to continue delivering exceptional service and creating memorable experiences. \n\nWe look forward to welcoming you back soon for more delightful culinary moments!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Hi Sudhanshu,\n\nThank you so much for your wonderful 5-star review! We’re thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support inspires us to continue delivering exceptional service and creating memorable experiences. \n\nWe look forward to welcoming you back soon for more delightful culinary moments!\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    }
+  ]
+}

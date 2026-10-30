@@ -1,0 +1,208 @@
+{
+  "search_metadata": {
+    "id": "6ae44cddd114df6a8fb9002d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Z6Kq02ozrpzIm0iM_GJMYnDCzJmOtkvnaiaEfS4BXdk/6ae44cddd114df6a8fb9002d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Z6Kq02ozrpzIm0iM_GJMYnDCzJmOtkvnaiaEfS4BXdk/6ae44cddd114df6a8fb9002d.md",
+    "created_at": "2026-10-30 07:53:01 UTC",
+    "processed_at": "2026-10-30 07:53:01 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae197d9384cd9d:0x11226b272c6be0b2!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Z6Kq02ozrpzIm0iM_GJMYnDCzJmOtkvnaiaEfS4BXdk/6ae44cddd114df6a8fb9002d.html",
+    "prettify_html_file": "https://serpapi.com/searches/Z6Kq02ozrpzIm0iM_GJMYnDCzJmOtkvnaiaEfS4BXdk/6ae44cddd114df6a8fb9002d.prettify",
+    "total_time_taken": 0.72
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae197d9384cd9d:0x11226b272c6be0b2",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Thamaq Restaurant | Bagalur Cross",
+    "address": "Bagalur Main Rd, opp. Indian Oil Petrol Pump, Munneshwara Block, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka 560064, India",
+    "rating": 4.3,
+    "reviews": 4916,
+    "type": "Eclectic restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "mandi",
+      "mentions": 69,
+      "id": "JR2gOrEdyDc"
+    },
+    {
+      "keyword": "biriyani",
+      "mentions": 113,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "alfaham",
+      "mentions": 42,
+      "id": "nEUoRhnCueM"
+    },
+    {
+      "keyword": "shawarma",
+      "mentions": 77,
+      "id": "NGskbtlrJ48"
+    },
+    {
+      "keyword": "falooda",
+      "mentions": 9,
+      "id": "hs3ImVnCdW8"
+    },
+    {
+      "keyword": "ghee rice",
+      "mentions": 11,
+      "id": "LoYhHTMpb_M"
+    },
+    {
+      "keyword": "kerala style food",
+      "mentions": 11,
+      "id": "Ls8jeTr_u4w"
+    },
+    {
+      "keyword": "ghee roast",
+      "mentions": 9,
+      "id": "AdS5VTf9J3c"
+    },
+    {
+      "keyword": "arabic food",
+      "mentions": 31,
+      "id": "NE-gd95CGe0"
+    },
+    {
+      "keyword": "butter naan",
+      "mentions": 8,
+      "id": "QyYIX27TD-0"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWRFpWOHdSblp4T0VKNmMyUXhabU5XTVRCMmNGRRAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CAIQACodChtycF9oOlVDZV8wRnZxOEJ6c2QxZmNWMTB2cFE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T05:21:52Z",
+      "iso_date_of_last_edit": "2026-10-29T05:21:52Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRFpWOHdSblp4T0VKNmMyUXhabU5XTVRCMmNGRRAB",
+      "user": {
+        "name": "Anand Advocate",
+        "link": "https://www.google.com/maps/contrib/116135124212884121481?hl=en",
+        "contributor_id": "116135124212884121481",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJCB8NCJdTXsJA_7xgD99mnycuwDlFzcU-ZlRETkVsyLgJQuw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 62,
+        "photos": 11
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 4,
+        "reservation": "Reservations not required"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSYU5rUXRWRWxOTUdSbVFYbGhUa1p0TlV0M2JrRRAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CAIQACodChtycF9oOjRaNkQtVElNMGRmQXlhTkZtNUt3bkE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T12:46:35Z",
+      "iso_date_of_last_edit": "2026-10-28T12:46:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSYU5rUXRWRWxOTUdSbVFYbGhUa1p0TlV0M2JrRRAB",
+      "user": {
+        "name": "Amit Moy",
+        "link": "https://www.google.com/maps/contrib/109027856756828189903?hl=en",
+        "contributor_id": "109027856756828189903",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLU8nKO9Dav66minXDl4fM79GM_zqKCO69SCGMd-LZhvvHxjjw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 5,
+        "photos": 0
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "reservation": "Varies by time / day",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Vegetarian menu or section"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxT1pqRmhibXAwVGs4dFJ6TnFTRlZpWlRsclRuYxAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CAIQACodChtycF9oOk1OZjFhbmp0Tk8tRzNqSFViZTlrTnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T16:44:48Z",
+      "iso_date_of_last_edit": "2026-10-27T16:44:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxT1pqRmhibXAwVGs4dFJ6TnFTRlZpWlRsclRuYxAB",
+      "user": {
+        "name": "Narasimha Chinnu",
+        "link": "https://www.google.com/maps/contrib/106893921417889450404?hl=en",
+        "contributor_id": "106893921417889450404",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLvfGAVd7-zB9PlNT6BHxti_e7cawwbqhPXcqg3x0Psvwxo6Q=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21Kak9XdEtNRkZ1TkVSNGJuWlhlVFJQUjA1UlMwRRAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CAIQACodChtycF9oOmJjOWtKMFFuNER4bnZXeTRPR05RS0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T06:00:27Z",
+      "iso_date_of_last_edit": "2026-10-27T06:00:27Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kak9XdEtNRkZ1TkVSNGJuWlhlVFJQUjA1UlMwRRAB",
+      "user": {
+        "name": "Laksh Murthy",
+        "link": "https://www.google.com/maps/contrib/109545510054830738816?hl=en",
+        "contributor_id": "109545510054830738816",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWYQo-wLccow-HWjoxahoSQpUIImJibLdPWH9JVIOVJeyDY1Qw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 54
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaZmIzUTFjbWxCZVRkVmNIcG9Ua3hxYmpNMVkxRRAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CAIQACodChtycF9oOlZfb3Q1cmlBeTdVcHpoTkxqbjM1Y1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T04:14:30Z",
+      "iso_date_of_last_edit": "2026-10-27T04:14:30Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaZmIzUTFjbWxCZVRkVmNIcG9Ua3hxYmpNMVkxRRAB",
+      "user": {
+        "name": "Alok kumar",
+        "link": "https://www.google.com/maps/contrib/110728768305248473651?hl=en",
+        "contributor_id": "110728768305248473651",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWjFe1FQOEMHv5746K_qbs_fQyxbv5HBBxDYj0H5MlIqmYqNJM5=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 22,
+        "photos": 17
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "recommended_dishes": "Alfaham Mandi Arabic, Fish Pepper Tawa, Tandoori Chicken, Thamaq Special Chicken Curry",
+        "reservation": "Walk-ins only",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    }
+  ]
+}

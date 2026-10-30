@@ -1,0 +1,205 @@
+{
+  "search_metadata": {
+    "id": "6ae44d12b69cbe6c212db313",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XmEseKg5v4bMrYOX3xCu4TXpIlB75HihJJMt1bIAFj4/6ae44d12b69cbe6c212db313.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XmEseKg5v4bMrYOX3xCu4TXpIlB75HihJJMt1bIAFj4/6ae44d12b69cbe6c212db313.md",
+    "created_at": "2026-10-30 07:53:54 UTC",
+    "processed_at": "2026-10-30 07:53:54 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1d6611382485:0xd2f76e5fd6d82382!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/XmEseKg5v4bMrYOX3xCu4TXpIlB75HihJJMt1bIAFj4/6ae44d12b69cbe6c212db313.html",
+    "prettify_html_file": "https://serpapi.com/searches/XmEseKg5v4bMrYOX3xCu4TXpIlB75HihJJMt1bIAFj4/6ae44d12b69cbe6c212db313.prettify",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1d6611382485:0xd2f76e5fd6d82382",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "CLAY BISTRO",
+    "address": "Brigade Orchards, Clay Bistro 6PPF+JGG at, Brigade Orchards Spinal Rd, Devanahalli, Devanahalli Town, Karnataka 562110, India",
+    "rating": 4.2,
+    "reviews": 125,
+    "type": "Family restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "chicken biryani",
+      "mentions": 8,
+      "id": "FA_wNU2JL2E"
+    },
+    {
+      "keyword": "butter chicken",
+      "mentions": 3,
+      "id": "AS_wey-xL-c"
+    },
+    {
+      "keyword": "masala chai",
+      "mentions": 2,
+      "id": "fT3E3zLGcok"
+    },
+    {
+      "keyword": "butter paneer parathas",
+      "mentions": 2,
+      "id": "Si0x1-Z3K4g"
+    },
+    {
+      "keyword": "dal bukhara",
+      "mentions": 3,
+      "id": "Ak8o2lrYd2E"
+    },
+    {
+      "keyword": "ginger tea",
+      "mentions": 2,
+      "id": "GSUAWfIUevU"
+    },
+    {
+      "keyword": "indian fare",
+      "mentions": 2,
+      "id": "C96F8fhnXm8"
+    },
+    {
+      "keyword": "north indian food",
+      "mentions": 2,
+      "id": "KU6D_TolXnc"
+    },
+    {
+      "keyword": "mutton",
+      "mentions": 2,
+      "id": "wTzZHO32I30"
+    },
+    {
+      "keyword": "aloo paratha",
+      "mentions": 2,
+      "id": "AQY53cC2Udk"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25vMVNtWnZlVTlGYlZoQmVuQjJSWEZqUTNSSWIxRRAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOno1SmZveU9FbVhBenB2RXFjQ3RIb1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T15:01:59Z",
+      "iso_date_of_last_edit": "2026-10-28T15:01:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMVNtWnZlVTlGYlZoQmVuQjJSWEZqUTNSSWIxRRAB",
+      "user": {
+        "name": "Nitish Saha",
+        "link": "https://www.google.com/maps/contrib/117097675985027067457?hl=en",
+        "contributor_id": "117097675985027067457",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUyomtR2VlQhz3--1rnRCGF1BgqkWLKykUjEWD5GRP1qwL1418=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 50
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KUk4wSnZZa05sWDFaWFZ6bDBhbmRLWkRnMVZtYxAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOnJRN0JvYkNlX1ZXVzl0andKZDg1Vmc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-09-30T08:30:44Z",
+      "iso_date_of_last_edit": "2026-09-30T08:30:44Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUk4wSnZZa05sWDFaWFZ6bDBhbmRLWkRnMVZtYxAB",
+      "user": {
+        "name": "Nilufer M",
+        "link": "https://www.google.com/maps/contrib/109792097144026249793?hl=en",
+        "contributor_id": "109792097144026249793",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJIbd0v3wmtpVJzVwCNtANOzl7KpcGOL37ivC-WScqmuJR0L4NU=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 55,
+        "photos": 13
+      },
+      "snippet": "Nice place to sit out and have a chai",
+      "extracted_snippet": {
+        "original": "Nice place to sit out and have a chai"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCd1Mwa3RVMk0wVW1vMVJFZ3lkbVJSTUZWVlRsRRAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOjBwS0ktU2M0Umo1REgydmRRMFVVTlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T13:24:54Z",
+      "iso_date_of_last_edit": "2026-09-27T13:24:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCd1Mwa3RVMk0wVW1vMVJFZ3lkbVJSTUZWVlRsRRAB",
+      "user": {
+        "name": "Kartikeya Patil",
+        "link": "https://www.google.com/maps/contrib/109550174212019081741?hl=en",
+        "contributor_id": "109550174212019081741",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWv4U-mm1flWtI73RA5VF7iIxPJL0BB-13OET6RiuvvSBBvloo=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 88
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toQmJuWlJiV2x4VVUxTVluUm1lV3h5YzJkTU1XYxAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOkhBbnZRbWlxUU1MYnRmeWxyc2dMMWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T11:50:01Z",
+      "iso_date_of_last_edit": "2026-09-27T11:50:01Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQmJuWlJiV2x4VVUxTVluUm1lV3h5YzJkTU1XYxAB",
+      "user": {
+        "name": "Amulya Nagraj",
+        "link": "https://www.google.com/maps/contrib/116441430729517992986?hl=en",
+        "contributor_id": "116441430729517992986",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJlSSn0RDsxSrXjhGKG9yAL1Vk6ndfXfZc1lD-F1b-FyfIQi48=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,800–2,000"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205V2RIVktYMDVWYkVJMlNEbE9kazl6V1RkWlRsRRAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOm9WdHVKX05VbEI2SDlOdk9zWTdZTlE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T15:29:55Z",
+      "iso_date_of_last_edit": "2026-09-14T15:29:55Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205V2RIVktYMDVWYkVJMlNEbE9kazl6V1RkWlRsRRAB",
+      "user": {
+        "name": "Rubiya k 0111 Dr",
+        "link": "https://www.google.com/maps/contrib/102386942001014657832?hl=en",
+        "contributor_id": "102386942001014657832",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLAfQwKRskIMctFx_myAHnVu35NxE4tG8j5tbX_8zdWgoiHCg=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 0
+      },
+      "snippet": "Worst experience ever\nMushroommatar masala is worst and giving bitter taste",
+      "extracted_snippet": {
+        "original": "Worst experience ever\nMushroommatar masala is worst and giving bitter taste"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 3,
+        "noise_level": "Moderate noise"
+      },
+      "likes": 0
+    }
+  ]
+}

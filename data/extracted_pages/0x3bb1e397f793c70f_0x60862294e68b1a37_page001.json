@@ -1,0 +1,82 @@
+{
+  "data_id": "0x3bb1e397f793c70f:0x60862294e68b1a37",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Devanahalli Gowdru Restaurant",
+    "place_type": "Karnataka restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214ck5FODRRMVJqTlZoblgxTktkRk5yU0VKbmFFRRAB",
+      "author": "Rupa N",
+      "rating": 5.0,
+      "date": "19 minutes ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOb1ZuVTNXbloyYXpKdlFUVldWR05CVUZsMVYyYxAB",
+      "author": "Chikka Kanyappa",
+      "rating": 5.0,
+      "date": "2 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CWVpuYzJhRkpVVEVSMVNtMWFVSFkzYzFSclNuYxAB",
+      "author": "Sanjiv Arora",
+      "rating": 5.0,
+      "date": "8 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsQ2VEQXlYMGRtVmw4dGNITjVkSFpMZFc1Tk5YYxAB",
+      "author": "RAGAVENDRA DYAMANNAVAR",
+      "rating": 5.0,
+      "date": "23 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ga1lrWkVWMVpsVTBGeU1XbFBRV3Q1Y1ZGa1pIYxAB",
+      "author": "Chethan.k.c Chethan",
+      "rating": 5.0,
+      "date": "a day ago",
+      "images": []
+    }
+  ]
+}

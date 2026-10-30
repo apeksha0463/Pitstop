@@ -1,0 +1,98 @@
+{
+  "data_id": "0x3bae1f7477b556d3:0x8c7dfe0eb0754e5c",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Beijing Bites - Chikkajalla",
+    "place_type": "Chinese restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 2,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeVZETkRkVk5uTlVGVldWSjZibGxNWWpsMldWRRAB",
+      "author": "Pramod Lorenzo",
+      "rating": 4.0,
+      "date": "Edited 5 hours ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepLF1LrdMGVW2PSeDdvyOnLEb3jv9DHX12adEyBWyhlY8amZxNWbAPke6x3flp0xhMSwJiw2hIfGBx-rw8YM9JAIIWg5zg-_d8g8RJfG6fvjqTJ5MTgxGWKlddxt-jQ2IY7ewn-Cfm8qXe=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedKyRBJGovKO3LamKHPjAqpDTqtceQ4kc6-j1p4u-SXCG5XTel0NNl0Vo_ncZsGhZVPXIOIqwSXC6OrEa9yTnNsd3FebSx9h6N_DuwcXpgruG7jn75FXK-5cymwtC4XferZBbhkgqV9nx8=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWU5teEdUa2xHTkhvNFpWQmZiWFZIU0ZCcVRXYxAB",
+      "author": "Ram Venkataraman",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wNFNYTllhVkJsZFRabmRrZ3RWVkEyZUZJeldXYxAB",
+      "author": "Bharath Bist",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oMlRqUllVelJVYmpOUVoyeDZXSEZYZUhoRlJGRRAB",
+      "author": "Mithun M",
+      "rating": 1.0,
+      "date": "a week ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213ME9GUmFXSGhyT0VoS2QyNHpWM2RHWjFsaVIxRRAB",
+      "author": "Vaishnavi Lokesh",
+      "rating": 1.0,
+      "date": "a week ago",
+      "images": []
+    }
+  ]
+}

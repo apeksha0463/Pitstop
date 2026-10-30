@@ -1,0 +1,3761 @@
+{
+  "restaurant": "Devanahalli Gowdru Restaurant",
+  "data_id": "0x3bb1e397f793c70f:0x60862294e68b1a37",
+  "google_review_count": "7294",
+  "reviews_total": 111,
+  "reviews_with_text": 74,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 10,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214ck5FODRRMVJqTlZoblgxTktkRk5yU0VKbmFFRRAB",
+      "author": "Rupa N",
+      "author_url": "https://www.google.com/maps/contrib/100495087603754553252?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "19 minutes ago",
+      "iso_date": "2026-10-30T07:34:59Z",
+      "iso_date_of_last_edit": "2026-10-30T07:34:59Z",
+      "text": "Chicken biryani and chicken fry excellent taste and good sarvice nice placement",
+      "text_original_language": "Chicken biryani and chicken fry excellent taste and good sarvice nice placement",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,000–1,200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214ck5FODRRMVJqTlZoblgxTktkRk5yU0VKbmFFRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOmxrNE84Q1RjNVhnX1NKdFNrSEJnaEE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOb1ZuVTNXbloyYXpKdlFUVldWR05CVUZsMVYyYxAB",
+      "author": "Chikka Kanyappa",
+      "author_url": "https://www.google.com/maps/contrib/111712064328784802025?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 hours ago",
+      "iso_date": "2026-10-30T05:17:08Z",
+      "iso_date_of_last_edit": "2026-10-30T05:17:08Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOb1ZuVTNXbloyYXpKdlFUVldWR05CVUZsMVYyYxAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOjNoVnU3WnZ2azJvQTVWVGNBUFl1V2c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CWVpuYzJhRkpVVEVSMVNtMWFVSFkzYzFSclNuYxAB",
+      "author": "Sanjiv Arora",
+      "author_url": "https://www.google.com/maps/contrib/101686117288155037021?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": 14,
+      "rating": 5.0,
+      "date": "8 hours ago",
+      "iso_date": "2026-10-29T23:00:06Z",
+      "iso_date_of_last_edit": "2026-10-29T23:00:06Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CWVpuYzJhRkpVVEVSMVNtMWFVSFkzYzFSclNuYxAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOnBYZnc2aFJUTER1Sm1aUHY3c1RrSnc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsQ2VEQXlYMGRtVmw4dGNITjVkSFpMZFc1Tk5YYxAB",
+      "author": "RAGAVENDRA DYAMANNAVAR",
+      "author_url": "https://www.google.com/maps/contrib/109893889889018729171?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "23 hours ago",
+      "iso_date": "2026-10-29T08:24:29Z",
+      "iso_date_of_last_edit": "2026-10-29T08:24:29Z",
+      "text": "Mini meals and   chicken briyani excellent taste good food",
+      "text_original_language": "Mini meals and   chicken briyani excellent taste good food",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsQ2VEQXlYMGRtVmw4dGNITjVkSFpMZFc1Tk5YYxAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOllCeDAyX0dmVl8tcHN5dHZLdW5NNXc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ga1lrWkVWMVpsVTBGeU1XbFBRV3Q1Y1ZGa1pIYxAB",
+      "author": "Chethan.k.c Chethan",
+      "author_url": "https://www.google.com/maps/contrib/110907572751956941517?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T07:52:23Z",
+      "iso_date_of_last_edit": "2026-10-29T07:53:43Z",
+      "text": "Sakkathagi ithe🤗",
+      "text_original_language": "Sakkathagi ithe🤗",
+      "language": "kn",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Ga1lrWkVWMVpsVTBGeU1XbFBRV3Q1Y1ZGa1pIYxAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOnFkYkZEV1ZlU0FyMWlPQWt5cVFkZHc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMGJtVTJWelpFU2tScVRTMXFkRXQwVGpsSk4wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T06:12:13Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVlltbDZkbmhDZUV4aFduUlRaMkl0VEVkMFUyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T03:54:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pullv and idli non veg items excellent taste good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWGNtWkVkRTlWVDNGSVRFOXZWVmxLTUVkTFJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T10:50:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good food and service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT1NUSXRUa2hFVUY5U1VreDFSVmRETW5sU1ZFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T10:06:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chicken briyani excellent taste",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KRVpuRlVOVzVmYUhONmJ6Wk9PWHBRWTB0d1VHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T09:44:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Gud",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUVNVOUhaVGxZVUU5bWVHVnFZaloyTUZsdE5VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T09:44:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service and taste is to good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdGFrNWZjMDVJWlVwaFVVbEdkRXh1UVcxM1NYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T08:35:59Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poVVNUa3lhMVJvV21OZk5FeG1lVFkxVFVaZk5WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T08:30:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tasty food. Served hot",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padWFDMTBiVFZGTWxwMFRrdEljbUZJVVVWaWVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T07:48:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chikken briyni excellent taste and good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kck1VcGFOakZtVW5RNE5FNUViR0V3WkdKVGVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T07:29:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Botigojju and chiken biriyani & chiken kabab excellent taste super tasty and good quality food I like this food nice nature 🥰",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNGRsRjZaRzVvYlVablFqTmZNVWRRYTJrMFRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T05:16:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "All item super taste and good quality food and excellent taste nice placement,😍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGM1owZHRkRXB2YVhCUlkyZ3pPR3BVZWxacFpFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T03:40:40Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice kalsop and chicken biryani",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204M1gwSlpVa1UyZHkxVVRrZFNRbTVzZVVvdFpIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T03:38:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice dosa and kalsop and mutton curry",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kZlowY3lkM2xGZFhwbk5GcEVPVlpsTmpsV01FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T03:19:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chicken curry and dosa excellent taste and good food and good quality nice placement",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WV1NtazVZbmRLUXpFelpVVXhXRmhRTWs1UlkxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T03:13:17Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aQ00wdEpUVzlXWXpkWGJXbGFibXhxWlROeFUzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T14:34:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chicken biryani",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjeGFWTk5iMTl3WmpaalRqa3diMmhZWW1WWFQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T10:16:10Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObFVVUjBabXhZY0ZKQmFsQjRWekJGWkZZMGJsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T06:06:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rNWFHOHlWV1kwYUUxdU1Vc3dVMUZFYXpSbWJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T05:04:33Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcWF6UjRkbGxSTFZkWGQwY3hXa2h2UWxoR2IwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T05:03:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Super Chikan Biryani",
+      "text_original_language": "Chikan biryani super",
+      "language": "id",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbU1qaHJMWEZJUjAxSVYyaFpRbVp1U0VoTE0xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T18:15:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Fantastic ❤️",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeFJGVkVWVVJvTkVodVMyWmpjbXAzUW5sWlVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T16:38:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxYWJHOTBZVVZOUTFaaFdIUXlhVmhZZFdSS1pYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-26T07:32:40Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacllsWk5UbUpQV0dvM01rcEhXV2hmWTBSQmFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:11:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUVFrYzNZa1psV2t4bGNXVjZjSFEyZUMxQmFuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T10:05:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Place doesn’t have organized service. Food is decent but they need to take their customers seriously or will lose them. We waited for 40 minutes and none of the tables were cleaned and they are running without adequate serves. Food was cold. Unless they take this seriously , another potential business running to a dead end",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0S1puSjVSSEJCYVdWbWJtWnNXR2R2TW5JNGIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T08:15:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5elMyUnRZMUZWTkhkRlpISXlhbWR3Y0RKc1MyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T00:55:32Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CblVrOHlaemxVYUhweWFtMDFablZNWTJ0WlpXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T00:55:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jM05UVXdhRmhKTlRCNGJqVmpaRkY1Ym1FMk5sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T14:08:23Z",
+      "iso_date_of_last_edit": null,
+      "text": "Healthy and tasty food and good service staff servic I have more happy",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTFZrNWtiMHR3Y1hreFpGOUpXV0oxWWxKaGFIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T14:03:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service and good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BeWNuaEJXWGhEU2pkTkxWOVFVV2xUYkd4NllWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T11:47:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNE1sSldRVGt4ZG1kNk4zSm9RemhGT1d4cE4xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T14:59:12Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRFZ6WlliR3hqYmtSblZHaHRka3B0V0hWcWVIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T11:34:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Biryani is ok ok ,its not worth the hype ,mutton stater not worth here",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 3,
+        "Atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCb1FUUlJWMFYxY0RoWVdXVndVbE5QUmtoV1JIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T09:58:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice mutton biryani and kalsoup and thatte idli...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VFJtNVlVMGRGZFhsRmJsbHVOVUozYzBsRkxYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T18:52:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Never disappoints in terms of taste, I would recommend the restaurant adding few veg and egg items (very limited options currently) to encourage everyone to visit and enjoy the traditional Karnataka style food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVeFEwaHhiWEJzWkRGdWRqUlpVR0UwWDBaRU5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T03:33:23Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twSmRVTmxabTlEYUdobkxYSkdXRlkyVkhjM2RuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T03:37:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "Drove all the way here after seeing so many good reviews, only to be disappointed. We ordered idli, chicken biryani and kebabs, but nothing tasted good. Everything lacked flavour, and the chicken didn’t feel fresh either. Honestly, not worth the drive at all. Definitely expected much better after seeing all those reviews.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback. We regret that your visit to Devanahalli Gowdru Restaurant did not meet your expectations, especially after travelling such a long distance. While we respect individual preferences when it comes to taste, we would like to clarify that we use fresh chicken in our preparations and take food quality seriously. Our traditional Karnataka-style recipes and cooking methods have been part of our family's culinary journey since 1969. We are proud of the trust and support of thousands of customers, but we also understand that every dining experience matters. We appreciate your feedback regarding the idli, chicken biryani and kebabs and will review your concerns with our kitchen team. We hope you'll give us another opportunity to serve you better.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsd09XbHdkWGRHVUc0MFkydHJZMUpVZDFoUGJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T16:04:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your wonderful 5-star rating! We're delighted you chose Devanahalli Gowdru Restaurant. We look forward to serving you authentic Karnataka-style food again!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TmVuVk9VVUZwWTFreVRXZ3hNMkpNV2tWNGJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T15:37:56Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your five stars! At Devanahalli Gowdru Restaurant, we take pride in serving traditional Karnataka cuisine with warm hospitality since 1969. Visit us again!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeFVGZHhjbXRqU2s5RVZFaEtUbEJ2WDB4TldrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T14:28:12Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your five-star rating means a lot to our team! From mutton biryani to thatte idli and traditional meals, we strive to offer a memorable dining experience in Devanahalli.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ca1UzbDNUa0pHVm14dGRrUkxka3RoVFhoQlVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T13:39:12Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for supporting Devanahalli Gowdru Restaurant! Conveniently located on NH-44 near Bengaluru Airport, we're always happy to welcome food lovers and travellers.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWM1NXcE1VamhRVWxsVmNFMHhXbTVXYjBoQ2JWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T08:31:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Overall satisfaction with food service and hospitality",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We're grateful for your excellent rating! Our team works hard to maintain authentic flavours, quality food, cleanliness, and friendly service. See you again in Devanahalli!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVGFHWnFOWE52VWpSQk0yRlJRV3RTWTNKMk5IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T08:06:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was good however sidedish seems to be little pricy when compared to the quantity given. Overall good food felt like home food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for the five stars! From traditional mutton biryani to ragi mudde and mutton curry, we're proud to share the authentic taste of Karnataka.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRVkxRm1TbTFmVlRadlREUlRRMmxpTVRWV2FtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T07:14:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Ragi ball iss good 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your appreciation motivates us to serve even better! Thank you for choosing Devanahalli Gowdru Restaurant, proudly continuing our family food tradition since 1969.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOeFFrNXdkMlZmYVV4alRWTmxZV2xFVG1SeFZrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T05:22:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice kalsop and idli",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic rating! Whenever you're travelling on the Bengaluru–Hyderabad NH-44 highway, we look forward to welcoming you for a delicious meal.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCQllteG9kbXhFWkc5eldGTlVVV0ZsVVU5aGIxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:41:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice lemon and chicken fry",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We sincerely appreciate your five-star review! Delicious food, warm hospitality, and consistent service are at the heart of Devanahalli Gowdru Restaurant.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbGFrSlVMVms0UjBZNVJHa3paMGwzVjFKWmEzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:36:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "Idli and bonds  nice ✨",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for choosing us! We're proud to serve traditional Karnataka-style vegetarian and non-vegetarian dishes in Devanahalli. Your support means a lot!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTk1taDBRbmhSVEdablJtWmhSVEZYWkhsd2QwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:28:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice idli",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your five stars made our day! From breakfast to dinner, our goal is to offer fresh, flavourful food and attentive service at Devanahalli Gowdru Restaurant.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeloyRkdiRTFKVXpadmRWUjFabVJuVUhWYU5YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:25:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice chicken biryani and mutton liver....",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful support! Our traditional thatte idli with mutton curry is one of the specialities we love sharing with food enthusiasts visiting Devanahalli.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sa1RYbFpSekJNYlRRMUxWQnhWbGxSYjJ4WlgzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:19:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "nice chicken biryani and kalsop",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We're delighted to receive your five-star rating! Thank you for supporting our family restaurant and helping us continue the rich culinary traditions of Karnataka.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxQk5tNHdVSFppYWpoNGJtbHVhRE5qTVRaSE1XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:19:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Idle and chichen curry nice 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable rating! Whether you're visiting Nandi Hills, travelling towards Bengaluru Airport, or exploring Devanahalli, we look forward to serving you again.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbFdsQjRNMVkzZGxkb1dtNWpXRjlzU1VRMlgyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:18:16Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your five-star review is a wonderful encouragement! At Devanahalli Gowdru Restaurant, we believe delicious food and courteous service should always go together.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VlpVNHlNVWRwVUhSWGVXRnVhazlwYzE5dGQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:17:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Idli and lemon rice super",
+      "text_original_language": "ಇಡ್ಲಿ ಅಂಡ್ ಲೆಮನ್ ರೈಸ್ ಸೂಪರ್",
+      "language": "kn",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We appreciate your support! From mutton meals and chicken biryani to vegetarian meals and ragi mudde, our menu celebrates the rich food traditions of Karnataka.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TlpWaFhkMkU0Y0c1a01GaDNaSEZUUmxaRmQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:58:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chicken biriyani and chicken kabab combo vere level ❤️👍",
+      "text_original_language": null,
+      "language": "sn",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your excellent rating! Our team at Devanahalli Gowdru Restaurant is committed to providing quality food, comfortable dining, and consistent hospitality.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwd1FVZFFabkkxZW1KbVNWaEVaVFV5YlhkM1NrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:34:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice service and chicken biryani and kal soup also so good",
+      "text_original_language": "Nice ಸರ್ವಿಸ್ ಅಂಡ್ ಚಿಕನ್ ಬಿರಿಯಾನಿ ಅಂಡ್ ಕಾಲ್ ಸೂಪ್ ಅಲ್ಸೋ ಸೋ ಗುಡ್",
+      "language": "kn",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your five stars mean so much to us! Thank you for being part of our journey. We look forward to welcoming you back for another delicious meal in Devanahalli.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKQ1NsTjJRa013TURSa2FEaGhiRTFKYTJWSFUyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:33:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Lemon rice and idli is  so nice.....",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your generous rating! Located on NH-44, Devanahalli Gowdru Restaurant welcomes families, travellers, and food lovers looking for traditional Karnataka cuisine.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5amFYaE5UVlpqVFRSaloyVjJSMkpMY0cxSlYyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:32:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "Lemon rice good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We're grateful for your wonderful review! Our aim is simple: authentic flavours, freshly prepared dishes, friendly staff, and a satisfying dining experience every time.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MVltOWxaMFZyY25CaE5saFFTazlwWVdGSVpGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:16:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice service and kalsoup tatte idli nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for supporting our restaurant! Since 1969, our family has been passionate about serving traditional food with warmth and dedication. Your five stars inspire us!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePYmgvlcguhwsFeOy0yyVr1GiB9Ml-lIbbSQNkHK5UJ-6Nc8OfQ8fh1bcdXNl1L9chL2EB-NEF-NtB-nudzJQm-Re83BouusfZNA3HRASL96KLfndEN-GI_paguyzs7N6mWYmxbdz8xcM=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfulwSK_3Ildu0xmIkHvfLMfLJGpYX0TTOTn6jLMk-Q3Afik4Wddur9cbjkyZbvHwMPHZpoUw_zog2egWBS-4TL4rRaSiwdlyYpVR07wHCbVbxpdTj7-Cyf7gs80hBsFVcgo8wwgcD5lMTN=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnhY-6YWV4jUyb_IgnKwyiUNtGRniExMgCJsgoymTTiQ-OF8axunYKGqmy_rrWMzdwQNvio1cgf9KT83z2sZ8T0CJULDVFFwmP0gqJX30jlaS5Lx3e2k38ok15-VZU0pwbzTBqzn-OCR0a=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sZk1sWlFaMGhNYXpoNFpHMDJORGRXZWpaMGIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:10:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and good atmosphere",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your five-star rating is greatly appreciated! We hope you'll visit Devanahalli Gowdru Restaurant again to explore more of our traditional Karnataka-style dishes.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prdE5EVjJZM3A1UzNKTVlqZFJlbmRMU0hWVGVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:08:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "First time visit in this Devanahalli gowdru restaurant idli super teast .........Tharun 🤞",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the lovely rating! Our team strives to offer attentive service and a welcoming atmosphere for breakfast, lunch, and dinner in Devanahalli.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMlJtVnhjVWRoVTJOb2JFTnNVM2RpTmtocmJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T20:10:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is not good worst food.. Waste of money.. Mutton n chicken no taste and also very expensive.. Very costly I don't like",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 2,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback. At Devanahalli Gowdru Restaurant, we have been serving traditional Karnataka cuisine since 1969, and customer satisfaction remains important to us. We're sorry your experience did not meet expectations. Please share your visit details with our management so we can investigate your concerns and improve.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OR1l6QTFiMFJWUlRGRVUxbG9ha1pNU0dGamQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T14:02:36Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "We appreciate your five stars! From our popular mutton biryani and chicken kebab to traditional meals, we work hard to maintain the quality and flavours our customers enjoy.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMFoyUjBibmxwWkVsQk1FUlJRMEpCWDNCcVMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T07:49:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Waste of time and waste of money.Not good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 2,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We understand that pricing and value for money are important to every customer. At Devanahalli Gowdru Restaurant, we aim to offer quality ingredients, traditional Karnataka flavours, and dependable service. We respect your assessment and will review your concerns with our team.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXPseOz2MA1oUNFFOO3BoPUPhvF2wlAN8MG5sjDA445lEIXkKF_Faxn4nI3p2Z7PzUmFrDbFR9rw5dDVnpNjbGe8FpHJy0bmFXKrEXBGqt3NxJk6X2yfv7Tsrk22zn-7JDrvYWB6vDQrM=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5b2JsYzRRakZSWm5OalpXMUhVbmhUTVZnMFkzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T05:09:54Z",
+      "iso_date_of_last_edit": null,
+      "text": "The chicken and mutton are not fresh, everything is super oily and service is bad too. The place is not hygienic and my honest recommendation is that don’t fall for their reviews.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 2,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "We respect your opinion and regret that you were disappointed. Our team at Devanahalli Gowdru Restaurant works hard to maintain consistent food quality, hygiene, and courteous service. We take genuine customer concerns seriously and would appreciate more details about your visit so we can address the issue appropriately.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNFZsSnhkMWRTTURkbFkxbHZVbTV3T1djMVRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T03:06:40Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for taking the time to rate us! Devanahalli Gowdru Restaurant is proud to welcome travellers between Bengaluru, Hyderabad, Anantapur, and Kurnool along NH-44.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sek1uUkJhazlaUzNGQlRHeFVXbEZwYUU1UFRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T23:57:53Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your encouragement keeps us motivated! We're committed to authentic Karnataka food, consistent quality, cleanliness, and friendly hospitality. Thank you for the five stars!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SWVpFTnliV3AyTlZNeWJqUnpjakV4VTFneFgxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T15:30:49Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic rating! We love welcoming families and travellers to Devanahalli Gowdru Restaurant, where traditional flavours and warm hospitality come together.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGS0xUbHpZVzFTTW14dVFXNVFTM2hKYlVWWlIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T15:28:08Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We sincerely appreciate your support! With a culinary heritage dating back to 1969, Devanahalli Gowdru Restaurant remains dedicated to preserving traditional Karnataka recipes.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S2IxaEtZWGRPWjNoR2J5MVRWUzFWUkY4NFdtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T11:23:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "One of the worst hotels i have been to its like zero taste , cost is skyhigh not worth at all",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "We're sorry to hear that our food did not meet your expectations. Our kitchen at Devanahalli Gowdru Restaurant strives to maintain the traditional taste of dishes such as mutton biryani, ragi mudde, and Karnataka-style curries. Please let us know which dishes you ordered and when you visited so we can investigate.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSc2VGUmFlVEZoVFRreGFqSTBhbTVQUlhkTmJXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T11:01:12Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "A heartfelt thank you for your five-star rating! Your support helps Devanahalli Gowdru Restaurant grow while staying true to our roots. We look forward to serving you again!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jd05EbExValpFTjNWQ1VuTTRTazk0ZFY5NFNXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T09:46:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your amazing 5-star rating! At Devanahalli Gowdru Restaurant, we are proud to serve authentic Karnataka-style food with warm hospitality. We look forward to welcoming you again!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201d2FscEljVUZUWW1WS2FVTlBiRUoxUmxwT1pVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T08:34:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and fast service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We truly appreciate your five stars! Our traditional mutton biryani, thatte idli, and mutton curry are prepared with a passion for authentic flavours. Thank you for supporting our restaurant in Devanahalli!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUFdERmpka3RpY3psNVkxQnljMmd3WkMxVU1IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T07:53:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for choosing Devanahalli Gowdru Restaurant! Our team is dedicated to providing delicious food, consistent service, and a comfortable dining experience for every guest.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdU5WcFNkeTAwVFVoRVMyZE5Ra3BOWTJWMFZGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T07:09:47Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Your wonderful rating encourages our entire team! Since 1969, Devanahalli Gowdru Restaurant has been committed to preserving traditional Karnataka food and family hospitality. Thank you!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoaVl6VjNORVZCV2sxZmNISkhSbGd3UVdGbWNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-16T16:00:28Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for the five stars! Whether you're travelling along NH-44 towards Hyderabad or visiting Bengaluru Airport, we are always happy to welcome you for a satisfying meal in Devanahalli.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKa1FTMTFaRFo2ZDFCa1VWTk5kMHhUTFVkd2FWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-16T13:10:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nyc",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWZmJWTkZSVFZwVEV4R1gwTnlMV05CZFRSd1EwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-16T09:43:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice food....worth coming",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We are grateful for your fantastic rating! Our goal is to make every visit memorable through freshly prepared food, attentive service, and the authentic taste of Karnataka cuisine.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFNFVXUXpWWEJwYjB4ME1XbE9SbVoxV25GNWFFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-16T08:23:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good place and good staff",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your kind support! Devanahalli Gowdru Restaurant is proud to offer traditional favourites like ragi mudde, mutton meals, chicken biryani, and naati-style curries. Visit us again!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdU5rNXdlVlpZVmxNeGNVWk9WVFJ2ZUZSeU1VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T13:24:42Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your five-star rating means a lot to our restaurant family! We work hard every day to maintain quality, cleanliness, and friendly service while serving delicious Karnataka-style food.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdWFHNDBZMXBYYWpjNFNtcHlMV1l0U2paWWRFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T11:10:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "Minimeals super 👌 taste good food and nice placement good service all items taste excellent taste",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your excellent rating! From our traditional breakfast combinations to flavourful biryani and non-vegetarian meals, we look forward to serving you again at Devanahalli Gowdru Restaurant.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwd2MyeGtWVkJ6Y0Y5bFFYVXlkMVk1UnpWNmFHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T08:28:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "We sincerely regret that you were dissatisfied with our service. At Devanahalli Gowdru Restaurant on NH-44, we strive to welcome every guest with courtesy and provide timely, attentive service. Your feedback will help us identify areas that need improvement. Please contact our management with your visit details.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NdGQxaDNhMnQxVFZaUVZFZ3dYMmxUT1VvelJXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T15:53:44Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "We sincerely appreciate your support! Our location on the Devanahalli Bypass along NH-44 makes us a convenient dining stop for travellers and families. Thank you for the five stars!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25scmFtUktSM2xyUmpBNFlrcFBWRTEzWTNNM1dGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T08:15:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your lovely rating! Our firewood-cooking tradition and authentic Karnataka recipes are at the heart of Devanahalli Gowdru Restaurant. We hope to welcome you back soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscFRGODRiV2hhTFZCUE9FczRTVzVEVG1WRmJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T07:46:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful rating! Whether it's our mutton biryani, chicken kebab, kaal soup, or traditional meals, we always strive to deliver authentic Karnataka flavours.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReVdrTm5OSFJPVjBwR1VraG5hV1I0VFRCS1ltYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T07:46:41Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We appreciate your five-star support! Devanahalli Gowdru Restaurant has been serving food lovers since 1969, and customers like you motivate us to continue our family tradition.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxM2RVMXFaRmRCWjNGWFZXMU1ZMHR1Vms5SVowRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T07:45:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for dining with us! Our team is delighted to welcome guests travelling to Nandi Hills, Bengaluru Airport, and nearby destinations. We look forward to serving you again in Devanahalli!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVVkxRjVZVWw1UkVGSWVFOW9NMnRNTkhWSGVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T06:11:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good quantity and quality",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your five-star review is greatly appreciated! We believe good food tastes even better with courteous staff, reliable service, and a welcoming atmosphere. Thank you for choosing Gowdru Restaurant!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdU1VeENZazVJZW01dU1YQnFOR2hmVVhscGNFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T06:00:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tge food was great and service too. Definitely a must try",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your generous rating! Our traditional Karnataka-style mutton curry, ragi mudde, and freshly prepared meals reflect the food heritage we proudly celebrate in Devanahalli.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNE1HUk5SMlppTjFKb2MzUTJjVnBXZG1SSVRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T04:49:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We are delighted by your five stars! From family lunches to highway stopovers, Devanahalli Gowdru Restaurant aims to make every dining experience comfortable, flavourful, and enjoyable.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMk4yaE1YMjVNWTNGdE1uTkVkak5vVW01aFZYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T12:13:29Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your continued encouragement! Our team is passionate about serving quality vegetarian and non-vegetarian food with friendly hospitality on NH-44 near Bengaluru Airport.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twZk5XbG5RVk5OUTFSelltMUNNRTk0VUROWVlrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T11:56:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "It is absolutely terrible — the food is not good. No one should come here.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Thank you for taking the time to leave a rating. We're disappointed that your visit to Devanahalli Gowdru Restaurant was not satisfactory. We value honest feedback and remain committed to improving our food quality, cleanliness, hospitality, and service. Please share the specific issue with our management so we can look into it.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVFNWUTRUMFpOVlZaNFdEUm9hWE5CWTJsQ05GRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T09:20:15Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5
+      },
+      "owner_response": {
+        "text": "A big thank you for your fantastic five-star rating! We are proud of our journey since 1969 and remain dedicated to authentic Karnataka cuisine, consistent service, and memorable dining experiences at Devanahalli Gowdru Restaurant.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUlJFWldNazFNT0VoaVZYaHVSWE42ZG1aTGVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T08:41:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chiken biryani excellent taste good food ragi ball chiken curry super taste",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful five-star rating! We’re happy to have your support. At Devanahalli Gowdru Restaurant, authentic Karnataka food and friendly service are always our priorities. Visit us again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMmEyWkxaWFpTVXpseVlqRlFVQzFEU2xCb2RXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T03:38:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We truly appreciate your five stars! Our team takes pride in serving traditional Karnataka-style meals with consistent quality and warm hospitality at Devanahalli Gowdru Restaurant.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S1ZsQmxaRWwwVVcxYVgwWkVjV2h4YUZvdE5XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T03:37:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Super",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic support! From our famous mutton biryani to thatte idli with mutton curry, we love sharing the rich flavours of Karnataka with everyone visiting Devanahalli.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWlRFZFpjRTlEZDBKVVptNHlWREJMTjJ0UUxXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T03:32:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Idli and chick curry excellent taste",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Your five-star rating encourages us to keep doing our best! Thank you for choosing Devanahalli Gowdru Restaurant on NH-44. We look forward to making your next visit equally enjoyable.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod09XcElUVWxEYmpGV1gzUlNjbUpMWXpGVlRHYxAB",
+      "author": "Jayesh reddy",
+      "author_url": "https://www.google.com/maps/contrib/117070089977106799435?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-14T08:09:05Z",
+      "iso_date_of_last_edit": "2026-04-14T08:09:05Z",
+      "text": "Very horrible food and very dirty. Forget about even entering the washroom, you’ll probably puke your previous or present meal. The cashier hasn’t taken a bath for two days",
+      "text_original_language": "Very horrible food and very dirty. Forget about even entering the washroom, you’ll probably puke your previous or present meal. The cashier hasn’t taken a bath for two days",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tod09XcElUVWxEYmpGV1gzUlNjbUpMWXpGVlRHYxAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOkhwOWpITUlDbjFWX3RScmJLYzFVTGc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVE5FbHRkazVTWm1WbWN6RXlNblZSWDNkWGFXYxAB",
+      "author": "Prabhakar Vijendar",
+      "author_url": "https://www.google.com/maps/contrib/104391808779644271251?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 72,
+      "author_photos_count": 21,
+      "rating": 1.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-12T02:13:09Z",
+      "iso_date_of_last_edit": "2025-11-12T02:13:09Z",
+      "text": "We ordered both Veg and non veg. We took parcel home. We expected tasty n good food but it was not tasty. In veg we took pulao but was stale food. We had been on trip and returned on this way and it was disappointed. Non veg was fresh and ok to eat. The restroom was in bad condition.",
+      "text_original_language": "We ordered both Veg and non veg. We took parcel home. We expected tasty n good food but it was not tasty. In veg we took pulao but was stale food. We had been on trip and returned on this way and it was disappointed. Non veg was fresh and ok to eat. The restroom was in bad condition.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 2,
+        "group_size": "3-4 people"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSVE5FbHRkazVTWm1WbWN6RXlNblZSWDNkWGFXYxAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOlRTNEltdk5SZmVmczEyMnVRX3dXaWc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeE1GaERZbFJuU3pOVWVtTXdlbnBwZGxsdlJFRRAB",
+      "author": "M Vinod Kumar Naidu",
+      "author_url": "https://www.google.com/maps/contrib/111712505570349113859?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": 2,
+      "rating": 1.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-03T05:16:15Z",
+      "iso_date_of_last_edit": "2025-11-03T05:16:15Z",
+      "text": "Service very very very late and bad experience.Searvents very leaginees,\nToilet is worest no Hignic,Bad experience",
+      "text_original_language": "Service very very very late and bad experience.Searvents very leaginees,\nToilet is worest no Hignic,Bad experience",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aeE1GaERZbFJuU3pOVWVtTXdlbnBwZGxsdlJFRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOmZxMFhDYlRnSzNUemMwenppdllvREE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJRFI1ZHJwcHZESG5RRRAB",
+      "author": "Rahul Ram",
+      "author_url": "https://www.google.com/maps/contrib/117862644375313224607?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 50,
+      "author_photos_count": 212,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-31T04:53:39Z",
+      "iso_date_of_last_edit": "2025-05-31T04:53:39Z",
+      "text": "I checked the Google reviews and thought it would be decent, but the food was just below average . Definitely not worth.\n\nAlso, be 100% sure about your order because once you say it, that's it. You can’t change your order even if it’s just a second later. No flexibility, no courtesy. The service felt rigid and unfriendly.\nThere is no good washroom. No proper handwash area\nOverall, very disappointing experience. Won’t be coming back.",
+      "text_original_language": "I checked the Google reviews and thought it would be decent, but the food was just below average . Definitely not worth.\n\nAlso, be 100% sure about your order because once you say it, that's it. You can’t change your order even if it’s just a second later. No flexibility, no courtesy. The service felt rigid and unfriendly.\nThere is no good washroom. No proper handwash area\nOverall, very disappointing experience. Won’t be coming back.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJRFI1ZHJwcHZESG5RRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEIDR5drppvDHnQE%7C%7C?hl=en",
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYe1MHabytb51iFRrX2M5Ly7qN-g7DmqJkhCWVqEyB9MsUEhKbQu9LZfnKqtnFJBfBk3ey2ockGz0XAOJIQfEt58L2YD-8ZW7FqUQDXCEJZPQJEfTwFw2VGvv8wPYd-sHNnhIx6Q=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYMkpULVlREAE",
+      "author": "Nisarga s",
+      "author_url": "https://www.google.com/maps/contrib/109737870541576430838?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-23T20:33:27Z",
+      "iso_date_of_last_edit": "2024-10-23T20:33:27Z",
+      "text": "This is warest experience food is not good no igne toilet are very warest",
+      "text_original_language": "This is warest experience food is not good no igne toilet are very warest",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYMkpULVlREAE!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDX2JT-YQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEdUptc0d3EAE",
+      "author": "pavan srikanth",
+      "author_url": "https://www.google.com/maps/contrib/116198568875486939530?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 111,
+      "author_photos_count": 64,
+      "rating": 2.0,
+      "date": "2 years ago",
+      "iso_date": "2024-03-24T08:11:31Z",
+      "iso_date_of_last_edit": "2024-03-24T08:17:28Z",
+      "text": "Posting this review only on mutton biryani.(Other dishes not tried).\nThe biriyani rice was not good.\nMutton was also average.\nOverall all taste was not good at all.\nSuggest:I f you people are going in group don't buy biriyani for every one just try with one biriyani, if you like then go for more. Don't get disappointed.\nWashroom are available.\nSmall and sufficient parking place available.",
+      "text_original_language": "Posting this review only on mutton biryani.(Other dishes not tried).\nThe biriyani rice was not good.\nMutton was also average.\nOverall all taste was not good at all.\nSuggest:I f you people are going in group don't buy biriyani for every one just try with one biriyani, if you like then go for more. Don't get disappointed.\nWashroom are available.\nSmall and sufficient parking place available.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNEdUptc0d3EAE!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgICDuJmsGw%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNWZfdU9nEAE",
+      "author": "Anil Kumar K R",
+      "author_url": "https://www.google.com/maps/contrib/112045400643706817795?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 32,
+      "author_photos_count": 1738,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-02-25T16:32:28Z",
+      "iso_date_of_last_edit": "2024-02-25T16:32:28Z",
+      "text": "Food quality and taste is yummy.\n\nBiriyani and also kushka rice tasty .\n\nChicken kababa average.\n\nOverall decent one to have dinner .\n\nFacilities of toilet not up to the mark .",
+      "text_original_language": "Food quality and taste is yummy.\n\nBiriyani and also kushka rice tasty .\n\nChicken kababa average.\n\nOverall decent one to have dinner .\n\nFacilities of toilet not up to the mark .",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkNWZfdU9nEAE!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDd5f_uOg%7C%7C?hl=en",
+      "images_count": 11,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8qCOoTwumI10lJ-CzsM_ihUnYS5PVrzU8zafluVf4F3v6kf4Sp9T1JHq9GirXFZwoABjKzzt8KuxWlgpRP8ZQ70EbYiYCkrXuQpUsxPKCAkzGrdgIfOKGd8FOy4AphdrOxUMv=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO4PpEGujc9fWcXRWLnzcWmT1qc4EWFLDVLT3mrdcLo6bbKFviQD-uOSH3tH6Xjcyse1lmiA96BynTkRNTqzM7D4MHqE78a7jhFd6WgZWazyN_u7DTvWUdnb3M7vN4wXpYiBUN=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1KoTqZiYIxd4XBlaA09sJYikuqiVyNyGuLbzWqy7eSs6THXMvcKG35xG7FLtCl4hxgHOsfqBFIIFavYoDO2qfJFyvLtR1EpIAPO0dcoQ2V5exagBM835673H9CmTY4oDPj4-7=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf74HHHRgFW95YRgezL6aHO6s5GGgbZr2SNtvVtvF7R9nemYJ1BQNLByOO0tL_KCTuDo6YEmAH3Ety5W9oOBCJFdYftw_jlO1DcMBeQ6OuPdOik5wqowE0jbJdeQJ5Ar5NfdP0A=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPbEcdFsWbPKme87NyoPOVfHS5RTo2qVbbKH_q17SQcr756xlbsFWjoAUhqM7jJ90EA3p-1DBdjCt4cCKfaQTr-w3kLYrqC3mYvzBNUFY5HNfYmtSHa4Sc7HhJttCyKTiC3SHU=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCIJhzT8FBcW0sdQWuLZm5i-NMZAtwZaXBIjccCr-nEybd8DQEPMd0mtkMVluOeXjs1x_nx5v5-AsETf07Jxdf8xph0Zc0ENigZxo6r5ULayhASFKRO8QIFOCLj3tPEh6sct7Z=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQv3NTCYy9Z05pEy_vSkmKNJoD5_hUbxzkWJiyVSldDwpTdYKXX0tek9fC4gRsDZlbJ4xXxyovCfsmx2KeFXwQZHM1sXGgOQeLmKNGzBDzZlheeLMj49pFMLnr5hS30lcVeEUM2Q=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCA-QQE2q02M-I_JNg9aGEdQcSsM4JQ_jgoKcPcCmg9tRtgOLkLH253PwWILZWDhbstuQGMMrV1AQ-fB5rIAoOd9Dc_63t2mu1EO-GELDbRP1oUfbZSUYvr-AIHulU5ox8W7p_=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnB4UXfjpCgOyGw2XSK3YZOiKhHp4yNEAF3uW_xigGeZljBoahPyLWgMptVsbSqWnrOlyMUii5TisKv3yQs2_2hOe8iGE_7-SF2OR6dU_90Bw_1l9guoK8P6RwN3MNYkKCdezbvQ=k-no",
+          "image_index": 9,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNDXV6Ud8wAm8BxDT7Hfk61jrR0AhwIsJMl5Y8zT7DFL1VUHLlDtBaxRoT_FT8oNg_8L1lQELdu7bDJmEnmFO_90f4U5Rhzot0XOmyA-nlacnw-F2OWNbyIO3Ae1742FoN17-O=k-no",
+          "image_index": 10,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSVyWL1WLYEMzwqRDwNC-T6gGsV6lfGUNfn6Hy8DVRe9VnCTMLK43k3QbSKL759cQV4Hj2SCMTVkGoDp_11WjKS6mFmtE969L8X5fbKKd3DEvofL995H11EZGj2V1v5QdIsihFLQ=k-no",
+          "image_index": 11,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURONDVySTNRRRAB",
+      "author": "gowtham gowtham",
+      "author_url": "https://www.google.com/maps/contrib/107915008668175557531?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": 10,
+      "rating": 2.0,
+      "date": "2 years ago",
+      "iso_date": "2024-01-25T15:44:48Z",
+      "iso_date_of_last_edit": "2024-01-25T15:44:48Z",
+      "text": "Food is not upto the mark, biryani spicy level is high and they will not provide service too and maintenance is not made properly toilet and all is badly maintained",
+      "text_original_language": "Food is not upto the mark, biryani spicy level is high and they will not provide service too and maintenance is not made properly toilet and all is badly maintained",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 2,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURONDVySTNRRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDN45rI3QE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKN3BmNHdRRRAB",
+      "author": "Darshan",
+      "author_url": "https://www.google.com/maps/contrib/102409174775864538519?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 676,
+      "author_photos_count": 766,
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-07-17T14:15:16Z",
+      "iso_date_of_last_edit": "2023-07-17T14:15:16Z",
+      "text": "Good non veg restaurant in the locality. Quality & quantity of food is satisfactory with reasonable price. Not a very sophisticated restaurant but hygienic. I took ragi ball & mutton boti . Ragi ball was not fresh & boti was good. Cool drinks like sprite are available. I am not sure about the washroom.",
+      "text_original_language": "Good non veg restaurant in the locality. Quality & quantity of food is satisfactory with reasonable price. Not a very sophisticated restaurant but hygienic. I took ragi ball & mutton boti . Ragi ball was not fresh & boti was good. Cool drinks like sprite are available. I am not sure about the washroom.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 2,
+        "atmosphere": 2,
+        "vegetarian_options": "Not many options. I don't recommend it for vegetarians.",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Ample parking space in front of the restaurant",
+        "kid_friendliness": "Since it is spacious, it is good for kids"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKN3BmNHdRRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDJ7pf4wQE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCclpPZVlREAE",
+      "author": "Shrikant",
+      "author_url": "https://www.google.com/maps/contrib/117014821653259858045?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 20,
+      "author_photos_count": 1,
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-01-26T03:44:45Z",
+      "iso_date_of_last_edit": "2023-01-26T03:47:48Z",
+      "text": "Had morning breakfast here and it was amazing. Very reasonable and quick service. Very higenic place. Hotel owner Rakesh is very friendly. Must visit place. You have parking space. Washroom available. Self Service or service at table is also available.",
+      "text_original_language": "Had morning breakfast here and it was amazing. Very reasonable and quick service. Very higenic place. Hotel owner Rakesh is very friendly. Must visit place. You have parking space. Washroom available. Self Service or service at table is also available.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Delivery",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Gowdru Special Thatte Idli",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCclpPZVlREAE!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDBrZOeYQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    }
+  ]
+}

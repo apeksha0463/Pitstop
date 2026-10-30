@@ -1,0 +1,149 @@
+{
+  "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Acre Bengaluru | Bar & Kitchen |",
+    "place_type": "Restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 9,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTmNtWkpXVzFTZDNCUlUwMUNiRnAzVUVFM05IYxAB",
+      "author": "Jamie Fu",
+      "rating": 5.0,
+      "date": "39 minutes ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBkpWyTfToGGalpvAC72mz_OSLzrSTqk2gVSAHDcrMfFXSV21KJ4D7fANTWs3-6LmPtdsBlxishi15VQj_-KY7eBE_K8LChQSIR7AyEuQnxD8-HxfUAHNQoD-BC5hONgUUK9HYydF59wYt=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjJJ5vm-gkj-MZ0wdqbbMgHuoejWfeLbRrKgndxdLWyOy2tjtlZi1GCfYvbhTEhAEg9N-Ab7GFVoIYjd9_EFDTERyLHasntJwPlNnSXPRWKe08nWs70m_ymq-ysM9_9i5rkGq9oekot7qC=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVTAwDkQQK6RAfH-8H6FTj5-vvHreG8P-KfIeFuWxwjE_DN4Ap2ji97_3jJa0gJ_mgQxr4ZVynF0U0_3eB1A4SejK65hzB6v66p7Rkg7SFvt_LqWeNKlzeJ9biREK5YerOlq-ebT_P86hr=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4ZepLUOqQki4AXu0No4mp6L_mannyq0pgeh3l-kmjH0LbR-PxXzdvJARTFKm1ZlzCYlpKGMaVEVWYp7VzJyUIp56yFXPcM8HxghDRQsB6A4w-ljyO3lBw9wT-kxZ4qlVwoZcOq0W3974s=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0BSiTjCQQ54jsO9VUuz7rmKdUyzBYf_wU8yXlzafNiXCZaTtRxz6Bca1A6W6tseB8WUKhOgLRdLtSlFEUYtDKrD_r4MP4-2UUpB2zImKcjTfzx4fVPy4iUuYuRXaztuaFcAjgOEl_wT39=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKPF4kXL06bzZgXWvdBPkkC1DAdWiu3TZYO89yfoLto1pdZLbDp1hIO_UNvVvFoTXy_hdTFEj8DfABMiZ0R0bpMqeWH_yAwBhw6cjsklXMj4sus96rSvzw-6ewYdRcGtvWdHihZkjkvCs=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuot42UCjoO4IsvWnViltCHodk7MoiO-lvk_65XkRfngLJgV--oNCK8Kltm-78XOAOUWl8WfLpmhvqIfbaeNWO2Dn8Qxcs5-byG3rHmzhpxj6w05KI6zJ2Vh5-9A1cqlmh3j2MA8DW2XrH=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcM-pDt6GHGEnD8D0OVXLW1SaqELLN_2PYsTrShJBqBJpXDPtFkoKmMIOkcnlWPFo2-xAyJkT1smGQPxTStH9pZUFTuXn-GcFSo8oa3cqC5sOsOku4R8b9dRUV1yvvh8ZhLJkXwoqOA270=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjzmL8Gsxx3cxmkR8CGsKQ4IfcfQfuQ_019PmT9zTOhtJ6eiBl3-D7vcAR3OaNHVrdAxKz0-8FQHpTYlRQPIFzhlz0uSC2lVDiL0CTPJ3IOp6fUalH8KdjxMAkNRDHYT__I4XnQpTSvl8=k-no",
+          "image_index": 9,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twM1oyZzVUSE5pY1VSVExTMUdVMG96VXpkMk1VRRAB",
+      "author": "Munshi Raj",
+      "rating": 4.0,
+      "date": "6 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaVVIbGpPREIzUzA5WGNuQkdNM0ZSZW1GWVIxRRAB",
+      "author": "Azad Vali",
+      "rating": 4.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSM2FqaGZXRVptTlVsSVVGZENWbEYxWkROdGRHYxAB",
+      "author": "Rasna Rajesh",
+      "rating": 1.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNVkyRm1WVEJXTkd0WU9YWnZPR3MzV2pCb1lXYxAB",
+      "author": "Nandana Raju",
+      "rating": 1.0,
+      "date": "5 days ago",
+      "images": []
+    }
+  ]
+}

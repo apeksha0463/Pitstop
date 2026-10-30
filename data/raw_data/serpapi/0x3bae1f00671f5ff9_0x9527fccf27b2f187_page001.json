@@ -1,0 +1,211 @@
+{
+  "search_metadata": {
+    "id": "6ae44cf0a6cfac0e4fed4c48",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bO91tNEIs5SMjXF9_Or40JVMV8b5Ag4f4YA7E2jvT3s/6ae44cf0a6cfac0e4fed4c48.json",
+    "markdown_endpoint": "https://serpapi.com/searches/bO91tNEIs5SMjXF9_Or40JVMV8b5Ag4f4YA7E2jvT3s/6ae44cf0a6cfac0e4fed4c48.md",
+    "created_at": "2026-10-30 07:53:20 UTC",
+    "processed_at": "2026-10-30 07:53:20 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1f00671f5ff9:0x9527fccf27b2f187!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/bO91tNEIs5SMjXF9_Or40JVMV8b5Ag4f4YA7E2jvT3s/6ae44cf0a6cfac0e4fed4c48.html",
+    "prettify_html_file": "https://serpapi.com/searches/bO91tNEIs5SMjXF9_Or40JVMV8b5Ag4f4YA7E2jvT3s/6ae44cf0a6cfac0e4fed4c48.prettify",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1f00671f5ff9:0x9527fccf27b2f187",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "LIQUID SKY FAMILY FINE DINE AND BAR",
+    "address": "No - 842/2, Balaji Complex, 2nd Floor, Vidya Nagar Cross Rd, Jala Hobli, Post, Yelahanka, Bettahalsoor, Bengaluru, Karnataka 562157, India",
+    "rating": 4.5,
+    "reviews": 148,
+    "type": "Fine dining restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "chicken ghee roast",
+      "mentions": 2,
+      "id": "BRwxFU-5L0c"
+    },
+    {
+      "keyword": "neer dosa",
+      "mentions": 2,
+      "id": "AQ7A7UAcZW8"
+    },
+    {
+      "keyword": "biryani",
+      "mentions": 2,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "polite staff",
+      "mentions": 13,
+      "id": "B30PdHtYgDQ"
+    },
+    {
+      "keyword": "bold flavors",
+      "mentions": 2,
+      "id": "JO6I2ydXVWA"
+    },
+    {
+      "keyword": "reasonable pricing",
+      "mentions": 2,
+      "id": "Bmx_jhsMTBA"
+    },
+    {
+      "keyword": "quick staff",
+      "mentions": 2,
+      "id": "EWmU5VE8gSA"
+    },
+    {
+      "keyword": "family dining",
+      "mentions": 2,
+      "id": "BIiiN7rS9oE"
+    },
+    {
+      "keyword": "non-veg",
+      "mentions": 3,
+      "id": "M4zLlKQEfEE"
+    },
+    {
+      "keyword": "menu variety",
+      "mentions": 2,
+      "id": "NOujUaugxJA"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSUU0zTnFTR041VlROWk0xbFVObTluYjNSMWVtYxAB!2m1!1s0x0:0x9527fccf27b2f187!3m1!1s2@1:CAIQACodChtycF9oOlRQM3NqSGN5VTNZM1lUNm9nb3R1emc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-16T01:29:53Z",
+      "iso_date_of_last_edit": "2026-10-16T01:29:53Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUU0zTnFTR041VlROWk0xbFVObTluYjNSMWVtYxAB",
+      "user": {
+        "name": "Prateek Miranda",
+        "link": "https://www.google.com/maps/contrib/108910558388747372579?hl=en",
+        "contributor_id": "108910558388747372579",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXrkd6kVZZD65SZrWl_7ZNOQdCVlsNbsMyiaaFoDjCFYNcK0jo=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 31
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0NWJIRXlaMU0zVm5oNFJrWndkekpNZERWWFdHYxAB!2m1!1s0x0:0x9527fccf27b2f187!3m1!1s2@1:CAIQACodChtycF9oOkt5bHEyZ1M3Vnh4RkZwdzJMdDVXWGc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T16:24:48Z",
+      "iso_date_of_last_edit": "2026-10-15T16:27:29Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NWJIRXlaMU0zVm5oNFJrWndkekpNZERWWFdHYxAB",
+      "user": {
+        "name": "Abhay Yadav",
+        "link": "https://www.google.com/maps/contrib/106846442000244949089?hl=en",
+        "contributor_id": "106846442000244949089",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWp5qBsRn-S6nZ33zhJ5_ap6TqBOPiDzyEqklDpF2Ly8Cu8Jl8=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Extremely disappointing experience. The food was pathetic, and the manager’s behaviour was extremely rude and unprofessional. We came here with high expectations to celebrate a family member’s birthday, hoping to have a wonderful time together, but the entire experience turned out to be a huge disappointment.\n\nThe food quality was nowhere near what we expected, and the way we were treated made the experience even worse. A special occasion like a birthday deserves good food, warm hospitality, and a pleasant atmosphere, but unfortunately, we experienced none of these.\n\nThis was genuinely one of the worst dining experiences we’ve had. Very disappointing, and definitely not a place we would recommend based on our experience.",
+      "extracted_snippet": {
+        "original": "Extremely disappointing experience. The food was pathetic, and the manager’s behaviour was extremely rude and unprofessional. We came here with high expectations to celebrate a family member’s birthday, hoping to have a wonderful time together, but the entire experience turned out to be a huge disappointment.\n\nThe food quality was nowhere near what we expected, and the way we were treated made the experience even worse. A special occasion like a birthday deserves good food, warm hospitality, and a pleasant atmosphere, but unfortunately, we experienced none of these.\n\nThis was genuinely one of the worst dining experiences we’ve had. Very disappointing, and definitely not a place we would recommend based on our experience."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "noise_level": "Moderate noise",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkcVJXUkhUMnBPTURFM2NWTmliRGxYU2xkSlkwRRAB!2m1!1s0x0:0x9527fccf27b2f187!3m1!1s2@1:CAIQACodChtycF9oOjdqRWRHT2pOMDE3cVNibDlXSldJY0E%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T16:27:01Z",
+      "iso_date_of_last_edit": "2026-10-15T16:27:01Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcVJXUkhUMnBPTURFM2NWTmliRGxYU2xkSlkwRRAB",
+      "user": {
+        "name": "Sakkath Hot Biryani",
+        "link": "https://www.google.com/maps/contrib/109070434889183621870?hl=en",
+        "contributor_id": "109070434889183621870",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV3Pvk1FbbYaq--Tt7SBHVRI-zHQhhCFWPXOHzWRgR7WgH_9IA=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Cook and management has changed , quality of food has gone completely low. Authentic ghee prawn toast, Neer dosa was their delicacy , but now they are off the menu. Also chicken Dum biryani is not authentic Dum . Overall not good anymore",
+      "extracted_snippet": {
+        "original": "Cook and management has changed , quality of food has gone completely low. Authentic ghee prawn toast, Neer dosa was their delicacy , but now they are off the menu. Also chicken Dum biryani is not authentic Dum . Overall not good anymore"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 2,
+        "noise_level": "Moderate noise",
+        "group_size": "5-8 people",
+        "seating_type": "Booth seating"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21STVkwMU9VVmxQUlZORFdHTlFSbmx1YmpkaGNGRRAB!2m1!1s0x0:0x9527fccf27b2f187!3m1!1s2@1:CAIQACodChtycF9oOmRMY01OUVlPRVNDWGNQRnlubjdhcFE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T16:25:30Z",
+      "iso_date_of_last_edit": "2026-10-15T16:25:30Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STVkwMU9VVmxQUlZORFdHTlFSbmx1YmpkaGNGRRAB",
+      "user": {
+        "name": "NAVY々SEALs",
+        "link": "https://www.google.com/maps/contrib/106277410050506560440?hl=en",
+        "contributor_id": "106277410050506560440",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU4VWpyHBXK8UDYP0aFqNj_OJplJtPGdd6jvTe4Vnz3OfoGFu4emA=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 1
+      },
+      "snippet": "Worst food, Rude stuff really disappointed with service",
+      "extracted_snippet": {
+        "original": "Worst food, Rude stuff really disappointed with service"
+      },
+      "details": {
+        "food": 1,
+        "service": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paS1UyWlpUR1E1YWtkblVrRmZkMHRXZG5aVE1tYxAB!2m1!1s0x0:0x9527fccf27b2f187!3m1!1s2@1:CAIQACodChtycF9oOjZKU2ZZTGQ5akdnUkFfd0tWdnZTMmc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T07:06:33Z",
+      "iso_date_of_last_edit": "2026-10-11T07:06:33Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paS1UyWlpUR1E1YWtkblVrRmZkMHRXZG5aVE1tYxAB",
+      "user": {
+        "name": "Nirmal Saha",
+        "link": "https://www.google.com/maps/contrib/107557862229264201513?hl=en",
+        "contributor_id": "107557862229264201513",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW8TPWLJ4owA8ugaz-xsQ6c31pN_hty2S0TYx2jQZR07OgGdjk=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 169
+      },
+      "likes": 0
+    }
+  ]
+}

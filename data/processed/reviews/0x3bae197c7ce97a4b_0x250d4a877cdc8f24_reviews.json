@@ -1,0 +1,3773 @@
+{
+  "restaurant": "Nasi and Mee",
+  "data_id": "0x3bae197c7ce97a4b:0x250d4a877cdc8f24",
+  "google_review_count": "1403",
+  "reviews_total": 101,
+  "reviews_with_text": 84,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 1,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SaVRFZ3lXR3gwUW5sUVlWRjJkM0UyVTNkRFJsRRAB",
+      "author": "Jaya Bharath",
+      "author_url": "https://www.google.com/maps/contrib/112033688417906133792?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": 1,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T19:51:31Z",
+      "iso_date_of_last_edit": "2026-10-18T19:51:31Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "seating_type": "Booth seating"
+      },
+      "owner_response": {
+        "text": "Hello, Jaya Bharath,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SaVRFZ3lXR3gwUW5sUVlWRjJkM0UyVTNkRFJsRRAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOmRiTEgyWGx0QnlQYVF2d3E2U3dDRlE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xeFowUTRTRzk0Y0Mwd1J6WmtjMlJDYTJKNWRsRRAB",
+      "author": "Leo",
+      "author_url": "https://www.google.com/maps/contrib/109960202025454321182?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 54,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T15:03:14Z",
+      "iso_date_of_last_edit": "2026-10-09T15:03:14Z",
+      "text": "We ate here a total of 3 times. We genuinely loved the food and it sat very well with us.\nThe staff is very friendly and they helped us choose the meals based on our food intolerances.\nSome of the dishes need slight improvement and please make sure to always use fresh, clean ingredients.\n\nWe noticed the 10% service charge too late and would have complained if we would have seen it on time. We were never informed about such charge, which is not ethical.",
+      "text_original_language": "We ate here a total of 3 times. We genuinely loved the food and it sat very well with us.\nThe staff is very friendly and they helped us choose the meals based on our food intolerances.\nSome of the dishes need slight improvement and please make sure to always use fresh, clean ingredients.\n\nWe noticed the 10% service charge too late and would have complained if we would have seen it on time. We were never informed about such charge, which is not ethical.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Leo,\n\nIt's wonderful to hear that you loved the food and that our team was able to assist you with your meal choices based on your food intolerances. We always aim to use fresh, clean ingredients, and we appreciate your input on the dishes needing slight improvement. We're sorry to hear about the confusion regarding the service charge; we want to ensure everything is clear for our guests. Thank you for sharing your experience with us!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xeFowUTRTRzk0Y0Mwd1J6WmtjMlJDYTJKNWRsRRAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOm1xZ0Q4SG94cC0wRzZkc2RCa2J5dlE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRWNsbEVjbU5rVlhkaE9GSm5lV3REVkZsVVFWRRAB",
+      "author": "SOUMYARANJAN SATAPATHY",
+      "author_url": "https://www.google.com/maps/contrib/108611963621763014117?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": 1,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-08T09:28:58Z",
+      "iso_date_of_last_edit": "2026-10-08T09:28:58Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, SOUMYARANJAN SATAPATHY,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SRWNsbEVjbU5rVlhkaE9GSm5lV3REVkZsVVFWRRAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOnREcllEcmNkVXdhOFJneWtDVFlUQVE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUE5ta3pURU4yWHkxVWRHVkpVUzB0VXpGS2FuYxAB",
+      "author": "Adarsha A S",
+      "author_url": "https://www.google.com/maps/contrib/107215145732176042941?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": 3,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-02T11:30:28Z",
+      "iso_date_of_last_edit": "2026-10-02T11:30:28Z",
+      "text": "Great service from sajal it’s amazing 🤩",
+      "text_original_language": "Great service from sajal it’s amazing 🤩",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Adarsha A S,\n\nWe're thrilled to hear you had a fantastic experience with Sajal! It's always wonderful to know our team is making a positive impact. Thank you for sharing your kind words!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SUE5ta3pURU4yWHkxVWRHVkpVUzB0VXpGS2FuYxAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOnRPNmkzTEN2Xy1UdGVJUS0tUzFKanc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGU2VHb3dUV1JxUkc5QmQxOTZOekYzV0doT2VrRRAB",
+      "author": "Mukesh Kottaram",
+      "author_url": "https://www.google.com/maps/contrib/109787572231121646888?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": 9,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T06:22:50Z",
+      "iso_date_of_last_edit": "2026-09-27T06:22:50Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Mukesh Kottaram,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGU2VHb3dUV1JxUkc5QmQxOTZOekYzV0doT2VrRRAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOkFSeGowTWRqRG9Bd196NzF3WGhOekE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsdVYyNU5Zek00T0ROc1EzcHNXbkpJU1daVGJtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T14:50:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "We ordered the xio long bao dumplings and tantanmen ramen, both were excellent and we were served by Sajal and the service was excellent",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Anusha Agrawal,\n\nIt's wonderful to hear that you enjoyed the xiao long bao dumplings and tantanmen ramen! We're glad Sajal provided excellent service during your visit. Thank you for sharing your experience with us!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaVNubG1TVzVqZVVNME0wMTJWMGxvU25kS05IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-11T15:16:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good food, we had great experience. We ordered Hot n Sour soup, Malaysian satay, chicken korean ramen and in deserts ordered panda pao. Food was amazing. Thanks to syed for guiding.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Vijay Vel,\n\nWe're thrilled to hear you had such a great experience with us! The Hot n Sour soup, Malaysian satay, and chicken Korean ramen are definitely crowd favorites, and we're glad you enjoyed them. A big shoutout to Syed for his guidance—thank you for recognizing him! We hope to see you again soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pacVprd3pOSGwxWDFGNVFUUnpTVk5pTVU1bGNXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-08T13:40:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Kavya Kandhway,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLduVBYBmjUUS1oGDeP1giAXx3X3g9b7gxAazYFhUsy75yoim1AVQTnaflaGooZfnN_scj2MmWDwmNDWXiWTxk5n_P6KRcbPFzTYnT2U082RJ4f4pPPJN2TB3OdqbtXURTbjn2p9tP6_lwjL=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeFgzZFRMVFpTU1U1elNEa3dlR3hDU1U5R0xVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 22,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-01T11:36:47Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, CH Suresh,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdUwzRzZBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "Edited 2 months ago",
+      "iso_date": "2026-08-29T12:21:29Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oV09IbFhhMkZGWTBjMFZVTnRVbVpPZVVvM2RYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 62,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T16:52:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Such a lovely experience! Tried the Vegas Maki, Mui Thai drink, and Veg Katsu Curry—everything was absolutely delicious. The Mui Thai was especially unique and refreshing. Loved that the Katsu Curry can be shared for a small additional charge, such a great option. Excellent food, warm service, and a delightful overall experience. Would definitely visit again!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Dr. Isha,\n\nWe're thrilled to hear you had such a lovely experience with us! The Vegas Maki, Mui Thai drink, and Veg Katsu Curry are definitely favorites, and it’s wonderful that you found the Mui Thai refreshing and unique. We’re glad you appreciated the shareable option for the Katsu Curry too! Thank you for your kind words about our food and service — we can't wait to welcome you back!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVk0zSjVTSHB2VVd3eFNtRm9VbmxYV2kxeFduYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-14T05:32:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "They add service charge to the bill which is not an acceptable practice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Avi, We understand your concern regarding the service charge and would be happy to assist you with a refund of the service charge amount. Please share your bill details and contact information with us, and our team will look into this and assist you further.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twS1JIUm5jekYyTW1NMGRHaFpUbHBHYm1wRU0yYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 148,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T11:37:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great vegan foood . Had miso soup which has tofu, oat milk, corn and green vegetables!!!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Prashant Singh,\n\nWe're so glad to hear you enjoyed our vegan options! The miso soup with tofu, oat milk, corn, and green vegetables is a favorite for many. Thank you for sharing your experience with us!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgA4oYpWnzJC4zu2KN_ROyexYUGlVXMW59tv6fxxNTPavgr0h8csOBIWNLyPGfgv4cFLq-QIDVbGLS3RY5Hj1hFyIMHD_N6Int4DHnfGTvZDiWsiS9NQHzBMx3_s5gun6NUjYh_MEleGl1=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGgyIvscIvnfb8ZAePmkHFXR13Ma4J-sKdJHh_C-06Zv941H1z9oEQmh0y8U-cl4X_6FFnDDpNYvb6NZsIaHgA4QrgRv5gzKwBrOKTAHwqXNyonOkq30eWJrViHDZ5o6ysoN7iVbRfvkTn=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sU1oxWktkME5TVFVsUVVsZHliVEZWVTFCMlMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-07T08:40:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMFJtTkNZV1J4TFhWVVJHZFdWbVppU2xKck0zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 22,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-04T09:00:05Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Sravanthi grandhi,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMkxVNURNakJyU21aU2VWaGlVVkZCYURSb1VFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T07:11:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "Briefly, even as the room became busier, it was reassuring that the payment process supported separate payments for our group, and the final step felt complete.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Sachin Setty,\n\nIt's great to hear that our payment process made things easier for your group, even as the room got busier! We always aim to make the dining experience as smooth as possible, and we're glad that the final step felt complete for you. Thank you for sharing your thoughts!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 39,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrtfanJL4F91L9eolqaPOrDbcjCgnV_94pnq3OtY4CGHVi7hug3-bSiOT0Gf_PT8BUWMIsLMue3FoGQ4yzrj4U34VgW4EvUS9ymVICDiUOD7kIR8aHMT9OcJht-85Ono5hHOigEueDAF0C=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMmDEs8pLY_vODhdsBphj9gJRY2-EU7AsNVQJ0BsvdkgGXbw9j7cuMK8_HqaJCCpicyvM1ScEnnEGhrX8VrooGIEh31f4KeZx0-YaZI4pr4JNmGib4Mv7bpKAkVbI4N0p57YAtPD_svL7w=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3XTZN2TC3jARzbLirYw6JlHZ-s3bSvKMPEJmks_yiyuYeooQ82TeP9lYFjMPNk7SvJyVMNwlvvXSqNGfpzxLJ2q7qRT0-jmLVYWOxrFrD2umYgbEIGAMduEZpvbU4lqrapLQTEmY4d1FW=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLen_YPQk-IUpGuydr1EpEPERqloSpw36h669WSNtYxTSr7fvs8iAtjICgtqwLZg92F1LYIt2mHpHYRAZGQmvF91GyY439CfhlF4QvFIdtIkbSjpyjnOQ_FnF7AFfybJgdbpbD1tVJd8PzGj=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc67Lvgl9ntIUBgE6E1x2nGxXEvMinQDk60z7D4J3ZaCGWnbE5_GOEzARyKxRif_1LXwK2fTvgotDE-VQK2IHkuf9V2MeUvbkdSLHmMr1Xsjy47T7NVGQ84kQFQJFZCFox7KhxBmFZaV9w=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMfzBT-dO0a7hkpPymUXIFunHPYs-ibkRk8AA__o_lFGgc1SEbv3AEtNcxh8n2c12A6CAAjTO4a91LfFXum5I4H6L-Lo18WNuekWnIgKV0nTAQfKlJXs6bKo4rNDJ6Wz9kjwIN7AKEoJxX=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXSITCq86NyjjPXyM1EsOQb-aQLZ71RGCOTPJpgFo-uaR8k_szXRRSKX0SSJ7s0--PuYx9PAgC2aBONjbC71KXjEqAOIhO5acfTZuKSEX-pMMYR8sfQXLjZt5eBgxx85oY4sgb4TlbEjy7=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfApgznldCYKatCpQh_9asygV7f4mBQ3yO1_dPLjyV-MdKTFLnuUU-ZFeQQCRtL7ZlyrDT8Bk6e0Pu9yMEJ_QffdJ8rG_93SeglcwvS1YgM14M_D3p_iUaqN08NkNzJLKprlAGsyb2LmSU6=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4pcXDTtRN8mYOaNArMANZKw60KB8B64FXMGgM6SmfHjdaKANR_p6ITOCjVGAKFfpcOZhK2e6JP4ob6UtzMxeLVX8O7D8bfz89sxN-Ugme9Pn3mbfef9OF-HszVgoQIA7hn7f7AYbuoPqa=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRrzmLbcBRUHXzWHch6NVhwQiHSfAAndR5RiH1prsEuRaBEtbkdP9DrVXJSxY_mwKaErTBKTDq0m2XDWQYUzzr4txc1yR4lZrUf7KQeoHSjfPd3NjPrPTf0md-Epsy-4HCJV3Zy__BDMld=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2-ri1cqV374P4B6oqgTdv8kPQMZB7U6AcUyjabx9j7u_ncvGceDMz3VS5xL3pj9ZiavNLCIn3M1wLJ0CRAUNCr88qSD6iLhhscSSFGLORabuW0pQyye6MoBjiTsPfNTkCeNJmCMJs1YlZ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLxHdcrDEWH-37B_oq0im_kqKCaothAMWDuJEo7QAD4HKsyWfjxJN_OdFnv18VkOAO7G0k0jGFbXp8sTARgQUMHcwmcCCmQYIzfWHFsDQdt4ccYTdWDo9x3gEUAnTPR9eHvctYcCRzXkze=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0vOeuFJmvoO6FKUePEmL3savzKB_nWp7eWqRe8E11F_dnB7Y1b3HGpBD9cBKgnSjVz4yoZ2Q6dgKSonW3UGUAoYzG4fLZMP9A5AgDHekrI04-wutJ-PJ9pM0tDl9CxyHJriVuGWLkt6oo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZ94B7op4Dc21gy2cTAeZX8qNtNoT8GKOHek5_go9PHlzWPqkpn6GcuhCobJg1cEBApLpNVicQEsukwOKtslgWrqwd53613Ez4UwrbnnpoQFUpQp65QvOsiIB3iumPeIapcAD4p-LNbys=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAn5Ub5qo5f7TQEkNbkO2dsLyr6KXrR3dK_G-rcbwZSwyRmO2_vurkSsAjoO779s2MGLFCofEjD3XdT_HA2HNhX1XlrCUFDzB7kTnrhyxkOzKc5POgUQ2hfVG9NGAW2X4s8F4WYtJ4-L72=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcERaIMlPwhhHR3K8iBelilB-Y4l484DW2CKahFUP3-dK9r_9mYJx2b9RIZgB8Aw6Km31X6uTFSaoZOfTlXz4vVV64cDKc0xU35mMw5z2nF672CDuv0h_g-xzqpwbztlf7ve5pQVJ7Dclhf=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDJFdKIuQV7JccUSSpzdP4zMHkXyRPXmn9Mbwr6xQef6qp5gLByCV_ZBAAyIAWDL1RwpQuh9_Iua0_abgpUJWYyeBlxBXnRqm2dUGvgJEgC7y0neMyAzJZkHQk_clc3e0rcTCho82O5Yg=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekZejJEYluMkauDbXvyB-frHEbTD2jUEMhPFkbErzPXoEPuvWByjYbWTDbaus5bY1VQcPvjrL7hziQY3ngw6ezfodl2jW5U360e9XchqRF8pp_uyhGuZCiYmI0fsqg-AVFfqMaW3EYHIWx=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcAivKv89x4y5_soHQZzAByH5BaRjTZajVF2PnaByh37YQ6OzL9wOQ9l62pme4icMtvJQrzvvshJgZ-UOdI6i7jSgPKD3q1KHetTXahA9EGVuQardwYddTx8xDnUAMTs39u7-pKmL1Pv1m=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9DYbmW1EVno3ssFqjXTIiVSJtWNUij3eQChe-WAJV5A5PMdpUDgafXA0Xf00gWNIImnVCLpFiSk9NFknswMJXD6KGzKcMPJIEvvkHWOhwpiAlbhO9i1rm2rCdHUOrJFv892h4n36pIP4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1XbWuyUrXgh0r2gBeQ5zbLvw_1K9yWPn98QSZQIONcO4_8gBvBdmXsjK8zHbKmh_ZOXZ-G6tTOMUYIjQE8JrYzc9HF8kePTvPgCBl_WZ8GQaFWUdSkBB_vGvR1zHyEGWRlyqPdo_2Wsw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcacS9BIjRw5BS5EMVm7hQYQhTpqb5Dvc1KPwgFGZ-gFdROQlfqwQIZE8usPbpKKWAP7PUuTGwZeIq0z3Elafo7usmmdIwyW23082J7tJqp99s4wYmo23vWcFfrD36QwXMLKQgQCOVxp0ft=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZAUasmJ_SP_8D_cSeLnmVi3BWFb5FArnn2jsTkxVYiEXbWZRD__JUjwZcgZuhiJhK2Dy4xKUFJXvCiqkPpilKGUpR-JMAceuR-zNhpDb9yUG8110pADkBDh6fYTAxwl5PxKVFfjv__6A=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdS8qpyL5cXjhdWEf5J0tKMFnoMlm87UgHVjuhtN5cyJ7mC1LCiIj7c_N4t7vEPWTbSKuZvapyuZ8m-tJdyf5J9DsjvSjlyaQ0P2ZHp4WSfrHL0oTU1NTm88xrrYlJKajM_Sx3ZY-nGRSQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5pS4BSZh8jGUHLl00gG331qp3nzBW2wGGguR4FEe5LxEhiFgDxM-K_pJlXdggg4BnkicgwEdL8SaQgmXy7nsDgUXOJSaLEVOR91SnBa45Ad_00zHhwG2tX3uYvUgva3X0Sr3_d0Uuu19w=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgTI5ZWIGTSdoGS3_yjEV55r5MD9PZqvykuSu6-_Yb5Dk0arCseB3ooNVOVVn-vpzxumW_o76X3oAVyDzprqXneNbfa-QnQ8CSulPLfa-HBcNc1gq5iXf1V-Xa_odnBeQKhggybPiITsFI=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdilCo3SnLmlwng4DS1mewKX2UACldomqpFPEVZrQWgcFH0RB179gLWgYXojqrmtv2JIwakWF0Q2ZAc_61lkmRD04EbtZ0Yb5zE2tFOOnT7Q5FAXhAlHIYkkdA8YOj73A0lzsFusUFab1BM=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPduPuUJ5zdH-pHGhOwVjlLI1u8MWl6is4gPw2AJ_SST0F4Of-Bjsu087cTt7J1Ne_dbQJeUYg-bH3aWOvou1IAQGRa29rfXxcQIf468BMB_E1wd47593zDbfXmomVqlKR5DzovYlXBaLR=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcArLyXWvNgCjvvLlle0fmVWFvKrk9goxGnXmXB5rFewR_BRor_RfBvsi0V5g8MllG22InqDHfmVJtuDTOOnjiQ6JhM-AIMT4i_9uAuMCq--SBIm_0i6xazc4l4mWBEmQF28j6OyJXWJG8l=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5WBESCedH4IMSthcHfbvz-nzwDhbWOQXMDQxceSVMEWTtKcxIggXNSNtk_dW_hKcnSfat8dAMn0wCdOYW-t44Zj841T-cPz776WUplIST027hfoRpvxK_p6Xd2BWK8nX3OQV5nP1-p3YZ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqYNTnrWx9Q7KX9jEmIz8Fy9aKW50NqSzOOgFnYvQVW25-Y1kMK2tEEO-pzqDgymbeXLzAexdFV3UxZ0iOZGyonOLEdZu1AelMnL_173UDv-FWtoyB_I_OyCeH2_tBOTpUE0CL=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvgUrq56Bo796LpWMmu6KDopRUtLBVU6HkVmy_rKUmfh01DHTz_-R68gLTuu7ZQpm9GFQFSj0rv6KDA0fsy6uazRdPjYT29nqrKZKEwabq9OhsEi5PGimQXD5fezeaJ-SUczQtxC8ZHpj3=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrg0Hr9MxWwSMDM2MY5NlR7pUOcFtsc0UcvMttiCVqeVY50TIRYGeRDXadvUdvD_nMpOBijA5p5LWwnLiX5NJ2v8a0xFNxy_Q-1E9GE_l9Dqpe9sPxswnU8cHjaPIEL4Ur_4Ci6wUpI7MQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf534IHuVbhRJMjt4jB2thxyNpI74qVJPuWttiwGu0uLTRuqp4B63Cy62sH8Qqmc6fMiYMXLH0nv7TzCZn9oV9ypDYRY390i-wWRtfHA0dlKmsnmBCgEWxFnKf4sXbID0QOMjaslGrGQ7bZ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkR8JFcapJ1qrRxEEcnwwAh1Av9af7HgRitk6hxWvlPk2BYkJik8B5niU9JqRkK_Z-HUFcnzNDUWX5X3k8VMq6yOnwRH7WxtMgJpsOB2d-uucMU3WxiVUc4iEAzas3_IZBQdgTTVcvdhLX=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7m20m6CSgtaKlhRmm3tUykFYCW9RNDaORLSnVQfRAFMctx3V5eyN8SdaY0M0kW3Dz7kHp9DBbmRMD7Xt7752VMN2Ohve9O3oLgvEeQFJOHjD5XuILHa4VmUEIn7cShE5cCzSaUbPuT8Wr=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3wyHfTPH1gecg6z3ESn7n7DsEXepJw1_RCEU0p8fLvaJxFniA6YSI-tpx3gOVjyIUkkm8Y7aFgJoEqWAKE_jAerJ0XOblIKr4aGzEbyibJSDNqapaJui4_x7gLpTJKwI9UI0nsXbzJFKL=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzkC1ufXLEti4tONEwxP6f0geALacJj1hPo5j0Go-0qyll5eabDKxsj7hk31NBZeAFGZd1l_MZa0sFCybN8_GzJ-w1CdnEAQ1tAlrBNtqi7obrkt2MbEGG2dPk_7hDoXQtq3oLA4VNii1d=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0ksSCaCadjZ8JzgSrNmRfSPv2OueVmQ_lvVlGyYojTAvL01reNxqe2M7W8I0Cd6sfGxUscU8SmWNDW_jeV0cCxBY8HRp3gCk6jLLcuO0iyPtSwnp6qEtoPFwoWK0VkyGisNxOIAiqcNo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRVpFODRjMUl5UkdwQmRFSXdVMGhQWlZRMFNrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-28T08:57:58Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Tejaswini S Coodala,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeFRFdEtabkJITW5CRWNYWjZaakJYWmxCSFMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-25T00:44:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent food with a quick delivery! The Malaysian Satay was juicy and tender, the Flaming Salmon sushi was perfectly balanced and the Rendang was delicious. Even the Crushed Mint and Lime drink was perfect!\n\nGreat, warm and attentive service from Sifat, made us feel at ease and taken care of!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Sruthi,\n\nWe're thrilled to hear you enjoyed our Malaysian Satay, Flaming Salmon sushi, and Rendang! It’s great to know the Crushed Mint and Lime drink hit the spot too. Sifat is truly a gem, and we’re glad their warm service made your experience so special!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvjNVwWKZD-QguO1dInaGqbxBJtYkfdan3vzEdN-cEm0f79zX3EHZzlk4bti_ISPkN_RDTszKHszB34wFKPijRxpY94wMqOQotO3yQcm9gj6a0J9_EKVlF0PZFcbdGaniDKRM-ReonzFA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaVRVODJWREIzTUd4SFRYTTJaVlpHYUZGbGRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-22T12:52:50Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Bhargava sai,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsZlZVeHVRelJvT1hseFFVSXhkVzg1VVZCQlJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 146,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-19T09:06:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Love this place! The food was delicious and the service top notch. But what I really liked was the atmosphere and vibe. Lots of green plants make it feel chill, and the sofa seating was cozy. Their background music was perfect. It really made me enjoy the place.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Mark Fisher,\n\nIt’s wonderful to hear that you loved the food and found our service top notch! We’re thrilled that the atmosphere, with the green plants and cozy sofa seating, made your experience even more enjoyable. We put a lot of thought into our background music, so it’s great to know it hit the right note for you!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHONIpMIYFb4BBTSiwkaL8j5TGCe-C0-_0tZnuQsAo_r_CMoGWsQnJgCPbZTPFjvQsgTsgxUDzZf20ng3mFZMjnRsFHCpSqRLGd7gzgL6j8fjQ3fx79VzOb8XQGjy6yzbhtwMRY1VOrq7J=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdn3SPF7u6fnNshLaSglxPEztyiJ_VdQqN9YyPkzF9-Rj1YLcEw4lkyYmnvgF879OXIpWANIF5vNI4cP3htlQA01GvX6QOdXytmS0zmUDoEhYDagLIssxPOSIZLrP6KrR-lxA8wSweu5io=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RFYwYzFXVlpETTJ0VllWZEZXVEJsVVhGclRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 125,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-16T22:16:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nasi and Mee is so good! The Xiao Long Bao is a must-try, juicy, flavorful, and unlike regular dumplings. The ramen noodles were delicious, and the honey chilli lotus stems made an amazing starter. Pro tip: ask for the spiciest sauce and don't forget the first-customer discount!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Harshit Rao,\n\nWe're thrilled to hear you enjoyed the Xiao Long Bao and found them juicy and flavorful! The honey chilli lotus stems are definitely a crowd favorite, and we're glad you loved them too. Thanks for sharing that pro tip about the spiciest sauce and the first-customer discount—hope to see you again soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNhhHwhvnapEHgN92XWuD0f5rizhLPkbKL4735bL_OYIJIrrg-MOEz8oK-04sD210sov1ih3qQQtigGLBVCVjfZHoxsrfSpnQGOFCUGtY_8-8i8BwKKCX4OWSDoBhtV6V1M-x_oU5mbYRK=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftyRKnB8LQaRpoh9COPAztbfAETzDeKeeKI42UOuMhhTCBWbXReoAddZveRqFq4q23o17qDgcmuJX2SLGkPFWbqk2TsTlX2NylLlE4GGhSf6mzoRo3ZRDCzv077-Sm91R7Ki-dLAzEFcq8=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMllsVktWM2hFU0RSSmVqVnRWRGd0VVRGbWVuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-08T10:00:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Taking to Much time",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Hello, Umesh, \n\nThank you for sharing your feedback. The team appreciates you taking the time to let us know about your experience.\n\nIt is disappointing to learn that the service took longer than expected. Feedback such as yours has helped the team review service workflows and operational processes, with corrective measures implemented to improve speed and efficiency while maintaining quality standards.\n\nIf there's any other feedback, please reach out to us at connect@foodstakitchens.com.\n\nRegards,\nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTVlVbDNVRUZZUVc5MlkyOUxOVlJ6VVY5aVFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-07T08:58:57Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Manas Karkare,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOR2VUbFZOM3BUVTBvMmIwMXdXVUp0VFdaVk1sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 27,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-02T08:30:47Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good and quick service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Apeksha Deshpande,\n\nWe're so glad to hear you enjoyed our good and quick service! It's always our aim to provide a pleasant dining experience, and your feedback means a lot to us.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXuHUrgPMLlRunzV5r_njYSc7BRdySTEb4-z_uFGiHv2q9iwscqJYNPXYfF3lkFILfnNUj4SdSksjnNpx4mI77RypztRmCKxWoAZ2tKtnZx5b1PjHrMg8Wgvwr6Nngb3-XOVJtWnOB16w=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM2FHTkxZeTB3ZG5BeWVsRnpkemxxYnpKb1ZHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-15T16:12:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Average....\nSoupy dumplings were stuck to each other and dumping broke open before it could reach the plate....\nMango boba drink was extremely disappointing..\nUdon noodles with mined chicken was quite okey..\nOverall disappointing experience...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Usharani, \n\nThank you for sharing your feedback. The team appreciates you taking the time to let us know about your experience.\n\nIt is disappointing to learn that certain dishes and beverages did not meet your expectations. Your comments regarding the soup dumplings and Mango Boba Drink are appreciated, while the team is pleased to hear that you found the Udon Noodles with Minced Chicken enjoyable. Feedback such as yours has helped the culinary team review food preparation, presentation, and consistency standards to enhance the overall dining experience.\n\nIf there's any other feedback, please reach out to us at connect@foodstakitchens.com.\n\nRegards,\nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdomuf9Df-R6EZubhBuMF9_JPML26tLqaw-7Mo0lb1KT2clZjwFoE-7gdGkALO5HluhR_ICU2RiWm0YwNI1cwmNg5rKjDRqx2qE5cz1iVutC7zV33wkEBjw_2Z15schwWsNPC6Yf_nnaI4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6aVcnCgbKbiMbJJPb6rl1fK1uDsxq55W9KKqplOM81oWkU7nqfhVZTrT-gGBEh8NnXxwtAkvVoL3zXOsCB0q-iwfJLD3oAPIJc8oqi-OXYOiemO4zjvcBCkQIDqSGDrk4700hYEqXJeU=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwWcXeMkvTS0MFOptagzW2K2HUp3VchSf3PVuZIsIAt_jSq_X7BzIyU9h28ziJrN3AlpSkfLzheCT4AB6KkxpkIymy2KBiWpItCCLL-tYqyiAQX-dsE2Tonvf6q-nnR5k0sMOX8gSoSyne=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVVEwTjZOVWcwV1MxQ1V6azJVMDlVUVRCc1lWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-13T17:53:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "One of the finest pan-asian restaurants. My kids had a great time n good food. Specially loved their chocolate stuffed panda Baos. Delicious and hearty food. Good service and clean. Highly recommended",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Nagashruthi S,\n\nIt's wonderful to hear that you and your kids had such a great time with us! We're thrilled the chocolate stuffed panda baos were a hit — they really are a fun treat. Thank you for your kind words about our food and service; we strive to create a clean and enjoyable dining experience for everyone. Your recommendation means a lot to us!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMVRIZHpPVWxGYVdkU2FFOVdkRlZTY3pKYU5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-11T08:54:21Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Amit Chauhan,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUGNGVkNlbVpLZGkxSlVsaHpjWGMzUVhST1kyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-08T03:30:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Love the food and the staff were soo kind and good service would love to go back again",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Hansraj Suvarna,\n\nIt’s wonderful to hear that you loved the food and found our staff to be so kind! We take pride in providing great service, and your enthusiasm means a lot to us. We can’t wait to welcome you back again!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5eGRUTnRNVXN3U3pFMWQwVnlaV3hZV0ZaNE5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-30T07:35:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Wonderful food. The Japanese cuisine is very well prepared & is a treat...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Bhushan,\n\nWe're thrilled to hear you enjoyed our Japanese cuisine! It means a lot to us that you found the food well prepared and a treat. Thank you for sharing your experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdmFUbGZWblpaWjJSTWVGTjVXRzVUT1RsdVNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-27T15:16:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "SAJAL was really polite and his service was immaculate!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Zimmer Zaheer,\n\nWe're thrilled to hear that SAJAL made such a positive impression with his polite and immaculate service! Our team always strives to create a welcoming atmosphere, and it's wonderful to know that it resonated with you. Thank you for sharing your experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWS1pXdDJPVk01WWxCRFgxZzNUbFpSVWtFM0xYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-26T12:34:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent food and amazing service mr sajal",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Vishal Sahu,\n\nWe're thrilled to hear you enjoyed our excellent food and received amazing service from Sajal! It's wonderful to know our team's efforts made your experience memorable. We can't wait to welcome you back for more delicious dishes!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMlUyUTJTVFZmZDFreFJ6UkpSRXd3Y2pCWVRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-21T10:28:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent food and beverage, good service sajal thank you",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Tohir Pasha,\n\nThank you for your kind words! We're thrilled to hear you enjoyed the food and beverages, and that Sajal took great care of you. We hope to see you again soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReVMyVkJUMjgxU2tsbmNVaFdiSFpYTVRKbGVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 30,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-20T15:53:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing food .... best service from azharrudin and shifat...\nMango stick rice is 👏",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Jyothi S,\n\nSo glad to hear you loved the food and had a fantastic experience with Azharrudin and Shifat! The mango sticky rice is definitely a crowd favorite — it's great to know it impressed you! Thanks for sharing your thoughts!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BdFFYZFBVemxVTVRBd1NFOXFSelJsTTFOYVRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-19T08:21:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing palace for sushi and reman, excellent service sajal",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Kaif Kaif,\n\nThanks for the shoutout! We're thrilled to hear you enjoyed our sushi and ramen. Sajal will be so happy to know that you appreciated the excellent service. Hope to see you again soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZMlUyUk1ObHA0TkU1NFVsRjZjbmRITlVnNWJtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 55,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-18T06:02:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had food poisoning after eating food here. Loose motions for entire family. Very disappointed at such a place with this experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Hello, Anbggg, \n\nThank you for bringing this to our attention. We are sorry to hear that you and your family have been unwell and hope everyone is recovering comfortably.\n\nPlease be assured that strict hygiene and food safety protocols are followed across all our outlets, including routine kitchen and quality checks. Your concern has been escalated to the restaurant and culinary teams for a thorough review.  The team would also like to connect with you directly to understand this better. Please reach out at connect@foodstakitchens.com with your details.\n\nThank you for taking the time to write in.\n\nRegards,\nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNeldqSlRMV0pGTWtScU16SnRSWEp5U2pCQlZtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-18T04:16:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Awesome",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Himanshu Mech,\n\nThanks for the awesome shoutout! We're thrilled to hear you had a great time with us!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMlJYb3RTbXQ0U0d4a1drZzRhbTVPWjJaRk1WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 95,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-15T17:13:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Loved the green Thai curry and chicken yakitori and the ambience was lovely ambiance. Great service by Sajal. Overall an good experience.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Avinash Acharya,\n\nSo glad to hear you loved the green Thai curry and chicken yakitori! It’s wonderful to know that Sajal's service contributed to your enjoyable experience in our lovely ambiance. Thanks for sharing your thoughts!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 7,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9DoZX4iq90Je_X4WuAcds2i5OLqq9iyaYduTqzj3uO2LUSfEV2A3MIB3kroMk_eXjqFGWarJUO068twacnYKBRxG8efEWVovtcMlqaZ2z-oPPOiQr7NUcOzbAeCdHMd0Lq9YUNmHL6e6t=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS18oq_S3KaL_G3aDePzY24hxTLLddJXiB5MnEl2WYPPJSjnetTzzX3iBkvptwbysbd89AvRT647tO2kjSCvVeNwAZkqahJ2Uh1IdrZpCHVDSw1sCmgFmzSbZhvipbRp7cts60k5253DAQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedmT4I7qDWZb22GYtqF5Ids_pMe6mWPy-6TN6fuF1EckwaBqiA5NxeEZA10r3lXaOmVhlh8JwRVClRiHynAsjbIx0-lf-MewJKRZSqq0MRD7wQfwMD6HCvvBAa-VhQCNbtrUlAie8rPMgk=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB54IRV5HOs7oY-X8ll2Cjtk8FrMG7JD1Q-IggUYMYSsT4mcXdUkZy1AtpesGsHkQcJiI0iTpLmnunyHbSBfoBymNPFllDZLzhi09v_kv_S1FJjuSd37moxXQXPewDygMRRcoJ-Z5B426W=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdev_FXSOmJQ09m8Ei9DB3dDpQoLL2AOTQh2JlxDKN3adYhBdcUoLnVrHXwqhi6mqHGW9M6IZWYGQR0DoImX4-DkmkwM-1yF913kmRVgNfXRDOt4Z9G0XdKqS5xbZd9-bOZ7LIb51eYlU6g=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDJ6IXu_vgGDz2T-rGaUwx0F3HIpeW_afKEJEU_KjfKwNA2mFwOueFRyEms0oLtq1B1X3-dyB9gBdGOFHA2swYOHNCTIqTxC6-c6X-p8t8G17-iAKfhe0wSsAjNL5Nnx40RFlmgFmBb0Wm=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9C_72L3tThEX8cYBtKSOreG09mHnTbu7c2daWzSAoJ6FBx-6SEf8cQ9usSL0oJrhdoS5mbpQ8TpdbEJXta2u6SZeIpHgTndaQTgX4cyknOwYaBITTQshVCTLnebQSb1482yLHs6PHbNyW=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVVlUZEVVRU5OUjJGS01VMVZORFUzYlVRMFFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-15T15:44:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great service by Sajal, great food overall",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Prajwal Navada,\n\nSo glad to hear you enjoyed your time with us! Sajal will be thrilled to know his service made an impression. Thanks for your kind words about the food too!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGa2NEVm5kbTlEZFRSMU9XdFNTMkU0WmxVd1UwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-14T13:49:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "The ambience was soothing,a place where you can go to calm your soul,the choices of the food were unique and finger licking delicious.\nThank you Mr Sajal for the warm,attentive and professional service that you provided.\n\nLooking forward to visit again :)",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, OteN Rhakho,\n\nIt’s wonderful to hear that you found our ambience soothing and enjoyed the unique food options! Mr. Sajal will be thrilled to know his warm and attentive service made an impression. We can’t wait to welcome you back for another delicious experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWT0xUUnFhVzE1WkhSMlJYRmFVM001YVY5eU9HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-10T16:26:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "The dishes that we relished the most were- Creem Cheese Spinach Dumplings,  Tempura Asparagus Maki Roll, Dynamite Broccoli, Tantanmen Tofu Ramen and Vegas Maki Roll.\n\nThe Ramen portion is quite filling. However, the number of dumplings can be increased for the given price or at least they can have an option to order 8pcs too (like how it was for Maki 4 or 8) instead of just 4.\nEdamame and Truffle Dumpling was something that we personally didn’t enjoy.\n\nDrinks were average. We got the Match-Mel Boba Tea and N&M ice blended Milo.\n\nHowever, their food service is fast and their staff is quite polite.\nMr Sifat waited on our table and he was an absolute delight!\n\nOverall, a recommended place !",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Avantika Mishra,\n\nThanks for sharing your experience! I’m thrilled to hear you loved the Cream Cheese Spinach Dumplings, Tempura Asparagus Maki Roll, and the filling Tantanmen Tofu Ramen. I appreciate your suggestion about the dumpling portion size—it's always great to hear how we can improve. I'm glad Mr. Sifat made your visit even better with his service! Hope to see you again soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMmRteFphRXBqVVRCUlRESlRjakJpWmtWaFltYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-09T11:12:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sajal good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Vishal Lokanath,\n\nThanks for highlighting Sajal's good service! We're thrilled to hear that you had a great experience with our team. We’ll be sure to pass along your kind words!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSGNFSTJPV3BCYjBvMmJHeFlXbXA0UlZSMlQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-07T09:39:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was best , we find Sajal very friendly ☺️",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Sen Hangma Limboo,\n\nIt’s wonderful to hear that you loved the food! Sajal is indeed a gem and we’re glad you found him friendly. Thank you for sharing your experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21scVEyY3lVSFIzV21VeFN6TnZNR1JUVFdaS2NGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 285,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-03T14:01:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "Absolutely amazing experience at Nasi and Mee!\n\nThe place has a cozy seating setup both indoors and outdoors, beautifully surrounded by greenery, which adds to the overall charm.\n\nThe food was outstanding—we tried the dumplings and they were incredibly juicy and bursting with flavor.\n\nThe prawns were perfectly cooked and delicious, and the famous nasi goreng definitely lived up to the hype.\n\nThe service was equally impressive. Mr. Siyad, who attended our table, did a fantastic job—very attentive and courteous throughout.\n\nA perfect spot for great food, ambience, and service. Highly recommended!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Nomora,\n\nThank you for sharing your wonderful experience at Nasi and Mee! It's delightful to hear that you enjoyed the cozy ambiance, flavorful dumplings, perfectly cooked prawns, and the famous nasi goreng. We're thrilled to know that Mr. Siyad provided attentive and courteous service. We appreciate your recommendation and hope to welcome you back soon for another fantastic dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 7,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcoqhTmF8PGlVGdPmpv7i1PniOWdY60Mgd8sld1yzI3FwBd7aE1j_lmqvbea5nEokw4H_EdQ_ejhFrD3u-8OBTkC7VdWqHwsLUfHmzGE-qN-DnzDZmNwbjrESgR9fd-UDuG1qKeYIu4rs=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYWFV8mT1OnJzXTJsjJTjku1iEt8Dbn1UIUXG_Lk6XC09vJyCJX1slspigGw2BCpzwnYea1TyPkeeAsFg7U2rkjbycvEeWir9qZFddV049R76oy06qndmtM4rtT96XICaAs6BeNWRaiGjw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFihhhhTDuijGSIUQNDnHuZ41M3qSYOTprNW9n0FrlmcfhpZZ_nKdWLsa7LvbVEmz_79ANIu-NDCJEaAR8RE0Fa9-hHzqpLo6H9NgExiDYXz3j5s4X077t0OQS161LKYF94kk2_2wuZcm6=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6lgBy1qsEwMW_O44afFfPv0cMcMQbqclIetePHRjtGVoyVo9G_3XNPFopNEgG01lJa1yP3qhJ_4wmxtIbm55ITrOWuiN1C5heoXlUoGq5_MpUZAoVCyr6dO2390Kp89kD9_a0Xq1loHz6=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVex3FIQUllTQVkDwl9DIENHcn61wkYzizUU3t08PwuQ1MgZ0EYfw-MrzWz7phjT18QspqOiUzouAKq0jZyHN1iM1y2-wc-VUrsojQNIhuUjDeiOjOWNDSHzNykFDuVR740M0R-RQiSZw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBVbHLdtnzm9kp9QJKFMfSys-aEK2NOpHIgWrZyRWRumg0RhMbYpNVhxF8CVYsQNk-AhN2b9uxIg2Bh2MP0P1nRxT3ibJz9gLO0NPJq0awHBk_Q30oZKZCzFjgf4vJOutqsK4FuWBJw8xv=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5vgD8W1PjqIqNDt2Z3RTfBiglDF-VuyHFJpyoF3jmoH4DD4vPSW5lk3g7g-sIBP9RnLALRigDqnsg3zDwZsN5e5sWFRyoWDWWNXNbAXKTLxs4ftwe3gt9n2lJs7-tcyJIihM2MAcN3Fh4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUVprczNVRWcwUlRKTWNVeFhhak5rUkhaTFEwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-02T09:28:59Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice experience, goodfood, sifat was servedus",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Lakshman Bhoomi,\n\nThank you for sharing your experience with us! We're delighted to hear that you had a nice time and enjoyed the good food. We always strive to provide excellent service, and your feedback is truly appreciated. We look forward to welcoming you back for another wonderful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRGVUVm1RVkJWUVdobFdGRmZRM0pqWlZadFZsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-02T08:11:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sajal provided us good service and food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, DileepKumar Reddy,\n\nThank you for sharing your experience! We're delighted to hear that Sajal provided you with good service and that you enjoyed the food. We'll be sure to pass along your kind words to the team. We look forward to welcoming you back soon for another fantastic dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Vd2FucFZia1V4UVhjM1NrVmhOVmxtTkV4NlVIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-04-30T13:00:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service sajal, amazing  restaurant for pan Asian thank you, 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Target Ai,\n\nThank you for sharing your experience! We're thrilled to hear that you enjoyed our pan Asian restaurant and the service provided by Sajal. We strive to create amazing dining experiences, and we're delighted to know that you had a great time. Your support means a lot to us. Hope to welcome you back soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVmExZFpSVWhEYm10b1gyUTJPRTVXUXpoWk1GRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-04-30T09:54:44Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was amazing,taste was superb , very good service by sifat",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Kumar M Kumar,\n\nWe're thrilled to hear that you enjoyed our food and had a superb dining experience! We'll be sure to pass along your compliments to Sifat for providing excellent service. Thank you for choosing to dine with us, and we can't wait to welcome you back for more delicious meals in the future!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUU5taHJlamR2VERkRWRtaHJWelp1T0c5dFRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-04-30T09:52:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food, amazing service by sifat,visit again",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, AS AS,\n\nThank you for sharing your experience! We're thrilled to hear that you enjoyed our food and that Sifat provided amazing service. We can't wait to welcome you back for another delightful visit!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padWVESklUV05CWWxOSk16QnZha05LTlhVellVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-28T09:33:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing service mr.sajal excellent food 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Shivu sahukar Shiv,\n\nThank you for sharing your experience! We're delighted to hear that you enjoyed the excellent service and food at our restaurant. We'll be sure to pass along your kind words to Mr. Sajal. We look forward to welcoming you back for another fantastic dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OTFNGUnNXbmxYU1RWSWQxQkthblZsT1Rob1lVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-27T12:43:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food, amazing service by syed sifat, ambience was too good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Raja Chalavadi,\n\nWe're thrilled to hear that you enjoyed our restaurant! It's wonderful to know that you found the food to your liking and experienced amazing service, especially from Syed Sifat. We take pride in creating a great ambiance for our guests, and we're glad to hear that you appreciated it. Looking forward to serving you again soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTGIxYzJXR1pIYWtKRFlXTmZiRUozTm01M1pXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-26T17:32:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had the best experience. food was very yummy and Sifat was extremely attentive and serves us with such hospitality. Highly recommend",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Rishika Sathish,\n\nWe're thrilled to hear that you had the best experience at our restaurant! It's wonderful to know that you enjoyed the yummy food and received attentive and hospitable service from Sifat. Thank you for the recommendation, and we hope to welcome you back soon for another delightful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTldUaDZUWEZ6T1dkYU9URmpkamQwZVZaUmMyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-26T10:14:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service Sifat",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Mohammed Noufal,\n\nThank you for your feedback! We're thrilled to hear that you had a great dining experience with us. We strive to provide excellent service and delicious food, and we're glad it reflected in your visit. We hope to welcome you back soon for another enjoyable meal at our restaurant.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GemJXdDVVblptZVVKdFZHSmlWVGM1WTFKek9HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-26T09:14:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was amazing , they have a really good menu . Ambience as well was quite gorgeous. Shoutout to Sajal who was amazing as our waiter.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Medha Sharma,\n\nThank you for sharing your dining experience with us! We're thrilled to hear that you enjoyed the amazing food and found the ambience gorgeous. We'll make sure to pass along your kind words to Sajal for providing excellent service. We look forward to welcoming you back for another delightful experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsT2JrRTBSazFJT1VKblJVWlRabU5XYlZNemFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-25T16:06:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing food and an even better staff. Sifat was so incredibly warm, attentive and helpful, even though the restaurant was full of people. It was a pleasure dining here",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Vidhi Gupta,\n\nWe're thrilled to hear that you had an amazing dining experience at our restaurant! Sifat will be delighted to know that you found their service warm, attentive, and helpful. Thank you for choosing to dine with us, and we hope to welcome you back soon for another pleasurable experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSVRISkhiM2hLUkd0VVIzbHRabmhhVVVsSGEzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-25T12:46:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food good service - Azhar",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Adwait Kirve,\n\nThank you, Azhar! We're thrilled to hear that you enjoyed the great food and experienced good service during your visit. We hope to welcome you back soon for another delightful dining experience at our restaurant.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201TVlWcGFZV2RHVUVNMVIyZHFUbmxNTFVrMWJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-23T09:38:59Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing service,food and experience.\nI'd like to appreciate Mr.Sajal for his service and efficiency as always. Keep up the work.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Sharon Mathew,\n\nThank you for taking the time to share your wonderful experience with us! We're thrilled to hear that you enjoyed the amazing service and food during your visit. We'll be sure to pass along your kind words to Mr. Sajal for his outstanding service. We look forward to welcoming you back for another memorable dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMk0zUm1ialV5ZUZaM09EbHVVVGxTT1drMU5IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-22T16:58:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had a wonderful dinner at nasi and mee,, amazing food,good ambience.service guys was superb",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Jeet Bakti,\n\nThank you for sharing your wonderful experience at Nasi and Mee! We're delighted to hear that you enjoyed the amazing food, good ambience, and superb service. We look forward to welcoming you back for another fantastic dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bVJtbHlTbWhIWm14bFUzWkViREJsYVVaNFgxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-20T14:02:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was really amazing, the person here, Azhar was really kind and knew what we wanted and when, we don’t experience good service and food every where",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, ida evangeline,\n\nWe're delighted to hear that you had an amazing dining experience with us! Azhar will be thrilled to know that his attentive service made your visit memorable. We strive to provide both excellent food and exceptional service, and we're thrilled that we exceeded your expectations. We look forward to welcoming you back soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT1JHRm1Sa0ZsTVdka1V6QnNaMFJzWkZCQllsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-20T11:29:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Exceptional food quality and quantity! The staff especially SIFAT was very helpful and friendly. Great experience.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Amithraj Ashok,\n\nWe're thrilled to hear that you enjoyed our exceptional food quality and quantity! We're also pleased to hear that Sifat provided helpful and friendly service during your visit. We hope to welcome you back again soon for another great experience at our restaurant.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCwwGuDnugWU6wpWfGgr41g-ynf1IHsQgvnBELn59qyjZIjJt7RUl6K11rzUaMt6VWJLRXkbfdYuKZiczg0D5qp2YcLua3gXsAiVpLHaHg-ROIx3Izi2MDzG4XCxuE9LZ3ghqdskgKRwMG=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdE7Pg2aAA4TnailcCq0gdKXI7Fao9nuuajPkv7Qpje-FyyOXROMkN60uTxX0QtdsLBTOI-ehtB4X5JXA6tv5LstvYP-oTPJ9gXpHr30C1LID6qp4k-_cvrUNPv7UoFE-O4tyOmCPfWn4l_=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYStopQiadN32n2-YcnlsBxmpt8h7A-WVbQj17T6yYXXne485HjLlJZ3tSyVzQdaw4B42bbumcAMNyaEL-2gG557zhGCTQX0s3YE8yhUjJCvAjSBaCSsm1woDG6nvkRuf9Q1gwseAHN0Gk=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeVNucFNNVXBuTkhOR2RXdENTRU00UVdnd1NsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-20T08:39:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food , amazing service by syed sifat, overall was excellent",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Master maser C,\n\nWe're delighted to hear that you enjoyed your dining experience at our restaurant! Sifat will be thrilled to hear your kind words about the service. We look forward to welcoming you back for another excellent meal soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padVRXdEhORE5hTlRodFEyOUpNRFp0VUdSdmRYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-19T16:36:16Z",
+      "iso_date_of_last_edit": null,
+      "text": "Enjoyed a delicious plate of Singapore Chicken rice here refreshing my memories of past visits to Singapore. Excellent service by Sajal. Enjoyed our lunch on a hot day.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Bikramaditya Sharma,\n\nWe're thrilled to hear that you enjoyed our Singapore Chicken rice and that it brought back fond memories of your visits to Singapore. It's wonderful to know that Sajal provided excellent service, and we'll be sure to share your kind words with the team. Thank you for choosing to dine with us, and we hope to welcome you back for another delightful experience soon.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4V1dtbDRkVGRPVDNweE9UaGxXVTFOZFVWVGIyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-19T14:34:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was amazing here. The service is really good and fast. If you are looking for a good Asian food, this is a must ✨",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, roopa sri,\n\nWe're thrilled to hear that you enjoyed the amazing food and experienced great service at our Asian restaurant! Your recommendation means a lot to us. We look forward to serving you again soon for another delightful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQTe8iNzFNX72tWnbhZzDSCWV9CukaaQ-w-wkETFwC9sVMKhjyXWDIYy_8bzpN1b5HOqAz4UStGASlOnos9WTglSZzyUlcsSBmt5Z0FWuBi9MHdr-ZA_9aCpHqolQGA-dSzRuuRct-dx4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_bnrvlwRg5a17hYH6VMgf9Y6HwkuHmXI4cTvHjC47m72KqUj2Jh0nRr_EtSNuGDS70SeS5gHoIyDd2cozemJ3UCKNpkKOE6T0Rg3QRHvwNRg4M_2PGuQH2VpRdzlkzWz50I1IEIhRaQc=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4ARfpOIc8P6klXpZqYRC97Pfwfx_wCSqqrK4lSFTAGFi4KjVKdi7VL2VJPQ0iHoCq9vdTgj0d4AmCse4OdfIXNZqIAaQZe66a6xCbIKVtKSgRCBnhQeERJezA1QUucLHTRJw-RkJmIaE=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bFgwUnFkbGhyU1RkM1JIbDZRVUpLY0MxelZsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 6 months ago",
+      "iso_date": "2026-04-19T13:03:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food nasi and mee, ambience also very nice thanks to sifat service guys",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Shreeshail Marol,\n\nWe're thrilled to hear that you enjoyed the nasi and mee dishes as well as the ambiance, and we'll be sure to pass along your compliments to Sifat and the rest of the team. Thank you for choosing our restaurant, and we look forward to welcoming you back soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oU01VSklOMUJWYXpGdVoxUjFjMkk1Y2tNeFFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-19T08:12:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had greay time here. The attendant Azar gave exceptional service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Prawaan Singh,\n\nThank you for sharing your experience! We're thrilled to hear that Azar provided you with exceptional service during your visit. We'll be sure to pass along your kind words. We look forward to welcoming you back for another great time at our restaurant.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRmRGUnhiakJXVTJaSWJUaDNiMUJ0WXpReVRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-18T12:53:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing food and service. Azhar was a great host!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Devisha Sasidevan,\n\nWe are thrilled to hear that you enjoyed our amazing food and service! Azhar truly is a fantastic host, and we will be sure to pass on your kind words. We look forward to welcoming you back again soon for another wonderful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205T0xWb3lVakZDVHpacGNGQlJRMjlGVTBnNVlWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-18T11:19:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sajal service was good and on time",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, vikram pasricha,\n\nThank you for sharing your experience! We're delighted to hear that you enjoyed Sajal's excellent service and that everything was served on time. We strive to provide top-notch hospitality, and we're thrilled to know we hit the mark with your visit. Looking forward to welcoming you back for another wonderful dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxemEySktRbXRpVkRGUk0yUTNNMDlaVlRObVFtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-18T11:07:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "The ambience was great overall\nSajal was really friendly and helpful. Will recommend",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, Nishita Patel,\n\nWe're thrilled to hear that you enjoyed the ambiance and that Sajal provided friendly and helpful service! Thank you for recommending us, and we look forward to welcoming you back again soon.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTGRUZEZlWGwxVTBZeVUxaDZSVXhoWm1wM1QxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-18T09:43:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sajal, good service!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, sowmya Lokanath,\n\nThank you for your kind words! We're glad to hear that you enjoyed our service at Sajal. We strive to provide a great dining experience, and we hope to welcome you back soon for more delicious food and excellent service!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OU2EycENUMkpNY25Od01IbFRiRFpFVG1GVlIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-18T02:27:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Milind,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSFdISmZVVzFOUTBjNFVYUmlVazlFZFUxZmRYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-17T16:14:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and ambience. Mr. Azhar was very extremely courteous and professional.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Ridhi Sood,\n\nWe're thrilled to hear that you enjoyed the food and ambiance at our restaurant! We'll be sure to pass along your kind words to Mr. Azhar for his exceptional service. Thank you for taking the time to share your experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zd1NXRTBiRlozYlVZd1RWSk9TRFJWVFZock4wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-17T10:13:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Taste was amazing specially ramen, sushi and dimsum, very good service by sifat",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Sachin Mantha,\n\nWe're thrilled to hear that you enjoyed our ramen, sushi, and dim sum! Sifat will be delighted to receive your compliments on the excellent service. We look forward to welcoming you back for more delicious experiences at our restaurant.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTVZGSnFUMWw1YVdKUFoyUXhVMnhmTkhaUVdGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-16T09:46:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "We loved that place in Yelahanka,food was just yummy ,staff also very nice specially syed sifat,thank you",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Upendra Mural,\n\nThank you for sharing your experience with us! We're delighted to hear that you enjoyed the delicious food and that our staff, especially Syed Sifat, provided excellent service. We can't wait to welcome you back for another memorable dining experience at our Yelahanka location. See you soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVk9HdFJXbUZDT1hBeE1WUmpSa0owTFMxNU4xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-16T09:18:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Taste was just outstanding, ambience was too good, service guys sifat was very nice guys who taking care with us",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Pappu shah,\n\nWe're thrilled to hear that you enjoyed the outstanding taste, lovely ambience, and the excellent service provided by Sifat! It's always a pleasure for us to hear such positive feedback. We look forward to welcoming you back for another delightful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUVpHeG5RME5XZFdsVmNIRjRUVEF6U0ZremVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-16T08:37:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sushi was so tasty we recommend that,sifat was very good person",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Bablu Ram,\n\nWe're thrilled to hear that you enjoyed the tasty sushi at our restaurant! Thank you for recommending us. We're glad to hear that Sifat provided excellent service during your visit. We appreciate your kind words and look forward to welcoming you back for more delicious meals!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWYWNVUTBWREZXVjJobWFtMTFTemxQZWtkM01tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-16T08:28:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Taste wa amazing,Sifat was very nice guys",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello, SAHIL ABHIJEET BURH,\n\nWe're delighted to hear that you enjoyed the amazing taste and had a pleasant experience with our staff. We strive to provide delicious meals and exceptional service. Thank you for taking the time to share your feedback!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTGNGcEhYMVF3YjA5RVZGRjZUamxFZWtaWllXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-12T15:49:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "Awsome food :)) Great Service by Sajal :))",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, roshan george,\n\nWe're thrilled to hear that you enjoyed our food and that Sajal provided you with great service! Thank you for taking the time to share your positive experience. We look forward to welcoming you back for more delicious meals in the future.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vNVJIRTNhVTFpWVhsdVJGSnBRMU5SVWpWS2FuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-09T15:39:31Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sajal was good and his service good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, michael m,\n\nThank you for sharing your experience! We're thrilled to hear that Sajal provided great service during your visit. We'll be sure to pass along your kind words to him. We hope to welcome you back soon for another enjoyable dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rek9FRkNVMlZVTUVWV01WUjRUbFJCYVZwbE9HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-08T09:07:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great experience at Nasi and Mee! The sushi boat was delicious and beautifully presented. Special thanks to Sajal for the excellent service. Highly recommended!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Nithinsgowda Nithin,\n\nThank you for sharing your experience at Nasi and Mee! We're thrilled to hear that you enjoyed the delicious sushi boat and the excellent service from Sajal. We truly appreciate your recommendation and look forward to welcoming you back for another fantastic dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7XBhdoWDE8c997svbtxTAiA2t7gDm8m15rQUGxvqQxWOejCpRZQVJYn1WjIJIEH2Q9_qYv20cXJu36LuuPVAs8HUwN6MAvJm_xXZAZunhr0Jgmo14oX1uBOk3DBONC4RNDO5i3XOuXKzw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSFRsZEhOMHR2UjFSYWRFeG5OekJhVmxwSVJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-08T08:46:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing food,must try pan fried noodles,miso veg Ramen,gret service by sifat",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Mohammad Raju,\n\nWe're thrilled to hear that you enjoyed our pan fried noodles and miso veg Ramen! Sifat will be delighted to know that you appreciated the great service. Thank you for sharing your positive experience, and we hope to welcome you back for more delicious meals soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeVRHZE9ibFIzTFVGRVR5MTRWVVpaVUdSSWJXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-08T05:18:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst restaurant who doing daylight robbery on their bill saying Staff contribution of 10 %. and never informed me. Avoid going there.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe77N6P8hRK-W2hhiX0CI-iE-_9-KUsLl4yllOMjUBVSE30B9BPxxoN8lTQBHSOKlw5bLmcdW5SudfmAUonZ262OAaFIstCruVRV3Y4kWbdRXih4njJMVoAyhrK1Ohf7PIf9lBA2VUd9yFA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWS1l6TlpaMVpQY1c1RU0wZEpRbHBWVmpsd1UyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-07T17:37:31Z",
+      "iso_date_of_last_edit": null,
+      "text": "The \"Staff contribution of 10 %\" is insane when the STAFF added it without asking me and It's literally illegal in India. Had a decent time until I came home and checked it ,  changed my entire experience there. I would not recommend to go to a place where they have 'optional' charges when it's clearly not.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRGRXcGZlVE5xU3psWWFXUmFURGhCZVRGT1RWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-07T12:14:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had a wonderful time at nasi and mee. Sajal was very attentive and very helpful!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Zara Anjum,\n\nWe're thrilled to hear that you had a wonderful time at Nasi and Mee! Sajal will be delighted to receive your kind words about their attentive and helpful service. Thank you for taking the time to share your experience with us!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CeFNsTTFhSEY2ZDFSbFJqWm5MVlp2WjNCdlJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-04T16:52:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is great, the service was good as well, Sajal was helpful.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Rishab prasad,\n\nWe're thrilled to hear that you enjoyed the food and had a great service experience with Sajal! We'll be sure to pass on your kind words, and we look forward to welcoming you back for another delightful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMkxURk5OVmh0TmpZNVZYaE9TMmQyWmxGclJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-04T15:05:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "Siddharth and Sajal were amazing. Service was really great, I ordered yaki udon and matcha bubble tea, they were great, a bit expensive, but worth every penny.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Akash Arun Babu M,\n\nThank you for sharing your experience! We're thrilled to hear that Siddharth and Sajal provided amazing service during your visit. It's wonderful to know that you enjoyed the yaki udon and matcha bubble tea, despite the higher cost. We strive to deliver top-notch dishes, and we're delighted that it was worth every penny for you. We appreciate your support and can't wait to have you back for another delightful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dFVWcFRkR2xvZVhnNU9FeERNamxPTFdkRVltYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-03T03:20:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Visited couple of days back. The place offers great food and an amazing ambience. Also, we were very delighted by the service done by Sifat. Thanks for a superb dine-in experience.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Aditya Raj,\n\nThank you for sharing your experience! We're thrilled to hear that you enjoyed the food and ambience at our restaurant. We'll be sure to pass along your kind words to Sifat for providing excellent service. We look forward to welcoming you back for another superb dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdlZVUkhVVlIzVGxKTExYWm5aeTAzYlMxQllXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-02T16:51:50Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSWVIUmFZbHBHVWpsdFFWZEtjMmRmYlc1RmNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-02T15:24:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was excellent, especially the sushi and the service especially Sifat was amazing. Would highly recommend",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Gayatri Kamath,\n\nWe're thrilled to hear that you enjoyed the excellent food, especially the sushi, and received amazing service from Sifat. Thank you for recommending us! We look forward to welcoming you back for another fantastic dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRmF6RjNORzlKTTJRMmFXaG9Ra2xaTTB4WlkyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-02T09:16:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Vishwas SB,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU1NIWm1UalZWZDNjelQwOXNNVGh3TFRaaldIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 22,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-01T10:26:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was good. Service was excellent from Sifat",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Pradeep S,\n\nWe're thrilled to hear that you enjoyed the food and experienced excellent service from Sifat! Your satisfaction is our top priority, and we look forward to serving you again soon.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbU1uVTNRbHBIUW1GWVVUQXRWM2xGTms1dVVIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 33,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-03-31T05:55:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "I have tried ramen at so many places, but the soup is always very thin. Here, the consistency was just perfect, neither too thin nor too thick. The Nasi Goreng Rice was also very good, it was kind of a platter with different stuff, just loved it. The ambience was also very nice, good to take pictures. Two waiters served us, both were very polite and very nice and helpful.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Aakanksha Gupta,\n\nWe're thrilled to hear that you enjoyed our ramen and Nasi Goreng Rice! It's wonderful to know that the soup consistency was just right for you, and that you found the Nasi Goreng Rice platter to your liking. Our team takes pride in providing a delightful dining experience, and we're glad you appreciated the ambience and attentive service from our waiters. We hope to welcome you back for more culinary delights and a pleasant ambiance. Thank you for sharing your positive experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toaVJuWTBjVzlQWTNWQlJFSnFiVUl4VEhaeFQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 37,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-29T10:27:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was very good. Sajal was very courteous.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Snehasish Roy,\n\nWe're thrilled to hear that you enjoyed the food and had a positive experience with Sajal. Thank you for sharing your feedback with us! We hope to welcome you back again soon for another delightful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25waU9WRk9jMGhzVG1SbGRXdFRUVjl5ZEZGeFZYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-28T08:40:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "The overall experience was nice. The ambience is good and cute. Sajal made sure the experience was even better",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Sandharb Kamble,\n\nWe're thrilled to hear that you had a nice dining experience at our restaurant! It's wonderful to know that you enjoyed the ambience and that Sajal made your visit even better. We appreciate your kind words and look forward to welcoming you back for another delightful experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WQ2IwTTJWR1pHYVdWbmMxbHJNbWRCYXpkcGMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-23T14:12:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sajal took great care of us.  I ordered the Tananmen Tofu and it was incredible.  Loved the service, food and decor.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Vikram Jayakumar,\n\nWe're thrilled to hear that Sajal provided you with excellent service! The Tananmen Tofu is indeed a standout dish, and we're delighted that it exceeded your expectations. Thank you for your kind words about the food and decor. We look forward to welcoming you back for another exceptional dining experience!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6WE3SffjU7mAVoYdz34b92H8eUnE7IWHTUQO9NbeKKLz-59wW6PyOEOo1xo1Ype3YhBe45WOBtBWqXQSt1pfW9jp0GOyIqco20qHA4z3CpYQmjjOGrgfInsFPh5WUDi4yabK-xxujXcnp=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0E4ZTCQgTNOvo6LiyQQdDn3tfQF6dpB5pCD7k3i3nM9Kus0nk4LuccAj_ILkPg0ItBmJypvqfT0ePKL_YeXi_fiRmvFhEl57sqdCssaFxprTygk5PhbJnJDjIerXo4Zu1oRMB1QuOlaEt=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OUFkxRndaRmRVU0hSMVZuQmFlbmR0ZFRSUldYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-22T17:32:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nasi and Mee never disappoints. Amazing food as always. Special thanks to Syed Sifat for his wonderful service!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, John P Abraham,\n\nThank you for sharing your experience! We're thrilled to hear that you enjoyed the food at Nasi and Mee, and we'll be sure to pass along your kind words to Syed Sifat for providing excellent service. We look forward to welcoming you back for another wonderful dining experience.\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSlZWUnhYMHBPZGpOQ2RtUnlVM05uU1ZKakxYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-21T16:26:39Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Arpan Bag,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGS00wZHJURXh2YWxwaFIwZE9UVXhmWjNONlNIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-18T12:39:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Loved the service at the place by Sajal and team",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Ekam Puri,\n\nThank you so much for sharing your experience! We're thrilled to hear that Sajal and the team provided you with excellent service during your visit. We'll be sure to pass along your kind words. We hope to welcome you back soon for another wonderful dining experience at our restaurant!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ob1gwZG1PVGhIWjJreVEwOTFXVkpNYlV0TmVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-18T08:28:57Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Sahrannu 143,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGb01WUTJTRWx1ZUVWU1ZVbE5WbDlRV0V0U2VGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 55,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-16T16:09:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Quite about just good things here. A must try is chocolate banana dessert, simply a nice bet! Also their prawn Har gao is delicious and has authenticity. Try the Mango Tango or their signature drinks 🍷 leaves you feeling really nice.😊",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello, Shilpa,\n\nThank you for sharing your delightful dining experience with us! The chocolate banana dessert sounds like a sweet treat, and the prawn Har gao seems to be a hit. We're thrilled to hear that the Mango Tango and signature drinks left a lasting impression. We can't wait to welcome you back for more delicious moments! 😊\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSFWREugP4Bkn4FhTibnmvDSngSwdU-dW9Ojh7PSn3cp__LDRUYN_tJAMl41qMT_M491-tM_3SYEQm9qPNVVHiZ1u9GLy9F0pbBHmQNnUxg2y4ccPEur9VH94LuXMy8oNSU0cdit7owOI=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-fjjOE-ZkJ85a4sW-P-rVL_pgQ-DwaPzaGVmmrfGJQwa-afhF5OgJ6b10J3cn2PY1PpDmlH0PDqRdt9N6qdzU04Oz6MWiLI9i2MQRKQSQnlvdnCw0D4-qLUuT7PStQQzooEjZcYsFDiI1=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdoAHqao1tzWsG1IDcDKybiMaAUr1pvCfkZf-dIXWH1Wrug9YCj_Zkh2deqMed_N5WZaILCcjikbTpdcgd4Qkc8_bH9qZnZ8uf884nFRlEkEuud2zieX7DCv9R8Cc-qeaN6HyLicaBQWix=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-4T7Z5NOzL9Hm3A6O_12A6OMrLd5BFD3vyneUMoXhYELLSvrm1etPg7udBcHUfqcCsTcQmDzxyoh0IyGC6ZYTdWN8dY2i7-NdQYrD5LL4Y8t8HTnom_yeEm7C1oX3Xl1SHnOsELQm7iI2=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNGVucDFVVXcwY1RsTGJ6QjRWRGx1VUhoeVpYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-15T17:25:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "This is always the best sushi restaurant I’ve had in Yelahanka location. The staff are very friendly, and the food is always amazing. Sifat provided one of the best services we’ve experienced—so kind and very helpful in suggesting great food options. Highly recommended!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, Kh Julia,\n\nThank you for sharing your wonderful experience! We're thrilled to hear that you enjoyed our sushi and the exceptional service provided by Sifat. We'll be sure to pass along your compliments to our staff. We hope to have the pleasure of serving you again soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZd1RIbEZWbnA1VGkxVVlWUlRTbE55UTJ4dVNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-14T11:12:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sajal and sifat excellent service and food was delicious 😋😋",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello, GAGAN Dharmgond,\n\nThank you for sharing your experience! We're delighted to hear that Sajal and Sifat provided excellent service, and that you enjoyed the delicious food. We'll be sure to pass along your kind words to our team. We can't wait to serve you again soon!\n\nCheers, \nTeam Nasi and Mee",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNXZYV0ZnEAE",
+      "author": "Veena Krishnakumar",
+      "author_url": "https://www.google.com/maps/contrib/116446039799505655863?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-02-23T08:57:59Z",
+      "iso_date_of_last_edit": "2024-02-23T08:58:53Z",
+      "text": "We love Nasi and Me for the amazing sushi and dim sims. Assistant supervisor, Balaram was especially nice to us. The only request is to have a clean accessible bathroom for us customers within their premise. It is very inconvenient to run outside and down a floor for a bathroom.",
+      "text_original_language": "We love Nasi and Me for the amazing sushi and dim sims. Assistant supervisor, Balaram was especially nice to us. The only request is to have a clean accessible bathroom for us customers within their premise. It is very inconvenient to run outside and down a floor for a bathroom.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹2,000+"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkNXZYV0ZnEAE!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CIHM0ogKEICAgIDd5vXWFg%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    }
+  ]
+}

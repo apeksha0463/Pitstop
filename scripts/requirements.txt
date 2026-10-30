@@ -1,5 +1,11 @@
 requests>=2.31.0
 python-dotenv>=1.0.0
 
+# Local washroom sentiment (score_washroom_sentiment.py)
+torch>=2.0
+transformers>=4.40
+sentencepiece>=0.2
+protobuf>=4.0
+
 # Development & Testing
 pytest>=7.0.0

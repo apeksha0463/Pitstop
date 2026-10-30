@@ -1,0 +1,195 @@
+{
+  "search_metadata": {
+    "id": "6ae44cdfcf5e488880331272",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Z-53N0pl-lyQcrubaTe-26FnUGvkBDFgWXniufbkS5A/6ae44cdfcf5e488880331272.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Z-53N0pl-lyQcrubaTe-26FnUGvkBDFgWXniufbkS5A/6ae44cdfcf5e488880331272.md",
+    "created_at": "2026-10-30 07:53:03 UTC",
+    "processed_at": "2026-10-30 07:53:03 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae196f3efabe1d:0x787bbf94a8ef0dde!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Z-53N0pl-lyQcrubaTe-26FnUGvkBDFgWXniufbkS5A/6ae44cdfcf5e488880331272.html",
+    "prettify_html_file": "https://serpapi.com/searches/Z-53N0pl-lyQcrubaTe-26FnUGvkBDFgWXniufbkS5A/6ae44cdfcf5e488880331272.prettify",
+    "total_time_taken": 0.98
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae196f3efabe1d:0x787bbf94a8ef0dde",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Panchami Garden",
+    "address": "182, 183, Bagalur Main Rd, opp. Indian petrol pump, Munneshwara Block, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka 560064, India",
+    "rating": 4.2,
+    "reviews": 5885,
+    "type": "Vegetarian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "north indian food",
+      "mentions": 45,
+      "id": "KU6D_TolXnc"
+    },
+    {
+      "keyword": "sambar",
+      "mentions": 26,
+      "id": "JiT9ZvNSMhM"
+    },
+    {
+      "keyword": "seating arrangement",
+      "mentions": 4,
+      "id": "BFnOobr0yIA"
+    },
+    {
+      "keyword": "masala dosa",
+      "mentions": 48,
+      "id": "gRqo30Mwcms"
+    },
+    {
+      "keyword": "south indian food",
+      "mentions": 82,
+      "id": "Jk-Caz57Xj4"
+    },
+    {
+      "keyword": "vada",
+      "mentions": 12,
+      "id": "A8vA_gNj5wc"
+    },
+    {
+      "keyword": "gobi manchurian",
+      "mentions": 9,
+      "id": "Ihwl2zJ9-vc"
+    },
+    {
+      "keyword": "paper masala dosa",
+      "mentions": 6,
+      "id": "gQ0w_5OcPFo"
+    },
+    {
+      "keyword": "affordability",
+      "mentions": 30,
+      "id": "gG35lrNU2IA"
+    },
+    {
+      "keyword": "pure veg restaurant",
+      "mentions": 25,
+      "id": "DY1jUrLgdJA"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KdWRHNUZhR3RTTUhCTk5uSjFVeTFWUlRSNlZsRRAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CAIQACodChtycF9oOnJudG5FaGtSMHBNNnJ1Uy1VRTR6VlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "an hour ago",
+      "iso_date": "2026-10-30T05:58:53Z",
+      "iso_date_of_last_edit": "2026-10-30T05:58:53Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdWRHNUZhR3RTTUhCTk5uSjFVeTFWUlRSNlZsRRAB",
+      "user": {
+        "name": "Yashasvi Basu",
+        "link": "https://www.google.com/maps/contrib/115139685295950329207?hl=en",
+        "contributor_id": "115139685295950329207",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWw5nffbsv2obkmp0m_OGSKgiQ9snhcdItZWtarG5Pta_ebmec=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 34
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsSVF6Sm5NbTV4ZUd3M1ZFcFlYemgwT0MxeE5XYxAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CAIQACodChtycF9oOklIQzJnMm5xeGw3VEpYXzh0OC1xNWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T03:05:48Z",
+      "iso_date_of_last_edit": "2026-10-29T03:05:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsSVF6Sm5NbTV4ZUd3M1ZFcFlYemgwT0MxeE5XYxAB",
+      "user": {
+        "name": "PRATYUSH",
+        "link": "https://www.google.com/maps/contrib/113699684622689537410?hl=en",
+        "contributor_id": "113699684622689537410",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVJI7zEVT1eEc8SbvFawGXF3EAXXmR8UZhml06dnWThOylyTzSA=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xFNVN6YzJhRWRyV2tSaE1VMUVlVmhDVFhkT1kxRRAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CAIQACodChtycF9oOlE5Szc2aEdrWkRhMU1EeVhCTXdOY1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T12:44:29Z",
+      "iso_date_of_last_edit": "2026-10-28T12:44:29Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFNVN6YzJhRWRyV2tSaE1VMUVlVmhDVFhkT1kxRRAB",
+      "user": {
+        "name": "Amit Moy",
+        "link": "https://www.google.com/maps/contrib/109027856756828189903?hl=en",
+        "contributor_id": "109027856756828189903",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLU8nKO9Dav66minXDl4fM79GM_zqKCO69SCGMd-LZhvvHxjjw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 5,
+        "photos": 0
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "wait_time": "10-30 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aemJYUk1PRGhqZUdVdFJsOWZhelpaUVdsdFJGRRAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CAIQACodChtycF9oOnZzbXRMODhjeGUtRl9fazZZQWltRFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T04:30:07Z",
+      "iso_date_of_last_edit": "2026-10-28T04:30:07Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aemJYUk1PRGhqZUdVdFJsOWZhelpaUVdsdFJGRRAB",
+      "user": {
+        "name": "Asha Arun",
+        "link": "https://www.google.com/maps/contrib/114714212097516220144?hl=en",
+        "contributor_id": "114714212097516220144",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVRMbabuBZXQJxOq50F1hWEt76dxtAPkfeBO7DofoX1owlSc0dRgw=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25keU1tdFdZa3RSTkZKeWRrWmhhSE5ZTkhaUFJsRRAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CAIQACodChtycF9oOndyMmtWYktRNFJydkZhaHNYNHZPRlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T21:47:50Z",
+      "iso_date_of_last_edit": "2026-10-26T21:47:50Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keU1tdFdZa3RSTkZKeWRrWmhhSE5ZTkhaUFJsRRAB",
+      "user": {
+        "name": "Anay Gill",
+        "link": "https://www.google.com/maps/contrib/117065214482108137213?hl=en",
+        "contributor_id": "117065214482108137213",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU-fONnXhnJo83-CSZz4KTq3HrcLmeylFIgF69tHOqJCIB4xqA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 125
+      },
+      "likes": 0
+    }
+  ]
+}

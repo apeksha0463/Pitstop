@@ -1,0 +1,245 @@
+{
+  "search_metadata": {
+    "id": "6ae44cea375c3421df05d59e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IGrXul_CTa9z1mRwrNMO04MA85kaY2A2VJf7BSpBXTE/6ae44cea375c3421df05d59e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/IGrXul_CTa9z1mRwrNMO04MA85kaY2A2VJf7BSpBXTE/6ae44cea375c3421df05d59e.md",
+    "created_at": "2026-10-30 07:53:14 UTC",
+    "processed_at": "2026-10-30 07:53:14 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1ecd0a5c0543:0xd4b712c05a110e71!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/IGrXul_CTa9z1mRwrNMO04MA85kaY2A2VJf7BSpBXTE/6ae44cea375c3421df05d59e.html",
+    "prettify_html_file": "https://serpapi.com/searches/IGrXul_CTa9z1mRwrNMO04MA85kaY2A2VJf7BSpBXTE/6ae44cea375c3421df05d59e.prettify",
+    "total_time_taken": 1.17
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1ecd0a5c0543:0xd4b712c05a110e71",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Adyar Ananda Bhavan - A2B",
+    "address": "490, Hyderabad - Bengaluru Hwy, Nehru Nagar, Sonnappanahalli, Bengaluru, Karnataka 562157, India",
+    "rating": 4.2,
+    "reviews": 35670,
+    "type": "Vegetarian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "pongal",
+      "mentions": 116,
+      "id": "DhRpIeI1erc"
+    },
+    {
+      "keyword": "south indian food",
+      "mentions": 377,
+      "id": "Jk-Caz57Xj4"
+    },
+    {
+      "keyword": "dosa",
+      "mentions": 198,
+      "id": "gFrIySD8YW8"
+    },
+    {
+      "keyword": "idli",
+      "mentions": 109,
+      "id": "Cw9CZWkNxus"
+    },
+    {
+      "keyword": "Mini Tiffin",
+      "mentions": 49,
+      "id": "ED_W3bxHfwE"
+    },
+    {
+      "keyword": "sambar",
+      "mentions": 76,
+      "id": "JiT9ZvNSMhM"
+    },
+    {
+      "keyword": "vada",
+      "mentions": 63,
+      "id": "A8vA_gNj5wc"
+    },
+    {
+      "keyword": "chutney",
+      "mentions": 63,
+      "id": "YD3JP_Zmbk8"
+    },
+    {
+      "keyword": "north indian food",
+      "mentions": 69,
+      "id": "KU6D_TolXnc"
+    },
+    {
+      "keyword": "polite staff",
+      "mentions": 167,
+      "id": "B30PdHtYgDQ"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWQ2JqbExWVms1VWpNemQzVjNNR1ZMTUhBMFFWRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOlVCbjlLVVk5UjMzd3V3MGVLMHA0QVE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "13 minutes ago",
+      "iso_date": "2026-10-30T07:39:16Z",
+      "iso_date_of_last_edit": "2026-10-30T07:39:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQ2JqbExWVms1VWpNemQzVjNNR1ZMTUhBMFFWRRAB",
+      "user": {
+        "name": "shiva kumar",
+        "link": "https://www.google.com/maps/contrib/112372642968455393178?hl=en",
+        "contributor_id": "112372642968455393178",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUyKwhr83wuBMA37iLTuYy9FAsXf4Ui08DBSdNxoUDUt5UO--SdAw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 279,
+        "photos": 8215
+      },
+      "snippet": "Very bad dosa .. it was under cooked and shame to say it's a masala dosa.. half the service guys don't understand local language and culture of food ... Very bad service",
+      "extracted_snippet": {
+        "original": "Very bad dosa .. it was under cooked and shame to say it's a masala dosa.. half the service guys don't understand local language and culture of food ... Very bad service"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210dlMxSjFkV0oxUWtRMllUQnZkR3hWV0c1TE1IYxAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOmtvS1J1dWJ1QkQ2YTBvdGxVWG5LMHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 hours ago",
+      "iso_date": "2026-10-30T05:35:39Z",
+      "iso_date_of_last_edit": "2026-10-30T05:35:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dlMxSjFkV0oxUWtRMllUQnZkR3hWV0c1TE1IYxAB",
+      "user": {
+        "name": "Anurag kalra",
+        "link": "https://www.google.com/maps/contrib/110067367550338271798?hl=en",
+        "contributor_id": "110067367550338271798",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIlaIAhJZ5oDgBdm-l2fjzAeXfMgBMA9kQJS3Aftew8yQgLasYZ=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Very tasty food, authentic. Madhukumar served us really well!",
+      "extracted_snippet": {
+        "original": "Very tasty food, authentic. Madhukumar served us really well!"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "an hour ago",
+        "iso_date": "2026-10-30T06:00:44Z",
+        "iso_date_of_last_edit": "2026-10-30T06:00:44Z",
+        "snippet": "Dear Anurag kalra,\n\nWe're thrilled to hear you enjoyed our authentic food! It's great to know Madhukumar provided you with excellent service. We can't wait to welcome you back for another tasty experience!\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Anurag kalra,\n\nWe're thrilled to hear you enjoyed our authentic food! It's great to know Madhukumar provided you with excellent service. We can't wait to welcome you back for another tasty experience!\n\nThanks \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GNFNEVlVkVFprZGpWNldVeHhVa0pRWjI1RFowRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOnF4SDVUdTZkdjV6WUxxUkJQZ25DZ0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 hours ago",
+      "iso_date": "2026-10-30T03:49:53Z",
+      "iso_date_of_last_edit": "2026-10-30T03:49:53Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNFNEVlVkVFprZGpWNldVeHhVa0pRWjI1RFowRRAB",
+      "user": {
+        "name": "Pavan Balaji",
+        "link": "https://www.google.com/maps/contrib/102627561405536494960?hl=en",
+        "contributor_id": "102627561405536494960",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUkoJiwCq6DdSCMnO-qlW8MClABx1Pwld9ii3ZZvbho0GrO_5M=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 hours ago",
+        "iso_date": "2026-10-30T04:01:48Z",
+        "iso_date_of_last_edit": "2026-10-30T04:01:48Z",
+        "snippet": "Dear Pavan Balaji,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Pavan Balaji,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wcGJUZE5kRm81TjNaNWMxTllhR2hqWTJWcFMwRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOmppbTdNdFo5N3Z5c1NYaGhjY2VpS0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "7 hours ago",
+      "iso_date": "2026-10-30T00:16:45Z",
+      "iso_date_of_last_edit": "2026-10-30T00:16:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcGJUZE5kRm81TjNaNWMxTllhR2hqWTJWcFMwRRAB",
+      "user": {
+        "name": "Trisha Rastogi",
+        "link": "https://www.google.com/maps/contrib/108120452571461729110?hl=en",
+        "contributor_id": "108120452571461729110",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVDQMxFqB0cdVCDWWBI7Xm68tndD6P7mJzDwxUQ1l72Xtgmrw4=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 30
+      },
+      "likes": 0,
+      "response": {
+        "date": "6 hours ago",
+        "iso_date": "2026-10-30T01:00:09Z",
+        "iso_date_of_last_edit": "2026-10-30T01:00:09Z",
+        "snippet": "Dear Trisha Rastogi,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Trisha Rastogi,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kNFZIWnBia3MzZWkxaVVHc3pNbXRsZUVSNGEyYxAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOnd4VHZpbks3ei1iUGszMmtleER4a2c%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "22 hours ago",
+      "iso_date": "2026-10-29T09:35:14Z",
+      "iso_date_of_last_edit": "2026-10-29T09:35:14Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNFZIWnBia3MzZWkxaVVHc3pNbXRsZUVSNGEyYxAB",
+      "user": {
+        "name": "Mukesh Kumar",
+        "link": "https://www.google.com/maps/contrib/116431911087350904161?hl=en",
+        "contributor_id": "116431911087350904161",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW8Rl_vhg4Z0ViY1u20_pPwr1L4PbvEUqPeGfTFsr6DhsKe8EAt=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 11,
+        "photos": 20
+      },
+      "snippet": "Now a days quality of offd is worst.\nThis is my last today.\nO don't recommend to any body",
+      "extracted_snippet": {
+        "original": "Now a days quality of offd is worst.\nThis is my last today.\nO don't recommend to any body"
+      },
+      "details": {
+        "food": 1,
+        "service": 3,
+        "atmosphere": 2
+      },
+      "likes": 0,
+      "response": {
+        "date": "21 hours ago",
+        "iso_date": "2026-10-29T10:02:23Z",
+        "iso_date_of_last_edit": "2026-10-29T10:02:23Z",
+        "snippet": "Dear Mukesh Kumar,\n\nWe're really sorry to hear that you found the quality of our food to be disappointing. It's never our intention to let anyone down, and we truly value your feedback. If there's anything specific you’d like to share about your experience, we’d love to hear more.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Mukesh Kumar,\n\nWe're really sorry to hear that you found the quality of our food to be disappointing. It's never our intention to let anyone down, and we truly value your feedback. If there's anything specific you’d like to share about your experience, we’d love to hear more.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    }
+  ]
+}

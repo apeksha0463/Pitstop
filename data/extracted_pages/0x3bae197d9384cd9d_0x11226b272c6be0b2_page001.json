@@ -1,0 +1,80 @@
+{
+  "data_id": "0x3bae197d9384cd9d:0x11226b272c6be0b2",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Thamaq Restaurant | Bagalur Cross",
+    "place_type": "Eclectic restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRFpWOHdSblp4T0VKNmMyUXhabU5XTVRCMmNGRRAB",
+      "author": "Anand Advocate",
+      "rating": 4.0,
+      "date": "a day ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSYU5rUXRWRWxOTUdSbVFYbGhUa1p0TlV0M2JrRRAB",
+      "author": "Amit Moy",
+      "rating": 4.0,
+      "date": "a day ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxT1pqRmhibXAwVGs4dFJ6TnFTRlZpWlRsclRuYxAB",
+      "author": "Narasimha Chinnu",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kak9XdEtNRkZ1TkVSNGJuWlhlVFJQUjA1UlMwRRAB",
+      "author": "Laksh Murthy",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaZmIzUTFjbWxCZVRkVmNIcG9Ua3hxYmpNMVkxRRAB",
+      "author": "Alok kumar",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "images": []
+    }
+  ]
+}

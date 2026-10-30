@@ -1,0 +1,216 @@
+{
+  "search_metadata": {
+    "id": "6ae44d3c25c6576ff9bbcfe1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rFPzXpe0gf9GuKGMXWzdmknIE4UyQzAtgd1G279hTz0/6ae44d3c25c6576ff9bbcfe1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rFPzXpe0gf9GuKGMXWzdmknIE4UyQzAtgd1G279hTz0/6ae44d3c25c6576ff9bbcfe1.md",
+    "created_at": "2026-10-30 07:54:36 UTC",
+    "processed_at": "2026-10-30 07:54:36 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f3b47678b4ad:0x7ea45b9283828a19!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/rFPzXpe0gf9GuKGMXWzdmknIE4UyQzAtgd1G279hTz0/6ae44d3c25c6576ff9bbcfe1.html",
+    "prettify_html_file": "https://serpapi.com/searches/rFPzXpe0gf9GuKGMXWzdmknIE4UyQzAtgd1G279hTz0/6ae44d3c25c6576ff9bbcfe1.prettify",
+    "total_time_taken": 1.27
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f3b47678b4ad:0x7ea45b9283828a19",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "IVTC",
+    "address": "IVTC, Yelagalahalli, Village Road, Hobli, Mandikal, Karnataka 562104, India",
+    "rating": 4.2,
+    "reviews": 709,
+    "type": "Indian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "idli",
+      "mentions": 59,
+      "id": "Cw9CZWkNxus"
+    },
+    {
+      "keyword": "ragi roti",
+      "mentions": 16,
+      "id": "AQw5TDAYJ3s"
+    },
+    {
+      "keyword": "vada",
+      "mentions": 18,
+      "id": "A8vA_gNj5wc"
+    },
+    {
+      "keyword": "sambar",
+      "mentions": 16,
+      "id": "JiT9ZvNSMhM"
+    },
+    {
+      "keyword": "onion pakoda",
+      "mentions": 8,
+      "id": "DwFZvVAlaB0"
+    },
+    {
+      "keyword": "dosa",
+      "mentions": 26,
+      "id": "gFrIySD8YW8"
+    },
+    {
+      "keyword": "ghee pudi dosa",
+      "mentions": 6,
+      "id": "AZyA26K8Inc"
+    },
+    {
+      "keyword": "idly vada",
+      "mentions": 4,
+      "id": "Cw0A2XJl68c"
+    },
+    {
+      "keyword": "chutney",
+      "mentions": 11,
+      "id": "YD3JP_Zmbk8"
+    },
+    {
+      "keyword": "akki roti",
+      "mentions": 13,
+      "id": "ERyxTUpKL3k"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsdk1FTnJOVzg0ZEVWM1JEZHZlbEJMTWtoTGNWRRAB!2m1!1s0x0:0x7ea45b9283828a19!3m1!1s2@1:CAIQACodChtycF9oOklvMENrNW84dEV3RDdvelBLMkhLcVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T05:49:15Z",
+      "iso_date_of_last_edit": "2026-10-25T05:49:15Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdk1FTnJOVzg0ZEVWM1JEZHZlbEJMTWtoTGNWRRAB",
+      "user": {
+        "name": "Venu Venu",
+        "link": "https://www.google.com/maps/contrib/108257767413744299435?hl=en",
+        "contributor_id": "108257767413744299435",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIURQKC-7K5hgL_obgjaMelHdsLidcBHWa5NhZiii5uQLa57w=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "2 people",
+        "wait_time": "Up to 10 min"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxbWFGVk5jbTFaTFVNM04xRkVSV3hrTmt4cGVGRRAB!2m1!1s0x0:0x7ea45b9283828a19!3m1!1s2@1:CAIQACodChtycF9oOk1maFVNcm1ZLUM3N1FERWxkNkxpeFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T13:35:59Z",
+      "iso_date_of_last_edit": "2026-10-24T13:35:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxbWFGVk5jbTFaTFVNM04xRkVSV3hrTmt4cGVGRRAB",
+      "user": {
+        "name": "Anupriya Verma",
+        "link": "https://www.google.com/maps/contrib/108429884935107977890?hl=en",
+        "contributor_id": "108429884935107977890",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVHL6T-HqD7M9P8hihWWyJ6Ts2KaTChy_-H2a9v4kKT8niG8Y9rbg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 31,
+        "photos": 21
+      },
+      "snippet": "Very nice tea. Must try!",
+      "extracted_snippet": {
+        "original": "Very nice tea. Must try!"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aSFl6bFdhRVF5TURSMWEwRlJkRXhwUkUxVFRrRRAB!2m1!1s0x0:0x7ea45b9283828a19!3m1!1s2@1:CAIQACodChtycF9oOmZHYzlWaEQyMDR1a0FRdExpRE1TTkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T11:07:00Z",
+      "iso_date_of_last_edit": "2026-10-24T11:07:00Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aSFl6bFdhRVF5TURSMWEwRlJkRXhwUkUxVFRrRRAB",
+      "user": {
+        "name": "naveen ramappa",
+        "link": "https://www.google.com/maps/contrib/105803932127904744871?hl=en",
+        "contributor_id": "105803932127904744871",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIE2D3k8c9eCFiBIPFHTJz5TSsWE6ljj0FmP7VVKl5sINjLLg=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tseFVsZERZazF1WVhGR2ExY3lOVWRSUTBWaVFuYxAB!2m1!1s0x0:0x7ea45b9283828a19!3m1!1s2@1:CAIQACodChtycF9oOklxUldDYk1uYXFGa1cyNUdRQ0ViQnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T09:56:56Z",
+      "iso_date_of_last_edit": "2026-10-24T09:56:56Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tseFVsZERZazF1WVhGR2ExY3lOVWRSUTBWaVFuYxAB",
+      "user": {
+        "name": "Poorvika Harish",
+        "link": "https://www.google.com/maps/contrib/116702276450423217541?hl=en",
+        "contributor_id": "116702276450423217541",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI8s4_emkOI9uveLsaw7whoLNiBi9hPvTC_thPfSDhW1L36Rg=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 1
+      },
+      "snippet": "In good 👍👍👍😊",
+      "extracted_snippet": {
+        "original": "In good 👍👍👍😊"
+      },
+      "details": {
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25FNVoxbGpkWFZNVWsxNE4yNWpRa1J4V0ZjM2QwRRAB!2m1!1s0x0:0x7ea45b9283828a19!3m1!1s2@1:CAIQACodChtycF9oOnE5Z1ljdXVMUk14N25jQkRxWFc3d0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T09:08:12Z",
+      "iso_date_of_last_edit": "2026-10-24T09:08:12Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNVoxbGpkWFZNVWsxNE4yNWpRa1J4V0ZjM2QwRRAB",
+      "user": {
+        "name": "Divya Arora",
+        "link": "https://www.google.com/maps/contrib/114410257537830268336?hl=en",
+        "contributor_id": "114410257537830268336",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLsGp7_ucIus-J5c23thNJTXBXZPgIL6TrzR20SAUCk8JXk4w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Pretty good highway stop. Good food and very clean bathroom",
+      "extracted_snippet": {
+        "original": "Pretty good highway stop. Good food and very clean bathroom"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 1
+    }
+  ]
+}

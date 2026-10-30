@@ -1,0 +1,3500 @@
+{
+  "restaurant": "Empire Restaurant (inside Big Bay)",
+  "data_id": "0x3bb1f35e46db6f73:0x6ba914581ed1edcf",
+  "google_review_count": "1750",
+  "reviews_total": 100,
+  "reviews_with_text": 94,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 0,
+    "serpapi": 0,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdFFWaG1kRTFmTFc1T1VHa3lielV0Y0ZObmRYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T05:30:17Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SU5FRkhjR3RMVlY4NU1VMVBYM0psWTJWelluYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T08:41:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service was good\nAmbience was satisfactory\nFriendly staff.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Bindu,\n\nGlad the service and the friendly staff at Chikkaballapura made your visit comfortable. The team will be happy to read this. See you again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dU4wMHRNWFZ4UjNGR1VrSmlVemRCTUhWaFJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 66,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T07:21:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Known for its non-veg delicacies. But we visited the place for its Kerala parota. Delicious as expected, with Paneer, Dal… But don’t expect them to be professionals in vegetarian.\n\nGood service. Convenient location on the highway.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Dr,\n\nThank you for making the stop at Chikkaballapura for the Kerala parota, and for the kind words on the service. We're sharing your note on the vegetarian dishes with the team. Do visit us again.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 7,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLers7HiFWOBomkTVtj0rfbIj9McsEgIhIS1lCZEkTxSRUkS8wNTSwBGu5Dd73Bk9YUCUXtn2WNDQc2N7H-lk7mrStzBelwgCe-UPPL23XlcXUZ4LIONJiUdQ38CjmDnqaR1Giwddf1b8Jun=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMKoHeNWIjAGE_cgZtDEscfgYBOB99neEqrrDJVNyC68nXtSqCSNp61UFie-8D14EAXt0VUpSk3zpqOnTuVi-e57UXV4bM-6caXtASvNEkXi28DfuDigG20hDHodr48ky0lrtor4VYl3r2=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGTAC7TQ7WgDUWB1CYyifJbE4JYd0p-x9HPJ9aya3jGLUjJOHXPJogVl-e65jW4YleW8Yvl7yFfgXG0G27aMQxXyh-8ff0P5reeK6ZhqxalWhT7HL-IZhCo8jsyUYLnE0KwN8nIM8lJpoo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHdRGx36J4ysePAmRZonYp8btnj8OzF9hYZXXUjsDLgOOsqua7kF_RGx4mGuNVYMEvcUwqWMGCJfpXsj5O-lJMA0zbDCv_7LumXXeGHRktt9ZKATcSQYZAuwAoUFfrl_fWiSRq1vH5hosQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaS7Hh1ElTrdp76gnd-wmoLtK4Uxpo8uWJ0rmjUSj-5YDqX_7Ly0XWhADRUqyIGkE7n2gfcRh2m1OodFbYwrOKZ4mkXSg_oqqdbpJLwPDhi_6mvvp-vuWhbieeV8bdcDcRTeofHi98qVrT=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcxoL_SmVbaeqbYikJM__a9Ed1dbC9yq4rGISQ4pyFnYRs9OgzTqrc6fh9lkXL6XNeJ7NJYokGvBQcTQ8j5wbgSLBU2gyqQGxhJUp7r5YNEsEVZ8RgLH-yfhhwN5wvvlPbLw35alcFxsxc=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSOCAy_lGGtxnKIcZ-4CF_mKYBzI8BqTH9jbu5PrIoNrcKIyh2E-Csdareoh7UU7k71D8ZVQNNbQd_626x69lIUz3eLsQT_rOgLuqa3PelVT3elwQ4cBmSiOdJBPgqxIo9d57IKcp55AHW=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKcU9FMVZZVkpVZDNsRVZrbzNOakpZVFUxeU1tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 68,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T10:21:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food\nTasty\nLoved the ambience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Raghu,\n\nThanks for the lovely words on the food and the ambience. The Chikkaballapura team is glad you enjoyed it. Do visit us again.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NM2MyOHpVbG96T1VkdVoyRXdSa2hNVTA1TWJtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 58,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T09:51:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service was quite good with attention\nFalooda was very good.\nghee rice and fish fried wings & chicken Khurma with malabar paratha the taste was very good.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear sake,\n\nThank you for noting the service and the falooda, ghee rice, fish fried wings, chicken khurma and malabar paratha, glad they worked for you. We're sharing your 3-star rating with the Chikkaballapura team, and please tell our staff on your next visit what would earn the extra stars.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201c2FFVjZZVlZxYlRCd1oxVTVNelIxZGw5UmRIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T08:11:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service great food\nMr Ravi Kumar did great service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear shashank,\n\nThank you, we're making sure Ravi Kumar and his manager see this. Please visit us again at Chikkaballapura soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVzzJE0eaDnGl0kl5XcL7B4TmUJkqlWHuHB5Qvj-wVNHhEv6WNMfx-Ueb9j6-MEZhibEp_0Jl19Nj6nJt4slW3xy1rgdk89UMDxCvQ29RONSBrHwUODMfPtTVEfLwG5YxuHOpZpPy5IpXI=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsV1NXeFNjRXAwU1VkNWVUSmhTRWRzWVZaR01tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 318,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T06:26:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food, worth the price! 🍛\n\nTaste is really good and quantity is more than enough for the money - totally worth it. Ambience is clean and place is well maintained for family and friends.\n\nTried their Boba - it's quite different from regular boba",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Sushrath,\n\nThank you for the kind words on the value, ambience and the boba. We're sharing your note with the Chikkaballapura team, and we'd be happy to see you and your family and friends again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 16,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNKDme0xusXs-Gb-NdhXGJiuygFxUfsTAVWzhirAgixIe5DygP6Rq-HRrRPc2QiQevQGTDgTi3wzdbFczDRAWmueO7jQYql7lRANSY5MlEaCpyq4lSVH8CNggvmJNs8XIkbLqRRxfzzL38=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT9LMQ1LCAADW1NxPRY1IhrG5WKwCvoEBOFWEM8Kl-W_D8xqryEKqLvSk05f4MG3CldCKItVZhIvcHW5DHLNwaRpotkclhgU9jt7yA92ChawOq1SnMnW_OVi_9v38F1l2__Qrn=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeM1fa8MVR4q8qrLQAurBfVUBxbBJ6VQ98TTPzpoSejg43Twk_gd7PxBXPGJ-Y-3PWhbLCeIq-xZGa2AQVoUSYidpAntLwYF3m2clQ6sV2akh5FgfvhDxlNmsyuAchdVIfuijVGJr2OH3Q=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYPG90VqWrGzzhretO74cN2OsHHWN_Zd6QbzUTnByRX_BmkrK3nGh5-r5dJ5nL7LbqetIGjxS18gBZTaIjfBdd6yLtbsCLw690AjXAIP17Rqg2yiymBARPNoyNgW29wMHbYiM0K9p--U8=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeozk7rLDT-i6Uj6QUYtIEGS03_r9ck5B3PIkejMu-jR-dm6cE3bD_YRo-7_e1no57pIVnMxLfY2dlkXXB38C20-mkEb18T_2zAwg5_WDngza4kZSNqXssg1Br34ueFMth1puGPB7VUiPGX=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJECybWTI1tKTgHmK7t9p1ijV7skPg-dBBZ1AuwM1eLX4UmCRqJplH2_uaGlfNag8MRN0UAuGbs7YeZFxxXlmsA2fXxK_Ih2BXgC8cUTH18hWCq6GuhtCEsyRISQ6YBsxADz4Clk2Yt8U=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIw93mt-ETlFl05TvNy4f_RD9aK87l3hCPEA3DMEgqhackW5r1ml7SK3fWla-C-p3vOH4VebLY1SMWa8MLhusdPxSFEZpdF6f5RDIPUIsLPVQ2-T_hi_VhBT9fvrJJbF7w9YdCD6TDFGw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctiN3aAK2OfafPyGX8LUSOjuK_Wa18X1XAUuRJ_L7In8SkNWW1QLTxa3pQYltQIbmSWi1PYbjNHE2ADc6ahYXrvaADz-Z1o1T-Uk-37yYOtOU8Q5uBqzoXdEVxGNx2_f6qXl4ZTc7ptZU=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeh-zpKLYPIVpfc6S-xM_IiJku10R0l3H7-2QMhnT7rtTOvAcgum-r6Z-zHXJzQB8gvOtvYLHTYh6yIsqtHeGQv_2K9KNRNu1xUZjP2omIBu2m4pVE2_N0sa4qVZ6SRdq8Jib71xcYpIBRM=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHSG84Y4yCSyIn5f9SZ1ITwPTJFEURTqNJ6EA4dXgBmCyFWhvyBQdua7SXG-E-MHwgOIZm7R29Ac9Jweckt0IivLNZYS6oVdw7qxtkEqi4KvrxORzhmJmwyW_D5YBcggODhgAf9xJRbVXO=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdY4QSK3szwkSBgI7kiec6EXXZrgLnZ4UEepxjN56ap9YYEAa6dZ4lpoPojRuSqVEvAenOOqd5Iti3_nUMZKAWEccqAP0ARiA75bIdYslRmcqxFnn-fdg-PXv72SWTliOXv6-h89Ba6u2CV=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcS8gs-qQ3ZeJunuW_FZJQ995OD5rV-sxNO_zILtQE16Xzfowi0Iq7Z64Iel0DGQqLo2zxzvJUbcX-cVQGW41INWM3HPnE2-_65N5n5BLi35NhhUNldqB-69EvfhyXA0TQVtHvI416I0L9e=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfK8geduR2zvVVqnOIMso6v1uiemhW9vzkqApgxqgUqUob9Uyt8I_iRybeyZr5Mk3r_i0d_q3mfo-fa12fCK4r-Cq4t5Gz7jCoArqEacB8QToJPZMsL4YwP2BgEz9PnpRQNySrv-ZEcZ1g=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfstOePRDwxt-PkyIcDMDniOMX6Z5vNRPl354G6mmPm7px_5h_3X2YKC_RBZZ2OmgmCp2MoYT5-4giLVNZ0iiykepCsse3cHNucn4WnzrDVUtqdwo77C6yUPPbw1r0h4xqWnwf_pgBPjxcE=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7dC3Pwp8nNxOUAuAn7hWrpGKQjBF3FDGPGQeM0PNmHOTyLhIdDd05bBhRnYi5DIo8qVGrECyfVO6tm6e0jT1DnjnXpkooCI0s9SZYs0NTtVtm6gratzmIg1RF_AXSAo79y_IVeBSkoyT2=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwzMd7KH6ne66tQnvouzxtF7ns24hjbJ38G6d0M4NfGvtVSVXuLzfy00BmutWWAZFCyKa3YsfIsDBbaHAMGkiDFoaTeDZdGyUWIgYq5BI32yBKRsx3bdq-e7QMecJSoZ627s_1yR_6Ztcy=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MlptNUxTSGhWYkc4MFZGZElWREJqU1RKRFZXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T10:25:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Bucket biryani is good and enough for 6 people.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Polisetty,\n\nThank you, glad the bucket biryani was a good fit for your group. See you again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSVFrOUZTV3BNUWtweE1GOUtObWhZTkhaZlYzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T10:23:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chicken bucket biryani is good.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear jaya,\n\nThank you, glad you liked the chicken bucket biryani. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KS2RXdFhObUoxUWxObVVtUTNRVmRCTlVwTlIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T07:59:37Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service by Ravi\nWell behaved service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Darshan,\n\nThank you for the kind words on the service. We are making sure Ravi and his manager see this. Please come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdllUSnRPWFZrTW1wRlJHOHdiMEZ0ZFcxck9IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-08T16:07:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "We had a lovely time with friends here, the outlast is well maintained and hygienic …recommend trying this place for sure:)",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear somil,\n\nThank you for choosing us for time with your friends, and for noticing how clean the outlet is. We are sharing this with the team. Please come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbmRsVTJURFl5VTFsUU1ETjVRMjl5ZUVwQ1dXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-08T15:58:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "nice service Ravi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Mahanth,\n\nThank you for the kind words for Ravi. We will make sure he and his manager see this. Please visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaFMzVnJMVlo2ZFhSMlVHaG5VVFJ3YTIwM2JuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-06T17:04:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice biryani and roti",
+      "text_original_language": "Nice biriyani and roti",
+      "language": "hi",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Karthik,\n\nGlad the biryani and roti hit the spot. Thank you, and please do visit us again.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSGRGTklRMWhtU1cxck5sQnBabFZCV0VkcWMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 63,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-06T16:35:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Thank you had a good experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Neville,\n\nThank you for visiting us. Please come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4V1lrNTFNbWd4ZG5JeU5YaHVNVXMxYlZZMk5IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-02T15:41:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Okay",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Manikanta,\n\nThank you for stopping by. Please do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSFRWOUJNR1EyWlRNNGRXVkJhSEYzZWpkaFIxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T15:29:40Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food biryani",
+      "text_original_language": "Good food biriyani",
+      "language": "hi",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Prajwal,\n\nGlad the biryani hit the spot! Do come back and see us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWV1REaHBiVlZoY2tabFpuRkZiVUZtZWpoWlIxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T12:51:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Shravani,\n\nThank you! Come visit us again at Empire soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tweVYxWlBURkZRTVRsT1kzbHZaSGxWV214Qk9HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T09:08:26Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRWRqQkZZMHBFT1hWVlVISXhjazl6ZVdsdmFVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T14:00:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "It's a good famous food chain off banglore started in 1960 we had ghee rice and fish fried wings & chicken Khurma with malabar paratha the taste was very good and delicious but one complain was there that they don't have full menu available limited option were there it's good spot on highway definitely visit if you are on the Hyderabad route from BANGLORE\nGood service Joydip",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Shib,\n\nSo glad the ghee rice, fish fry, and chicken khurma with malabar paratha hit the mark for you, and thank you for the shoutout to Joydip for the service! We hear you on the limited menu that day, we're sharing that with the team. Always worth the stop on a Bangalore-Hyderabad drive, see you again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bFprWkZlbnA1VFY5MVNVSlNjRVZDU2tWUk1tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T10:00:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service with ravi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Manu,\n\nRavi's service made the visit for you, we'll make sure he and his manager hear about this. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTmRUSllVMDh0ZFU1M2NWTlRiMEppZG1WNFVHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T07:42:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "The service is good but food Could be better",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Shahid,\n\nGlad the service worked well for you. Food quality is something we take real pride in, so we're passing this feedback directly to the team to keep raising the bar.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVE1GcE9UbU5YY0VobGQyVkZSbWRSVWtrMmNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T06:58:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tanduri chichan nad ghee rice nice service Lime soda good food service Ravi",
+      "text_original_language": null,
+      "language": "mr",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sri,\n\nGreat to hear you enjoyed the tandoori chicken, ghee rice and lime soda! Ravi will be glad to see this shoutout, and we're letting his manager know too. Looking forward to having you back.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWlZrcHZUbUUwUW5wRWQxOVpTMUZzTFdKaFpFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T19:22:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "If there's an option for 0 stars I'd option for that. One of the worst empire I've ever visited. The waiter said there's no soft drinks and hid the cooler only because he had to push fresh juice to people as the fruits were already cut.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Nikhil,\n\nWe're sorry about that. Being told there were no soft drinks is not how we want any guest served, and we're sharing this directly with the team. Please ask for the manager on your next visit so we can make it right.\n\nPlease contact our customer care at +91 97418 88822 so we can discuss this further.\n\nWarm Regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201QmVGTjRjR1ZCUWtkVFR6WmlhVW8zUjJoTGNrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T10:01:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "It is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear prashanth,\n\nGlad you had a good visit overall! Come back and see us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wYWNUQmlVblJFVW5acGFGSnRUM1I0WDBWbVMyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T18:18:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice service Ravi Kumar Tanduri",
+      "text_original_language": null,
+      "language": "jv",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Niranjan,\n\nRavi Kumar will be happy to hear this, we're letting him know directly. Thanks for visiting, hope to see you again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVFYyWTVZVGR3ZDI4eFYyMDJiVTB4TjBwaVIxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T18:12:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Skibidi,\n\nThanks for the kind words! Do visit us again soon at Empire.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TVFVVkNMVFJFZUROdFYyRk5SekExUVZOTVVuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 22,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T16:35:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Ghee Raice\nEmpire special chicken kabab\nPulpy grape juice\nSuper 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Narasimha,\n\nSo glad the ghee rice, Empire special chicken kabab and grape juice all hit the mark! Come back soon for more.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVgxQjZkV3B0WVY5eGIyWlNOV3RwV1ZwUFJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T14:58:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear mohammed,\n\nThank you! Glad you had a good experience. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWVJrbHNTMWRyTjBadFRGWlBlV3hsZFZrd1FXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T13:36:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "It's good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Surya,\n\nThank you for the kind words. Come back and see us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTk1YbEhiRVpGUkVGT1UxTlNjMjgwTkdOUVZYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T07:32:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Customer service is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Razia,\n\nThank you for the kind words about our service. We'd love to welcome you back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo4drWri2h_pbgazHvcQ8Tt2K1hRuTpX22X4fvj_g1DmGb-pOP0xCsQTaNNxRsHP8baZ_AyTHdbCreAG2PmOejSQZkIyel4aN8te5UdLdgpeHjtuFfcrh9K-98vRATd1JesMQF1XfCjCE=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUmFrcGpSSGhuYTBWRlkyVjNaRlZYUmtSa2NIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T15:43:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service by bibhu and food was really delicious 😋😋",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear জসিমুদ্দিন,\n\nWe're passing this along to Bibhu and his manager. Glad the food hit the mark, see you again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVlpFbFRhbUpRWDAxTGNrSXlNVWszVURObVVVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T15:42:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "Biryani is good and food was really test good service by Ravi and bibhu",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rabban,\n\nGlad the biryani hit the spot! We'll pass your kind words on to Ravi and Bibhu. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKT2VtVlRkemd5VkhaNGJuUkJZbDkwVmpWVmQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T13:25:00Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObVFVOUlTRXN0Um5FdFdEUmliVEJQY1d4UFYwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-05T10:47:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pathetic service. Manager kept us waiting for 10 minutes. The table was not clean. We had to personally ask the help to clean the table. Not expected in this restaurant.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear ajey,\n\nSorry the wait and the table not being ready on time weren't the experience we want, that's on us. We're sharing this directly with the team to tighten up table turnaround and cleanliness checks. Please ask for the manager on your next visit so we can make it right.\n\nPlease contact our customer care at +91 97418 88822 so we can discuss this further.\n\nWarm Regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKa05VaG5NVjlHTjJWeGJsODRjMVJNUVcxWU9YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-02T10:20:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food Wonderful service especially Ravi keep the good work👍❤️",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Joe,\n\nRavi's service clearly stood out. Thanks for the encouragement, come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxV1dVcDBVVVJUTXpsSlMwWkpUMjE2TlUxZmJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-02T09:30:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Biriyani taste excellent.\nChicken kabab taste excellent.goodvservive jaydeep and bibhu",
+      "text_original_language": "Biriyanitaste excellent.\nChicken kabab taste excellent.goodvservive jaydeep and bibhu",
+      "language": "ml",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Raghu,\n\nGlad the biryani and chicken kebab both hit the mark, and Jaydeep and Bibhu's service made it even better. Thanks for the review, come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzeWFHTXRhMFpzU0d4Q2RXTnFaR1UyTUVoNU5VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-02T09:29:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pepper chicken masala recipe was good service bibhu",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Raghu,\n\nGlad the pepper chicken masala worked well, and Bibhu's service is clearly making an impression today. Thanks for the review, come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeWIyNVNkbmhLTUZkSVNWQnRlRGhpT1VSWk9IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-08-31T16:21:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food  and good service Santosh",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Syeda,\n\nThank you! Glad the food and Santosh's service were both good. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSaVFqUnhWVWhSV25WSlVtRkxhV2xSY0hGaVkzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-29T16:26:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Have been an Empire fan from ages but the experience here with the food ended up very bad .The quality of food is totally opposite from the other Empire restaurants.\nThe billing part also became an issue as they cud not keep a proper track of our orders.\nIf you are a true OG fan of Empire..Be prepared to get disappointed if you end up here.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Sneha,\n\nWe're sorry this visit didn't match the standard you've come to expect from Empire, and that the billing wasn't handled properly either. We're sharing this directly with the team so they can look into both issues.\n\nPlease contact our customer care at +91 97418 88822 so we can discuss this further.\n\nWarm Regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxek16TndURGRJTmtwWlVqUkpabTAyY0RaMFdVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-29T16:21:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "We love empire food and having it from a very long time. Initially when we ordered kebab it had blood in chicken. Somehow all the dishes were not like eating in empire. If your OG lover for empire never visit again",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1
+      },
+      "owner_response": {
+        "text": "Dear Gs,\n\nWe're treating this with the seriousness it deserves. Finding blood in the chicken is not something we take lightly, and we're sharing this directly with the kitchen team to investigate right away. Please reach out to us directly with your order details so we can address this properly.\n\nPlease contact our customer care at +91 97418 88822 so we can discuss this further.\n\nWarm Regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVVpUYzJNRjlrZUhWdVdISmlaazloYUVKTWNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-29T14:53:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good taste",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear shreyank,\n\nThanks! Glad you found the taste good. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poR1ZGSm5jMHcwYzAxUVNIbG1hVTlUUW1sVFZIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 53,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-29T13:31:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was good and very good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Swap,\n\nThank you! Glad both the food and service worked out so well for you. Do visit us again.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJNFVrNUpOVTlpWTBwM2QybExWVEYxVUdJNU1WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-29T12:20:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Ghee rice and chicken kebab taste empire restaurant.  Is very good and good service  mr Santosh  excellent",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Venki,\n\nThanks! Glad the ghee rice and chicken kebab both delivered on taste, and that Santosh's service matched it. We're sharing this with him.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RU9IVnFVa1F5VFRKc2VHWTNkRk5aVWsxNVpWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-28T14:28:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Ghee rice and chicken kabab ka taste excellent in Empire restaurant.\nGood service joydip",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Chiragh,\n\nThank you! So glad the ghee rice and chicken kabab tasted excellent, and Joydip's service too. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWU1qSkhTR3AwUzJoYVMyOTBjM1ZqTUc4MGVuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-28T13:44:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Empire special Parotta with mutton curry was delicious 😋😋",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear MR,\n\nThank you! So glad the Empire special parotta with mutton curry was delicious. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRmJYcDFSa3BKYTFkb05qRTVjMUZYZVdGZmNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-28T09:50:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice service, very neat, Ravi was fantastic!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Kunal,\n\nThank you! So glad Ravi's service was fantastic, and everything felt neat. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSmJrc3piV2RhY0cwMVJraDFPWEI1UjFKVmNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-28T08:59:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was very nice and service by Mr Ravi was really nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Pradyumna,\n\nThank you! Glad the food was very nice, and Ravi's service too. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCblUyVlFha1V5V20wNVF6ZFpOSGRaT1dveVIxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T18:21:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good  food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Devarakonda,\n\nThank you! Glad you enjoyed the food. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVWNFMVpTVFpOT1ZaNk1VcDNRbVpYVGxGWVJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T15:24:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food service Ravi Kumar",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear SindhanAi,\n\nThank you! Glad Ravi Kumar's service and the food were good. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTVJFNVRYM1UwVHkxVFQxSnNhM0JtVmt4d2FIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T11:32:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chicken biriyani ka taste excellent in empire restaurant.\nGood service joydip",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sanjay,\n\nThank you! Glad the chicken biryani hit the mark, and Joydip's service too. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUk1FVmpXaTFDVDA0NU1WSlVUR054TW05a2VFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T11:31:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and Good service Santosh",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Arun,\n\nThank you! Glad the food was good, and Santosh's service too. See you again soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORExVVmxiRGQzVkZoVFpUSmFlRXh5YzJreFlrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T10:17:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Thatimakulapalli,\n\nThank you! Glad you had a good visit. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OS05sTnBNalJuWVdKbVJrcFlaa1o2ZUZSYVluYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T08:40:16Z",
+      "iso_date_of_last_edit": null,
+      "text": "Well maintained service by santhosh and higene & best place to visit with family…",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sandy,\n\nThank you! Glad Santhosh's service and the hygiene both stood out. Come back soon with the family!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205eGRuZFlNVE5GTjNwWU1YUjNTbEZuZEc4NFZrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T08:37:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service staff and well hygienic restaurant.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear loknath,\n\nThank you! Glad the service and hygiene both stood out. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214YWIzTjVXRnBuUkdacWRuQmtkRTV0VlhkelpHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T16:35:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ruchan,\n\nThank you! Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnNFRrVk9WR0ZaWW1oaFNqaERXRVpwU1ZrMGIxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T15:58:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice  service Ravi and",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear mohammed,\n\nThank you! Ravi's service clearly stood out. Do visit us again soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWGJUUTFOMTh0UjA1TVN6ZzBUamxUVUhwVE9WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 128,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T15:53:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food. Service by Mr. Ravi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear dheeraj,\n\nThank you! Glad the food was good and Ravi's service matched it. We're letting him know. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ORGJVeDZSR2N0YzFjNGQyRXlTRGRtYVVaS1ZGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T14:59:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice food service Ravi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Syed,\n\nThank you! Glad the food was nice and Ravi's service matched it. We're letting him know. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psWWQzaHpVRTg1Ym14b1dtNU9XR04zY2xsa1QwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T13:44:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "Jooydip was an incredible server! 🤩 Their service truly enhanced my dining experience. The food was so impressive and absolutely delicious. 🤤 I had a wonderful time and definitely recommend this spot! ✨",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Aniketh,\n\nThank you! So glad Jooydip's service enhanced your visit, and that the food impressed you too. We're letting him know. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aR2EzTXRiMjFUT0dsWlJHWnhSMU5HVG5oSllrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T10:32:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is really good and on time serving. Staff is well behaved.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Praveen,\n\nThank you! Glad the food was good and served on time, and that the staff's behaviour left a good impression. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdVIwUmpNVU5oTUZSNkxXZGlPVzQ1TmtNdFluYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T10:27:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tasty food good ambience best service ...good place for family lunch and dinner\nService by santosh",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Madeeha,\n\nThank you! Glad the food, ambience and Santosh's service all made it a great spot for your family meal. We're letting him know. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FdFlUbDZTV2haZVhsM09GZFhZVWgxZEVWa1dsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T09:54:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and very tasty empire is good food tq santosh",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Boya,\n\nThank you! Glad you found the food good and tasty, and that Santosh took care of you well. We're letting him know. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTGIybFVRMlpYVXpGU2IzVkRibFo1TFVnMmVuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-24T15:30:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service by ravikumar was good nice service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rajesh,\n\nRavikumar's good service clearly stood out, we're letting him and his manager know. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKeFoyMUlXV2RLT1ZaNVNWaE1ZMVJFZGxZMmEwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T17:06:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice service Ravi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Mohd,\n\nThanks! Ravi will be glad to see this. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcVYxTlBaM0ZoUWkxblJYbHllbGh2VkZkemEzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T13:39:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "chicken wings and biriyani rice taste excellent\ngood service joydip",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Seena,\n\nThanks! Joydip's service stood out, and so did the chicken wings and the biryani rice. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxT01rTmFTVzFZTTFZMFVqUjRSRlpwZWxWb1MzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T12:50:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food very good taste by Santhosh",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear 07,\n\nSanthosh will be pleased to see this, thank you! Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oM1RWZEZXbUZRTUVWemNWSlNVMnM1VWpsRFJtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T12:49:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food quality is very nice\nService is also best bibhu",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Manoj,\n\nThank you! Glad the food quality was nice, and bibhu's service the best. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSQk4xTlliRFV5ZDFneVJISnFUakpRUXpGemVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T11:25:50Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paemEwTk1iMlppVWpBNE16UTVOazVzWlRKRmQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T07:55:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Muttan varval and ghee rice good food and good service santosh  tq",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Saurabh,\n\nSantosh will be glad to see this, thank you! So glad the mutton varval and ghee rice both hit the mark. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkRlEzcEhUbmQ2TTI4eWFXMXRjWEl3WlVkcWFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T12:54:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place to stop for lunch while traveling the food was good and good service was excellent santosh service us and did an amazing job he was attentive friendly and made our experience even better highly recommend by santosh",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Charan.j,\n\nThank you Charan! Santosh made a real difference on your stop, so glad the food and his attentiveness both came through. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJd1kySlJjVFpqVTJORFpHUnFWVnBKYlY5NWVrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T12:50:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Biryani always best good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Abhireddy,\n\nThanks Abhireddy! Glad the biryani and service both came through consistently for you. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRlVIRjROemhsV0hjdFl6WmpWRWxaVldSVWFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 119,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T12:23:54Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food and service was very nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sandip,\n\nThank you Sandip! Glad both the food and service worked out well. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bFdWOVBUVko1UjJwRGJreG5TbFZYTjA5R1ltYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T10:45:23Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent service and taste. Service is very good. Mr Ravi Kumar Yadav's service is extremely good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Mohammed,\n\nThank you Mohammed! Ravi Kumar Yadav will be delighted to see this, glad the service and taste both stood out. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keFoxbDZlakozYTBwV1dVVnBja0pPZWpGUk5tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 57,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T10:12:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "It was a good experience. The food was good and the service too. Mr. Jaydeep was the one who attended us and he was professional, polite and well mannered person.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Prakruthi,\n\nThank you Prakruthi! Jaydeep will be glad to see this, so glad the food and service both came together well. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQ2NtaHVNbEZ3Vm5wUlNXdHZNMmw0VDJaaVQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T08:30:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and good service santosh",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Akshaya,\n\nThanks! We'll let Santosh know his service was appreciated.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkblNFTkxXRWhUUVd0ZmNGTXhORUZ0ZGtsUlZIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T08:30:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Super 💯",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ammu,\n\nThank you! Really glad it was that good. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGd1lUSndURU5vWjJSeVpqWXhUalJVVkhkeGVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T16:52:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice service Ravi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Pradhyun,\n\nThank you! Ravi's service continues to stand out. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OaE5HNXVWa2huVEdoaVRGcGlaRmgxUzJreU4zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T15:45:16Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice service ravi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Jakir,\n\nThank you! Ravi's service stood out. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ab01XNUthazFSYW01bFJHMVZMVWxJV0RoaFVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T15:19:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbk1FMUJhSGhNV0ZOdFJXZG5VV2xHYkhJMFdrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T14:48:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was delicious service is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Md,\n\nThank you! Glad the food and service both stood out. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRlp6UmtZV1V5VjBWZmJrMXFOV2RNT1VWNmVuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T14:47:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good test",
+      "text_original_language": "Biriyani good test",
+      "language": "bn",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Virendra,\n\nSo glad the biryani hit the mark! Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNFFtVmxTbGxXVEhaNGRFWXpOa1pqTnpVM1QxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T09:30:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Butter chicken and ghee rice is nice.\nRavi and jaitheep service very good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Krishna,\n\nSo glad the butter chicken and ghee rice both hit the mark! We're letting Ravi and Jaitheep know their service stood out too. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaFgzY3pValJCYVdaak5WcG5TR3hHVW1keVJFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-20T16:28:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and good taste",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear SHAIK,\n\nThank you! Come back and visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNVdFNDFlSGhSTmtSc1ZVOWpTSEZ5V1hOdlFVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-20T08:44:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was amazing!!! Both veg and non veg options are great and amazing desserts! Mr Santosh was really humble and efficient in his work. Enjoyed our time here!!!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Aryan,\n\nGlad both the veg and non-veg spread, along with the desserts, all worked out well, and thanks for the shoutout for Santosh, we're letting him know. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUFdHMUdhMUUzZFdkYWVGSklXalZJZG1oblYwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T08:07:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place to stop for lunch while traveling the food was good, and the service was excellent Santosh service us and did an amazing job he was attentive friendly and made our experience even better highly recommended TQ Santosh TQ empire",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear venkatesh,\n\nWe're letting Santosh know how much his attentive, friendly service added to your stop, thank you. Glad the food worked out well too, hope to see you again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUk1UVlBaSGxZU0VKRk5ITjJTaTF2ZGpCNlMyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 63,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T06:51:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food, Santosh thanks",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear ynvtharun007,\n\nThanks for the shoutout for Santosh, we'll make sure he sees this. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WFJWbGFlakZJTlc1SFNrc3hOVjgxTFZZNU9FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-18T15:52:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice service Mir ravi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Naveen,\n\nThanks for the shoutout for Mir Ravi, we'll make sure he sees this. Do visit us again soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNM2VXbDVTbXRwZDFWQlkzbFpVa2hhVFVwYU5VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-18T15:47:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Biriyan and fish good food and good service Santosh tq tasty food tq empire",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Srinivas,\n\nGlad the biryani and fish both hit the mark, and that Santosh's service matched it. We're letting him know about this shoutout, thank you so much.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKbVRtUTNTM05EUVZBMWNETjNURE5DWmxoUWIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 159,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-17T10:14:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Overall great experience. Ravi offered great service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Thasleem,\n\nGlad you had a great overall experience. Ravi will be pleased to know his service stood out, thank you!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOclJWQnFaRUl3YkVkQ1dHMW9UemMzTURCNGMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-17T09:01:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "I had an absolutely wonderful experience here! The food was delicious 😋, and the atmosphere was so pleasant and inviting. ✨ Jaideep provided exceptional service, making our visit even more enjoyable. Highly recommend! 💯😊",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear ranjith,\n\nThank you for such a wonderful review! Glad the food and the pleasant atmosphere both delivered, and that Jaideep's exceptional service made the visit even more enjoyable. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNlZFY3liSEk0UWxsVmVqSk1hbmMwYmtoM1EwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-16T16:16:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place to stop for lunch while traveling.the was good.and the service was excellent santosh service us and did an amazing job he was attentive , friendly and  good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Shaiksha,\n\nGlad we were a good lunch stop on your travels, and that Santosh's attentive, friendly service made it even better. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSc1YzQklTMFZKT1hKbVpVWjJTakJIYjI5eWQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-16T15:46:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "I ordered chicken biriyani and chicken biriyani .\nChicken biriyani and chicken kabab ka taste excellent\nGood service joydip",
+      "text_original_language": null,
+      "language": "ny",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Arup,\n\nGlad the chicken biryani and chicken kabab both tasted excellent, and Joydip's service too. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwRWJuQnVUWFZTZFdVM1JIRmpRV1ZOTjNJdFpYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-16T14:34:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "The restaurant was well kept and clean. The service was quick and really good . Santosh was providing proper service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Aaron,\n\nGlad the place felt clean and well kept, and that Santosh's quick service matched it. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWa1oxSTFaSFZLYUZSa2FVUlBXRkZWTkZoTVZHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-16T14:30:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Biriyani is the best good service bibhu",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Bharath,\n\nGlad the biryani lived up to being the best, and Bibhu's service too. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsc1NVRlJPVFExZW0weGJUZHBSMUY0ZEY5aVduYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-16T07:18:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service Ravi nice food Empire",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Neelufar,\n\nGlad Ravi's service and the food both stood out. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdlpXYzBPVEZ1T1dzMGRrdFFlblEyVVVwNU9VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-15T12:19:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "if you want your order on time make sure you order on the way to the restraunt",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Pranav,\n\nThank you for the heads up on timing. We're sharing this with the team so orders are ready closer to when they're placed. Please let our staff know if this happens again so we can fix it on the spot.\n\nPlease contact our customer care at +91 97418 88822 so we can discuss this further.\n\nWarm Regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xweVEycGhaVlEwTkZGTGRIZExVV3B0T0c1VVJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-14T10:49:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place to stop for lunch while traveling. The food was good, and the service was excellent. Santhosh served us and did an amazing job—he was attentive, friendly, and made our experience even better. Highly recommended!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear PRUTHVI,\n\nThank you for such a detailed review! Glad we could be a good lunch stop on your travels, and Santhosh's attentive service made it even better. Come back soon.\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVVMzaHVXVzQ1Y0dWelNEQlhiM3A1Y0V0WmNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-12T17:42:56Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Dear Vivek,\n\nGlad you enjoyed it - come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeU1rRnJUVnBhZG1WWFozTnZNMEZtTUhoSWJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-12T14:52:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Joydip & bibhu Nice sarvice and wandar full food and one's waist",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Prajwal,\n\nJoydip and Bibhu will be glad to hear this, and glad the food impressed too. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQ1JuTjRObGxtZEdJNWIzRTNUME53ZVRkU1duYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-12T10:17:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is delicious and the service of santosh is good food and tq empire",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Vamshi,\n\nSantosh will be glad to hear this, and glad the food was delicious too. Come back soon!\n\nWarm regards,\nTeam Empire",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "search_metadata": {
+    "id": "6ae44cc1ee072eb0b41500ee",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hseWkKQgnHxsqM6HO0JE9CoMIIl9x0gzMPkhh5J22aQ/6ae44cc1ee072eb0b41500ee.json",
+    "markdown_endpoint": "https://serpapi.com/searches/hseWkKQgnHxsqM6HO0JE9CoMIIl9x0gzMPkhh5J22aQ/6ae44cc1ee072eb0b41500ee.md",
+    "created_at": "2026-10-30 07:52:33 UTC",
+    "processed_at": "2026-10-30 07:52:33 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19542b663c05:0x88b58d30d2de9f91!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/hseWkKQgnHxsqM6HO0JE9CoMIIl9x0gzMPkhh5J22aQ/6ae44cc1ee072eb0b41500ee.html",
+    "prettify_html_file": "https://serpapi.com/searches/hseWkKQgnHxsqM6HO0JE9CoMIIl9x0gzMPkhh5J22aQ/6ae44cc1ee072eb0b41500ee.prettify",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19542b663c05:0x88b58d30d2de9f91",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Food Planks",
+    "address": "60, Allalasandra Main Rd, Ambedkar Colony, Yelahanka New Town, Bengaluru, Karnataka 560065, India",
+    "rating": 4.4,
+    "reviews": 2295,
+    "type": "Eclectic restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "kids play area",
+      "mentions": 24,
+      "id": "QAhIDbDOvN0"
+    },
+    {
+      "keyword": "tandoori chicken",
+      "mentions": 15,
+      "id": "MSvGdWobLVc"
+    },
+    {
+      "keyword": "outdoor seating",
+      "mentions": 5,
+      "id": "AEmHqxr-_tg"
+    },
+    {
+      "keyword": "huts",
+      "mentions": 18,
+      "id": "hxzbrjd3aUY"
+    },
+    {
+      "keyword": "mutton biryani",
+      "mentions": 8,
+      "id": "MT0hXK5zIxk"
+    },
+    {
+      "keyword": "dal makhani",
+      "mentions": 5,
+      "id": "bgyYnxKxcyY"
+    },
+    {
+      "keyword": "palak paneer",
+      "mentions": 4,
+      "id": "KgkZ5dj3eIY"
+    },
+    {
+      "keyword": "chicken ghee roast",
+      "mentions": 3,
+      "id": "BRwxFU-5L0c"
+    },
+    {
+      "keyword": "mutton curry",
+      "mentions": 3,
+      "id": "576d36Z0I9o"
+    },
+    {
+      "keyword": "ghee rice",
+      "mentions": 3,
+      "id": "LoYhHTMpb_M"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xRMFFXNWthRGhmZDNGM2R6VkpYMVYwYm05V1pWRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOlQ0QW5kaDhfd3F3dzVJX1V0bm9WZVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "19 hours ago",
+      "iso_date": "2026-10-29T12:44:49Z",
+      "iso_date_of_last_edit": "2026-10-29T12:44:49Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMFFXNWthRGhmZDNGM2R6VkpYMVYwYm05V1pWRRAB",
+      "user": {
+        "name": "Anika Chatterjee",
+        "link": "https://www.google.com/maps/contrib/101904687227952054008?hl=en",
+        "contributor_id": "101904687227952054008",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUjlK-oOk7Xrizws-MPdrW01PGLODxAvk4G4PAfczVfZ7g2sww=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tJd2EwRm5aVnB1UTNKbk5ISnRUQzAwVkhwbU0xRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOkIwa0FnZVpuQ3JnNHJtTC00VHpmM1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T16:52:45Z",
+      "iso_date_of_last_edit": "2026-10-28T16:52:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJd2EwRm5aVnB1UTNKbk5ISnRUQzAwVkhwbU0xRRAB",
+      "user": {
+        "name": "Ganesh",
+        "link": "https://www.google.com/maps/contrib/110905063725733827012?hl=en",
+        "contributor_id": "110905063725733827012",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXEqbyHuFYLHQUeVw02V_OYMMGSsjteiCzsJ453q1JUuv4S0y4=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210SGQwOW9YMFpVTlRGaFJFVTBXV1Z0Y1Rkc1ZWRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOmtHd09oX0ZUNTFhREU0WWVtcTdsVVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:41:58Z",
+      "iso_date_of_last_edit": "2026-10-25T16:41:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210SGQwOW9YMFpVTlRGaFJFVTBXV1Z0Y1Rkc1ZWRRAB",
+      "user": {
+        "name": "Geethu barbie",
+        "link": "https://www.google.com/maps/contrib/110731504328650414793?hl=en",
+        "contributor_id": "110731504328650414793",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLd1vCbbsNQvAEOvosfTaIXCT4kJOVHgnBptiotkY1MbOHhiA=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "4 days ago",
+        "iso_date": "2026-10-26T05:55:57Z",
+        "iso_date_of_last_edit": "2026-10-26T05:55:57Z",
+        "snippet": "Thank you for your 5-star rating, Geethu! ⭐😊 We truly appreciate your support and are happy to know you chose Food Planks. We look forward to welcoming you again soon for more delicious food and a wonderful dining experience! 🙏",
+        "extracted_snippet": {
+          "original": "Thank you for your 5-star rating, Geethu! ⭐😊 We truly appreciate your support and are happy to know you chose Food Planks. We look forward to welcoming you again soon for more delicious food and a wonderful dining experience! 🙏"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OVllsb3dabVpVVTFoeWJVVkVVQzFMY1hsSFdsRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOmNVYlowZmZUU1hybUVEUC1LcXlHWlE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T15:08:52Z",
+      "iso_date_of_last_edit": "2026-10-25T15:08:52Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVllsb3dabVpVVTFoeWJVVkVVQzFMY1hsSFdsRRAB",
+      "user": {
+        "name": "Sushmitha Jayaraman",
+        "link": "https://www.google.com/maps/contrib/110683933901766672797?hl=en",
+        "contributor_id": "110683933901766672797",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIlviLr7tj1WWb5jF0zLgIeKEXpNkwWgrJ6va5UbM8ya_zgIg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 32,
+        "photos": 0
+      },
+      "snippet": "Worst food. Without drinking or smoking this place is not worth the price. I went with my kid even nachos was bad. Burger was worst and all we end up having is fresh juice",
+      "extracted_snippet": {
+        "original": "Worst food. Without drinking or smoking this place is not worth the price. I went with my kid even nachos was bad. Burger was worst and all we end up having is fresh juice"
+      },
+      "details": {
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GMWVYaGZZVk5hY2tWWk4ySkJja3hyVTBJMWVWRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOnF1eXhfYVNackVZN2JBckxrU0I1eVE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T13:34:24Z",
+      "iso_date_of_last_edit": "2026-10-25T13:34:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMWVYaGZZVk5hY2tWWk4ySkJja3hyVTBJMWVWRRAB",
+      "user": {
+        "name": "Sathish Rate",
+        "link": "https://www.google.com/maps/contrib/115671464437315901885?hl=en",
+        "contributor_id": "115671464437315901885",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVp9H-RlqaNYXZeJnIdjXB8p32_Up1SAkiHz77sQifJ2z4V1S8R=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 15,
+        "photos": 2
+      },
+      "snippet": "Good food but for family dining is not ideal place.",
+      "extracted_snippet": {
+        "original": "Good food but for family dining is not ideal place."
+      },
+      "likes": 0,
+      "response": {
+        "date": "4 days ago",
+        "iso_date": "2026-10-26T05:56:37Z",
+        "iso_date_of_last_edit": "2026-10-26T05:56:37Z",
+        "snippet": "Thank you for sharing your feedback, Sathish! We’re glad you enjoyed the food at Food Planks. We appreciate your suggestion regarding family dining and understand how important a comfortable setting is for families. Your feedback helps us improve, and we’ll keep it in mind as we work to enhance our guests’ experience. We hope to welcome you again soon! 😊",
+        "extracted_snippet": {
+          "original": "Thank you for sharing your feedback, Sathish! We’re glad you enjoyed the food at Food Planks. We appreciate your suggestion regarding family dining and understand how important a comfortable setting is for families. Your feedback helps us improve, and we’ll keep it in mind as we work to enhance our guests’ experience. We hope to welcome you again soon! 😊"
+        }
+      }
+    }
+  ]
+}

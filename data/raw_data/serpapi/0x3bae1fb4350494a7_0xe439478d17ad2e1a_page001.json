@@ -1,0 +1,237 @@
+{
+  "search_metadata": {
+    "id": "6ae44cfb1f56fa4201adeaca",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2JwGRaKUAyGF3clBrLaIN0LNniwiJLiTps_tYAjOOFU/6ae44cfb1f56fa4201adeaca.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2JwGRaKUAyGF3clBrLaIN0LNniwiJLiTps_tYAjOOFU/6ae44cfb1f56fa4201adeaca.md",
+    "created_at": "2026-10-30 07:53:31 UTC",
+    "processed_at": "2026-10-30 07:53:31 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1fb4350494a7:0xe439478d17ad2e1a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/2JwGRaKUAyGF3clBrLaIN0LNniwiJLiTps_tYAjOOFU/6ae44cfb1f56fa4201adeaca.html",
+    "prettify_html_file": "https://serpapi.com/searches/2JwGRaKUAyGF3clBrLaIN0LNniwiJLiTps_tYAjOOFU/6ae44cfb1f56fa4201adeaca.prettify",
+    "total_time_taken": 1.23
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Acre Bengaluru | Bar & Kitchen |",
+    "address": "International Airport Road, 63, next to Itc Factory, Meenakunte Hosur, Bengaluru, Karnataka 562157, India",
+    "rating": 4.1,
+    "reviews": 9875,
+    "type": "Restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "polite staff",
+      "mentions": 120,
+      "id": "B30PdHtYgDQ"
+    },
+    {
+      "keyword": "proximity to airport",
+      "mentions": 51,
+      "id": "BccHhhtaqlA"
+    },
+    {
+      "keyword": "live music",
+      "mentions": 18,
+      "id": "bdOKu_b9hgo"
+    },
+    {
+      "keyword": "spaciousness",
+      "mentions": 59,
+      "id": "Amvpgpv2zEw"
+    },
+    {
+      "keyword": "ambience",
+      "mentions": 947,
+      "id": "JGvrBjVCxMw"
+    },
+    {
+      "keyword": "outdoor seating",
+      "mentions": 10,
+      "id": "AEmHqxr-_tg"
+    },
+    {
+      "keyword": "hangout spot",
+      "mentions": 98,
+      "id": "H8gLNJZW-tU"
+    },
+    {
+      "keyword": "mocktails",
+      "mentions": 20,
+      "id": "JX7Ik_i1cMQ"
+    },
+    {
+      "keyword": "outdoor activities",
+      "mentions": 5,
+      "id": "SdCr0rXk3No"
+    },
+    {
+      "keyword": "biryani",
+      "mentions": 17,
+      "id": "Ig9qVSlrRys"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsTmNtWkpXVzFTZDNCUlUwMUNiRnAzVUVFM05IYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOllNcmZJWW1Sd3BRU01CbFp3UEE3NHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "39 minutes ago",
+      "iso_date": "2026-10-30T07:14:17Z",
+      "iso_date_of_last_edit": "2026-10-30T07:14:17Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfBkpWyTfToGGalpvAC72mz_OSLzrSTqk2gVSAHDcrMfFXSV21KJ4D7fANTWs3-6LmPtdsBlxishi15VQj_-KY7eBE_K8LChQSIR7AyEuQnxD8-HxfUAHNQoD-BC5hONgUUK9HYydF59wYt=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcjJJ5vm-gkj-MZ0wdqbbMgHuoejWfeLbRrKgndxdLWyOy2tjtlZi1GCfYvbhTEhAEg9N-Ab7GFVoIYjd9_EFDTERyLHasntJwPlNnSXPRWKe08nWs70m_ymq-ysM9_9i5rkGq9oekot7qC=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfVTAwDkQQK6RAfH-8H6FTj5-vvHreG8P-KfIeFuWxwjE_DN4Ap2ji97_3jJa0gJ_mgQxr4ZVynF0U0_3eB1A4SejK65hzB6v66p7Rkg7SFvt_LqWeNKlzeJ9biREK5YerOlq-ebT_P86hr=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf4ZepLUOqQki4AXu0No4mp6L_mannyq0pgeh3l-kmjH0LbR-PxXzdvJARTFKm1ZlzCYlpKGMaVEVWYp7VzJyUIp56yFXPcM8HxghDRQsB6A4w-ljyO3lBw9wT-kxZ4qlVwoZcOq0W3974s=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc0BSiTjCQQ54jsO9VUuz7rmKdUyzBYf_wU8yXlzafNiXCZaTtRxz6Bca1A6W6tseB8WUKhOgLRdLtSlFEUYtDKrD_r4MP4-2UUpB2zImKcjTfzx4fVPy4iUuYuRXaztuaFcAjgOEl_wT39=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcKPF4kXL06bzZgXWvdBPkkC1DAdWiu3TZYO89yfoLto1pdZLbDp1hIO_UNvVvFoTXy_hdTFEj8DfABMiZ0R0bpMqeWH_yAwBhw6cjsklXMj4sus96rSvzw-6ewYdRcGtvWdHihZkjkvCs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfuot42UCjoO4IsvWnViltCHodk7MoiO-lvk_65XkRfngLJgV--oNCK8Kltm-78XOAOUWl8WfLpmhvqIfbaeNWO2Dn8Qxcs5-byG3rHmzhpxj6w05KI6zJ2Vh5-9A1cqlmh3j2MA8DW2XrH=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcM-pDt6GHGEnD8D0OVXLW1SaqELLN_2PYsTrShJBqBJpXDPtFkoKmMIOkcnlWPFo2-xAyJkT1smGQPxTStH9pZUFTuXn-GcFSo8oa3cqC5sOsOku4R8b9dRUV1yvvh8ZhLJkXwoqOA270=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdjzmL8Gsxx3cxmkR8CGsKQ4IfcfQfuQ_019PmT9zTOhtJ6eiBl3-D7vcAR3OaNHVrdAxKz0-8FQHpTYlRQPIFzhlz0uSC2lVDiL0CTPJ3IOp6fUalH8KdjxMAkNRDHYT__I4XnQpTSvl8=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTmNtWkpXVzFTZDNCUlUwMUNiRnAzVUVFM05IYxAB",
+      "user": {
+        "name": "Jamie Fu",
+        "link": "https://www.google.com/maps/contrib/108184233523347069802?hl=en",
+        "contributor_id": "108184233523347069802",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ1di3oVugu7ZLPDo_4H3O4pZqpRSLSGOrh9dko1ykr6VTZwA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 48,
+        "photos": 305
+      },
+      "snippet": "離公司大概 40分鐘的一間 Bar\n強力推薦木火 Pizza裡的義式辣香腸，薄皮上鋪滿濃厚起司，內涵胡椒，熱騰騰下口又辣又燙，很特別\nWisky sour 也不錯",
+      "extracted_snippet": {
+        "original": "離公司大概 40分鐘的一間 Bar\n強力推薦木火 Pizza裡的義式辣香腸，薄皮上鋪滿濃厚起司，內涵胡椒，熱騰騰下口又辣又燙，很特別\nWisky sour 也不錯",
+        "translated": "A bar about 40 minutes from the office. I highly recommend the Italian spicy sausage at the Wood-Fired Pizza. The thin crust is topped with thick cheese and pepper; it's piping hot, spicy, and very unique.\n\nThe Wisky sour is also good."
+      },
+      "details": {
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "5-8 people, Suitable for all group sizes",
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twM1oyZzVUSE5pY1VSVExTMUdVMG96VXpkMk1VRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOkp3Z2g5THNicURTLS1GU0ozUzd2MUE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "6 hours ago",
+      "iso_date": "2026-10-30T01:35:52Z",
+      "iso_date_of_last_edit": "2026-10-30T01:35:52Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twM1oyZzVUSE5pY1VSVExTMUdVMG96VXpkMk1VRRAB",
+      "user": {
+        "name": "Munshi Raj",
+        "link": "https://www.google.com/maps/contrib/108117094847908363800?hl=en",
+        "contributor_id": "108117094847908363800",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVqsjwwDO69GmqPRePjgOsKVn3EwGpvfiMcDAP4yIatE8rK4ZAY=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 7
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxaVVIbGpPREIzUzA5WGNuQkdNM0ZSZW1GWVIxRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOi1iUHljODB3S09XcnBGM3FRemFYR1E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T16:56:56Z",
+      "iso_date_of_last_edit": "2026-10-24T16:56:56Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaVVIbGpPREIzUzA5WGNuQkdNM0ZSZW1GWVIxRRAB",
+      "user": {
+        "name": "Azad Vali",
+        "link": "https://www.google.com/maps/contrib/116424139542952801054?hl=en",
+        "contributor_id": "116424139542952801054",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUTa-v7TxN4AYoJryD0MFZBFVK0WS5EsViL1XtH1tYXbZUYqiQ=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 2
+      },
+      "snippet": "Nice place i had great time.",
+      "extracted_snippet": {
+        "original": "Nice place i had great time."
+      },
+      "details": {
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSM2FqaGZXRVptTlVsSVVGZENWbEYxWkROdGRHYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOlR3ajhfWEZmNUlIUFdCVlF1ZDNtdGc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T14:16:50Z",
+      "iso_date_of_last_edit": "2026-10-24T14:16:50Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSM2FqaGZXRVptTlVsSVVGZENWbEYxWkROdGRHYxAB",
+      "user": {
+        "name": "Rasna Rajesh",
+        "link": "https://www.google.com/maps/contrib/116487690601132407503?hl=en",
+        "contributor_id": "116487690601132407503",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWd0OfOM-teM-gOyoeZjk6yDbXrxMbKU-EV0Q9SOJk0Ma05mPg=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Ambience is good but food is terrible and if you re looking for a quality time with family or friends i will never suggest it.",
+      "extracted_snippet": {
+        "original": "Ambience is good but food is terrible and if you re looking for a quality time with family or friends i will never suggest it."
+      },
+      "details": {
+        "price_per_person": "₹1,000–1,200",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "noise_level": "Loud, but you can still talk",
+        "group_size": "Not sure",
+        "wait_time": "10-30 min",
+        "recommendation_for_vegetarians": "Not sure",
+        "vegetarian_offerings": "Large vegetarian selection, Not sure"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SNVkyRm1WVEJXTkd0WU9YWnZPR3MzV2pCb1lXYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOmR5Y2FmVTBWNGtYOXZvOGs3WjBoYWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T14:15:29Z",
+      "iso_date_of_last_edit": "2026-10-24T14:15:29Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNVkyRm1WVEJXTkd0WU9YWnZPR3MzV2pCb1lXYxAB",
+      "user": {
+        "name": "Nandana Raju",
+        "link": "https://www.google.com/maps/contrib/111646872155957335900?hl=en",
+        "contributor_id": "111646872155957335900",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK21glsPECpinl2va-nJkIDxCjtqR1kp1PcS1z2c8n3ZCRSv5k=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Very bad experience food is not worth for the price and service very poor",
+      "extracted_snippet": {
+        "original": "Very bad experience food is not worth for the price and service very poor"
+      },
+      "details": {
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "wait_time": "30-60 min"
+      },
+      "likes": 0
+    }
+  ]
+}

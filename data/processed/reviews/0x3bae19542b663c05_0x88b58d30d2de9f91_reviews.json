@@ -1,0 +1,3478 @@
+{
+  "restaurant": "Food Planks",
+  "data_id": "0x3bae19542b663c05:0x88b58d30d2de9f91",
+  "google_review_count": "2293",
+  "reviews_total": 104,
+  "reviews_with_text": 63,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 4,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMFFXNWthRGhmZDNGM2R6VkpYMVYwYm05V1pWRRAB",
+      "author": "Anika Chatterjee",
+      "author_url": "https://www.google.com/maps/contrib/101904687227952054008?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "19 hours ago",
+      "iso_date": "2026-10-29T12:44:49Z",
+      "iso_date_of_last_edit": "2026-10-29T12:44:49Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xRMFFXNWthRGhmZDNGM2R6VkpYMVYwYm05V1pWRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOlQ0QW5kaDhfd3F3dzVJX1V0bm9WZVE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJd2EwRm5aVnB1UTNKbk5ISnRUQzAwVkhwbU0xRRAB",
+      "author": "Ganesh",
+      "author_url": "https://www.google.com/maps/contrib/110905063725733827012?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T16:52:45Z",
+      "iso_date_of_last_edit": "2026-10-28T16:52:45Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tJd2EwRm5aVnB1UTNKbk5ISnRUQzAwVkhwbU0xRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOkIwa0FnZVpuQ3JnNHJtTC00VHpmM1E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210SGQwOW9YMFpVTlRGaFJFVTBXV1Z0Y1Rkc1ZWRRAB",
+      "author": "Geethu barbie",
+      "author_url": "https://www.google.com/maps/contrib/110731504328650414793?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:41:58Z",
+      "iso_date_of_last_edit": "2026-10-25T16:41:58Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your 5-star rating, Geethu! ⭐😊 We truly appreciate your support and are happy to know you chose Food Planks. We look forward to welcoming you again soon for more delicious food and a wonderful dining experience! 🙏",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210SGQwOW9YMFpVTlRGaFJFVTBXV1Z0Y1Rkc1ZWRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOmtHd09oX0ZUNTFhREU0WWVtcTdsVVE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVllsb3dabVpVVTFoeWJVVkVVQzFMY1hsSFdsRRAB",
+      "author": "Sushmitha Jayaraman",
+      "author_url": "https://www.google.com/maps/contrib/110683933901766672797?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 32,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T15:08:52Z",
+      "iso_date_of_last_edit": "2026-10-25T15:08:52Z",
+      "text": "Worst food. Without drinking or smoking this place is not worth the price. I went with my kid even nachos was bad. Burger was worst and all we end up having is fresh juice",
+      "text_original_language": "Worst food. Without drinking or smoking this place is not worth the price. I went with my kid even nachos was bad. Burger was worst and all we end up having is fresh juice",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OVllsb3dabVpVVTFoeWJVVkVVQzFMY1hsSFdsRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOmNVYlowZmZUU1hybUVEUC1LcXlHWlE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMWVYaGZZVk5hY2tWWk4ySkJja3hyVTBJMWVWRRAB",
+      "author": "Sathish Rate",
+      "author_url": "https://www.google.com/maps/contrib/115671464437315901885?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": 2,
+      "rating": 4.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T13:34:24Z",
+      "iso_date_of_last_edit": "2026-10-25T13:34:24Z",
+      "text": "Good food but for family dining is not ideal place.",
+      "text_original_language": "Good food but for family dining is not ideal place.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for sharing your feedback, Sathish! We’re glad you enjoyed the food at Food Planks. We appreciate your suggestion regarding family dining and understand how important a comfortable setting is for families. Your feedback helps us improve, and we’ll keep it in mind as we work to enhance our guests’ experience. We hope to welcome you again soon! 😊",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GMWVYaGZZVk5hY2tWWk4ySkJja3hyVTBJMWVWRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOnF1eXhfYVNackVZN2JBckxrU0I1eVE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4MFFsQm1PVkkyVjI5MlZGUlBNVWhUWkZKS01XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T11:46:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Babal service was very nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Savitha! 😊 We’re delighted to hear that Babal provided you with excellent service. We’ll be sure to share your kind words with him. Your appreciation means a lot to our team at Food Planks. We look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWaFFXVkhiVmRTV1Y5SmNDMVViR1JSV1ZkaFQzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T05:09:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for visiting Food Planks, Naveen! 😊 We truly appreciate you taking the time to share your feedback. We’re glad you had a good experience with us and hope to welcome you back soon for another delightful dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NWRteHNjMUl3YlRGTExWaGlOVTFWTVZCRlUzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T21:05:13Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your 5-star rating, Kalpit! 😊 We truly appreciate your support and are delighted you chose Food Planks. We look forward to welcoming you back soon for more delicious food and a wonderful dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0NE5VeEJia2N6VUhGbU5DMUNOR2xDWXpSRlYyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T11:43:15Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Lakshmi, for visiting Food Planks and sharing your wonderful 5-star rating! We're delighted to know you had a great lunch experience. Your support means a lot to us, and we look forward to welcoming you back soon for another enjoyable dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQmNGRmFlRTlzZVRaSFNYSTVOMk15V1Vsbk9WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T10:29:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good  worth for friend and family",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Shriya, for your wonderful 5-star review! We're delighted to know that you enjoyed your experience at Food Planks and consider us a great place to visit with friends and family. Your kind words mean a lot to us. We look forward to welcoming you all again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWE9VRk5MVXB0UzB4NFZsaFFSa3N6YlZrNFdYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 241,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T08:39:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place to hangout.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you, Hemadri, for sharing your valuable feedback! We're glad you enjoyed the atmosphere at Food Planks and had a pleasant time with us. We're happy to know you recommend our Tandoori Chicken. We appreciate your support and look forward to welcoming you back for another wonderful dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SMVRtbE5SR05LTW1jMWJXRlhabWxwTTE5RlkxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T13:21:06Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you, Srinivas, for taking the time to share your feedback and rate Food Planks 4 stars! We truly appreciate your support. Your feedback helps us improve our food and service, and we look forward to welcoming you back soon for an even better dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSFJXcFBkM2s0T0RCaU9VWkRUWFZzVG1NMVNYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T06:23:09Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Sumanth, for your wonderful 5-star rating! We're delighted to know you had a great experience with our service at Food Planks. Your support and appreciation mean a lot to our team. We look forward to welcoming you back soon for another memorable dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWFNYaHViM05PUzBaTVEwRlBSekZrTlhadFJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T09:25:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great Ambience , Tasty food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Manab, for your wonderful 5-star review! We're delighted to hear that you enjoyed the tasty food and great ambience at Food Planks. Your appreciation means a lot to our team. We look forward to welcoming you back soon for another delightful dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNWNIcHVPRWxTUVZVNU5WTlFaMWgwV0dOalMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T09:17:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food and staff was most good quality and good service\nBabli was the most interesting person",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Nitisha, for your wonderful 5-star review! We're delighted to hear that you enjoyed the quality of our food and service. We're especially happy that Babli made your experience memorable. Your kind words mean a lot to our team, and we look forward to welcoming you back to Food Planks soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGSlNFRktaVEkxZEZKbmJVOWxjbDgwVEV4T09VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T13:16:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "U should try both veg and non veg food the food taste is so good and amazing service bubbly is so kind",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Tejaswini, for your wonderful 5-star review! ❤️ We're delighted to hear that you enjoyed both our vegetarian and non-vegetarian dishes. Your kind words about our food, service, and bubbly staff member mean a lot to us. We look forward to welcoming you back to Food Planks for another amazing dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ob2NISklYelJHV0VKalpYQjVXSFJoVjFBNU1VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T17:38:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Love the food and ambiance ❤️ Thank u babli🥰",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Savita, for your lovely 5-star review! ❤️ We're delighted to know that you loved our food and ambience. Your appreciation means a lot to us, and we're happy that Babli made your experience even more special. 🥰 We look forward to welcoming you back to Food Planks soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMVNHVkVNelZoVW1GdU4xOU9jVEpIWVRkb04wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T15:50:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Dhriti, for your wonderful 5-star rating! ❤️ We're delighted to know that you had a great experience with our food, service, and ambience. Your support means a lot to our team at Food Planks. We look forward to welcoming you back soon for another memorable dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVlVUWllTVU14WWpOTGQyc3hiMDVrWnpjdFRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T15:41:09Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Shruthi, for your wonderful 5-star rating! ❤️ We're delighted that you enjoyed your visit to Food Planks. Your appreciation for our food, service, and ambience means a lot to our entire team. We look forward to welcoming you back soon for another delightful dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSU01tTlFNVlY2YURRMU9FTTBYMDVKYkc5UFNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T15:02:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice tasty",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Harsha Vardhan, for your wonderful 5-star review! ❤️ We're happy to hear that you enjoyed the tasty food at Food Planks. Your appreciation means a lot to our entire team. We look forward to welcoming you back soon for another delicious dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnMlJsaDFOVWd6VTBoSk9XUlNhM0EyZGkwMk1sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T13:06:59Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Devakumar, for your 5-star rating! We're delighted that you had an excellent experience with our food, service, and atmosphere. Your support means a lot to our team at Food Planks. We look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQk1YQlZSbXh3ZEhVdGRqaHpOako2V0UxRExVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 31,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-18T12:39:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and ambience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you, Ashish, for sharing your kind feedback with us. We're delighted that you enjoyed both the food and the ambience during your visit. We truly appreciate your support and look forward to welcoming you back for another relaxing and memorable dining experience. 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaWVGbE5Sa0Z1WVZka2RITXRla1V0V2tneFJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T08:12:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very great experience in thos resraurant, welcoming staff especially Mondal, good food and great ambience, please visit",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Karma, for your wonderful 5-star review! We're delighted that you enjoyed the food, ambience, and warm hospitality at Food Planks. We'll be sure to share your kind words with Mondal. We truly appreciate your recommendation and look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KM2IySlZTVEJYVDNScGREVmpOMmRQUWxWQmNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-16T13:38:42Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Asha, for your 5-star review! We're delighted that you enjoyed your dining experience at Food Planks. It's great to know you appreciated our food and vegetarian options. We look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeVFVOHpWVU51TTJSQmJWaGtTM3A0WTIxNVUxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T15:28:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good taste with good ambience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Parinitha, for your 5-star review! We're happy to know you enjoyed the food and ambience at Food Planks. Your support means a lot to us. We look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ga2NreGlabW8yVjFONUxWQnllRTVVVEdORE0yYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T10:39:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "It was good atmosphere and service was good service done by babli",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Meghana, for your 5-star review! We're happy to hear that you enjoyed the atmosphere and service at Food Planks. We'll be sure to share your kind words with Babli. Hope to see you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWVZsSTRVa3RKVldSZlkxWlphbE5wTjFVeVJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T15:26:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good to go",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Pavithra, for your 5-star review! We're glad you had a good dining experience at Food Planks. It's great to know everything went smoothly. We look forward to welcoming you back soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rd1N6ZHlXRjlzWHkxV1MxRXRhbXREUm5ob05rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 41,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T20:43:05Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Dilish, thank you for sharing your feedback. We're sorry that your experience with our food and service did not meet your expectations. Your feedback is important to us, and we'll work on improving. We hope you'll give Food Planks another chance to provide you with a better experience.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMVJqRnVZV3gyTkdWcWJERjFaR1kzYlZoNWJXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T15:26:40Z",
+      "iso_date_of_last_edit": null,
+      "text": "Overall good experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Anu, for your 5-star review! We're happy to know you had a good experience at Food Planks. Your support means a lot to our team. We look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WNFRVRldhWHB4VUc4M1NWSmpabkV4TVhGb1gwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T15:25:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was really nice and we loved the play area for kids and bubbly provided us with great service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Nishita, for your lovely review! We're happy you enjoyed the food and that the kids had fun in our play area. We'll also share your kind words with Bubbly. Hope to see you and your family again soon at Food Planks!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rd1QxOVdRV0UzWm5nMWRsTkRSMEUzV0VGcVYxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T19:29:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is okay but service is very slow and not responding properly",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSbUxUSlVjVEJqUzFkbU5XUTFVbU5VTjJSbVQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T16:32:42Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you, Manjusha, for your 5-star rating! We're glad you enjoyed the food and service at Food Planks. We appreciate your feedback on the atmosphere and hope to make your next visit even better. Looking forward to seeing you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU2EzZERWak5KYlhaVlFtRlJaa0ZmZEVkVlUzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T16:12:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worth cumin hear and very good staff named bubbly",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Manasa, for your kind review! We're glad you had a great experience at Food Planks and enjoyed the service from Bubbly. Your appreciation means a lot to our team. We look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5eWVXUXpNaTFuUW5GNWVGcHNObk5hYW1OTFRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T10:06:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place and food also good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Harinath, for sharing your feedback! 😊 We're glad you enjoyed the food and liked the place. Your support means a lot to our team at Food Planks. We look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWllsbFhaMk4xTVhwVFlVWkRUbTB3ZWtwdE5IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-08T17:15:13Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Rakshitha, for your 5-star rating! 😊 We're happy to know you had a great experience at Food Planks. Your support encourages our team to keep serving delicious food with good service. Hope to see you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUVZtczFTVWR4U0ZWQlNWa3lXRFZPWWsxTFgwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-07T15:59:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great restaurant for food and ambience. Good service from bubbly.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Yuvaraju, for your 5-star review! 😊 We're glad you enjoyed the food, ambience, and service at Food Planks. We'll be sure to share your kind words with Bubbly. Looking forward to seeing you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUVowZEJPR0p4TWtneVFUbFRiRVpJT1doTVRtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-07T15:30:29Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for the 5-star rating, Namita! We’re happy to know you enjoyed your dinner at Food Planks. Your support means a lot to our team, and we look forward to welcoming you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSFgxRjNXVmRXTkdkaVoxRlJXRTR6V2xOU2EzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 85,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-07T09:42:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "A must visit place for a quiet afternoon",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for the wonderful 5-star review, Nupur! We’re glad you enjoyed the peaceful afternoon at Food Planks. We truly appreciate your kind words and look forward to welcoming you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNmRUbEhOWHBSVG1rdFJWZHJaRzV0U1cwNFZuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-06T16:23:02Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating! We’re happy to know you enjoyed the food, service, and atmosphere at Food Planks. We truly appreciate your support and look forward to welcoming you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaFNrUjRZa2RHVFhOMk0yVjVWV290V1U5SGNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-06T12:15:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good atmosphere and food. Good service from Babli",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating! We’re glad you enjoyed the food and atmosphere at Food Planks. We’re also happy to hear that you had good service from Babli. We truly appreciate your support and hope to see you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OdFR6Sm5hMlZhU2xKS1EwZHRUVEV3ZUcxNVNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-06T10:40:21Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating! We’re happy to know you enjoyed the food and service at Food Planks. We truly appreciate your support and look forward to welcoming you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeFJWcFJja0pZUVU1eE5uRXRNbEJNTldKbWNuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-06T10:40:00Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating! We’re delighted to know you had a great experience at Food Planks. Your support means a lot to us, and we hope to welcome you back again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WblZYSnpOazlwYUZaUVNIcHZZalpuTlVSc1NXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-06T05:27:26Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for visiting Food Planks! We’re glad you enjoyed your dining experience with us. We truly appreciate your support and look forward to welcoming you back again soon. 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNlIzcFhaMVJvV1ZwRmN6QXdOblYzYTJvNGVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T21:27:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Yup very bad service here there some rules over bills kindly do check and proceed They are promoting like bye two get one free but not giving on table this management is fake and also last time tasted food this time tasted food is very nice 👍 but service is very bad and the explanation given by this man is worst\nTotally bad experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 1,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUlVuaHpMVVEzWlRkbE5YRkVTa3g0Y1ZOcWVIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T17:32:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Really good service with polite staff, really appreciatd bubly's passion toward her job. Great ambience a must visit!!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Rajesh, for the wonderful feedback! We’re happy you liked the polite service, great ambience, and Bubbly’s dedication. We truly appreciate your kind words and hope to welcome you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMlJGcDRXVFF6VldoV1EybFRXRUZFY1ZkSGJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T16:45:55Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is very good must try one\nService given by- Babli",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Divyalaxmi, for the lovely feedback! We’re glad you enjoyed the food and had a good experience with Babli’s service. We really appreciate your support and hope to see you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxd1V6VkpXSEpuWVZoclUzSjRRall0Y3pSdVdFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T16:40:16Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the lovely feedback! We’re glad you enjoyed the food and had a good experience at Food Planks. We truly appreciate your support and hope to welcome you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Oa056WXlja2RHZUhOa1gwMVVTMHN6UkRkNlNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T16:21:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "I had a very bad experience today the food was average and the service was poor the waiter guy was so rude",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kS2QycFROV3hIVW14cWQxOXpWVXhOYUVsclduYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T16:02:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great ambiance, delicious food\nThank you Bubbly for the great service 🤗",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Bhagyashree, for your lovely review! We’re happy you enjoyed the delicious food and ambience. We’re glad you had a great experience with the service. Hope to see you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWT2JFWmZhMEZwY0dWZk4xWlplamswT0VjNVltYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T15:59:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating! We’re happy you had a good experience at Food Planks. We really appreciate your support and hope to see you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRGExaGFVR3AyUzJ0RU1HOWhaa1p3VlhKSVVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T15:52:59Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you, Jai, for your 5-star rating! We’re happy to know you had a good experience with our service. We really appreciate your support and look forward to welcoming you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkR1NYbHJVblJYVFdOcFdXOTVUMFJ1U1VOeVRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 144,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T15:15:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good establishment. Good food and ambiance and friendly staff.\nBubli took special care for us and our kids.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for visiting Food Planks! We’re glad you enjoyed the food, ambience, and friendly service. We’re especially happy that Bubli could take good care of you and your kids. Hope to welcome you and your family again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDGv7nmZorgLMzBmiqP0wJYH7BMqTiV4cOzP_5tXbu0Y3yPOzaT85g6zrIql2tDRTyPFKqiqzumemFbqdVfT5I72CxqW6BmEPPCJs2X6Rsm0cLBHR8_IKF7B6pRapBtSk726wgsSQnxgo8=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTU9EUkNZbGRvYzBSc1FWRk5PVGd3VkdSRmRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T15:05:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback! We’re glad you enjoyed the food and atmosphere at Food Planks. We really appreciate your 4-star rating and hope to serve you even better on your next visit. 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWV1RFZFlUV0pJV1d4aVUxSXlWR1ZzUjIwemRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T13:25:16Z",
+      "iso_date_of_last_edit": null,
+      "text": "The ambience, Food , hospitality is very good. Babli is so good and she is very much informative and gives best choice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for the wonderful feedback! We’re glad you enjoyed the food, ambience, and hospitality. We’re especially happy to hear that Babli made your experience even better. We truly appreciate your support and look forward to welcoming you again! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaVdWQTVhVWxqZDBKUmFsVjRlRVZ4U1dJd01HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T12:45:50Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating! We’re happy to know you enjoyed the food, service, and atmosphere at Food Planks. We really appreciate your support and hope to welcome you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KSkxXZzRTbVZhY1ZoSVprY3dZMTlSUlVaME9YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T10:52:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food\nGood service 👍\nMondal capitan\nAnd bisal",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for the 5-star review! We’re glad you enjoyed the food and service, especially the Mondal Capitan and Bisal. We really appreciate your support and look forward to seeing you again! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VmExOVJXVFU0TlV0SVgxVlBORzFMWmxsVUxXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T10:44:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service by Asrafulmondal",
+      "text_original_language": null,
+      "language": "bn",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for the 5-star review! We’re happy to know you enjoyed the service, and we’ll be sure to share your kind words with Asrafulmondal. We hope to see you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZdFpYaGhXRlp6WlhoQlIxZHFXR1k0U2pKdWFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T10:29:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Absolutely horrible experience. The service was ridiculously slow—we waited almost an hour for our food, and there was barely any response from the staff even after repeatedly asking.\n\nAnd after waiting that long, the food was honestly terrible. It was cold, lacked flavour, and definitely not worth the price. The whole experience was frustrating and disappointing.\n\nIf you’re expecting decent service and good food, I’d honestly recommend going somewhere else. What a damn waste of time and money.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMmFrUmxjVkY0VFZwcGFGTjFRa1l5UTJGemRrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T10:28:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Waited for a long time for the food and when the food arrived it was warm and terrible taste. Ridiculously high price for the food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wbVNDMUxYMWxsYWt4TFpWaFhWbXQ0U1ZGTk4wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T10:25:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "The service was extremely slow, and the food was served much later than expected. The staff seemed irresponsible and showed little concern about the delay or the customers’ time. Waiting so long for food completely ruined the dining experience. Good food alone is not enough if the service is this poor. The management really needs to improve their service and staff coordination. Would not recommend this place if you expect timely and responsible service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSGMwcHRWMEoxU21sS1dFcElORzFtTjJkSk1VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T10:22:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst hospitality takes almost 1 hour to serve food ,if someone is hungry please don’t visit\nYou’ll starve and die\n\nAnd after waiting for a long time they served the food which was worse than the service\nWould never recommend this place to anyone",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdVYzVXdlRXBqUnpocWRYaDZRekpLYzJ0bVEyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-10-01T16:20:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Guys just observe .... I have clearly analysed multiple times , they dont wash the glasses/cups they give for any of the drinks. They just pick it up from the used plates bin rinse with water , they dont use soap at all. They keep it in the sink where people spit and wash hands and just put water and wipe with cloth and serve for the next person. Completely disappointed with this !!! You are charging us just not for food, its for the whole service. I wish Tukaram Munde was here. Hence 0 stars for everything.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVFZVTlRkRXRwWkdNdFlVd3lObGRYUVhkUk0zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-10-01T16:17:13Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you, Shubham, for visiting Food Planks! We’re glad you had a smooth lunch experience with no waiting time. We appreciate your feedback and hope to welcome you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjelprUXljR3gzT1VvNFQyNVBYMWRXTURJek4wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 21,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-10-01T16:02:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your kind review! We’re happy to know you enjoyed the food and had a good experience at Food Planks. We really appreciate your support and look forward to serving you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adVdrMVhRbkJLTVdoTkxWaFlhbWc0V0RKNVMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-09-30T10:49:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had great time",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Ayesha! We’re delighted to know you had a great time at Food Planks. 😊 Your 5-star rating means a lot to our team. We look forward to welcoming you again for another enjoyable dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTGJFaHVSRTU1ZUhrd2NERlBSRFJCVDFsdE9YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-29T09:58:55Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 4,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for your review, Dhanraj! We truly appreciate you taking the time to share your feedback. We’re glad you enjoyed your experience at Food Planks. Your feedback on the service and atmosphere is valuable to us, and we’ll continue working to make every visit more comfortable and enjoyable. We hope to welcome you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbWEzUm1RMHhuTUhCYVVreElaV1kxVWtWaGExRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T15:13:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "Try once\n..it was good experience..\nAmbiance is cool.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your wonderful review, Varun! 😊 We’re glad you had a good experience at Food Planks and enjoyed the cool ambience. We truly appreciate your 5-star rating and recommendation. We look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSWIyaFJWMlZyWVVSSGVFRjVNRjlUZFd0R2VIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 72,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T03:02:45Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for taking the time to rate Food Planks, Sudhakar! We truly appreciate your feedback and support. We hope you had a pleasant experience and look forward to welcoming you again soon. 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNFZXWlVRa1owVDNkV1oybFhObGRwUldaRFQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T16:51:54Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Christeena, for your wonderful 5-star review! 😊 We’re delighted to receive your support and appreciation. Your feedback motivates our team at Food Planks to keep delivering delicious food and memorable dining experiences. We look forward to serving you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kR01qUkVibUpDVUdkek9XMURTREZqY1RGa1dVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T16:18:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Sujesh, for your 5-star rating! 😊 We truly appreciate your support for Food Planks. We’re happy to have you as our customer and hope to welcome you again soon for another enjoyable dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkQlJqSllSSFpDZUVOSk1IQlRWRkJYVTFJNWFWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T16:05:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Awesome",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Yashaswi, for the amazing 5-star review! 😊 We’re glad you had an awesome experience at Food Planks. Your appreciation for the food, service, and ambience means a lot to our team. We look forward to serving you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNlFrb3pVVEZYWVdKcFRqZGtkVTAzYkZvMVozYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T15:04:02Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Tejas, for the wonderful 5-star rating! 😊 We’re so glad you enjoyed the food, service, and atmosphere at Food Planks. We truly appreciate your support and look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxV1pXdG1WbGRMTFdWemVsY3pka3AyTm10NFpVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T10:34:57Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star rating, Siddish! 😊 We’re happy to know you enjoyed the food, service, and atmosphere at Food Planks. We truly appreciate your support and look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dWFqazNSMUZ2VkRCNlZuRjRaR1pWWDFod1pXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T10:34:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and ambience.  Went with my pet  and had a great time",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star review, Sneha! 😊 We’re so glad you enjoyed the food and ambience at Food Planks and had a great time with your pet. 🐾❤️ We look forward to welcoming you both again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbmN6bEphbmhNZDFOcFduWmFSa05YZWxWYVVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 110,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T05:22:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "The ambiance and menu were both enjoyable. Reasonable price and calm place.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star review, Susan! 😊 We’re glad you enjoyed the food, menu, and calm ambience at Food Planks. We’re also happy to know you found the pricing reasonable and enjoyed the comfortable booth seating. We look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdY0g1Ei9zqhBkyYql5E282cD9lkHGsSrGNDKcxL3q2MvnA1X_1RU4dfmFBcNTap2ChTGChu8Dd1niajRutIOFgduFitdzpuYTEPm-1GMSQfj0oXw2BPauAi5P7Q-kvww2IeO-wj-HA8J0=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSaU9YcGhjRjlpWW14RFNEVjRRbWxTUVVWR01uYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T16:09:05Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star rating, Manjesh! 😊 We’re happy to know you enjoyed the food, service, and atmosphere at Food Planks. Your support means a lot to us, and we look forward to serving you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRVdGSnlRalU0TVhSbk5USTFTRXRQUWt0cGFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T15:18:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback, Khushi! 😊 We’re glad you enjoyed the food, service, and atmosphere at Food Planks. We truly appreciate your support and look forward to making your next visit even more enjoyable! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMldubGljbWhIY1d0a1VuWkNPVWN3TFd4WWRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T15:10:48Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for the 5-star rating, Chitty! 😊 We’re happy to know you enjoyed your experience at Food Planks. Your support means a lot to us, and we look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KbmVHRnRNekZ4YVU5aVZqVk1lVGwzUWtJelVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T10:32:05Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback, Vijeta! 😊 We’re glad you enjoyed the food and service, and especially the atmosphere at Food Planks. We truly appreciate your support and hope to welcome you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUGNGazBRVVpTUkd0eFJXbFdha1pCTTB4aVFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T17:06:09Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star rating, Andrea! 😊 We’re happy to know you enjoyed the food, service, and atmosphere at Food Planks. Your support means a lot to us, and we look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbVVXNTBhWEJXZUVWYWFtWlFjbUpVZW5kUVRtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T11:23:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had a wonderful experience at Food Plank! The food was delicious, the drinks were refreshing, and the overall ambience was great. The service was excellent, with friendly and attentive staff who made sure everything was perfect. Everything was well-prepared and served on time. A great place to enjoy good food, drinks, and quality time. Highly recommended!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star review! 😊 We’re delighted to hear that you enjoyed the delicious food, refreshing drinks, and pleasant ambience at Food Planks. It’s great to know our friendly service and timely preparation made your visit special. We truly appreciate your recommendation and look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taNk1UaGpTV3MxTURGQ2VXcG1iMjFpVVhsbFpHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-23T16:29:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating! 😊 We’re glad you enjoyed the food at Food Planks. Your support means a lot to us, and we hope to welcome you back soon for another enjoyable dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQmFIQnRNM2xOUjNWZkxYaEtTMEpoZUhsT1MyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-23T16:26:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating! 😊 We’re happy to know you had a great experience with our food, service, and atmosphere at Food Planks. Your kind words mean a lot to our team. We look forward to serving you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTk0zbHVXVXhQTjBkdFVFSkpjVEYzYzJFd1ptYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-23T16:26:08Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the 5-star rating, Praveen! 😊 We’re glad you enjoyed the food, service, and atmosphere at Food Planks. We truly appreciate your support and hope to welcome you back again soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VlJHaHhOMHh5Y3pGaE5tTjBWbU5XVTJ0dWRtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-23T16:25:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food very tasty  good 👍.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star rating, Revathi! 😊 We’re so happy to hear that you enjoyed the tasty food at Food Planks. Your kind words and support mean a lot to us. We look forward to serving you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Fek1rRkVhVkpEVVY4NGNYQXlSMFUxWldweU1sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-23T16:23:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star rating, Chandrakala! 😊 We’re happy to know you had a very good experience at Food Planks. Your support and kind words mean a lot to our team. We look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRlEzTlFhbTEzYlVaQ1ZreDZkMDk0UkZWc1dVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T13:47:23Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for the wonderful 5-star rating, Bharti! 😊 We’re delighted that you chose Food Planks. Your support means a lot to our team, and we hope to welcome you again soon for a memorable dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OS1YxaFpkbWxGYWxGa05YcHRhMFJVU0VkSmJYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-21T15:48:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was very good here, tasty and delicious. There are very various types of food you can try here, veg and non-veg both the food, must try restaurant\n\nBabli",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Sumit, for the wonderful 5-star review! 😊 We’re glad you enjoyed the delicious food and the variety of veg and non-veg options at Food Planks. We’re especially happy you enjoyed the Chicken Lollipop! 🍗 We truly appreciate your recommendation and look forward to welcoming you again soon. ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNlVGQklNRWxZZFhZNFZXSnpRWFJmV2tzMWMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T07:17:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "It's been closed today",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "We sincerely apologize for the inconvenience, Vaishnavi. Our restaurant was temporarily closed yesterday due to Ganesha Visarjana. We’re happy to inform you that our service has resumed from today. We appreciate your understanding and look forward to welcoming you soon. 🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGQlIzaFRSRTFHZEY5cldIRkdhM1JRWVd4alJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-19T15:46:22Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Krishna Ramya, for your wonderful 5-star rating! We’re delighted to know that you enjoyed our food, service, and atmosphere at Food Planks. Your appreciation means a lot to our team and motivates us to keep delivering a great dining experience. We look forward to welcoming you again soon! 😊🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VlVrNXFWV3g0ZHpCUlkyRTBha0ZYVUZKR04xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-18T09:26:40Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Pavithra, for your wonderful 5-star rating! We’re delighted to know that you enjoyed your lunch at Food Planks and were happy with our food, service, and atmosphere. Your kind support means a lot to our team. We look forward to welcoming you again soon! 😊🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMVpHRndMWFZqWjNGQlFtNXZaamxqWnpodFdrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-16T13:20:43Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Vijay Kumar, for your wonderful 5-star rating! We’re delighted to know that you enjoyed your dinner from Food Planks and were satisfied with the food, service, and overall experience. We’re also glad the delivery reached you within a reasonable time. Your support means a lot to our team. We look forward to serving you again soon! 😊🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMWNFdFpUa2RCVUhaQmIyaDBWM05xV2tNNWEwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-16T10:42:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Hi have very good experience in the\nFood Planks restaurant, we are went with our old friends for dinning food  & Service  was awesome, staff was given friendly services it's very memorable day for us , we will visit again and this will share our friends and family 👪",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Selvanarayanan S., for sharing such a wonderful experience! We’re delighted to know that you enjoyed the food, friendly service, atmosphere, and hassle-free dining experience at Food Planks. It’s especially heartwarming to know that you had a memorable time with your old friends. Thank you for recommending us to your friends and family. We look forward to welcoming you all again soon! 😊🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVGNWcGZUMjh3VEU5Q2R6RlpMWEYzWTNobVZFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-16T10:40:35Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Madappa B.M Madi, for your wonderful 5-star rating! We’re delighted to know that you enjoyed the food, service, and atmosphere at Food Planks. Your support and appreciation mean a lot to our entire team. We look forward to welcoming you again soon and making your next visit just as enjoyable! 😊🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNU0xaFFibUpMY1hwbFV6RktlRGhRY0ZBNGRIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-16T10:33:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food, a lovely ambience, and a wonderful overall experience at Food Planks. The perfect place to enjoy delicious food in a pleasant and relaxing atmosphere. Highly recommended! My especially thanks to the Manager Mr Deepak",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Lal Reang, for your wonderful 5-star review! We’re delighted to know that you enjoyed our delicious food, pleasant ambience, and overall dining experience at Food Planks. We truly appreciate your kind words about Mr. Deepak and will be happy to share your appreciation with him. Thank you for recommending us, and we look forward to welcoming you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbFRIRnZTR3BrUVRWUVVFbENMVk5sTXpKVFlrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-16T10:30:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Vare good service mondal",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Asraful, for your wonderful 5-star review! 😊 We’re happy to know that you enjoyed our food, service, and overall atmosphere. Your kind words about our service mean a lot to our team. We look forward to welcoming you back to Food Planks again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeVdXVmxaRm94Ylhrd1pVdHNRazU2T1Zwb1ZYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T17:47:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great tasting food and even better service given at the place",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Veena Rani, for the wonderful 5-star review! We’re glad you enjoyed the Chicken Ghee Roast, Hyderabadi Chicken Biryani, and Chilly Chicken, along with our service. We truly appreciate your recommendation and look forward to serving you again! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRE5rSTRiRkpoYW14eVRWRk9OemhyVUhjdGJFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T17:42:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good ambience,great place for family to visit.delicious food and amazing service provided",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Anushaka, for your wonderful review! We’re glad you enjoyed the family dining experience, especially the Crispy Corn Salt & Pepper and Tandoori Chicken. We truly appreciate your kind words about our ambience and service. Looking forward to welcoming you and your family again! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaFZ6Qm5WVzlqU0RWR1luQmhUbEZxVWtrNFUwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T17:24:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "This is almost the 8th Time, Long ago I was very regular, but this time it was very Rude\nWhen I got to know this place From Mr.Anand he was introduced to Captain Umesh. We tried to contact unfortunately he was not able. No issues we came with a full family But this time was a very different experience. Mr.Shekhar He is a captain and Some unethical Manager is there Mr.(Not Introduced)He is also Supported tha captain this is reducullus He doesn't know about alcohol and Cocktail both of them arguing bull shit I hated, I have drunk in Many restaurant and breweries. But here these people are taking orders without knowledge No proper Ideas, Extremely very bad experience I'll never go again, finally Mr.Owner Please look into this, this will end ur business Kindly give them proper Training How to behave and Take Responsibilities. Anyways I will never come across here.\nGood Bye🤬😡",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOR1UxWjFURmd3TmpOVFZXb3lhRVJIYUVkamVFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 39,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T16:09:08Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Madhu, for your valuable feedback and 4-star rating! We’re glad you were happy with our service and ambience. We appreciate your feedback on the food as well, and we’ll continue working to make your next dining experience even better. We look forward to welcoming you again! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGM01qWlBZMXBsUmxSMWIxOTVWWFExTmpsaWJrRRAB",
+      "author": "Venod V",
+      "author_url": "https://www.google.com/maps/contrib/117026177830554552960?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": 19,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-12T09:00:53Z",
+      "iso_date_of_last_edit": "2026-07-12T09:00:53Z",
+      "text": "The food Veg and Non Veg was good.\nThe Steward Mr. Dinesh was very humble and provided excellent service.\nThe ambience was also good.\nOnly observation was the poor maintenance of hand wash area and the washroom. If a little bit of extra care on the higiene will make the place worth for families to spend some good time 💕",
+      "text_original_language": "The food Veg and Non Veg was good.\nThe Steward Mr. Dinesh was very humble and provided excellent service.\nThe ambience was also good.\nOnly observation was the poor maintenance of hand wash area and the washroom. If a little bit of extra care on the higiene will make the place worth for families to spend some good time 💕",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,000–1,200",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 4,
+        "group_size": "9+ people",
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGM01qWlBZMXBsUmxSMWIxOTVWWFExTmpsaWJrRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOkF3MjZPY1plRlR1b195VXQ1NjlibkE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3bGRDNEp3EAE",
+      "author": "Vimal Kumar",
+      "author_url": "https://www.google.com/maps/contrib/111170039305139922840?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-17T14:01:18Z",
+      "iso_date_of_last_edit": "2024-08-17T14:02:07Z",
+      "text": "Ambience is beautiful, service is excellent, food is very good...\nSpecial thanks and wonderful service by Aman, Kripan and Rohit... A place that can be visited family and friends, they understood what customers service means for us, they cared for us and this means I will keep coming with my corporate friends and family. This place should feel proud of having such people to serve n take care of people so that they keep coming each time\n\nWe all liked the washroom hygeine and this is kudos to Management",
+      "text_original_language": "Ambience is beautiful, service is excellent, food is very good...\nSpecial thanks and wonderful service by Aman, Kripan and Rohit... A place that can be visited family and friends, they understood what customers service means for us, they cared for us and this means I will keep coming with my corporate friends and family. This place should feel proud of having such people to serve n take care of people so that they keep coming each time\n\nWe all liked the washroom hygeine and this is kudos to Management",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Brunch",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3bGRDNEp3EAE!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CIHM0ogKEICAgIC7ldC4Jw%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaX2VlQjZBRRAB",
+      "author": "Ajith",
+      "author_url": "https://www.google.com/maps/contrib/104349629058690909719?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "3 years ago",
+      "iso_date": "2023-09-16T15:51:11Z",
+      "iso_date_of_last_edit": "2023-09-16T17:38:07Z",
+      "text": "Title: Pleasant Ambience and Cleanliness, but Mediocre Mutton Biryani\n\nRating: ⭐⭐⭐\n\nTables were spotless, and the restroom facilities were well-maintained, which is always a big plus.\n\nHowever, I have to admit that I was a bit disappointed with the food, particularly the mutton biryani. Despite the promising start, the biryani fell short of expectations. The rice was fragrant and cooked to perfection, but the meat left much to be desired. The mutton in the biryani was not properly cooked – it was tough and lacked the tenderness and flavor that one would expect in a biryani dish. This was a letdown, as the quality of meat is crucial in making a biryani exceptional.\n\nWhile the rest of the dishes we ordered were decent, the mutton biryani's quality was a significant drawback for me. I believe that improving the preparation of the meat in this dish could make a substantial difference in the overall dining experience.",
+      "text_original_language": "Title: Pleasant Ambience and Cleanliness, but Mediocre Mutton Biryani\n\nRating: ⭐⭐⭐\n\nTables were spotless, and the restroom facilities were well-maintained, which is always a big plus.\n\nHowever, I have to admit that I was a bit disappointed with the food, particularly the mutton biryani. Despite the promising start, the biryani fell short of expectations. The rice was fragrant and cooked to perfection, but the meat left much to be desired. The mutton in the biryani was not properly cooked – it was tough and lacked the tenderness and flavor that one would expect in a biryani dish. This was a letdown, as the quality of meat is crucial in making a biryani exceptional.\n\nWhile the rest of the dishes we ordered were decent, the mutton biryani's quality was a significant drawback for me. I believe that improving the preparation of the meat in this dish could make a substantial difference in the overall dining experience.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 2,
+        "service": 2,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaX2VlQjZBRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CIHM0ogKEICAgICZ_eeB6AE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaOEltcm53RRAB",
+      "author": "Dr. Ananth Narayan",
+      "author_url": "https://www.google.com/maps/contrib/106547966231780307816?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-09-02T20:21:04Z",
+      "iso_date_of_last_edit": "2023-09-02T20:21:04Z",
+      "text": "A decent dining place . Good ambiance . Nice food . Clean washroom . But do check your bill especially when in big groups and when you have ordered varieties . You might end up paying for more dishes than you have ordered .",
+      "text_original_language": "A decent dining place . Good ambiance . Nice food . Clean washroom . But do check your bill especially when in big groups and when you have ordered varieties . You might end up paying for more dishes than you have ordered .",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,800–2,000",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaOEltcm53RRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CIHM0ogKEICAgICZ8ImrnwE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    }
+  ]
+}

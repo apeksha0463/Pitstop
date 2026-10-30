@@ -7,8 +7,8 @@
       "position": 1,
       "image_type": "customer_review_photo",
       "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqZ8_0vNUWlPRlFqGFys9VEkEQ_7CGa4GNrPbvu3NYV_x2ZNhtx8a5dgknymT8k9qYnQI7jHoPSyjYEOyc10PdlbFHc89Kez9RovwTiqj0O6mpiidJD6dRenRSms-5BCmrz8UC5l2Ut-X7=k-no",
-      "local_path": "data/extracted_images/0x3bae185a451f1a95_0xbb8f21195855c1f6/Ci9DQUlRQUNvZENodHljRjlvT2tsNGFYaERiRGxOY20xbWJ6Uk_2a8b9b8e_1.jpg",
-      "download_status": "already_downloaded",
+      "local_path": null,
+      "download_status": "not_requested",
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNGFYaERiRGxOY20xbWJ6UklOV2xmUm01WlMyYxAB",
       "image_index": 1
     },
@@ -535,7 +535,7 @@
       "author_reviews_count": 2,
       "author_photos_count": 38,
       "rating": 5.0,
-      "date": "4 days ago",
+      "date": "5 days ago",
       "iso_date": "2026-10-25T00:32:54Z",
       "iso_date_of_last_edit": "2026-10-25T00:32:54Z",
       "text": null,
@@ -548,7 +548,8 @@
       "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aWGRETkZTMjh3WVZkd2FIUk5aV0ZIVVROR1kzYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmZXdDNFS28wYVdwaHRNZWFHUTNGY3c%7C%7C?hl=en",
       "images_count": 0,
       "images": [],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CbVVFNXhWVFo0TTBacGJEVllYMkl6VFdKQ1JIYxAB",
@@ -575,7 +576,8 @@
       "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CbVVFNXhWVFo0TTBacGJEVllYMkl6VFdKQ1JIYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOnBmUE5xVTZ4M0ZpbDVYX2IzTWJCRHc%7C%7C?hl=en",
       "images_count": 0,
       "images": [],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNGFYaERiRGxOY20xbWJ6UklOV2xmUm01WlMyYxAB",
@@ -608,11 +610,12 @@
           "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqZ8_0vNUWlPRlFqGFys9VEkEQ_7CGa4GNrPbvu3NYV_x2ZNhtx8a5dgknymT8k9qYnQI7jHoPSyjYEOyc10PdlbFHc89Kez9RovwTiqj0O6mpiidJD6dRenRSms-5BCmrz8UC5l2Ut-X7=k-no",
           "image_index": 1,
           "image_type": "customer_review_photo",
-          "local_path": "data/extracted_images/0x3bae185a451f1a95_0xbb8f21195855c1f6/Ci9DQUlRQUNvZENodHljRjlvT2tsNGFYaERiRGxOY20xbWJ6Uk_2a8b9b8e_1.jpg",
-          "download_status": "already_downloaded"
+          "local_path": null,
+          "download_status": "not_requested"
         }
       ],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKb1lYSndkVFkwV0hKWVF6Tk1VMEpsYVVSaFNrRRAB",
@@ -639,7 +642,8 @@
       "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKb1lYSndkVFkwV0hKWVF6Tk1VMEpsYVVSaFNrRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjJoYXJwdTY0WHJYQzNMU0JlaURhSkE%7C%7C?hl=en",
       "images_count": 0,
       "images": [],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJeVJGOXhYekoxTm5aV2VTMHpSRVZ5V2tab2FrRRAB",
@@ -662,7 +666,8 @@
       "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tJeVJGOXhYekoxTm5aV2VTMHpSRVZ5V2tab2FrRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkIyRF9xXzJ1NnZWeS0zREVyWkZoakE%7C%7C?hl=en",
       "images_count": 0,
       "images": [],
-      "source": "Google Maps via SerpApi"
+      "source": "Google Maps via SerpApi",
+      "matched_by": []
     },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMk1sY3dPQzFxVFdWbk1uTTFOVFpTVldac1RsRRAB",
@@ -2499,20 +2504,20 @@
     "reviews_with_images": 4,
     "review_images_found": 58,
     "unique_review_image_urls": 58,
-    "review_images_downloaded": 58,
-    "unique_review_image_files": 58,
+    "review_images_downloaded": 57,
+    "unique_review_image_files": 57,
     "review_image_download_failures": 0
   },
   "review_coverage": {
     "reviews_reported_by_google": 1433,
     "reviews_collected": 55,
     "all_reported_reviews_collected": false,
-    "note": "SerpApi stopped offering pages after 55 of the 1433 reviews Google reports for this place. Only the reviews returned by the API were collected; run again with --fresh to bypass SerpApi's cached result."
+    "note": "SerpApi stopped offering pages after 55 of the 1433 reviews Google reports for this place. The first response had no 'serpapi_pagination' block at all. Only the reviews returned by the API were collected; run again with --fresh to bypass SerpApi's cached result."
   },
   "source": "SerpApi Google Maps Reviews",
   "restaurant_name_source": "place_info.title",
-  "expected_restaurant_name": null,
-  "restaurant_name_matches_expected": null,
+  "expected_restaurant_name": "9th Mile Dhaba",
+  "restaurant_name_matches_expected": true,
   "place_warning": null,
   "address": "Flying Club, Jakkur Flying Club, Bellary Road Near Jakkur, Near, Bellary Rd, Allalasandra, Yelahanka, Bengaluru, Karnataka 560065, India",
   "rating": 3.9,
@@ -2540,19 +2545,19 @@
   "reviews_with_images": 4,
   "images_found": 58,
   "unique_image_urls": 58,
-  "images_downloaded": 58,
-  "unique_image_files": 58,
+  "images_downloaded": 57,
+  "unique_image_files": 57,
   "images_failed": 0,
   "images_download_failed": 0,
   "duplicates_skipped": 0,
-  "previous_reviews_retained": 0,
-  "pages_fetched": 4,
-  "api_requests_used": 0,
+  "previous_reviews_retained": 50,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
   "restaurant_details_requests_used": 0,
-  "api_requests_used_total": 0,
-  "max_requests": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
   "sort_by": "newestFirst",
-  "from_cache": true,
+  "from_cache": false,
   "collection_complete": true,
   "collection_status": "completed",
   "stop_reason": null,
@@ -2560,7 +2565,7 @@
   "page_diagnostics": [
     {
       "page": 1,
-      "http_status": null,
+      "http_status": 200,
       "search_status": "Success",
       "api_error": null,
       "top_level_keys": [
@@ -2568,127 +2573,17 @@
         "reviews",
         "search_metadata",
         "search_parameters",
-        "serpapi_pagination",
         "topics"
       ],
       "place_title": "9th Mile Dhaba",
       "place_type": "Punjabi restaurant",
       "reviews_results_state": null,
-      "reviews_in_response": 10,
-      "reviews_with_images": 1,
-      "has_serpapi_pagination": true,
-      "has_next_page_token": true,
-      "first_review_keys": [
-        "date",
-        "iso_date",
-        "iso_date_of_last_edit",
-        "likes",
-        "link",
-        "position",
-        "rating",
-        "review_id",
-        "source",
-        "user"
-      ],
-      "first_review_has_images": false,
-      "first_review_image_count": 0,
-      "first_review_image_entry_types": []
-    },
-    {
-      "page": 2,
-      "http_status": null,
-      "search_status": "Success",
-      "api_error": null,
-      "top_level_keys": [
-        "reviews",
-        "search_metadata",
-        "search_parameters",
-        "serpapi_pagination"
-      ],
-      "place_title": null,
-      "place_type": null,
-      "reviews_results_state": null,
-      "reviews_in_response": 20,
-      "reviews_with_images": 2,
-      "has_serpapi_pagination": true,
-      "has_next_page_token": true,
-      "first_review_keys": [
-        "date",
-        "details",
-        "extracted_snippet",
-        "iso_date",
-        "iso_date_of_last_edit",
-        "likes",
-        "link",
-        "position",
-        "rating",
-        "review_id",
-        "snippet",
-        "source",
-        "user"
-      ],
-      "first_review_has_images": false,
-      "first_review_image_count": 0,
-      "first_review_image_entry_types": []
-    },
-    {
-      "page": 3,
-      "http_status": null,
-      "search_status": "Success",
-      "api_error": null,
-      "top_level_keys": [
-        "reviews",
-        "search_metadata",
-        "search_parameters",
-        "serpapi_pagination"
-      ],
-      "place_title": null,
-      "place_type": null,
-      "reviews_results_state": null,
-      "reviews_in_response": 20,
-      "reviews_with_images": 1,
-      "has_serpapi_pagination": true,
-      "has_next_page_token": true,
-      "first_review_keys": [
-        "date",
-        "details",
-        "extracted_snippet",
-        "iso_date",
-        "iso_date_of_last_edit",
-        "likes",
-        "link",
-        "position",
-        "rating",
-        "review_id",
-        "snippet",
-        "source",
-        "user"
-      ],
-      "first_review_has_images": false,
-      "first_review_image_count": 0,
-      "first_review_image_entry_types": []
-    },
-    {
-      "page": 4,
-      "http_status": null,
-      "search_status": "Success",
-      "api_error": null,
-      "top_level_keys": [
-        "reviews",
-        "search_metadata",
-        "search_parameters"
-      ],
-      "place_title": null,
-      "place_type": null,
-      "reviews_results_state": null,
       "reviews_in_response": 5,
-      "reviews_with_images": 0,
+      "reviews_with_images": 1,
       "has_serpapi_pagination": false,
       "has_next_page_token": false,
       "first_review_keys": [
         "date",
-        "details",
-        "extracted_snippet",
         "iso_date",
         "iso_date_of_last_edit",
         "likes",
@@ -2696,7 +2591,6 @@
         "position",
         "rating",
         "review_id",
-        "snippet",
         "source",
         "user"
       ],
@@ -2705,6 +2599,6 @@
       "first_review_image_entry_types": []
     }
   ],
-  "images_folder": "data/extracted_images/0x3bae185a451f1a95_0xbb8f21195855c1f6",
-  "extracted_at": "2026-10-29T11:45:56"
+  "images_folder": null,
+  "extracted_at": "2026-10-30T13:22:31"
 }

@@ -1,0 +1,11 @@
+{
+  "data_id": "0x3bae1f8c15fece47:0x92e69992bab29c56",
+  "sort_by": "newestFirst",
+  "review_filter": null,
+  "saved_at": "2026-10-30T13:23:40",
+  "pagination_complete": true,
+  "last_next_page_token": null,
+  "pages": [
+    "data/raw_data/serpapi/0x3bae1f8c15fece47_0x92e69992bab29c56_page001.json"
+  ]
+}

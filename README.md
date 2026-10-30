@@ -22,6 +22,10 @@ Pitstop/
 │   ├── extract_reviews.py         # Pagination/collection core (reviews + image URLs only)
 │   ├── restaurant_photos.py       # Main restaurant photo + listing photos, image gallery
 │   ├── utils.py                   # Paths, API key, SerpApi requests, normalisation, JSON I/O
+│   ├── collect_latest_reviews.py  # Newest N unfiltered reviews of every listed restaurant
+│   ├── collect_apify_reviews.py   # Same via Apify (when SerpApi pages come back truncated)
+│   ├── merge_reviews.py           # All sources -> one dataset, each review once (0 credits)
+│   ├── score_washroom_sentiment.py # Local aspect sentiment of every washroom mention
 │   ├── collect_washroom_reviews.py # Washroom review searches for every listed restaurant
 │   ├── extract_washroom_mentions.py # Washroom snippets -> data/processed/*.csv (0 credits)
 │   ├── requirements.txt
@@ -80,6 +84,8 @@ Security rules the code enforces:
 - The key is never printed, never written to JSON, and never included in error
   messages. Every saved API response has `api_key` fields and values redacted.
 - `sources/.env` is git-ignored (`sources/.gitignore`).
+- `collect_apify_reviews.py` reads `APIFY_TOKEN=...` from the same file
+  (Apify Console → Settings → API & Integrations). It is never printed either.
 - Before any search, the key is checked against SerpApi's Account API. That
   check does **not** use a search credit. An invalid key, or an account with
   0 searches left, stops the run with a clear message.
@@ -359,6 +365,77 @@ Three steps collect the washroom-related reviews of every restaurant in
 them into plain-text snippets ready for an external sentiment API. No
 sentiment or scoring is done here.
 
+### Step 0 (recommended): newest reviews of every restaurant (`collect_latest_reviews.py`)
+
+Google's in-review search misses many washroom reviews (see the coverage
+limit under Step 2). This step downloads the newest N reviews of every
+restaurant with no filter, so the washroom matching in Step 3 runs on a
+known, complete sample.
+
+```powershell
+python scripts/collect_latest_reviews.py --report                 # coverage only, 0 credits
+python scripts/collect_latest_reviews.py --max-credits 40         # newest 100 (default)
+python scripts/collect_latest_reviews.py --max-reviews 200 --max-credits 40   # later: go deeper
+```
+
+- **Breadth first.** Page 1 for every restaurant, then page 2, and so on, so
+  a small budget is spread evenly. Page 1 holds about 10 reviews and later
+  pages 20. The newest 100 reviews of all 47 restaurants take about 270
+  credits.
+- **Resumable.** Each page is saved straight away, and where each restaurant
+  stopped is kept in `data/output/latest_reviews/progress.json`. The next run
+  continues from there with next month's credits, or with a larger
+  `--max-reviews`. Pages saved by earlier runs are reused.
+- **Coverage per restaurant** (`data/output/latest_reviews/coverage.json`):
+
+  | Status | Meaning |
+  |---|---|
+  | `target_met` | At least N of the newest reviews downloaded |
+  | `complete` | Every review downloaded; fewer than N exist |
+  | `in_progress` | Some pages downloaded, more needed |
+  | `not_started` | Nothing downloaded yet |
+  | `ended_early` | SerpApi stopped offering pages well short of N and of Google's count |
+
+- **Truncated results.** At times SerpApi returns only 5 reviews and no next
+  page for every place. This was seen on 29 and 30 Oct 2026, and `no_cache`
+  did not help. Such restaurants become `ended_early` and are only fetched
+  again with `--retry-ended-early`. After 3 such pages in a row, the run stops
+  to save credits.
+- **Not final until covered.** `extract_washroom_mentions.py` warns until
+  every restaurant is `target_met` or `complete`.
+
+### Step 0, alternative: newest reviews through Apify (`collect_apify_reviews.py`)
+
+When SerpApi keeps returning truncated pages, Apify's Google Maps Reviews
+Scraper (`compass/Google-Maps-Reviews-Scraper`) downloads the same reviews.
+Its free plan includes $5 of usage a month, and on that plan it charges
+$0.0006 per review. 100 reviews cost $0.06, and the newest 100 of all 47
+restaurants cost about $2.82.
+
+```powershell
+python scripts/collect_apify_reviews.py --limit 1 --max-charge-usd 0.1   # test one restaurant
+python scripts/collect_apify_reviews.py --max-charge-usd 3               # newest 100 of the rest
+python scripts/collect_apify_reviews.py --max-reviews 200 --max-charge-usd 3   # later: go deeper
+```
+
+- **Addressing.** Each restaurant is opened by its Google CID, the second
+  part of its `data_id`, as `https://www.google.com/maps?cid=<cid>`. The
+  returned place name is checked against the restaurant list.
+- **Spending.** One actor run covers all restaurants. Its spend is capped with
+  `maxTotalChargeUsd`. A cap that would exceed the month's limit is refused
+  before anything runs.
+- **Personal data.** Reviewer personal data is not requested
+  (`personalData=false`).
+- **Shared review IDs.** Review IDs are the same as SerpApi's, so a review
+  found both ways counts once.
+- **Skipping.** Restaurants that already have the target, or every review
+  Google lists, are skipped unless `--refresh` is passed.
+- **Outputs.** The raw dataset goes to `data/raw_data/apify/` and the reviews
+  to `data/output/apify/<data_id>_reviews.json`. A saved dataset can be
+  re-imported for free with `--from-dataset`.
+- **Pipeline.** `extract_washroom_mentions.py` and the coverage report of
+  `collect_latest_reviews.py` count these reviews as unfiltered.
+
 ### Step 1: filtered review searches (`extract_reviews.py --query / --topic-id`)
 
 ```powershell
@@ -417,14 +494,48 @@ python scripts/collect_washroom_reviews.py --max-credits 50
   under-covered, so treat the counts as a lower bound. Only fetching the
   unfiltered reviews and matching them locally gives full coverage.
 
+### Merging the sources (`merge_reviews.py`, 0 credits)
+
+The reviews come from three sources, kept in separate folders as provenance:
+
+| Folder | Source tag | What |
+|---|---|---|
+| `data/output/<data_id>_reviews.json` | `serpapi` | SerpApi unfiltered downloads |
+| `data/output/washroom/` | `serpapi_washroom_search` | SerpApi washroom searches |
+| `data/output/apify/` | `apify` | Apify unfiltered downloads |
+
+`data/output/archive/` holds files that are no longer read: copies under old
+file names whose reviews are all in the current files, a duplicate, and test
+runs for places not in the restaurant list.
+
+`merge_reviews.py` turns the three folders into **one dataset**:
+
+- `data/processed/reviews/<data_id>_reviews.json`: one file per listed
+  restaurant, with counts per source.
+- `data/processed/all_reviews.csv`: one row per review, without reviewer
+  names.
+
+How the merge works:
+
+- **Each review once.** A review appears once per restaurant, keyed by its
+  Google `review_id`, which is the same in SerpApi and Apify.
+- **Fields.** When several sources have a review, the first source's fields
+  are kept and gaps are filled from the others.
+- **Provenance.** `sources` lists every source that found the review, and
+  `matched_by` every washroom search that returned it.
+- **Dates and order.** Dates are normalised to `YYYY-MM-DDTHH:MM:SSZ`, and
+  reviews are listed newest first.
+
+Step 3 rebuilds the merge itself before extracting, so its output can never
+lag behind the sources.
+
 ### Step 3: extract washroom mentions (`extract_washroom_mentions.py`, 0 credits)
 
 ```powershell
 python scripts/extract_washroom_mentions.py
 ```
 
-Reads every collected review (`data/output/washroom/*.json` and the other
-outputs in `data/output/`, deduplicated by `review_id`) and classifies it as
+Reads the merged dataset (rebuilt first, see above) and classifies each review as
 washroom-related when its text mentions washroom, restroom, toilet, bathroom,
 loo, lavatory, wash room, rest room, WC, urinal or hand wash area. Matching is:
 
@@ -455,12 +566,60 @@ Snippets are single-line plain text, ready to send to a sentiment API.
 | File | One row per | Columns |
 |---|---|---|
 | `data/processed/washroom_mentions.csv` | washroom-related review (each counted once) | `mention_id` (the `review_id`), `restaurant`, `data_id`, `review_id`, `review_date`, `iso_date`, `star_rating`, `washroom_snippet` (separate washroom passages of one review joined with ` … `), `passage_count`, `full_review_text`, `review_link` |
-| `data/processed/washroom_summary.csv` | restaurant (all CSV rows) | `restaurant`, `data_id`, `reviews_collected`, `washroom_related_reviews` (= its rows in `washroom_mentions.csv`), `latest_mention_date` |
+| `data/processed/washroom_summary.csv` | restaurant (all CSV rows) | `restaurant`, `data_id`, `google_review_count`, `sample_reviews`, `sample_reviews_with_text`, `washroom_in_sample`, `washroom_share`, `washroom_search_reviews`, `washroom_related_reviews` (= its rows in `washroom_mentions.csv`), `latest_mention_date` |
 
-Both CSVs are UTF-8 (no BOM). `reviews_collected` counts every collected
-review for the restaurant, including the unfiltered ones.
+Both CSVs are UTF-8 (no BOM). The summary keeps the two review sources apart:
+
+- `washroom_search_reviews`: reviews returned by the washroom searches. Those
+  searches only return reviews that match, so they are washroom reviews by
+  construction and say nothing about how common washroom talk is.
+- `sample_reviews`: the restaurant's newest N unfiltered reviews by date
+  (`--sample-size`, default 100). The same definition applies to every
+  restaurant. Older downloads in Google's "most relevant" order favour long
+  reviews, which mention washrooms far more often, so they are not used for
+  the share.
+- `sample_reviews_with_text` / `washroom_in_sample`: how many of those
+  reviews have text (many are star ratings only), and how many of those are
+  about the washroom. `washroom_share` is `washroom_in_sample` divided by
+  `sample_reviews_with_text`. It is empty when the restaurant has no
+  unfiltered reviews.
+- `washroom_related_reviews`: all unique washroom reviews from both sources.
+  A review found both ways counts once.
+- `google_review_count`: Google's total from the restaurant list, for scale.
 
 ---
+
+### Step 4: washroom sentiment (`score_washroom_sentiment.py`, local, free)
+
+```powershell
+python scripts/score_washroom_sentiment.py
+```
+
+Scores every washroom mention on your own computer with the aspect-based
+sentiment model `yangheng/deberta-v3-base-absa-v1.1`. It needs no API key and
+uses no credits.
+
+- **About the washroom, not the visit.** The model rates the sentiment towards
+  one aspect, so "Food was amazing, but the washroom was filthy" scores
+  negative. Each snippet is scored with the washroom word the reviewer used
+  ("restroom", "toilet", ...) as the aspect. A review with several passages is
+  scored passage by passage, and the results are averaged.
+- **Score.** `sentiment_score` is P(positive) minus P(negative), from -1 to +1.
+- **Model download.** The model (~740 MB) downloads once into the Hugging Face
+  cache in your user folder, never into the repository. On a laptop CPU the
+  372 mentions take about a minute.
+- **Checked on this data.** Negative washroom reviews average 2.4 stars,
+  neutral 3.3 and positive 4.5, and the score correlates 0.63 with the star
+  rating. Most of the remaining mismatches are reviews whose washroom opinion
+  differs from their overall rating.
+- **`needs_review`.** This flags the scores worth a human look: the model's
+  confidence is below 0.6, or a review's passages get different labels. The
+  model's errors in a manual check fell into these groups.
+
+| File | One row per | Columns |
+|---|---|---|
+| `data/processed/washroom_mentions_scored.csv` | washroom mention | the `washroom_mentions.csv` columns + `aspect`, `sentiment`, `sentiment_score`, `confidence`, `p_negative`, `p_neutral`, `p_positive`, `needs_review` |
+| `data/processed/washroom_sentiment_summary.csv` | restaurant | `washroom_reviews`, `positive`, `neutral`, `negative`, `mean_sentiment_score`, `share_negative`, `recent_reviews` / `recent_mean_sentiment_score` (last 2 years), `needs_review`, `latest_mention_date`, `low_data` (fewer than 5 washroom reviews) |
 
 ## 9. Tests
 

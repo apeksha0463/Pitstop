@@ -1,0 +1,233 @@
+{
+  "search_metadata": {
+    "id": "6ae44d36c0714ef110430c0d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7GHG2VpbqTtH7b-_gV_cIOcEhgd-1lRRm8cRgAgyyCw/6ae44d36c0714ef110430c0d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/7GHG2VpbqTtH7b-_gV_cIOcEhgd-1lRRm8cRgAgyyCw/6ae44d36c0714ef110430c0d.md",
+    "created_at": "2026-10-30 07:54:30 UTC",
+    "processed_at": "2026-10-30 07:54:30 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/7GHG2VpbqTtH7b-_gV_cIOcEhgd-1lRRm8cRgAgyyCw/6ae44d36c0714ef110430c0d.html",
+    "prettify_html_file": "https://serpapi.com/searches/7GHG2VpbqTtH7b-_gV_cIOcEhgd-1lRRm8cRgAgyyCw/6ae44d36c0714ef110430c0d.prettify",
+    "total_time_taken": 1.22
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Samara's Veg Chikkaballapur",
+    "address": "Chikkaballapur, Honnenahalli, Karnataka 562101, India",
+    "rating": 4.7,
+    "reviews": 2102,
+    "type": "Indian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "mysore masala dosa",
+      "mentions": 35,
+      "id": "gh6gm0J0aps"
+    },
+    {
+      "keyword": "idli",
+      "mentions": 41,
+      "id": "Cw9CZWkNxus"
+    },
+    {
+      "keyword": "pongal",
+      "mentions": 15,
+      "id": "DhRpIeI1erc"
+    },
+    {
+      "keyword": "vada",
+      "mentions": 8,
+      "id": "A8vA_gNj5wc"
+    },
+    {
+      "keyword": "idly vada",
+      "mentions": 5,
+      "id": "Cw0A2XJl68c"
+    },
+    {
+      "keyword": "lemon paneer",
+      "mentions": 4,
+      "id": "uAtZRcy2A5w"
+    },
+    {
+      "keyword": "dal khichdi",
+      "mentions": 2,
+      "id": "qA3IrSjp_yc"
+    },
+    {
+      "keyword": "aloo paratha",
+      "mentions": 2,
+      "id": "AQY53cC2Udk"
+    },
+    {
+      "keyword": "poori",
+      "mentions": 2,
+      "id": "Agy43dAvaCU"
+    },
+    {
+      "keyword": "gobi manchurian",
+      "mentions": 2,
+      "id": "Ihwl2zJ9-vc"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aa01rOUhTREI0U3pOUllWRlhSbk5HTTBaeFlsRRAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOnZkMk9HSDB4SzNRYVFXRnNGM0ZxYlE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 hours ago",
+      "iso_date": "2026-10-30T05:32:05Z",
+      "iso_date_of_last_edit": "2026-10-30T05:32:05Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aa01rOUhTREI0U3pOUllWRlhSbk5HTTBaeFlsRRAB",
+      "user": {
+        "name": "Muhammad Irfan",
+        "link": "https://www.google.com/maps/contrib/116422997541390948421?hl=en",
+        "contributor_id": "116422997541390948421",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWOj-1wa6uYmpCmMEjyCAOtjGWSHl86CqhGTQogS31IDkHwC94=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 52
+      },
+      "details": {
+        "meal_type": "Brunch",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OeFVtVkRaRzVYYldoRVkxQkVjbFY0ZFVGcWQyYxAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOnNxUmVDZG5XbWhEY1BEclV4dUFqd2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 hours ago",
+      "iso_date": "2026-10-30T05:19:17Z",
+      "iso_date_of_last_edit": "2026-10-30T05:19:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeFVtVkRaRzVYYldoRVkxQkVjbFY0ZFVGcWQyYxAB",
+      "user": {
+        "name": "Gundu Thippesh",
+        "link": "https://www.google.com/maps/contrib/104535845345908410065?hl=en",
+        "contributor_id": "104535845345908410065",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUcPwKriX-Ox3qFPWw4Hj9RQPRgaylLFoxQ7eR2TGoZOQgicL3O=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Idly Vada wud good and service is very we’ll tqLakshmi",
+      "extracted_snippet": {
+        "original": "Idly Vada wud good and service is very we’ll tqLakshmi"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGclF6VXhNRlk0V0RkVGJrMTJjbkJHTFhKdFVYYxAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOjFrQzUxMFY4WDdTbk12cnBGLXJtUXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 hours ago",
+      "iso_date": "2026-10-30T02:28:08Z",
+      "iso_date_of_last_edit": "2026-10-30T02:28:08Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGclF6VXhNRlk0V0RkVGJrMTJjbkJHTFhKdFVYYxAB",
+      "user": {
+        "name": "Vinay JINDAL",
+        "link": "https://www.google.com/maps/contrib/116490721703289048850?hl=en",
+        "contributor_id": "116490721703289048850",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWHneaWFPGtvSYvEuR5PPI2zpGq2GBhVoKwV5gpJWVU08JgFiSJIQ=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 1
+      },
+      "snippet": "Very nice food\nJain food\n\nService by\nLAXMI",
+      "extracted_snippet": {
+        "original": "Very nice food\nJain food\n\nService by\nLAXMI"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "2 people, 3-4 people",
+        "wait_time": "No wait",
+        "dietary_restrictions": "Jain food ka variety jyada hona"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psaWNGaHJYM2x5Y2pkSGVuaHdZa0ZwVXpOVFZXYxAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOjlicFhrX3lycjdHenhwYkFpUzNTVWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 hours ago",
+      "iso_date": "2026-10-30T02:23:20Z",
+      "iso_date_of_last_edit": "2026-10-30T02:23:20Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaWNGaHJYM2x5Y2pkSGVuaHdZa0ZwVXpOVFZXYxAB",
+      "user": {
+        "name": "Samir Jadhav",
+        "link": "https://www.google.com/maps/contrib/105824583807910943383?hl=en",
+        "contributor_id": "105824583807910943383",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUJaBrZoA7CQ5BN5tuMEjpFImzAOMFAAvEbOiQn5w32EUZG2Rl9DA=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 7
+      },
+      "snippet": "Rava idly and kesari bath is very good and services is a exalent and Lakshmi talking to nicely",
+      "extracted_snippet": {
+        "original": "Rava idly and kesari bath is very good and services is a exalent and Lakshmi talking to nicely"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "2 people",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GVldHVlpVa0ZJWjFkaWRrWlBNbTU0TTJ4MGJGRRAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOnFVWGVZUkFIZ1didkZPMm54M2x0bFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 hours ago",
+      "iso_date": "2026-10-30T02:17:35Z",
+      "iso_date_of_last_edit": "2026-10-30T02:19:00Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVldHVlpVa0ZJWjFkaWRrWlBNbTU0TTJ4MGJGRRAB",
+      "user": {
+        "name": "Raja Pallavi",
+        "link": "https://www.google.com/maps/contrib/111098490339980774742?hl=en",
+        "contributor_id": "111098490339980774742",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIVfddoCKyWGcRTSEAR_Tlu6QkJ0pPybq7pOn_-q-6im1XprA=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Good food and service was very nice and good  lakshmi",
+      "extracted_snippet": {
+        "original": "Good food and service was very nice and good  lakshmi"
+      },
+      "details": {
+        "meal_type": "Breakfast"
+      },
+      "likes": 0
+    }
+  ]
+}

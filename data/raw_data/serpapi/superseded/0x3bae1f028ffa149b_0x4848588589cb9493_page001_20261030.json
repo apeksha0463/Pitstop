@@ -1,0 +1,189 @@
+{
+  "search_metadata": {
+    "id": "6ae44ced26e01908f4bb2cd1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Kwxp0lM945rwBXtzz4wsA29hbr_7ZOmKnxIjqaBl3eg/6ae44ced26e01908f4bb2cd1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Kwxp0lM945rwBXtzz4wsA29hbr_7ZOmKnxIjqaBl3eg/6ae44ced26e01908f4bb2cd1.md",
+    "created_at": "2026-10-30 07:53:17 UTC",
+    "processed_at": "2026-10-30 07:53:17 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1f028ffa149b:0x4848588589cb9493!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Kwxp0lM945rwBXtzz4wsA29hbr_7ZOmKnxIjqaBl3eg/6ae44ced26e01908f4bb2cd1.html",
+    "prettify_html_file": "https://serpapi.com/searches/Kwxp0lM945rwBXtzz4wsA29hbr_7ZOmKnxIjqaBl3eg/6ae44ced26e01908f4bb2cd1.prettify",
+    "total_time_taken": 1.5
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1f028ffa149b:0x4848588589cb9493",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Light House Family Restaurant(Attached Bar)",
+    "address": "Kempegowda International, Vidyanagar cross, airport road, near Gail gas bunk, Hunasamaranahalli, Karnataka 562157, India",
+    "rating": 4.6,
+    "reviews": 66,
+    "type": "Family restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "wheat roti",
+      "mentions": 2,
+      "id": "AS5hDMopJ3s"
+    },
+    {
+      "keyword": "pahadi chicken kabab",
+      "mentions": 2,
+      "id": "GA_QNVihq8c"
+    },
+    {
+      "keyword": "afghani chicken",
+      "mentions": 2,
+      "id": "HidR0VzBO8U"
+    },
+    {
+      "keyword": "prawns dish",
+      "mentions": 2,
+      "id": "BJfoLqhTcy0"
+    },
+    {
+      "keyword": "biryani",
+      "mentions": 5,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "egg chilly",
+      "mentions": 2,
+      "id": "R4LYqwGhS0U"
+    },
+    {
+      "keyword": "mutton",
+      "mentions": 2,
+      "id": "wTzZHO32I30"
+    },
+    {
+      "keyword": "ambience",
+      "mentions": 6,
+      "id": "JGvrBjVCxMw"
+    },
+    {
+      "keyword": "friendly manager",
+      "mentions": 4,
+      "id": "BOZHPj9NgrY"
+    },
+    {
+      "keyword": "food quality",
+      "mentions": 3,
+      "id": "ANy51bJICSk"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKcVVuUXpPV2M1ZFRsT2JteE5RVFZCZGpZMVMyYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOjJqUnQzOWc5dTlObmxNQTVBdjY1S2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T19:51:54Z",
+      "iso_date_of_last_edit": "2026-10-27T19:51:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcVVuUXpPV2M1ZFRsT2JteE5RVFZCZGpZMVMyYxAB",
+      "user": {
+        "name": "Suyash De",
+        "link": "https://www.google.com/maps/contrib/117775332811224967670?hl=en",
+        "contributor_id": "117775332811224967670",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX-U3rmITN62JmFZR8xLJ9u83PWDAG0ZVA_XFG3byAf22kS2rk=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 10,
+        "photos": 178
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWRmJXOVBOMTlVWjFoVVFUTTNkemxPT1VGdWVtYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOlVFbW9PN19UZ1hUQTM3dzlOOUFuemc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T08:46:47Z",
+      "iso_date_of_last_edit": "2026-10-25T08:46:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRmJXOVBOMTlVWjFoVVFUTTNkemxPT1VGdWVtYxAB",
+      "user": {
+        "name": "Deepak Gowda",
+        "link": "https://www.google.com/maps/contrib/105834963686541716565?hl=en",
+        "contributor_id": "105834963686541716565",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXLVM1x1dc_vz7cCtTi6dFVJZDHtvaWXrjGPBs7p6kNrXPxaDE=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 9
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oNVZsZHhZa2RXUVRSaVdqVmxZMWxZZURac2QwRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOnh5VldxYkdWQTRiWjVlY1lYeDZsd0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T04:14:26Z",
+      "iso_date_of_last_edit": "2026-10-21T04:14:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNVZsZHhZa2RXUVRSaVdqVmxZMWxZZURac2QwRRAB",
+      "user": {
+        "name": "Eranga Lahiru Wanigathunga",
+        "link": "https://www.google.com/maps/contrib/109954079685272240594?hl=en",
+        "contributor_id": "109954079685272240594",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX2krZ0u0AOERo0grsN-hCmjjrNmsR5YzfHQvdkFfCaEYGA8B-9=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 12,
+        "photos": 81
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21jMlYzRktZM0Z3Y0hWSFNVMDBlWHB4ZVdvNGRYYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOmc2V3FKY3FwcHVHSU00eXpxeWo4dXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-08T01:19:57Z",
+      "iso_date_of_last_edit": "2026-10-08T01:19:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMlYzRktZM0Z3Y0hWSFNVMDBlWHB4ZVdvNGRYYxAB",
+      "user": {
+        "name": "Manas Banerjee",
+        "link": "https://www.google.com/maps/contrib/105148883102525813762?hl=en",
+        "contributor_id": "105148883102525813762",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWdr26SDgrbmnziEWbQQJc-kojdiqQP4M3gogUfCcMpEcWF9uo=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 69
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kc2JuWlBSM1JUU2pONlJrMU1kbXBrVjBFMExWRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOndsbnZPR3RTSjN6Rk1MdmpkV0E0LVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-02T13:00:54Z",
+      "iso_date_of_last_edit": "2026-10-02T13:00:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kc2JuWlBSM1JUU2pONlJrMU1kbXBrVjBFMExWRRAB",
+      "user": {
+        "name": "Namish Gaikwad",
+        "link": "https://www.google.com/maps/contrib/107565795225931289903?hl=en",
+        "contributor_id": "107565795225931289903",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXpPvvQklOoFeLXm0TNNDtgNyYnIVw1HHHNbJspvMCibTjxhWY=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 46
+      },
+      "likes": 0
+    }
+  ]
+}

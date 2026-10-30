@@ -1,0 +1,3361 @@
+{
+  "restaurant": "Clay Bistro",
+  "data_id": "0x3bae1d6611382485:0xd2f76e5fd6d82382",
+  "google_review_count": "125",
+  "reviews_total": 100,
+  "reviews_with_text": 56,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 0,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMVNtWnZlVTlGYlZoQmVuQjJSWEZqUTNSSWIxRRAB",
+      "author": "Nitish Saha",
+      "author_url": "https://www.google.com/maps/contrib/117097675985027067457?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 2,
+      "author_photos_count": 50,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T15:01:59Z",
+      "iso_date_of_last_edit": "2026-10-28T15:01:59Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25vMVNtWnZlVTlGYlZoQmVuQjJSWEZqUTNSSWIxRRAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOno1SmZveU9FbVhBenB2RXFjQ3RIb1E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUk4wSnZZa05sWDFaWFZ6bDBhbmRLWkRnMVZtYxAB",
+      "author": "Nilufer M",
+      "author_url": "https://www.google.com/maps/contrib/109792097144026249793?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 55,
+      "author_photos_count": 13,
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-09-30T08:30:44Z",
+      "iso_date_of_last_edit": "2026-09-30T08:30:44Z",
+      "text": "Nice place to sit out and have a chai",
+      "text_original_language": "Nice place to sit out and have a chai",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KUk4wSnZZa05sWDFaWFZ6bDBhbmRLWkRnMVZtYxAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOnJRN0JvYkNlX1ZXVzl0andKZDg1Vmc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCd1Mwa3RVMk0wVW1vMVJFZ3lkbVJSTUZWVlRsRRAB",
+      "author": "Kartikeya Patil",
+      "author_url": "https://www.google.com/maps/contrib/109550174212019081741?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": 88,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T13:24:54Z",
+      "iso_date_of_last_edit": "2026-09-27T13:24:54Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCd1Mwa3RVMk0wVW1vMVJFZ3lkbVJSTUZWVlRsRRAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOjBwS0ktU2M0Umo1REgydmRRMFVVTlE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQmJuWlJiV2x4VVUxTVluUm1lV3h5YzJkTU1XYxAB",
+      "author": "Amulya Nagraj",
+      "author_url": "https://www.google.com/maps/contrib/116441430729517992986?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T11:50:01Z",
+      "iso_date_of_last_edit": "2026-09-27T11:50:01Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,800–2,000"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toQmJuWlJiV2x4VVUxTVluUm1lV3h5YzJkTU1XYxAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOkhBbnZRbWlxUU1MYnRmeWxyc2dMMWc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205V2RIVktYMDVWYkVJMlNEbE9kazl6V1RkWlRsRRAB",
+      "author": "Rubiya k 0111 Dr",
+      "author_url": "https://www.google.com/maps/contrib/102386942001014657832?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T15:29:55Z",
+      "iso_date_of_last_edit": "2026-09-14T15:29:55Z",
+      "text": "Worst experience ever\nMushroommatar masala is worst and giving bitter taste",
+      "text_original_language": "Worst experience ever\nMushroommatar masala is worst and giving bitter taste",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 3,
+        "noise_level": "Moderate noise"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205V2RIVktYMDVWYkVJMlNEbE9kazl6V1RkWlRsRRAB!2m1!1s0x0:0xd2f76e5fd6d82382!3m1!1s2@1:CAIQACodChtycF9oOm9WdHVKX05VbEI2SDlOdk9zWTdZTlE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNVgyaEVlREZ5Y0V4aGNtZEtaRkJmTm1KNWNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-08-30T21:34:02Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMWVreEVaRTVWYUVoTldtcHlTbGR4Vm5KV1dGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-08-30T09:20:58Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWU9EUlBOSE5IVXprMmRVTjNORE5KTUZsT2NFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-28T15:46:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkV2JEQmpaazVZT1cxaVVYWmFaUzFtZGxoSFduYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T03:48:47Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0U2NFbzBibmxvVkdoamNXaGxZbVpEWDJnNE0yYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-20T08:01:15Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOZk1sVlphSE5LVWt3MGVYTnpla2RZTkdkb2RsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-17T08:15:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "The worst , don't deserve even one star. Pathetic took 40 mins to serve me a burnt pizza and didn't bother when I just walked out",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214NFdEWk9YMloyVEdVeFptdGZSR1JxVlZoSmRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-06T02:41:43Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tseWVWaFBSR3hJVjBFNVpXVlBTM2RHY1d3Mk5rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-01T14:49:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Not good service.... Rude behaviour with customers...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWM05HWTRNMHBRZFdsVFlqbDFia0pPTlhnM1VWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 36,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-29T15:11:19Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WcVNXdGtNWFJPTlVaellWSnphRWhIUzIwNFRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 23,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-24T09:10:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pathetic food as well as experience.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nek1IcGhiWGs0UlhVNE5YRllPRGhYYW5OSVZXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-01T03:27:29Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTVFXbEdZV1poUjB4Q05ucG5YMWhGV25sMVJVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 55,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-12T17:15:52Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSTFVTMHpSMDFDUW5GMFUwbDFUbkJ3Vmkxa05VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-02T17:39:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseFNFWnBXRE5ZYVUxQk1WWTBabEJZWkZsM1NHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "6 months ago",
+      "iso_date": "2026-03-30T12:19:10Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eVVuWmpNR1ZaTlVoMFlrRkVWMVZoV0ZWdFQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-22T14:43:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Waited 40 minutes for 1 ginger tea here , went back without having it at last really disappointed with the way you guys provide service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prelMyMHhTMDV3ZDFKTGJYQlZRMUZrUjJoa1oyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-22T14:42:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "I ordered a simple ginger tea and ended up waiting 40 minutes with no service. Eventually, I had to leave without even receiving my order. This kind of delay for such a basic item is very disappointing—service needs serious improvement.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGa1EwZGhOVEJRY3psR2VWQlFNM1JqZW05S1pWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-15T14:34:06Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVVdVMHlSRXBvTlV4dmNuZG1Samt6UlVKRmNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-14T13:03:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "They won’t take even a proper service for food we waited more than a 40min after that we canceled even she is not consent regarding costumers very bad service they have n she didn’t bother",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCc2VVUjFkMmhZVDJrd1RFNUJka2xoT0hKUE9IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 60,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-02T02:16:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcE9EaGtja1l5TUVwMmQyOXFZbWhzZG1SWVRHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 313,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-27T08:01:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Just finished eating an excellent punjabi and north Indian food. Tea is amazing and so is aloo paratha.  Butter chicken and indo Chinese food is  also great.  Proces are resonable and service is fast and clean.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSXjydoExHIl_4q8CsM3m9Vs1Kb33qWH7Qf8oyXvHsYwwKqszoHKUuouvfYoKr2bbygIqn8HSQUXkTWgwPEIFc7GZPxZY7MsetPzZGlEEMgPoWtwk3gr37A4F-bYOBdOc3NUQ--O6aRjLW=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMWNqRjBaRVUyVDBreFkyWkJZa3N6Y0VkVFNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 25,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-07T03:38:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good but it should be better",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvelNWcFRTR2RmUkdkSWN6VjVla2MwZVdONWFtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 105,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-27T04:19:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWME9IRlhSMUkwVVZwVFpEZFpTRkZVYWpreGNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 34,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-22T13:56:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "I’ve had many bad dining experiences, but Cafe Clay Bistro stands out for all the wrong reasons. The food was not the issue — the manager’s behavior was extremely rude, dismissive, and unprofessional.\n\nInstead of listening to a genuine concern, the manager chose arrogance over hospitality. (Highlight is she was fighting for 2 marie biscuits because she was upset that instead of me eating those I gave it to a stray dog) No empathy, no accountability — just ego. It’s disappointing to see a place lose a regular customer over something so avoidable.\n\nCustomer service reflects the values of a restaurant, and sadly, this place failed completely. I will not be returning and wouldn’t recommend it to anyone who values respectful treatment.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5TE5sTldOVE0wV2tGNlpGVTJTR3AxWmtJNVVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 92,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-19T16:31:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Don’t try veg sandwich you will get nothing but tomato.\nVeg Momos was okok",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kelZqVjRaamRJZW1RelNESldXR1EzVEdJMExYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 89,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-27T08:07:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRFR6TlVSRTVvZGtkeVZIUlhkblpqU1V0U05tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 40,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-07T15:08:09Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swemRHTnBjRWxyUlRaUWFHeEdYMVJsYW10dFJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-06T18:41:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "All is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21abFFsSjBjV2x0UkhwMk4yeE1lSFI0VEVGVlRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-06T05:37:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Awesome food taste 😋 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wM2RGRnRhQzB6U0hwMWFUVjViV0oyWkdoelRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 171,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-04T10:19:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Atmosphere rated as 4 as it was not Air conditioned. The pictures to be honest makes it look a bit fancier than I felt it was in reality. Food was quite good. I had an aloo paratha and an egg white cheese omlette. I requested for a ingredient edit which they did well.\nThe reason for the low service score despite their timely servicing my food is that while I was still eating my paratha the lady came and asked me if she could take the pickle container..While informing her that I was still mid way through my paratha, I actually did ask her if that was the only pickle container they had. Sharing this as there seems to be a lot of negative reviews on the service front.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc98fRBSL3dBm2kyOcgg9TZLXuGGXngk9lKTTAewgU7cvcuJcIHsZwTzt6p7xaXS3u0j67NNJNoMLdLksmHyDFJJhHPqDSWlMTulxn7edOupsPNYtxCbsC_Xhb5tQVYrPSUXYh6jdCDPXOd=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wclJFVjNhMGhRWW1SSGJFRkpUMmN4ZWtWU00wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-29T11:02:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food quality is very inconsistent. It can be 4 one day and absolutely bad 1. The owner is very polite however the food taste has to improve. I have found their chicken to be stale and veg noodles to be absolutely bad on some days. It’s overpriced aswell.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMlJrNXFTbVZ6TldOb1prMHdkV3BqWkU5TldtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-01T11:21:51Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOeVZYUlJPV1pKUTBaWWNsZEdSSGhqVWtsVE4xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 69,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-19T18:44:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food, good vibes and reasonable price",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 8,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-uS_4dqxxJCFU96kWnW04omfynKMtrdfNpPnTWn4-j_k1h4ZI_3WsTiEd5VTaXYeU7igV9x_I7yEHRyBKR_GIPFuVypFpMSvdtC3hu3M2p7BAb63YKZlGHMP6qqxbr5T8MNr_YG_4ZPj1=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejzfhiMNstKy6QsrwQLeSot5LTXEA1c0Tyf8_CNJC_NWzQVe1-WtwMD3eFDDlPar5OsSLLQMioAEmnHfSeDoPnA_xYbY5OxIpXD1dkPBfhm3rt9ezOec8doMPK6lkmF1JorxuYioOqdKzq=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoe4W5DCAmiUMWUMjAqSXcIOcU6AQh6A_ovxT-6AfZ6mTmqSYOnnPm8iXVJ80QIUGfXgNhvIXzu1K9M7wug7FWAOaY176unh0y4JTUX6FPgaMykQEks-0OXXQGz16wzTBH7bGB6hfEJ-YS=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWrquvBYa8X5-eHGVk8YmhgksDBMRt9jV-Aj4NcG_fnswI9ITVfDiV2EY0TlPzxRnE_ujAEu16wLOWODyGuJA23oOXCApxWGZa8uaWIJgALFIC2k8KCjEDQmdKSy6LGDA1BYBh4z9R_bfE=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeW9HyaFeSTViwaPNVrxAdzVm-0jX8gW1p8hmGMkZb5NjW1rdBDn30xr6FFDGo8Xkc7J-7y2H9kG5XdvF-vAG2lWXFLZooCT0U-EtDaMihXEAhmz22uY0_nEXhGr32tWI_UEHzSf9OrfjDv=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrL0gwTimUhODKuozBEXAVp-QLA17Ze6PTWvJ47ugGHL63ZCEItLUjLNOWA6g9yfmGYN1XHUOKFO64R7UXNWjhZegUD3po78F5DXnj09cMdGu35nCUklubCE6UacPIyWZg85pxk3MvWQiU=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLLLw_0IsLvkLtm1Vrl2sj7O05HQuzOMZzzNr_Tsfp2i3F6v-Ek5L7kBggemPrTqT7-AUg2FKFe0RCFw60Y-17dr8Zr4v2fVYnUC8qRYfibtRFn5vsfKO76JwGXWHP183LMTmG5BrApAI=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcD09r4YMefy4UAn1xIgnx8dMXrhx5_cPiQ8pqmh_BKAsVyab7wVROoNOIjYlOtmMpdP-z1KWKp-xQuCexb8gcVyfdZ7Z7E_De6P9fAUSaMeADhXrq9uTbXf1T-i02wfTUtRST36cYBaWy3=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMk9FRkJZbUZhTlRRelVYbGFTR3A1Vnkxck1YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 20,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-09T14:23:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food, great people, love this place",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMFVtdHZiM3BoVldWRWVYaGxaa3B1VERCZmVFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-05T12:41:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very bed everything 🤨😰 cashier is very bed 😒 he/she no smile on face 😔🤔 I am going 15 time up but very late order 🤔 I am wait more then 20-30 minutes daily 👈\nVery bed experience with clay bistro. Please I request to owner  please  change cashier  no to please tell to cashier  she the order time 🙏",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Hi Jitu, thank you for your honest feedback. We’re truly sorry for the inconvenience you experienced with our service. We take your comments seriously and will address this issue with our team to ensure faster service and a more welcoming experience next time. We really appreciate your continued visits and hope to serve you better soon. 🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDOwcVG4vKbbQW8U0q0K7x9zT4gJKxgjNB3zqXrDrA7l9NzjhcnCOvy_oQP8b8fJjeCDXFs6GVFx8KlLPbD_uRSCfs7De0T7ap9g0AiU8ZeMvUDs9xFLjdBdy6NwXRuwrPUkAmYSOHKie-=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6WwdlT_jVRICK_p9aMuwrJ1zYs7iFlNzAGgTVKLa8aI4d-CIzIZcI2Zx5gJl89E9Axtso-3kHDsvOvFWXpXk5gdVPFBjUTpryo2B-VwAGYVLAXDV1n-VPqsPXuVL4NcoO7JWjDmAB_f_Z=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Od1JGTlZUR1ZPUjJsdlJWRktTSGROTTAxWE0zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-28T11:18:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service is not good food is not good very very bad restaurant",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRlJrRnBSazlpYzNFeU1WWkZWSEZ5Ykc1Q1RVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 43,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-22T08:39:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "The atmosphere and service were good. However, the food was average in taste, and the chicken fried rice, in particular, was not up to the mark.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear, sachin thank you for taking the time to share your feedback. We’re glad you liked our atmosphere and service, but we’re sorry the chicken fried rice didn’t meet your expectations. Your comments help us improve, and we’ll work on enhancing the flavor and quality of our dishes. Hope to see you again soon! 🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNz-nxpsAnRJKFnqndKHMljat1emym9zpFCycHdnhNhvrwoBtFPA7tKGicbY-xZ32erey1Qh7hszzFSCc_OuigWWfLX7aVjYp1QWYTpmhhW7GmbT0KkJAvDRLVE1D5HQPwp2-cU04CJ-7s=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTTZG14EwTnt8Aarl-NM2mIe5fl_tIjfe9UzJhRk3FPpumuWyNP-VeJC92fhZf3bR3HOmkHbarp4XwcpvSon1CwXshQlLLhjQqxdqdWSSyhRhB3bhA1bfsDT4h3gtze8009NzuzLTSuMVL=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVGRXVTRhVk5qWDFaalMzZzFUM1psZEhwRGRYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-26T04:02:21Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NGJHUlBiMDQzYkZGd1YyUnRVSHBDT1ZSbVpWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 198,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-19T06:47:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice small place to have good food, snacks, tea.\n\nPrice is affordable.\n\nFree delivery available inside Brigade Orchards.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Joe! We’re glad you enjoyed our food and found our prices affordable. It’s great to know you appreciate our delivery service inside Brigade Orchards. We look forward to serving you again soon! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpk_KKv68SlXnkx79MXhIjJkAVQ3QEzTmVKTj9BOKYRt8Mubi5oNHpv5sEkpoq2AM-ch-RyE66VSXVlJ3bGuc5JfrfNDcwlEe-1uiVn-gtIgNm09AMDS56ZfV9QX2MaAahes0Qq1vJguKm=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj3MKS3S4lO9iR7kN-iwo84KeFLkhNEj6AuKEjDwbm6k7yO2U7TApoBsuA9OKYgPWlm84fZXUG-1W-_wrQvHHT9qvX-xJv0zh04NfGZnfNVI6Y47t7C96sVBHJWuKkAbZroHFTvihXYgNg=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdWJGTk5NR016UzIxek1UWk5NMlF4ZFZsb1ZtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-10T12:51:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Chicken Lollipop is a must try!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TGVIZ3hVVnBPTjBGd2RqQXhRWHBTVFhsS2FFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-09T07:11:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Just visited the place , very nice place and good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twME9HVTNhMkozYm1GMlpucEtiMDlsYTJZMGFGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 360,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-08T14:20:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was average\nItatlian food could have been better",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear, Sahithya, thank you for taking the time to share your feedback. We’re sorry to hear that our Italian dishes didn’t fully meet your expectations. Your comments are valuable, and we’ll use them to improve both our food and service. We hope you’ll visit us again soon so we can offer you a better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGH5Cnz6q5McmT7nNtuidBgp7I8GYt25jM4FL9WqcvE-qSDQiWHSCdqEyp3Ba3_TzycmVsDuU6he7RCU3hHUFN7MBBCSFHj7SOOTDKj1dTYkb-8x5282Sc0bOKZRXWIJlYEjnkeJ2VfSNS=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecbMKIBHJoukNkcTJi9Lcpkpv9ufbpU5EiPGb6gz2Tr2udjkGAauXKWcafFEwu6QOyLZ4LORe7gIYJsu4NRjKUB5fkTPgq1ClMFUQrgzQZIqbAHILO5sCWebC67UxgjtnBw6-sj_vKgB0=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemQJPNKRxmfbGUgL4qDUzT4tpVjEvhlXpulcu4sh3itdMMFW9L3mII_GLjvHT4PyPCI6UFXwTQtE2YaSfYnq40E3TSEsukivCidq3GPpzjYun_zwJ0-OIcWT5ijZv1TJpyP4DgwPD6IXT4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ST2QyTXRURXQyT0RkRlFrUXpjMlF4TldrNWVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 55,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-06T13:15:15Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201UlgxbHVZMEZOUlhoMFJraGlRM0pVWVdGbVZYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-07-17T13:02:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Super taste and best service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25waVpXcGxWekI2ZW01V1owUlVMWFJyTkRKVFpIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 104,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-07-05T11:25:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Clean and hygienic. Although they forgot to include cutlery, they were still willing to deliver it to my door, which is good.",
+      "text_original_language": "乾淨衛生，雖然忘記放餐具，但還願意送到家，不錯",
+      "language": "zh-Hant",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cd1VIQTNZa041TFZFMVEwRnhlakZYWVRKeFMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 110,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-26T08:34:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VONmk2X0RHOXZpYWV3EAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-02T04:52:48Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VLTEhzdDNUM3ZqLWtRRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 92,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-01T17:17:59Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VNeXdsb0Nndjg3ZGFREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-26T04:15:28Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VObi1sc3l4b2NtZjBBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-25T15:34:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "The inclusion of a Chinese menu is so thoughtful ❤️",
+      "text_original_language": "出現中文菜單，非常貼心❤️",
+      "language": "zh-Hant",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 5,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeH6ntXvtyQeApaNfFrQ_KpRY4I4ET5WMiCNK-uVEWgQ7W8gkiktFJcuWc7R-xk9f-vVcpdty9QlFBtocFQZrHsnMgVRpC1p7537Y8vVUXjM-Ekb0n85Ma-BGrNM43VhYUok0B5Iw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-5NckajBbf9AiRtg975ERI5f-7rsQieZ2BuDQRoIvSgCuXxZ6Nu4g2l8RM_zgx2IJ33wz0sDXT7MBxL9gwHnc4H33jA3aVdX9rEjd0vwAVu3ylJfQUmhRRkdAfpaMwIrffMgx=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXggWKj5p1lFetrZkbOOYV4BAz_mAPnQWf9ShtsBAlBHaygYEGosfKSL02hGWfTILzrWzlMY3YU6xpn_BiJ2Hktaa8nNIdOn9l8_IQ54VLWvOK4_HQrGecb0TMrAv4Lw6CDgeA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8XSpdqK3GappqLv4lAzhD72-i5CEX6vktts5syAo-CLpL9dtIMt4W24wNkBWy_cV8ifX_fDG7KfveKa2erfCQMVCCPPD6w9-mXT7iGxBAN6HAoKuuS5ooi4G34WqfHnUXM8Usaw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWwsjbJClANaUm7kMNJNkLONogWWuuRjajVSwAOAYZMnVpIlPc36wpgJccNqZ0UJNzFQMv3B8rBJn89glkUIg0SI6E0mCNKucY5AafGoikm0s66LWPAD6cSM1eRNAhkyAOFXi5=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWNGFpVS1RRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 69,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a year ago",
+      "iso_date": "2025-02-20T10:31:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "I am a frequent customer of Clay Bistro. The restaurant is clean and organized, and their service is very good, all their staff are friendly. Their star dish for me is the handi biriyani, one of the best I've ever had, and I find myself ordering this almost every week.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your review, Jonathan! We’re glad to hear you enjoyed our service and found the food and atmosphere to your liking. We appreciate your feedback and look forward to making your next visit even better.\nBest regards \nClay bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnenJ5MDZBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-02-17T09:15:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "Such an awesome and amazing food, service\nQuality of food is too good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBbGVxZEJnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-02-02T19:14:50Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cElmZXpRRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 243,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a year ago",
+      "iso_date": "2025-01-19T10:46:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice vibes",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you, Sebin, for your kind review and for taking the time to share your experience! We're glad you enjoyed the vibes, food, and service. We’re always striving to improve, so we appreciate your feedback on the atmosphere and will work on making it even better. Looking forward to welcoming you back soon!\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNGZ1NTBBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 66,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-01-07T11:01:11Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you, Rishabh, for your 5-star review! We truly appreciate your support and are delighted to know you had a great experience. Your feedback inspires us to keep delivering the best to our guests. We look forward to serving you again soon!\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhJ683wn_qw2k4xQdsrVt1BGWSE7qNc8lEnsyGp8jLXGHIZqAAaTyX6CH0SAGfLn7oQw8uuKTHmmRs-g3peo8UYd9QxWnKG3SvJjUGgrK5FNVRNAGOnyR0c7DVAnT3ElsNuTr55g=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX9_BQrc4nyvxpSRNxuXzrTrPY0hkcKf39hjwgrGRhUvQACjbdtSGSTz3w098E3FrSclHIuRNoJ1VGKft2ShsCBeziRnV6p_h1TjCvuufvykbr6h2Gks9meFHg9eGnBVGtvc11=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIGFeAtCnBgOyiNEr4zx3m4IuHj7aMjH50RJfsmKuozWQE0jdkB1v1n3ehzTHCYNoLJgwUrOpsTC0yAZ5VQcDcUMYLSvPCS7YvdhLkMYzCVCMSqvw2B90w_9DDn5AmHiPd_d9F=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmOVo2SzVnRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-31T11:04:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Awesome north indian food. Great value for money",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you, Sankshep, for your wonderful review! We’re thrilled to hear that you enjoyed our North Indian dishes and found them to be great value for money. Your kind words about our food and service mean a lot to us. We’ll continue working on enhancing the atmosphere to make your next visit even better. Looking forward to welcoming you again soon!\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmd2NuQ0NREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-29T18:22:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Clay Bistro never disappoints! The food is consistently outstanding, the service is impeccable, and the atmosphere is simply unmatched. It’s always a memorable experience for our family, filled with great vibes and good times. Highly recommended!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Bhargavi, for your kind words and continued support! We’re delighted to know that you and your family always have an exceptional time with us. It’s our pleasure to provide great meals, attentive service, and a warm ambiance for your visits. We can’t wait to host you again for more wonderful moments!\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmd1pxdGtnRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-29T17:58:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Such an awesome and amazing food, service\nQuality of food is too good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Sai Nupur, for your fantastic review! We’re overjoyed to hear that you loved the food, service, and quality. Your kind words motivate us to keep delivering the best experiences. We look forward to welcoming you back soon!\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmLXVIQmFnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-28T10:13:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "The restaurant is very welcoming and has great ambiance, stuffs are very attentive and friendly. They provide tasty food at an affordable prices. I look forward to coming back.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Mythly, for your wonderful feedback! We’re thrilled to hear that you enjoyed the ambiance, service, and delicious food at great value. Our team truly appreciates your kind words, and we’re excited to welcome you back for another memorable experience.\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMHZYVkF3EAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-27T16:13:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "I had dinner in clay bistro it was Amazing",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Kallu, for sharing your experience! We’re delighted to know you had a fantastic dinner and enjoyed our dishes. It’s great to hear that Paneer Tikka, Dal Bukhara, Biryani, and Butter Chicken were to your liking. Your support means a lot, and we can’t wait to host you again for another delicious meal.\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2el92U3R3RRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 35,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-25T09:11:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was a complete waste specially the chicken roll. And the butter chicken was tasting like achari chicken",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 2,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Dear Akshat, we’re truly sorry to hear about your disappointing experience. Your feedback about the chicken roll and butter chicken is very concerning, and we sincerely apologize for not meeting your expectations. We value your input and will immediately look into these issues to ensure improvements. We hope you’ll consider giving us another chance to serve you better in the future.\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQeWZXenlBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-03T15:01:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Hidden Gem Of Bengaluru, Service is nice, food is too good and taste alot, We tried Dal bhukhara and Butter Paneer, here That was too delicious.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Rishu, for your wonderful review! We’re delighted to be called a \"hidden gem\" and thrilled that you enjoyed our Dal Bukhara and Butter Paneer. Your kind words about the service and food mean the world to us. We can’t wait to welcome you back for more delicious meals!\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQM3BiMmVREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-02T16:22:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst taste , worst attitude today I ordered chicken fried rice it is wet and worst taste I ever had in my life",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 2,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear T Jay, we are truly sorry to hear about your recent experience. We deeply regret that the chicken fried rice did not meet your expectations, and we apologize for the inconvenience. Your feedback is valuable to us, and we will address this issue with our team to ensure it doesn’t happen again. We hope you’ll consider giving us another chance to provide a better experience.\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaVp6ZllBEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-11-25T16:10:41Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Aadhi, for your fantastic review! We’re so glad to hear you enjoyed the food, service, and atmosphere. We’re especially happy that our Mac & Cheese Pasta stood out for you! We look forward to welcoming you back soon for another great experience.\n\nRegards,\nTeam Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzcWNMRGZREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-11-16T09:40:16Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your 5-star rating! We truly appreciate your support and are glad to know that you had a positive experience. Looking forward to serving you again!\"",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzNjRyWEZBEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 45,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a year ago",
+      "iso_date": "2024-11-09T10:23:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "The name of the cafe is chosen well. Food taste is average and the price is very high. There most important thing is that they don't accept card payments. The staff have not been trained well and when owners are not there i don't know what they are doing. They make you wait to long and when you get the food, the taste is not really worth it. Since in brigade you have no other choice we went there.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Vikram,\nThank you for sharing your feedback. We’re sorry to hear that your experience didn’t meet expectations. We'll review the points you raised, especially regarding service and payment options. Your input helps us improve, and we hope you'll give us another chance to serve you better.\n\nBest regards,  \nClay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaGVmZVZ3EAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-29T14:52:06Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you so much for the 5-star rating! We're thrilled to hear you enjoyed your experience at Clay Bistro. It means a lot to our team, and we look forward to welcoming you back for more delicious meals and great moments. If there's anything more we can do to make your next visit even better, please let us know. See you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuNV9mT1JnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 30,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-11T03:45:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Clay Bistro by Chef Sandeep is a hidden gem. Situated in The Arcade in Brigade Orchards, Devanhalli. Chef Sandeep has a great understanding of food and flavours which is very evident in the spread that is served. Butter Chicken, Mutton Biryani, Pasta, Nachos, Soya Chaap (the list is long...) are simply outstanding. He goes to great length in supporting and customising house parties too. Food is served fresh(piping hot), as per your pallette with all the support and condiments that one may need. What impresses me is the probing he does beforehand and the inputs that he gives to decide the menu or make perfect combinations.\n\nKudos to him and the team...!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much Amit Bhise for your thoughtful review and kind words about Clay Bistro and Chef Sandeep! We’re delighted to hear how much you enjoyed the flavors and variety in our dishes. Chef Sandeep takes pride in tailoring each dining experience to match individual preferences, so it’s wonderful to know that attention to detail stood out to you. Our team strives to bring freshly prepared dishes and seamless service to every table and event. We’re thrilled you felt well-supported, and we look forward to making your next visit just as memorable. Many thanks from all of us!\nBest regards \nClay bistro's team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURueVlmT2xnRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 30,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-07T08:21:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice service and the food is very tasty. Good ambience. Love it",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Kavita, for your wonderful review! We’re thrilled to hear that you enjoyed our food, service, and ambiance. It means a lot to our team that you had a great experience at Clay Bistro. We look forward to welcoming you back soon for more delicious meals. Thanks again!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoBR51k_J9aKC1FTbTv1jd3-CRMLbCqc483xn8HOO43urS4mAF5Ov5yU982V9dZJDyNU-2aoEksXfn-NNRXsN4ypp5tUgdTZyIB5DnUuzTGGcs8g201SF1jtYOtw-i7_YwtYc=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFkEFU7FrQZLFy8qgbsHmarUQfJIr4ib0NDXeN-DEeUK2TSuup0C6_sJzk63LZoBgdwzn3uKFbZxEHQIJmroGT2OSof-PfqicTOo_cz4EH7cOmS9RoN20rjOnSdXRq5OK70_GcQA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuZ2Q3b2FREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-06T13:24:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had a great dining experience. Staff is real friendly, ambience is good. And the most important stuff, food is delicious.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Arun, for the fantastic review and recommendation! We’re so glad you enjoyed the food, ambiance, and friendly service at Clay Bistro. It’s wonderful to hear that our vegetarian options stood out to you. Looking forward to welcoming you back soon for more memorable dining experiences!\n\nRegards,  \nClay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3M3JqckdnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 139,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "Edited 2 years ago",
+      "iso_date": "2024-10-01T09:22:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "Clay Bistro ….one of the few outlets at Arcade ……not much seating capacity But caters efficiently 2 nearby places Brigade Orchards. Managed by polite & courteous staff’s & a soft spoken Mgr at the counter. Food tastes gud …..value for money @ its bst….wish all the bst …….",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you, Samiran, for sharing your experience! We're glad you enjoyed the food and service. We'll work on enhancing the atmosphere to ensure your next visit is even better. Looking forward to serving you again soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNua29iQ3JBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 50,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-09-24T12:02:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Come here regularly for the coffee and food. Brilliant. Hope they remain consistent.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much P R J for your kind words and continued support! We're thrilled to hear that you enjoy the coffee, food, and overall experience at Clay Bistro. We strive to maintain the highest standards, and it's wonderful to know that our efforts are appreciated. Looking forward to serving you again soon!\n\nRegards,  \nClay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLghsbTIh4_WVJlMRokF33e2saUheu4ZhdHMScstK4juzuWZJrK-QqCekDD5-3c3sJvum3lOiaMKWyb3OK4QqmVRSmZZMCdRlp-SBlX23XubIjM3Z02Kx2kNmKs5us-nJFcu0J=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjESDTMZKcT0GVlf8JyYecK4Mzo7fxB1azSvWITOfUIAyt60hrgNBc0NZlgw4PYAN_PlQ9dCSjbhBtGSoVGcegQDJs_GBGtmKwBhnV9YQ357GzBz_3UgUKi7IV3LalyvEAmxYbcw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNub09fQVVBEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-09-21T17:37:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "We always had a wonderful night here.So I recommend all to try their schezwan chicken fried rice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you, Asang, for your wonderful feedback! We’re thrilled that you’ve had great experiences with us and truly appreciate your recommendation. It’s always a pleasure to serve you. We look forward to welcoming you back soon. \n\nWarm regards,  \nClay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNub0stWHNBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-09-21T17:37:23Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good place ❣️",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, G Sheliho, for your lovely review! We're delighted to hear that you had a great experience with us. Your kind feedback means a lot to our team, and we can't wait to welcome you back for another enjoyable visit.\n\nWarm regards,\nClay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNub0ktbFR3EAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-09-21T17:35:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Like have food and ambience 😁😁",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much Byte for your wonderful review! 😊 We're thrilled to hear that you enjoyed the food, service, and atmosphere at Clay Bistro. Your kind words motivate us to keep providing our guests with the best possible experience. We look forward to welcoming you back soon! 🌟\nRegard,\nClay bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIaDdmdGtBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 164,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-09-20T12:17:47Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Jayavant Prabhu\nThank you so much for your 5-star review! We're glad to hear you enjoyed the food, service, and atmosphere at Clay Bistro. Your support means a lot to us, and we hope to see you again soon!\n\nBest regards,\nOwner, Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIbGVTTG9RRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "Edited 2 years ago",
+      "iso_date": "2024-09-09T09:21:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Biriyani taste is ok ok..but too much of masala taste .. quantity is very good for the price.\n\nFried rice  (chicken and egg) is very good\n\nChicken fry items, over priced and quantity is too low for the price charged. For 325 rs, 8 small pieces of chicken in a small container,  and when we told this to the shop he was telling the container is big..😅",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Thunder 350,\nThank you for your review! We're happy to hear you liked the fried rice and found the biryani portion good. We appreciate your feedback on the masala and the chicken fry portion. We'll definitely look into that.\nSorry that the service didn’t meet your expectations, and we’ll work on it. Hope to see you again soon!\nBest regards,\nOwner, Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4t7NuMWiiICQNQUjVXzlUuvnT9yKsrI9Rd_lIF_0pTdQ7pUwi3dwAomWg-aXImGNh-a92h_j3vTqNsXUAphukyAH6L0gaKpUSa-wJHo0xnEfRpN1IqBU1vOM_MGt16iIoZ3zt=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelqqlNzTMOYKSesvWOIoJJcxx3JEJJ_ghZY0dAa_9UsCnOYuHLgG4E0IBTpqsou3es4tv7YumBZ7gw7wr21c18EMuJy9ckYn_0OUpkEpHqTl-0X0rjKhigP9ZTVhhm2o3rS4kj=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaWI2Nl9nRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 36,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-09-06T05:45:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Prakhar Jaiswal\nThank you for your review and for sharing your experience with us! We're happy to hear that you enjoyed your time at Clay Bistro. We always strive to improve, so if there's anything we can do to make your next visit even better, please feel free to let us know.\n\nWe hope to see you again soon!\n\nBest regards,\nOwner, Clay Bistro",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cHF1ZTNnRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 210,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-15T09:40:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "\"Cozy Haven with Delicious Food!\n\nClay Bistro is a hidden gem in Bengaluru. The atmosphere is warm and inviting, with rustic-chic decor and a lovely outdoor seating area. The food is a fusion of Indian and international flavors, with dishes that are both familiar and innovative.\n\nTry the clay oven pizzas and pasta dishes - they're delicious! Friendly service and reasonable prices make it an excellent value.\n\nRating breakdown:\n\n- Food: 5/5\n- Ambiance: 5/5\n- Service: 5/5\n- Value: 5/5\n\nRecommended!\"",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you so much, Chetan, for your kind words and detailed review! We're thrilled to hear that you enjoyed your time at Clay Bistro and appreciated the fusion of Indian and international flavors we offer. It's great to know that our cozy atmosphere and outdoor seating added to your dining experience. We’re glad the clay oven pizzas and pasta stood out for you! \n\nWe look forward to welcoming you back soon for more delicious meals. Thanks again for the recommendation!\nBest regards \nClay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchNEAgixHBliJjI67w1x0faJF5lRbCla-y73HBncr7O8oaiWUYD2ggiOKUyU85elr0RPv9wfP2wtFIfNoY_cmNTyb7LS-IM0ECDTfbs2f3FpymsXnr4UAalj9fj0rVXC-I9QY=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3Z0tUa0lREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-11T06:19:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice food and nice environment genuinely 👍👍👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Devansh, for your kind words and for taking the time to leave us a review! We're thrilled to hear that you enjoyed the food and the ambiance at Clay Bistro. Your positive feedback means a lot to us and motivates our team to keep delivering great experiences. We look forward to welcoming you back soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiZzVEaDdRRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-08T17:06:37Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice place to hangout with friends and family. They have all type of cuisine to enrich your taste buds.. our favourite is tandoori parathas and pot biryani a must try. Ambience has been upgraded and looks classy now..",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Sharvani, for your kind feedback. We’re delighted that you and your guests enjoyed our menu selections, particularly the tandoori parathas and pot biryani. It's rewarding to know our recent improvements have been well-received. We sincerely appreciate your support and look forward to welcoming you back.\nWarm regards, \nThe clay bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetjgkRBQ8oY7VDwqp0z-5ahL4gDUUuV5Hjq9M6pZvCLGzqTxQkw5hNXxvTQnacDBu9amb1j-0smPaiGOkQmzX2jJkeRfSc3l_H0fzDsd99ntUYQmyaIHpd2GUkFdicjjkLhX8=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiLW9pTVZREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-04T16:22:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "A World of Flavors\n\nClay Bistro is a culinary adventure. From rich Indian curries to sizzling Italian pizzas, the menu is a global delight. The ambiance is cozy, and the service is attentive. While some dishes shine brighter than others, it's a great spot to explore different cuisines under one roof.\nSpecial shout out the staff Chef Manoj, Papu, kheem and Sourabh they our outstanding and always smiling and very helpful too.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Natasha,\nThank you for your wonderful review! We're thrilled to hear that you enjoyed your dining experience at Clay Bistro and that our diverse menu and cozy ambiance met your expectations. Your kind words about our service and atmosphere are greatly appreciated.\n\nWe look forward to welcoming you back soon for another culinary adventure!\n\nBest regards,  \nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNzRYUkZBEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-31T10:56:41Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Jammu Jamnas, for the wonderful review! We're thrilled you loved the experience at Clay Bistro.\nBest regards \nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNzVtYy1BRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-31T10:52:06Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Md Saddam Hussein, for the perfect rating! We're delighted you enjoyed everything at Clay. Regards.\nBest regards \nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNy1HbWRnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-31T10:42:40Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Md Shahnawaz, for the excellent review! We’re thrilled you enjoyed your time at Clay Bistro. Regards.\nWarm regards \nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNzU3ZFZ3EAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-31T10:35:44Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Amjath Fayiz, for the glowing review! We're delighted you had a great experience at Clay Bistro.\nBest regards \nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNzQ2U2NREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-31T10:30:56Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you, Arsalan Ahmad, for the perfect rating! We’re thrilled you enjoyed the food, service, and atmosphere at Clay Bistro.\nWarm Regards \nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNzVqeExBEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-31T09:46:34Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Shahadat! We're thrilled you enjoyed everything at Clay Bistro!\n\nRegards,\nClay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNzRqVUZREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-31T09:42:13Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "\"Thank you for your 5-star review! We're so glad you loved your experience at CLAY BISTRO. We look forward to serving you again soon!\"\n\nRegards \nCLAY BISTRO Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiMC1HUENnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-29T16:49:54Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Fynix Badru,\nThank you so much for your wonderful review! We're thrilled to hear that you enjoyed the food, service, and atmosphere at CLAY BISTRO. We look forward to welcoming you back soon!\n\nBest regards,\nThe CLAY BISTRO Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNieGRteHVBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-29T10:40:44Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sumit Rai,\nThank you for your wonderful review! We are delighted to hear that you enjoyed your dining experience with us. Your kind words about our food, service, and atmosphere mean a lot to our team. We are also glad you appreciated the parking convenience. We look forward to welcoming you back to Clay Bistro soon.\n\nWarm regards,\nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicHBIclRREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 418,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-26T14:53:15Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi 何初,\nThank you so much for your kind review and for sharing your experience at Clay Bistro. We are delighted to hear that you enjoyed the atmosphere and that our food and service met your expectations. We continuously strive to improve, and your feedback is invaluable to us.\n\nWe look forward to welcoming you back soon!\n\nBest regards,\nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiX0kzYUZ3EAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 41,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-24T19:00:32Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Paul Mani,\nThank you for your kind words and recommendation. We're delighted you enjoyed your lunch and had a great experience with us. We look forward to welcoming you back soon.\nBest regards,\nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyNi1laTVBRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 102,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-20T11:23:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Owner lady doesn't know how to talk with customer",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear Sandeep,\nThank you for your feedback. We’re sorry to hear about your experience. We take customer service very seriously and will address your concerns with our team. If you have any specific details or suggestions on how we can improve, please feel free to reach out directly. We hope to have the opportunity to better serve you in the future.\nBest regards,  \nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyeU91bUhREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-13T16:44:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice food and beverage and service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Akhilesh Bori,\nThank you for your fantastic review! We're thrilled you enjoyed the food, beverage, and service. We look forward to serving you again soon.\nBest regards,  \nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6aHRENXZ3RRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-06-01T15:27:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "hi",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Kumar Veg,\nThank you for your five-star review and for highlighting our vegetarian offerings. We're delighted to hear that you enjoyed our Paneer Tikka and found the Dal Bhukara excellent. Your generous feedback and strong recommendation are greatly appreciated. We look forward to your next visit.\n\nBest regards,\nThe Clay Bistro Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    }
+  ]
+}

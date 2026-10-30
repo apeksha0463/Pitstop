@@ -1,0 +1,3104 @@
+{
+  "restaurant_name": "Samara's Veg Chikkaballapur",
+  "data_id": "0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb",
+  "expected_restaurant_name": "Samara's Veg Chikkaballapur",
+  "restaurant_name_matches_expected": true,
+  "google_place_id": "ChIJuVBbWgDvsTsR68CCfgSdzqc",
+  "address": "Chikkaballapur, Honnenahalli, Karnataka 562101, India",
+  "rating": 4.7,
+  "total_reviews_reported": 2102,
+  "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+  "reviews_requested": 100,
+  "reviews_returned_last_run": 100,
+  "reviews_collected": 100,
+  "last_run_id": null,
+  "saved_at": "2026-10-30T14:21:24",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aa01rOUhTREI0U3pOUllWRlhSbk5HTTBaeFlsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 hours ago",
+      "iso_date": "2026-10-30T05:32:05.993Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeFVtVkRaRzVYYldoRVkxQkVjbFY0ZFVGcWQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 hours ago",
+      "iso_date": "2026-10-30T05:19:17.468Z",
+      "iso_date_of_last_edit": null,
+      "text": "Idly Vada wud good and service is very we’ll tqLakshmi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGclF6VXhNRlk0V0RkVGJrMTJjbkJHTFhKdFVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 hours ago",
+      "iso_date": "2026-10-30T02:28:08.674Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice food\nJain food\n\nService by\nLAXMI",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaWNGaHJYM2x5Y2pkSGVuaHdZa0ZwVXpOVFZXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 hours ago",
+      "iso_date": "2026-10-30T02:23:20.838Z",
+      "iso_date_of_last_edit": null,
+      "text": "Rava idly and kesari bath is very good and services is a exalent and Lakshmi talking to nicely",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVldHVlpVa0ZJWjFkaWRrWlBNbTU0TTJ4MGJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 hours ago",
+      "iso_date": "2026-10-30T02:19:00.870Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and service was very nice and good  lakshmi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dmJrTlNjVmQwYTJzeVpsazVhVW8wZG1reVFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "22 hours ago",
+      "iso_date": "2026-10-29T09:56:02.566Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for taking the time to share your feedback and for rating us 3 stars. We’re sorry that your experience didn’t fully meet your expectations. Your feedback is valuable to us, and we will work on improving our food and service. We hope to have another opportunity to serve you and provide a much better experience. 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNFVXbHZTMXB2V2tNeFVqazVTbUpsVTE5amVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "23 hours ago",
+      "iso_date": "2026-10-29T08:22:03.580Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food taste is very bad meals is prety ordinary",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback. We sincerely apologize that our food and service did not meet your expectations. We’re glad you liked the atmosphere, but we understand that the overall experience was disappointing. Your comments are important to us, and we will take them seriously and work on improving our food quality, taste, and service. We hope you’ll give us another opportunity to serve you better. 🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5S1kzUmFSVFpvVEZkV1FYbFRVa00wUjBGU2NsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T06:57:51.640Z",
+      "iso_date_of_last_edit": null,
+      "text": "nice food pls can an visit\nLakshmi and suman both good service and very nicely talking tq Samaras teams",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 😊 We're delighted to know you enjoyed our food and had a great experience with us. Special thanks for appreciating Lakshmi and Suman for their friendly and excellent service. Your kind words mean a lot to our entire Samaras team. We look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dFZsZHhOVXBDTkcxRVFqQnJkVlpoYVVFMlVuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 35,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T02:58:48.254Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! We truly appreciate your support and are delighted to know you enjoyed our food, service, and atmosphere. Your appreciation motivates our entire Samaras team to keep delivering the best experience. We look forward to welcoming you again soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCQmEzVktTalY2WVc5SFJuRnNXblZrYm5aVFprRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 133,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T17:17:55.316Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback and for rating us 4 stars! 😊 We’re delighted to hear that you enjoyed our food, service, and especially the atmosphere. Your support means a lot to us, and we look forward to welcoming you back soon for an even better experience! 🙏✨",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrNWVrbFNaRnBLVDFGM1YyMTRlRFp5VHpkYVRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T07:19:54.971Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 😊🌟 We’re delighted to know you loved our food, service, and atmosphere. Your appreciation motivates our team to keep delivering the best experience possible. We look forward to welcoming you back soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMlZUVllaa3RCYW5kd1RrbDBNbXRLWTJJM1dFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "Edited 2 days ago",
+      "iso_date": "2026-10-28T04:56:35.800Z",
+      "iso_date_of_last_edit": null,
+      "text": "Visited on 03 Oct 2026 with family while travelling on the highway.\n\nThe restaurant had a standee promoting a special dish – \"Samaras Special 'A' Dawat (Kabab platter)\" – but no price was mentioned on the standee or in the menu. We ordered it assuming a normal price and were charged Rs. 800, which we came to know only when the bill arrived after eating.\n\nThis is not about the money. Many travellers and families stop here, and promoting an item without showing its price is not fair to customers – once you have eaten, you cannot refuse to pay. Every item, especially specials on standees or boards, should have its price clearly displayed.\n\nTip for others: ask the price of any \"special\" dish before ordering.\n\nHope the management takes this feedback positively and displays prices clearly.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback with us. We sincerely apologize for the inconvenience caused by the lack of clear pricing for our special dish. We understand that transparent pricing is important, especially for families and travellers visiting our restaurant. Your concern is valid, and we will bring this to the management’s attention to ensure that prices are clearly communicated and displayed wherever possible. We appreciate you bringing this matter to our notice and will take your feedback positively as we work to improve our customers’ dining experience.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMDiWcNBZ56lmJOLNwLA-3RNXAxd7oGpaZAlBuXwI2MvC5-LdwngtnUbmbx0pblHZ1J-GJHsaUAMnlExQnrG4vve-0MwdcFURiHf4_4FVBr90U_mSzjkiJYc6U5V6OiuXY0UNtAgC5zPua=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSGJVMWhTR3RUVVhJNGRrcEVSMWN4YTA4M1ozYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T03:37:30.022Z",
+      "iso_date_of_last_edit": null,
+      "text": "We got a very good service from Lakshmi and the team. Food was also very good. Happy to give 5 stars.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 😊 We’re delighted to hear that you enjoyed the food and received excellent service from Lakshmi and the team. Your kind words mean a lot to us, and we look forward to welcoming you back for another lovely dining experience! 🙏✨",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMmR6Wm1RME4zUjFaaFEzTkpjVk14TkdkcWFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T02:44:10.705Z",
+      "iso_date_of_last_edit": null,
+      "text": "Stopped for breakfast ordered dosa and kesari bath. Dosa was upto the mark. For family it's a nice place to hangout for children play area is there and restrooms are good 👍.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback with us. We’re glad you liked our family-friendly atmosphere, children’s play area, and restroom facilities. However, we’re sorry that the food and overall experience did not meet your expectations. Your feedback is valuable to us, and we’ll work on improving our food quality and service. We hope to have another opportunity to serve you better on your next visit. 🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOM1QzSm5MVTV5VVdWbWFtWk9ZMnBvVjJOQmFIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T10:04:10.223Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your wonderful rating! 😊 We’re delighted to hear that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTVdYUmZNRkUzWXpGUVFUaEtiMnhwUm5ScE0zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T07:52:37.212Z",
+      "iso_date_of_last_edit": null,
+      "text": "It was costly, taste was okayish....",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback. We’re sorry to hear that your experience didn’t fully meet your expectations, especially regarding the taste, pricing, and service. We truly value your feedback and will work on improving these areas to provide a better dining experience. We hope you’ll give us another opportunity to serve you better in the future.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SR1JTMWhVVnBpTnpWNlVVdzVUbVJWTUU1elJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 285,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T07:23:15.667Z",
+      "iso_date_of_last_edit": null,
+      "text": "Taste wise not so good was just average\nI suggest u to give taste for the price given",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your honest feedback! We’re glad you appreciated our service and atmosphere. We’re sorry the taste didn’t meet your expectations, especially considering the price. Your feedback is valuable to us, and we’ll work on improving the quality and taste of our dishes to offer better value for money. We hope to have another opportunity to serve you a more satisfying experience.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdVVDMW9ZMEY0YTA5dWNUWkxXVEprYUdOWFVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 53,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T16:07:13.172Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good place for breakfast. But finding place to sit difficult.\n\nService is slow. It takes at least 30 mins to get the food to table from the time of order.\n\nThey need to increase the servicing staff.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback. We’re glad you enjoyed our breakfast offerings, but we sincerely apologize for the difficulty in finding seating and the long waiting time for your food. We understand how frustrating this can be. We’ve taken note of your suggestions regarding seating arrangements and service staff, and we’ll work on improving our service efficiency to provide a smoother dining experience. We truly appreciate your feedback and hope to serve you better on your next visit.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zNVpIZGtRa1E1VUc5UlgxTTJkM3BzT1VGd1NGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T09:21:06.855Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good and even service was very good\nSimi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 😊 We’re delighted to know that you enjoyed the food and had a great experience with our service. Your kind words mean a lot to our team. We look forward to welcoming you back soon for another delightful experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sV1pWSjFUVVZQYjI5a1JYWkdiemh3VTB4eVRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 556,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-26T01:32:58.673Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 2,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback. We’re sorry to hear that our food and service did not meet your expectations. We take your comments seriously and will work on improving both to provide a better dining experience. We appreciate your feedback and hope you’ll give us another chance to serve you better.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnd1kxWlJTbkJQYVRoWFJqTklNVzFZUTBScmEyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T17:16:17.762Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good atmosphere , good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your wonderful 5-star review! 😊 We’re delighted to hear that you enjoyed our food and atmosphere. Your appreciation means a lot to our team. We look forward to welcoming you back soon for another amazing dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_qv45GG5wQ_3uTN1yFiTpLkQsClKkot9qB3FUi9h7DYPruJS--iUfQpuph3gvUXnvjywYA6tPTV1FPkeeQoPnOb8its5QRFotabE0R4--b93S2xwxjzA-Zfkm-afV6-V7PKF0rPRA-HqS=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRWRHTlpYelYyWHpGdVdGOVFSRlI0ZUUwelRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:07:51.677Z",
+      "iso_date_of_last_edit": null,
+      "text": "Explain by simi food very good and gd service tqsomach",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much, Simi, for your wonderful 5-star review! 😊 We’re delighted to know that you enjoyed our food and service. Your kind words and appreciation mean a lot to our entire team. We look forward to welcoming you back soon for another great experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGa1JWbDZSbWxxWVRscFpYQk9kbXRIVW5Gb2JYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 255,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T15:57:49.480Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food, saambar can be better.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback! 😊 We’re glad you enjoyed our food and appreciate your suggestion about the sambar. We’ll definitely work on improving its taste to make your next visit even better. Thank you for helping us improve, and we look forward to serving you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRU9WWnhUM1JLZWw5bFNVbDJTVk0yUTNaVFUyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T14:34:54.377Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 2
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We’re sorry to hear that our service did not meet your expectations. We value your comments and will work on improving our service to provide you with a better dining experience. We hope to welcome you back soon and serve you better next time!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObVUwNWFOR1o1ZDJaRVZsTkhhR3BETWpoS1pWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T09:22:00.396Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your wonderful review! 😊 We’re happy to know that you enjoyed our food, service, and atmosphere. Your appreciation motivates our team to keep doing our best. We look forward to welcoming you back soon for another delightful dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdmIzQlZaVTVNU1ZodlJuaGllRmhaVm0xd2VWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T09:00:21.721Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good sauth mills and d exilant simi service ta",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 😊 We’re delighted to hear that you enjoyed our South Indian meals and received excellent service from Simi. Your kind words mean a lot to us and will surely make our team happy. We look forward to welcoming you back soon for another amazing experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTlQxOXlPVTFKVVZVMGRXOXdPWFYyWlhsUmFuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 68,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T06:53:10.069Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your lovely review! 😊 We’re glad you enjoyed our food, service, and atmosphere. Your support and appreciation mean a lot to our team. We look forward to welcoming you back soon for another wonderful dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkT2JrSTNOazlKWW1aM056WlJabGxwVlZvd1RuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 25,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T06:00:30.976Z",
+      "iso_date_of_last_edit": null,
+      "text": "stewards have a very high attitude. They clearly prioritize well-dressed customers - those people got their food immediately while others were just left waiting.\n\nI ordered a single Masala Dosa and had to wait 20 minutes even though the restaurant was not busy at all. When I asked about the delay, the cashier and steward just told me to wait more without any apology.\n\nVery disappointing and discriminatory service. Will not visit again. Management needs to train their staff.\n\nMy details\n\nTable no 21 time 11.15am  payment made bill amount 340 this details are for to track the sterward who served our table .\n\nWhoever is visiting there must wear good clothes look offical then you get the service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "We sincerely apologize for the disappointing experience you had at our restaurant. This is certainly not the level of service we aim to provide. We’re sorry for the delay in serving your Masala Dosa and for the way your concerns were handled by our team. Every guest deserves equal respect, attention, and courteous service, regardless of their appearance or attire.\n\nThank you for sharing the details of your visit, including the table number and time. We will take your feedback seriously and look into this matter with our team. We also acknowledge the need to reinforce proper customer service and professionalism among our staff.\n\nWe truly regret that we fell short of your expectations and hope to have an opportunity to restore your trust in us.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGc1NYQnhkV0ZDZG10MmRHVkpRM2xITVMxd1RrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T02:12:12.393Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your 4-star rating! 😊 We truly appreciate your support and are glad you chose to dine with us. Your feedback motivates us to keep improving and provide an even better dining experience. We look forward to welcoming you back soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todlZHdGtWak5hZUdoelUxUkxaMncwTTFOSGVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 20,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T09:12:30.519Z",
+      "iso_date_of_last_edit": null,
+      "text": "Hello Simi,\nFood was good in taste with nice ambience\nMust visit once.\nThanks",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello! 😊 Thank you so much for your wonderful 5-star review and recommendation! We’re delighted to hear that you enjoyed the taste of our food and the ambience. Your kind words mean a lot to our team. We look forward to welcoming you back soon for another memorable dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZNU0wOU5NemRqVDJkbFdIUkhkazU2ZVRBeVpHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T08:58:37.265Z",
+      "iso_date_of_last_edit": null,
+      "text": "SimiThe best hospitality was shown to us.Thank you !",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! ❤️ We’re delighted to know that Simi made you feel welcome with excellent hospitality. Your kind words mean a lot to our team. We look forward to welcoming you back soon for another memorable dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVE9UWkdkRjh4V21sWGF5MDFRbEo2ZDJkVWNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T08:24:26.901Z",
+      "iso_date_of_last_edit": null,
+      "text": "Thank you Lakshmi mam",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊🙏 We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to us and motivates our team to keep delivering the best experience. We look forward to welcoming you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlYwaHpXSFYyYm01MmJVUmFkRzlGYVV4SE5GRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T05:26:43.344Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your amazing 5-star rating! 😊🙏 We’re happy to know that you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to serving you again soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxU2MzcDVSRGxJVDI4M1lVVm5ZbVEzTlV4RFVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 42,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T02:40:51.408Z",
+      "iso_date_of_last_edit": null,
+      "text": "Stopped at Samara’s Restaurant near Honnenahalli while travelling from Bangalore to Mantralaya, and it was a great experience! The food was delicious, and the ambience was excellent. The restaurant is spacious, clean, and family-friendly, with a comfortable atmosphere for kids as well. It’s an ideal place to take a break, relax, and enjoy a good meal during a long journey. Highly recommended for families and anyone travelling on this route!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful review and recommendation! 😊 We’re delighted to know that you enjoyed our delicious food, pleasant ambience, and family-friendly atmosphere. It’s great to hear that Samara’s Restaurant was a comfortable stop for you and your family during your journey from Bangalore to Mantralaya. Your kind words and 5-star ratings mean a lot to our entire team. We look forward to welcoming you and your family again on your next trip! 🙏❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbldVSllhSEZRTlZaNGNXSlRTbEJoZFZCTmMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T16:09:15.147Z",
+      "iso_date_of_last_edit": null,
+      "text": "Exilanat service by simi tqsomach ang gd food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 😊 We’re delighted to hear that you enjoyed our food, service, and atmosphere. Your kind words mean a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTVRteEhablZFZFhNeFEyNWpXRzU1TWpZelRsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T13:21:35.559Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your 4-star rating! 😊 We truly appreciate your support and are glad you had a good experience with our food, service, and atmosphere. We’ll continue striving to make every visit even better. Looking forward to welcoming you back soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TGExUjFlR3h3WjIwNFh6WnZSRzh4UTFOM1JGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 509,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T12:10:12.296Z",
+      "iso_date_of_last_edit": null,
+      "text": "Samaras Veg, Chikkaballapur – A Good Vegetarian Stop on the Highway!\n\nA spacious and well-maintained restaurant with good interiors and ample parking. The restaurant offers a good variety of both South Indian and North Indian vegetarian dishes, and the food tastes good. The ambience is pleasant, making it a comfortable place for families and travellers.\n\nWell maintained washrooms.\n\nThe pricing is on par with Bengaluru city restaurants, but the overall experience is good.\n\nRecommended for vegetarian food lovers travelling on the Bengaluru–Hyderabad Highway near Chikkaballapur. A convenient and comfortable stop for a good vegetarian meal!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for sharing such a detailed and wonderful review of Samaras Veg! 😊🙏 We’re delighted to know you enjoyed our food, ambience, spacious parking, and well-maintained facilities. Your appreciation means a lot to our entire team. We’re glad we could provide a comfortable dining experience for you. Thank you for recommending us to fellow travellers on the Bengaluru–Hyderabad Highway. We look forward to welcoming you again soon! 🌿❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 19,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVSiqUEuJ-EOUT27o1EOHddk7S60MXU3OYZOT7RWdmVM_bmspwQR7m2gzT05qoMlIIU8sUIxGIUldeJBZtyf84cLkf4Yfqhc0otHpR8DS6FZ6AB_ns_G6QqrCnl-rF3GYtUq3RDVhOUkKL=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaG18ie8dLuV-Eo2wxsf-H0KeArGj_bE7u9d_-PpwPyGtsNGU0_8WJNHPHmvP7b9rtIl-Zj8G9ifJ6eKUvI7nwpfwD07aoOnD5gpnY4o7IbFp2OyJozt2BdykCDPTqQhjLCXEPL-_ZYshW=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-q_DIUyXbkYLIn2m5XMkm4ZmayKJOXC_b3zQFiyorPHkXKnmH2I5p9dn6597_9JQY9ax_SbJ0FnMew87Aqy81H88bhbp0v_ut4UPscwYW-c__TH3V12ZWcDXbnqHk37qlXS21iXysrMWn=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDLU5cC1NDXrOYg5R1GxYX_K0BCpq9LtqLaMxXjRxc__b2n9cIGTo5l4F4VtFloXXwamDavh60gI7HoasjvNzOD29nCRaskjuXre_nABalGQswwmXOeGrDUthojfzafimQzVChMlw8dvA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMpk3MA6lYVAQ1hk6EipFH4HdSIogCFIrDYuivvreocOR-19WYBx0H_gFEq6I_dVo3yhr_De3SI79IMUPbKC4ATkLavIDswRpsOAfkI0sL79xUaCT5K4yoZIblXTWcajQfZhe1c2GNfiFQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWwuNO60Ycmy76N_UyADgx8WWJg9ulZf6Gl-d82onMQfGejjDFbCGps1aaAAQ3rGNiDU3E8seJ9JF2lRI0xGKc_o0V9BuKRENqEMuwgCUYDb1o7vjYOPhMmIXlugPCSqpRG5n08-w5gAFh=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRKWiK9v8wh7w8miEn2rEzVgJKKyXMWnoISMQae3R0oVEW2kOYQUlt4BtNPngVJcObPnOH8yPZo8-yKiwAXqZRG5MZpveHM_zwkomlA6WCD2CgS-yYCThTxM8xNWe5hC7N2qvs1i8ZfmY=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeL-dfOIg8qSozIaaW09WiPC9xzIQoYs1mkncs6dLcQSoUS-cXDHJCMB5SH012L4z7gcqM74rryECOK4BFvnwhX8T_580MmZH6XqQBrjqX5-JN5UGwdpUIbc3dYVVnIYHxWeUvE2Jql26Uo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeStswQOh8toq5uaR3CEv6GYeo-gIWXkL_O-1j4hLa1E8wW8IyiCvJrsdKuWsDe900CjfYMZPHPG2Zl8excQqXZy1y-aQ4a7QW-cgLIP8RaoKFmN-BQjiAAJ-UkB_3-YdT8Sj7xqap4LzoT=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnt4Gc5OR6I3j0HoTLhyM9W2PpdNP16_Y271Wn029RYby2FTJ2xJRAeNiphWZOeOKx-8U33M4p4BrcFRSqo9AJo7GVlKlV0JU8P5jgkp7KBfqyZwZwaq9NqA-Jvir2vonfd_wZjrtbDRt3=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeElMK2LIfIi6zQKxDjmD2rRC6BpDjhQuPVO5sgFh6dpF0vCmeZ98Bv1x0r8ca9NeucV2gYGv2rfNHFHZSkg94PMqa7H6OLyfiO1goIXVbhs4XpiBk-Af6tNJpdO93kP7pXNKXOdRl-sEQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLff4fZiKm-8fprjBQcSqkc3mTYXW75OE37qpiWbLtdbcBJrveNNaUTdVHuE6vySdqgOLVMt59HVfSzLudukEsEluRmvRz-uXGt5L2krQI_uCnaaqqu-H64hTZnWdJraEcQYxA2l18tuJyc=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdc9HCIv1lp17UO0ack6n1cEykNWFDAJj8MrduYBGQXhDxT08Ch0eI5g795DgUU-eoBqfVItjc29MV3ypeYAWjkA57paH3JDGpK5O92dQhk9nfGx6R_QHYv3rZf5K8UiOB6w479AnBp6tE=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdc4-KSVcZYuK32licpPBHiqTKyaw0US3DLiV1MZyORL0oSw3UeUSrO-MMG0TIP1YhnVAvMDZe8WgVPnu1udnqJlOsdZDMxh6q_vaJ7sepavtV05sy_L40BdW7EHSEbMLJ4EN2_4Zoshzo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmUjBDnppA19uAhkV91_3xdhOv325UI67ILr1-4O4cS3UXkEQFCjFPi4y6KoGfjqjT3jMVJjqj7zfhx0Bpbp2k1kLwFkI8YUouRc3zCCNa5tLqvWawuDp7FW8L3nUs_79O1LAkihroeDza=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBWLAkmVZmL0yFuvH0BlzxUS1720nmigcE2DTdcHmbDzYPKF5o1I_CpC6FUtUr_-3irF1D6yiA-8lk0U0dFM3aCS3tbm37e7ITcbW65ShAun0rcO6P3_-5XJmbxdYDeevzitaQj4bYNU1t=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiQWgqzzfu827hVGqix9bBOhI3_k-acGCwSYdc5KDp-8H4kP5FXkOrVSCzl6F2SwMo__R0uOfe9Ixn9iLMMmS6caK-xObGB82pT90loYTfGkO8a6uuPcp2uQnjb8XA50ITjdYqEka0flwx=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmQtebqtjxK5smMUOHqmi6KZKY9UzjJgkrukuLSITncnD2LdC1_o3zC-upahudeWTr0rmlpjKkgVwek-3fLUVJs2dEXQrvExJto-D3rJ55b20rIlEHZyqMTLsMChddM8zb6vSANrExdBGf=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYa_LBeX77dmuxYsyTw357fqaCqSGuAri4fsZBSE0DKfuGs36eSIWrKGgn9sM3nV7sv_80fSZXF05zMPhiyobGMi-gMqXAiVLD6GaBsjuZhpDfIOA1dJ9u02TKqSq8WY6SK2u_VsyvLH0b=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMVdIVmtWakp0TjJ4RFJFaGZMVWd5V0ZsaGQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T10:36:02.847Z",
+      "iso_date_of_last_edit": null,
+      "text": "Simmi's service was excellent, the food was really tasty and the ambience was so aesthetic personally loved it",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your lovely review! ❤️😊 We’re delighted to hear that you enjoyed Simmi’s excellent service, delicious food, and aesthetic ambience. Your appreciation means a lot to our team, and we’ll be sure to share your kind words with Simmi. We look forward to welcoming you back to Samaras Veg for another wonderful experience! 🙏✨",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVkxVMXpibmxTT1RWNldrcG5UM1JRTm5sYU0zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 29,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T10:19:49.139Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback! 😊❤️ We’re glad you enjoyed the ambience and had a good experience with our food and service. Your support motivates us to do even better. We look forward to welcoming you back to Samaras Veg for an even more delightful experience! 🙏✨",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaVlXSnljREpJZERsYVMwVklibmRSZDE5Qk1rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T09:48:19.869Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service attendant simi was  very kind and attended all the customers very greacefully",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback! 😊 We’re delighted to hear that Simi made your visit special with her kind and gracious service. We’ll be sure to share your appreciation with her. We also value your feedback on the food and will continue striving to improve. We look forward to welcoming you back to Samaras Veg for an even better experience! 🙏❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJeU9VbEpiamxvVURVMVQzYzNlazl4WnpOWGRYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T09:07:00.546Z",
+      "iso_date_of_last_edit": null,
+      "text": "I don't recommend the food was very bad in quality and taste service is good.i ordered veg platter crispy corn and kichdi was too bad I we don't like to visit again",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "We sincerely apologize that the food did not meet your expectations. We’re sorry to hear that you were disappointed with the veg platter, crispy corn, and khichdi. Your feedback is important to us, and we will share it with our kitchen team to address these concerns and improve our food quality and taste. We’re glad you appreciated our service and ambience, and we truly regret that your overall experience was not satisfactory. We hope you’ll give us another opportunity to serve you better. 🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRM1gzaHpaMHhSVGs1ZmQxQk1jUzFVZDNGUFFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T09:06:16.147Z",
+      "iso_date_of_last_edit": null,
+      "text": "Simi begum was amazing and warm. Great service and food.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 🌟❤️ We’re delighted to hear that Simi Begum made your visit special with her warm hospitality and excellent service. We’re also happy that you enjoyed the food and had a great overall experience. We’ll be sure to share your kind words with Simi. Looking forward to welcoming you back to Samaras Veg soon! 😊🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTmJFdDRSa2wwWDFoc1IxbHZNMWhCUm5GMGRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T08:45:39.256Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is very tasty",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you so much for your 5-star rating! 🌟😊 We’re delighted to know you enjoyed our tasty food. Your appreciation means a lot to our team and motivates us to keep serving delicious meals with love. We look forward to welcoming you back to Samaras Veg soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OblV6UnBWMk52ZGpCTFZYVmxaRkphTlZKUlRrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T07:34:16.885Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you so much for your 5-star rating! 🌟😊 We’re delighted to know you enjoyed our tasty food. Your appreciation means a lot to our team and motivates us to keep serving delicious meals with love. We look forward to welcoming you back to Samaras Veg soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTVRUTXRjbkZMUVhKSlMxcHpVakZOUm1kaU4zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T02:39:11.018Z",
+      "iso_date_of_last_edit": null,
+      "text": "Serviced by Lakshmi\nBeautiful taste and ambience..\nVery very very hygiene place",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 🌟😊 We’re delighted to hear that you loved the taste of our food, the ambience, and the cleanliness of our restaurant. We’re glad Lakshmi made your dining experience special with her service. We’ll be sure to share your kind words with her. Looking forward to welcoming you back to Samaras Veg soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMVgyOUhjVkJzWm1jMFRtUnVVR1J3YjFkUVRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 21,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T02:26:52.539Z",
+      "iso_date_of_last_edit": null,
+      "text": "Miss Lakshmi’s handling of order was very good.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 🌟😊 We’re happy to hear that Miss Lakshmi handled your order so well and made your experience enjoyable. We’ll be sure to share your kind words with her. Your appreciation means a lot to our team, and we look forward to welcoming you back to Samaras Veg soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnMFh6SXdVa1p6WjNKbFJHdHBhVFJmVVdocGJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T19:00:55.062Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poR1FscFVNa2RPU0daaWRUSk9SRGhQYjBjNVluYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 30,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T17:10:04.539Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback with us. We appreciate you taking the time to review our food, service, and atmosphere. We’re always looking for ways to improve and hope to provide you with a better dining experience on your next visit.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSQmFsVTVkVXBYVEdnMlluZ3paVFpDY1dScGVIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T16:29:56.704Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very expensive and not worth. North meal cost 295 rs. Two roti and two curry and a sweet. A small bowl of colour rice its rotten definitely left out from yesterday. Better avoid this most of the restaurants are like that only. Koteshwaram is better.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "We’re sorry to hear that your experience did not meet your expectations. We take feedback about food quality, freshness, and pricing very seriously. This is certainly not the experience we want our guests to have, and we’ll look into your concerns with our team. We appreciate you bringing this to our attention and hope to have the opportunity to provide you with a better experience in the future.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZNFprOWpMVmgwVkZWUVNWRlpWSGxNYmpsa1ZWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T15:56:24.027Z",
+      "iso_date_of_last_edit": null,
+      "text": "Welcome presentation by Simi was very good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your wonderful feedback! We’re delighted to hear that you enjoyed the food, service, and atmosphere. We’ll be sure to share your kind words with Simi. Your appreciation means a lot to our team, and we look forward to welcoming you back soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNVIyZE5jbGhKZWtNNGEzZzJhUzF6WmpGWVQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T15:50:27.270Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tqsomach simi begum exilant service ang good food cude rice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful feedback! We’re delighted to hear that you enjoyed the food, especially the curd rice, and that Simi Begum provided excellent service. We’ll be sure to share your kind words with her. We look forward to welcoming you back soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NVdHMUNVMkU0Tmtodk1qazRjSEp3UTA1b1JVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T15:42:01.784Z",
+      "iso_date_of_last_edit": null,
+      "text": "Simi: Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WM01VUnFURmRJTWxSRFVXMXpkemswWTNwVWMyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T14:35:12.729Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4dFpIbEpabWd5WTE5NVRtdFBPVEJyZFY5TFExRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T14:29:35.051Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5V1oxUndORmhvTkVkS1oyMVdiV3BUYkhoMmNrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T14:20:58.656Z",
+      "iso_date_of_last_edit": null,
+      "text": "Simi, great service!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poelREbGlVaTB6U0UxamIzUjZhbDl1VEVFeU1YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T14:14:42.267Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good service simi tqsomach",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbmRWOUZZWFpYTTBOd05uZ3hVMnd3UzBwbmIwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T13:56:32.343Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTVNFTklUV3hHTUVNM1EwOVBZV2Q2VVdGbGRYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T11:48:31.004Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent south meals",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JeE9VSTRVV05TYldSdlpIVnFUemhHV1VGWlZtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T10:45:17.113Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and a pleasing ambience can draw customers in but poor service can undo all of it. That is precisely what disappointed my family and me during our visit to Samara's Veg.\nLet's start with the positives. The restaurant has ample parking space and a spacious dining area. The interior has lots of tables and a charming fountain too. I was quite pleased with the restrooms for being well-maintained and clean.\nHowever, while this seemed nice, once we ordered our food, that's when the quality of the place came down a lot. We ordered a plain dosa, poori and a butter masala dosa. When I recieved my plain dosa, I was discontented to find it cold. The waitress then informed me that I had been served the wrong order and we asked to take the dosa back. This was frustrating, particularly because my family’s orders had arrived and they had already begun eating. My family's orders came in time and they started eating but I had to wait for 30 minutes before I finally got my order. Although the dosa itself met my expectations, the 30-minute wait and the mishandling of my order had already soured the dining experience.\nThis experience left me wondering how crucial good service is to a restaurant's well-being. The food can taste amazing, the atmosphere can look engaging and the location can be perfect. But if the service is poor, the entire experience will not be worth it.\nI would kindly request the management team to improve their service quality and ensure that orders are given to the right table. I would also ask them to assure the food is hot and fresh rather than cold.\nI hope the management takes this feedback seriously so that future diners can enjoy the experience this restaurant's ambience and food promise.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your detailed feedback. We sincerely apologize for the incorrect order, the delay, and the inconvenience caused to you and your family. This is certainly not the standard of service we aim to provide. We’re glad you appreciated our ambience and facilities, but we understand that timely service and serving fresh, hot food are equally important to a pleasant dining experience. We will share your concerns with our team and work on improving our order accuracy and service efficiency. We truly value your feedback and hope to have another opportunity to provide you and your family with the experience you deserve.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paR0xVcEJjbWMxUVRSQmJHSk5MVUpUVDBKTlRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T10:43:42.073Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was really good and the way they welcomed us was also warm which was hosted by Simi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your lovely feedback! We’re delighted to hear that you enjoyed the food and our warm hospitality. We’ll be sure to share your kind words with Simi. Your appreciation means a lot to our team, and we look forward to welcoming you back to Samara’s Veg soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toT1duWTRTa1IwVlV0dFEwZGpVVXBXU0Y5YVRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T10:14:09.468Z",
+      "iso_date_of_last_edit": null,
+      "text": "Exilant service by Samee Ang Gada Peresant Tacon Tick",
+      "text_original_language": "exilant  ಸರ್ವಿಸ್ ಬೈ ಸೀಮಿ ಅಂಗ್ ಗಡ ಪರೇಶನ್ಟ್ ಟ್ಯಾಕಾನ್ ಟಿಕ್",
+      "language": "kn",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful feedback! We’re delighted to hear that you enjoyed the food, service, and atmosphere. We’ll be sure to share your appreciation with Simi for her excellent service and hospitality. We look forward to welcoming you back to Samara’s Veg soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Vd1QxUnpRazlrTmpkSGVsQjFSbGc0UVhFd2JWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T10:01:42.143Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your feedback and for visiting Samara’s Veg. We appreciate your support and are always looking for ways to improve our food, service, and overall dining experience. We hope to serve you even better on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdVRrRlFRamRxYm1waVdtcGpNRzVhZGxWRFdWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T09:48:32.307Z",
+      "iso_date_of_last_edit": null,
+      "text": "Simi- food was good and budget friendly good ambience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwek5EazNjalpLWjBkbWFWbFVORFpLY2xsclMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T09:43:21.422Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food. Service was good by Simi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKelpFRmZkVXhvUTJaVU5qTkNjM2RHZUROb1JIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T08:23:57.617Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good ambinets",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your kind feedback! We’re glad you enjoyed the ambience and were happy with our food and service. Your appreciation means a lot to our team. We look forward to welcoming you back to Samara’s Veg soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8L7u-OrZEOp-xFfWP0261x3d3iPXZjb_67xAdswSbKjqXvV4zGDGjcK7lpbzI8QHzIQk7xPOYuQO8h1Yo7b3TwnJqGC5zZpEzKcP0UvaH4RkkyMyj3533DeTEBsNwqm61OV5ceToNXI5O=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaWQwRktaM0JwVDAxUFpXUjNjbWw1U25ZeWRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T08:11:44.917Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice ambience and good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful rating! We’re delighted to know that you enjoyed our food, service, and atmosphere. Your appreciation means a lot to our team, and we look forward to welcoming you back for another great dining experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMlVEWjFhMngyYUhaaGRtOW5ObXhUVjNKTk5uYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T04:17:15.844Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback and for rating us 4 stars! We’re glad you enjoyed the atmosphere. We appreciate your feedback on the food and service, and we’ll continue working to improve your overall dining experience. We look forward to welcoming you back to Samara’s Veg soon!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkb1prVTJVVmg2VTFBMWJIcFdRMjVhZUhCZlUyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 207,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T16:37:15.744Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star rating! 😊 We’re glad you enjoyed your experience at our restaurant. Your feedback means a lot to us and motivates us to do even better. We look forward to welcoming you again and making your next visit a 5-star experience! ⭐🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toV1YxbDVkM2hMU0hSbVNuVXhTVGg1U21VeFpsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T08:21:52.900Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful feedback! 😊 We’re delighted to know you loved our food, service, and atmosphere. Your appreciation means a lot to our team and motivates us to keep doing our best. We look forward to welcoming you back soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKZlpEQktOM3BXVkZabVMzaFFaMFpLZDBkV0xVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T08:01:53.610Z",
+      "iso_date_of_last_edit": null,
+      "text": "Hi simy\nYour staff and services so good and food is so tasty.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful feedback! 😊 We’re delighted to know you loved our food, service, and atmosphere. Your appreciation means a lot to our team and motivates us to keep doing our best. We look forward to welcoming you back soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSE1IRXhUVTV6U2xkRmNsWmZReTF3UWxVM2EwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 51,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T06:26:29.196Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful feedback! 😊 We’re delighted to know you loved our food, service, and atmosphere. Your appreciation means a lot to our team and motivates us to keep doing our best. We look forward to welcoming you back soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNVFWUXdUMmxyUVc5UFpsTjBNRzFKVFVSMFRHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 268,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T00:51:07.428Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good place for good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback and 4-star ratings! 😊 We’re happy to know you enjoyed our food, service, and atmosphere. Your support means a lot to us, and we’ll continue striving to make your next visit even better. We look forward to welcoming you again soon! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WM2VqZEZZMUZxV0VKNlMyOXJVa3g0V0V0eGVHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T20:42:06.653Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Thank you for sharing your feedback. We’re sorry to hear that your experience with our food, service, and atmosphere did not meet your expectations. We always strive to provide our guests with the best possible dining experience, and we take your feedback seriously. We would appreciate the opportunity to learn more about your visit and make things right. We hope to welcome you back and provide you with a much better experience next time.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkb1JEVkVlbkJEY204dGNWZEdSWGszVWxobFNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 62,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T17:34:11.019Z",
+      "iso_date_of_last_edit": null,
+      "text": "It's too much price but taste is good recommend for once or twice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback! 😊 We’re glad you enjoyed the taste of our food and appreciated our service and atmosphere. We understand your concern regarding the pricing and truly appreciate your honest opinion. Your feedback helps us improve, and we hope to welcome you back soon for another enjoyable dining experience! 🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twQ1NIRmFNR05PWjJKT1dEaE9UVE5XV21oMGFtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T12:08:26.151Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊 We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsS1gwVlNMVFZ2ZUVkR1QwRTFXbTU2VkU5cU5uYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T10:54:49.165Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊 We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWmFUQllPWFpOVTBrNFNWWlFkbTVyUkY4M2JHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T09:32:17.144Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice monaj service is nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊 We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbGIyOUVhek5wVkRaaFkxUktWMnBLZEZoUVNIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T09:24:46.893Z",
+      "iso_date_of_last_edit": null,
+      "text": "Everything food is very good and exilant service by Seemy tnx",
+      "text_original_language": "Everything food is very ಗಡ ಅಂಡ್ exilant ಸರ್ವಿಸ್ ಬೈ ಸೀಮಿ tnx",
+      "language": "kn",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊 We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMFJqSllOVmRJUTI1VFpuUjFka05WYUhFNFFVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T09:11:14.577Z",
+      "iso_date_of_last_edit": null,
+      "text": "Simi  is a good bohaver and gd service by food tqsomach everyone stif",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊 We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNUxXSkVVMEpCVkU5blIyWXRkRE00TjFOT2ExRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T07:54:50.685Z",
+      "iso_date_of_last_edit": null,
+      "text": "Simi is good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊 We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkaVgwRkJZbkZ1VkdWUlJGbEpNM0JoZW1jMFdGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T07:29:29.792Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊 We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GcmRFOVpRalYyZVZoMmRsSTFhRUk1Um1GR1EyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T07:08:38.217Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was delicious.Simi  welcome parsent tacon excellent tqsomach",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! 😊 We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to our team. We look forward to welcoming you back soon for another great dining experience! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xobWVtMHdTMjVrTFZWcVoycEpUMlJyT1RVNGQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 38,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T05:15:56.938Z",
+      "iso_date_of_last_edit": null,
+      "text": "Expensive!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback! 😊 We’re glad you enjoyed our food, service, and atmosphere. We understand your concern about the pricing and appreciate your honest opinion. We’ll keep your feedback in mind and hope to welcome you back soon for another enjoyable dining experience! 🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kT01IWmtka3RFTmxwM056UldXWFZZVFZsTE5VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T05:01:21.493Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had a pleasant experience at Samara's. Akanksh Sir help us with great recommendations and ensured the food was given on time.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful review! 😊 We’re delighted to hear that you had a pleasant experience at Samara’s. It’s great to know that Akanksh Sir’s recommendations and timely service made your visit even more enjoyable. We’ll be sure to share your kind words with him. Thank you for your support, and we look forward to welcoming you back soon! ❤️",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSFpHSmxUbWhQYjNGSlpsbHRaa1phZURkRlVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 430,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:03:19.051Z",
+      "iso_date_of_last_edit": null,
+      "text": "Best place to have some great food on Bangalore to Hyderabad highway, hygiene is well maintained, great ambiance and great service too.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 😊 We’re delighted to know that you enjoyed the food, ambiance, hygiene, and service at Samara’s. Your kind words motivate our entire team to keep delivering the best dining experience to our guests. We truly appreciate your support and look forward to welcoming you again on your next journey between Bangalore and Hyderabad! ❤️🙏",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 8,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQMJRuo8PPVKOc8FkxPU9WIHThJhiQOdb2hrC_iprN6q0cP06fpBM5teRqezH0LhkchIFUI0DgTE05AX7mHeXUZx_2ydTUqpR3sDI4F1JgEQjyQxpiLNwD8RdFhA1MoIjL1hHJq8eHXXM=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeudhQAcIcK-FdJrKoWf1sL9kfWllgzyfcdy0R4n4v19BPxIghniUlPw52c88cVWHB9NPe1mJ6FHo82bywFTzA2INK3976hIc1PKf3zyOT8EvCOf5ZUH3VLixU6sP1jPPPa_LeIjvBDT29=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxQ7Gugks-7s08B_GxyQ1i-spYQD8aFYP-fTHVyf7ZTqk_9g1mZCAkgjkgt2kbkjNQX1MJq88lY19yvF50ZUnEW76rv-rYvK5IEcVvHWgVK1gJ7fhifn_sOWeYo6DUKyIcNBsOxBG4_0-y=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDXMxCaOdVRmWNRgT-xW0lc2OO1zn0fJo72X1jnFijh5pZHdlCBJ58dmuw6Or3wDK0iOKzGj-LYIY_Q5iDkPpAlD9JAuRx6JAjLwRuNIPY0qBWj4VkA6THM-JZkA5LTwTtWQ6-wHV7u28=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf48F5iAuyucTClX6wHiTgn-1kRA4SmP0oYKkUojNpwFa-5GysSCPhiv6sdV9ze63fQr7MaaqRJ5BcLPBrFiEnDgm8hDvvImM4TI5n09hVAc7yhUAlmza8QmbnnEliIBwPiZMJFe0nqevA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO1-lgUwhzVph5ovmJtmLGQZiCt1S00AUHOu9i5pZTgW4xsih6wXyOu6V4_0454igO4BWUvWyf6i8sdQdXxUcyReCcZ4wczb_UgzWqKy3-UEOmo027Mdw4h5n3HjbBVil6DdQNY2q8X00l=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdO2KJqbR14Q45hVhclx8JTHjmrOxwMe5DhExjlqV9OzVcfHG1uOkliUlXlIUIJuPXyIUgb9oAhTxxigCVa9P-VQHateucjUMFc7O2imxWgQl9-5RhOFfhtJh6mbGem8x5wZWMEACv5PEw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ1OoELwVKalrEYl8rLD3TcQcFiUhfIt-pzjNAT2LJ2wNN6fr-2lXqdaABHgQYxwyDtcQdwtBArokubpVAjw7P13pJkU2RJS5hT0FqNt99UZ0r-o9bNefcVhXKhrMB_9MCup2lfOuaeGg=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkS1ZrUm5XV3RIV0VwTFl6ZHNZMVF6WTFselpuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T17:31:55.744Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! ⭐⭐⭐⭐⭐ We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to us, and we look forward to welcoming you back for another great dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GTU5tY3hhRlJCTFVKU1lpMHRVRzE1Y3paaVUwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T12:04:24.284Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! ⭐⭐⭐⭐⭐ We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to us, and we look forward to welcoming you back for another great dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWV2JXMTZhRU10WlhwVWJXczNTVWxrZHpSc00xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 30,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T11:30:10.974Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very poor service.  Food is ok.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "We’re sorry to hear that your experience with our service didn’t meet your expectations. We appreciate your honest feedback and are glad you found the food satisfactory and enjoyed the atmosphere. Your comments are important to us, and we’ll work on improving our service. We hope you’ll give us another opportunity to provide you with a much better experience. Thank you for sharing your feedback.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WS1ZHazJaakk0Vkhjd2FEUXdTVWhNZG1aVVdtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T11:20:59.698Z",
+      "iso_date_of_last_edit": null,
+      "text": "food was ok, but service was very poor..very delayed food, wrong items delivered.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "We sincerely apologize for the poor service, delays in serving your food, and the incorrect items delivered. This is certainly not the experience we want our guests to have. We take your feedback seriously and will work with our team to improve our service and order accuracy. We truly regret the inconvenience caused and hope you’ll give us another opportunity to provide you with the experience you deserve.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnNFNuTldSVGh0TTNWU1UwbHRSbGh6YTE5NGExRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T08:09:40.405Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was nice. Ambience was peaceful and service is good..",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your wonderful feedback! 😊 We’re delighted to know you enjoyed the food, peaceful ambience, and our service. Your appreciation means a lot to our team. We look forward to welcoming you back soon for another lovely dining experience! 🌟",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMmVsZDFjbkJMTFRCVlQzWTRTMlZxT1U1TGNHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T01:53:51.249Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice, butter dosa recommended.\nService by Lakshmi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star review! 😊 We’re glad you enjoyed your experience and loved our Butter Dosa. Your recommendation means a lot to us! We’ll also share your kind words with Lakshmi, who will be delighted to hear them. Thank you for your support, and we look forward to welcoming you back soon! 🙏✨",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eFYzTkhaSEUwUjNwM1h5MXliV2h0T1Zwd1YxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T16:28:01.222Z",
+      "iso_date_of_last_edit": null,
+      "text": "North cury is good and garlic nan both combination is very testy and service is very good for lakshmi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your wonderful 5-star review! 😊 We’re happy to hear that you enjoyed our North Indian curry and garlic naan combination. It’s great to know you loved the taste and were pleased with our service. We’ll be sure to share your kind words with Lakshmi! ❤️ We look forward to welcoming you back soon for another delightful dining experience.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKaE5rWkhialpSYVc5Q01HeFhiMGN5VDBkQ1UxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T16:25:39.751Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! ⭐⭐⭐⭐⭐ We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to us, and we look forward to welcoming you back for another great dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paV2JIRmFla3RNY0dOQ05WaG9USEJVU1hWR1VWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T16:18:05.878Z",
+      "iso_date_of_last_edit": null,
+      "text": "A truly disappointing experience from start to finish. The service was unorganized, staff were inattentive, and getting someone to take our order or respond to our requests was unnecessarily difficult. Even after placing the order, we faced further delays, and the food did not meet our expectations. A restaurant should value its customers’ time and provide basic hospitality, but unfortunately, that was missing here. The management needs to address these service issues urgently and ensure better staff coordination and food quality. Definitely not an experience worth repeating.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "We sincerely apologize for the disappointing experience you had at our restaurant. We’re sorry for the poor service, lack of staff coordination, delays, and food quality that fell short of your expectations. We understand how frustrating this must have been, and we regret not providing the hospitality and dining experience you deserved. Your feedback is important to us, and we will share your concerns with our management team to help us improve. We truly apologize for letting you down and hope you’ll consider giving us another chance to serve you better.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wM2NYUnBTbmxQVTBWeVRWaEdjSG80YVZKNmRIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T16:17:00.397Z",
+      "iso_date_of_last_edit": null,
+      "text": "⭐ Very disappointing dining experience. We waited a long time at our table without anyone coming to take our order. Even after approaching the reception, we did not receive a satisfactory response. After our order was finally taken, we had to wait again for additional food, with no staff checking on our table or attending to our requests. Unfortunately, the food quality also fell short of our expectations. The long delays, lack of attentiveness, and disappointing food made the overall experience unsatisfactory. I hope the management takes this feedback constructively and improves staff responsiveness, service efficiency, and food quality. Based on our experience, I would not recommend this restaurant.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "We sincerely apologize for the frustrating experience you had at our restaurant. We’re truly sorry for the long waiting times, lack of staff attentiveness, unsatisfactory response from our team, and food quality that did not meet your expectations. This is certainly not the level of service and hospitality we strive to provide. We take your feedback seriously and will bring these concerns to the attention of our management team to improve staff coordination, service efficiency, and food quality. We regret disappointing you and appreciate you bringing these issues to our attention. We hope to have the opportunity to provide you with a much better experience in the future.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ST2JrOW9RMDlyVmtOTFJtdFhXSEpFTjI5V2VXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T16:13:16.310Z",
+      "iso_date_of_last_edit": null,
+      "text": "⭐ 1 Star – Terrible Service and Disappointing Food\n\nWe waited nearly 1 hour just to get proper service, and even after approaching the reception, we received no satisfactory response. The service was extremely poor, with further delays and staff ignoring our requests. To make matters worse, the food was below expectations. A completely disappointing experience and absolutely not worth the time or money. The management seriously needs to improve its customer service and food quality. Would not recommend!\n\nOverall, it was a very unpleasant experience with poor service and disappointing food. Definitely not worth the wait. They seriously need to improve their customer service and food quality.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "We sincerely apologize for the disappointing experience you had at our restaurant. We’re truly sorry for the long waiting time, lack of proper assistance, and food quality that fell short of your expectations. We understand how frustrating it must have been to wait so long without receiving the service you deserved. This is not the standard of hospitality we aim to provide. We take your feedback seriously and will share your concerns with our management team to improve staff responsiveness, service efficiency, and food quality. We deeply regret letting you down and appreciate you bringing these issues to our attention. We hope to have an opportunity to serve you better in the future.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OR05YbHNNSEpSTjJGVWIwOHhOa0Y1TVhOYVIwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T15:28:19.321Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable feedback and for rating us 4 stars! 😊 We’re glad you enjoyed the food, service, and atmosphere. Your support means a lot to our team, and we’ll continue striving to make every visit even better. We look forward to welcoming you back soon! ✨",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjNGMxaDFPR3N5VURGa1VYRmtTV2gwYzJOWE1YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T14:07:53.488Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very Service.  Good Lakshmi and misuv",
+      "text_original_language": "Very Survice.  Good Lakshmi and misuv",
+      "language": "mr",
+      "translated": true,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you so much for your wonderful 5-star rating! ⭐⭐⭐⭐⭐ We’re delighted to know you enjoyed our food, service, and atmosphere. Your support means a lot to us, and we look forward to welcoming you back for another great dining experience! 😊",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVlRtTTFlRFpxT0daWmJVTm5ZalF0WW5OM1owRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T05:10:57.535Z",
+      "iso_date_of_last_edit": null,
+      "text": "Atmosphere is good but  rest service and clearness very bad behavior with staff very rude .",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "We sincerely apologize for your disappointing experience. While we’re glad you liked the atmosphere, we’re truly sorry that our service, cleanliness, and staff behavior did not meet your expectations. We believe every guest deserves courteous service and a clean, comfortable dining environment. Your feedback is important to us, and we will bring these concerns to the attention of our management team for improvement. We regret letting you down and hope you’ll give us another opportunity to provide you with a much better experience.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadFIyVkxkVVJ2TURZd1RUWk5NVVV0TUVOSE0wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T04:49:52.487Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your lovely rating! 😊 We’re happy to know you enjoyed the food, service, and atmosphere. Your support and appreciation mean a lot to our team. We’ll continue doing our best to make every visit even more enjoyable. Looking forward to welcoming you back soon! ✨",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    }
+  ]
+}

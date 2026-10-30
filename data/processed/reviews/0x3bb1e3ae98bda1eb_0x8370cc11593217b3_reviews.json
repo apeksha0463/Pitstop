@@ -1,0 +1,3797 @@
+{
+  "restaurant": "Aaradhya Grand",
+  "data_id": "0x3bb1e3ae98bda1eb:0x8370cc11593217b3",
+  "google_review_count": "3266",
+  "reviews_total": 107,
+  "reviews_with_text": 72,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 9,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gd1lVa3pUR1pYTVdVemFUVkdiSEJEVjJkMFprRRAB",
+      "author": "Jameel Khan",
+      "author_url": "https://www.google.com/maps/contrib/112294947850170132614?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": 60,
+      "rating": 3.0,
+      "date": "14 hours ago",
+      "iso_date": "2026-10-29T17:46:34Z",
+      "iso_date_of_last_edit": "2026-10-29T17:46:34Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Brunch",
+        "price_per_person": "₹400–600",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 3,
+        "noise_level": "Moderate noise",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Not sure",
+        "parking_space": "Plenty of parking"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Gd1lVa3pUR1pYTVdVemFUVkdiSEJEVjJkMFprRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOnFwYUkzTGZXMWUzaTVGbHBDV2d0ZkE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoNmJIcDRSakJMVHpsS1gxTkphRUZNUW1rd2NuYxAB",
+      "author": "kiran kumar",
+      "author_url": "https://www.google.com/maps/contrib/103495915754874096404?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": 30,
+      "rating": 4.0,
+      "date": "16 hours ago",
+      "iso_date": "2026-10-29T15:01:39Z",
+      "iso_date_of_last_edit": "2026-10-29T15:01:39Z",
+      "text": "food is good and hygiene. atmospher and ambiance is nice. but price is high",
+      "text_original_language": "food is good and hygiene. atmospher and ambiance is nice. but price is high",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 4,
+        "service": 3,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoNmJIcDRSakJMVHpsS1gxTkphRUZNUW1rd2NuYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOlh6bHp4RjBLTzlKX1NJaEFMQmkwcnc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMWFsQkJRVFJCWDBWdWQwNUdkakpKVGt0R00zYxAB",
+      "author": "Shankar G",
+      "author_url": "https://www.google.com/maps/contrib/114633566041984435683?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": 4,
+      "rating": 2.0,
+      "date": "18 hours ago",
+      "iso_date": "2026-10-29T13:41:38Z",
+      "iso_date_of_last_edit": "2026-10-29T13:41:38Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tVMWFsQkJRVFJCWDBWdWQwNUdkakpKVGt0R00zYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOkU1alBBQTRBX0Vud05GdjJJTktGM3c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weU1GOUJMV296VEdJME9HeGZZV3hTY1dKbmJYYxAB",
+      "author": "A Vishweshvar Gupta",
+      "author_url": "https://www.google.com/maps/contrib/103599303152442448534?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": 51,
+      "rating": 3.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T06:55:07Z",
+      "iso_date_of_last_edit": "2026-10-29T06:55:07Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Brunch",
+        "price_per_person": "₹400–600",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 3,
+        "noise_level": "Moderate noise",
+        "wait_time": "No wait"
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25weU1GOUJMV296VEdJME9HeGZZV3hTY1dKbmJYYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOnpyMF9BLWozTGI0OGxfYWxScWJnbXc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbE5qbDRXQzEyU2tJeVoxRnlSbGRtTmtzMlYxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T06:07:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Rinku's food was good.",
+      "text_original_language": "Rinku khana achha tha. ।",
+      "language": "hi",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wQmVtbHpNbUpmVkU5MU4wcGFlRzVOVEhCVWFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T04:51:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Mulbagal dosa varieties are the best",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSaGRYWnZabVkzYzFOTGRXSTNibEU0WjI1UVVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T03:54:19Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podlFYWnNUSFpDYmtFMGVuUkZTV1JNTVdNNFNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T02:07:37Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoa1ZrcFBVbEF4TVZGaVEwTmFNVWxNTW5kb0xWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T15:32:55Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 4,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbGEyWnFSa1V0ZW1oV1EzZE5kRzFSYmsxcU1sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T09:28:03Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 3,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201V1ZsUm1TVVJNTXpaSE1rSmZVbFZJUzFaT2NsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T07:17:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food is very expensive for what we pay, but the quality and taste are not satisfying. It’s not worth the money.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONVEyeHlNbEF5UkVkemFUaHdjR2x0VkROcFJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T03:06:24Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeVlXOTZPVlY2VEVsS2IwZEpVMDk0VFVScGFIYxAB",
+      "author": "Mahesh",
+      "author_url": "https://www.google.com/maps/contrib/105667675053490785990?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T02:47:55Z",
+      "iso_date_of_last_edit": "2026-10-28T02:47:55Z",
+      "text": "Very good service good food\nWashroom is very clean",
+      "text_original_language": "Very good service good food\nWashroom is very clean",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGeVlXOTZPVlY2VEVsS2IwZEpVMDk0VFVScGFIYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOjFyYW96OVV6TElKb0dJU094TURpaHc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paU2VHVmZOMmxMZEV0U1ZrUTNTRk5ZVW1SWldXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T02:47:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Overall good 😊👍🏻",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVUxYVm9VV3RTUzIxa2RGaFphMk5wZEhSVFRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T02:44:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prd1JISlNaRGhZVUdwdFJFbElhbFZEZWtneFowRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T02:37:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was yummy tasty also nice service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWGIxWm1aUzEyT0dKdFJVTlpkV2RQYkhWV1JFRRAB",
+      "author": "Sabiqul Islam",
+      "author_url": "https://www.google.com/maps/contrib/102584750789363197935?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a day ago",
+      "iso_date": "2026-10-28T02:37:04Z",
+      "iso_date_of_last_edit": "2026-10-29T07:38:09Z",
+      "text": "Very good food clean is good mantion",
+      "text_original_language": "Very good food clean is good mantion",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet"
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kWGIxWm1aUzEyT0dKdFJVTlpkV2RQYkhWV1JFRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOmdXb1ZmZS12OGJtRUNZdWdPbHVWREE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214NVpHNURUR1J2Ym5OT1ZuZ3ljVkJWWVdsU1VVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T02:30:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prdFJEbE9kbTVTV2tNeExUQkxUVGRDV1hreWJIYxAB",
+      "author": "Binod Nayak",
+      "author_url": "https://www.google.com/maps/contrib/115232649316776379157?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T02:30:08Z",
+      "iso_date_of_last_edit": "2026-10-28T02:30:08Z",
+      "text": "Very good food also need washroom",
+      "text_original_language": "Very good food also need washroom",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait"
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2prdFJEbE9kbTVTV2tNeExUQkxUVGRDV1hreWJIYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOjktRDlOdm5SWkMxLTBLTTdCWXkybHc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSFJWbDNSRzAwWHkwdGExQkNWMkZZYjJ4UmRtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T02:22:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWQmQzSkNlVzkwYmtFek5tSlRMVjlDTmtOQ1dtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T02:20:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good taste, ambiance",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUWNXdEphR3BwYnpST2JGbFVkMlZmVGxOVmEyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T09:00:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice ambience n good food … Mulbagal dosa is worth the visit.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRVMwOUpRVXM0TkZadldIcFpUa1JmUzJrMFRrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T08:45:46Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNVdFcG5ZMmxDYzBseU1HNUxlSFJyYm01c1lXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T01:38:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ab1ZuQnFjM1ptY0Zsb1NFczJNMEZIYW5aWmMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T13:59:32Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SS2IzVnhXSEpuVFhGSVFXaHRlakZFTlVneFNuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T09:52:47Z",
+      "iso_date_of_last_edit": null,
+      "text": "Mulbagal dosa good tasty 😋",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSWNsTXdia0pXWDFjNVZYTlJWVFp2YzNWS1NtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T09:40:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food and service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VVJFVjBlbHBZU2xkWmNucGZVMll5ZG1kVFFXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T09:35:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food 😋",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdGVGZDFZVXBSTVdORWJWSTNhVTA0WWpaNk5YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T09:28:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaE1FVTRSVEEwTm5NM1lreGZiRzVVVUhOelNFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T08:59:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was very good …. Mr Vignesh did serve us really well managed everything on time …. Suggested us with good choice …. Overall very good experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wZlNIQnJRV3AxTFY4NVRFNVdNM1kzVXpOV2FXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-26T07:51:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place\nToo expensive",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSFNHVlFSVlJuVGxsVU5FbFNUR2d6ZFZkWFJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 42,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-26T01:42:37Z",
+      "iso_date_of_last_edit": null,
+      "text": "Visited on a Sunday at 11:00Am. We ordered two mulbagal masala dosas and waited long. The waiting was so long. Complained to a senior waiter/floor manager, cashier but there was no result. Looks like the waiters were very slow to respond and lazy. Nobody to monitor and manage the staff!\nAfter waiting for long around 30 mins we left the place without getting food.\nThis restaurant has very nice floor area, parking area and washrooms.\nAs per menu cost is higher relatively. Tea/coffee cost: ₹50!, single Vada :₹70, Idly Vada plate: ₹ 145!!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbllXWnBNMnBhTVdKNmIxWlZUV3AwYkROeFoyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:52:17Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dFRrdGtVV1o0WVRkT2VHeG5PRlE0Y1hGYWVGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 368,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:13:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Came here after seeing the billboard stating Mulbagal dosa is available. So came here and ordered exactly that.\nI would say that the dosa was good, too much ghee though. But was it exactly mulbagal swati hotel dosa? No.. The dosa was very good, but it didn't have the authentic mulbagal taste :) do try it",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOSU4wc3dWRmw0Y0RSNlQyMVJabXg1YjFGdVZsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:09:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent Service!!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poQ1NWTTNNVkJLZWxWc1NFTmhMV2RVZUZCU2JWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T13:36:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "We had masala dosa which was very very good. Whole experience was very rich.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNeVlreGtTUzF4TmtoMlNHazVVMUJsWXpsbGIxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T10:18:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "⭐ Extremely Poor Customer Service and Support\n\nOne of the worst customer service experiences I have ever had. The customer support is extremely poor, coordination is practically nonexistent, and the people taking orders need proper training on how to handle customers professionally.\n\nThe entire experience was frustrating and a complete waste of time. There was no proper communication, no coordination, and no sense of responsibility towards the customer.\n\nThe management seriously needs to improve its customer service standards, train its staff, and ensure better coordination between the teams handling orders and customer support.\n\nHighly disappointing experience. I would not recommend this place to anyone based on my experience.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer1V0M6ymgmRIBTx6T23RSHtZO5gslhLlR2v95isI2PdzMYTNtcdH696-YFW6dbhNHr3_lOyw21wv2lwlFLXFnSXS2BODbJKzcjOsIXuJg7TXWzWKqVIlaxF-4OtuiZYDAfnc1ztKkzj5h=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLJjIAu7i-qqOdEpSb6ymPoEoIwUiy4PsT7UWjYSyER9fo9jJ3Kxv_8HNPoGBJzX2cBLT_alq-NeWsmay7ULR-Mt6StL3C63TI0IVjd2X5_M6gUPEBR9GHOXKljjVph050L3BlYatz7vJZ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdWFESlZUM0Z2UVhsdFJqTnBNbFZOTFhJelJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T08:35:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORGVtWXpPVU5NT0hKeGRFbzRiV0YyU0UxTVQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T07:25:16Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paemR5MUlkRVp4UlcwMVZrVjNiMEpmVG1JeVRFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T06:24:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "High price.. not upto the mark.\nCoffee is not hot,... Idli is not good\nMulabagal dosa is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMk5YQlpjekpuYkZGRWVtMXVkRmt3VjB3eVZrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 29,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T05:19:08Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSV1JUZ3lVWGhZVlVoUldsWlFVbmhrVEhSUk9GRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 47,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T04:14:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "So subtle falvours and the best thing is every dish has a unique flavour we had mulbagal dosa, peanut idli, sambhar vada, another mulbagal 😅😅. These are the best.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVWFGQnhORXA1TWxob1dHbEpMV2x6UjBZMU0zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 118,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T03:34:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Nd2RGZEhRbWRQVFdSTWRGQjBaek4yVHkwdE5YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T03:22:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Mulbagal dosa and drumstick soup yummy 😋 good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRd1IzUjZPRWgwYkcxSllXeG1RemRKWVVGNWNIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 21,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T03:18:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "It’s a 10/10 restaurant\nDoesn’t disappoint in anything.\nAlways out stop when we travel on that road",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCUGNFVkhjblkzWjBSb09GOHhaV2d4VG0xYUxYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 279,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T18:26:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poQmJ6bHpWRGhwVmw4NWVGOWtOakJZWTI1NVJXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T12:55:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst experience max waiting no good service\nMulabagilu dosa was dipped in oil and ghee.. can't eat",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR1pESklaVFZvZW1oM05XeEtibmxaYWtabGFGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T06:23:33Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFeWVYbFNNa3g2Tm1KbFJYVk5TVzF3Um14TlRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T06:22:58Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaYVMxWlRhVGxNYmtReFZrNUVTVVpOZUZGTlQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T06:21:50Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkaGNEbHNVbGh4VmtaemFrRXdla1EzWlUxdGVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 506,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T06:21:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice food and good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsQlRVbFdaVmg1YVZCVGVXcFhNbnBQWmxvMlZsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T04:50:33Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOblEyUmxaeTF5ZVhsSlZXMUtVVTlpUjA5aVNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T04:49:57Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bVFUbFlPWGxXUzBKck9XMDBkR3gyYTAxeWRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T03:45:52Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRFRHbEtTR2hYY0dkV2VGbzVURGN5VFZoVVQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T03:44:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Vignesh  was very friendly  and was very  overwhelming  he teared us well and suggested us  good menu to eat thank  you",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTU1ESmtWbDlTV1RkbGVsQklNblE0U0hrMWRsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 40,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T03:37:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Really the breakfast was great had great time staff were supportive and gave our order on time felt happy🙂",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4R1pETTBlWE0wWlVSdVpXbzBlbk5oVnpNd1gxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T03:09:44Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxQ01tcGhWbEJLWlZsc1VVaGZTbGh0UlhWeE5VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T16:10:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pab1lXcGZTMjgzU0VwNVp6VTVZVXd0TkMxa2VYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 167,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T14:59:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was good but the service is not good, they are very slow. I visited on a weekday even though most of the tables were empty the service was very slow.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMVJTMTNNa0ZpVWtodE5rRlhXazAzVDJGSmVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 20,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T10:01:46Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 1
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORFJGWkhlRFpSZVhkcE9HaDNWa3M1YVVsblIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T08:30:31Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRVNrdEVkVXBKU1c1V2VsbGhiazAzUWtGSk5WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T05:58:28Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVk1WaDZWV0UzZWtKNE1IZGtOa2RmUkZwc1FXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T05:21:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Not worth the money",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxeGFrODBUelE0VVROSFNGOUtNWFExZDA1MmRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T05:06:59Z",
+      "iso_date_of_last_edit": null,
+      "text": "Fine",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psclVsbDRWbWR2YUhNMlJIQlVlVXRhTTNwcFJVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 80,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T05:06:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pocWQyVlNOVTl0V1dsaFpHNVVaMGd4V21sTmRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 32,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T04:27:23Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good taste must visit for all",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKNlQzZHRUbloxVkUxaFdHeGxhMjl2TWxSRFVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T04:23:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing Food. They have good and fast service. Must try Mulbagal Dosa and Lemon Chilli Chitti Idli. Great for travellers looking for quick food.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnNWRsbGZjSGN5TlZNNU1XSk5TbmRaWlZaeVRIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T04:13:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGblZGaFVTWE5VWlhoRFNrTk9WbGhGVGw5Q1dHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T04:11:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was nice, service was nice, atmosphere was great. Would rate it more if there was an option.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGak4yTjNiR1IxVkdsUFVFaG5SV3RvVWt4NVVHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T03:47:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good To taste here",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNemNITkhRM0JHY0hNNGJIWlZWelZFYm14RVVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T03:38:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service is good food is Great",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxc1dFdzJjbWM0VTBWR01GOVFNbGhtVHpoQldtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 85,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T03:25:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is tasty but not served hot even though there were not many people when we were there. Also service is not fast. Needs improvement in service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRk9UQnZjVGRRWXpGM2VGUnFiVjlvVjJGVVFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T03:22:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Keshav suggestions ans service was good. Cleanliness and quality of food is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todU1WZENTSFZNWVhvd09IWk5aMnhSYjFKM04yYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T03:21:13Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTVltSnFWVWxpYWpab1VHWkxSMGRDVm1WS2NtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 84,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T02:45:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "We ordered coffee which is ok .",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRVZHNXpkVzlKUjFSdkxWUnlWVFZOYXpkTk5uYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 278,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T16:07:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was good, but overpriced to the servings offered. Well maintained and very clean place. Staff attitude and approach can be looked to improve.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 2,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbrIbAMFEPmtnjkaz5Mr_4aXSWlhYwL1Eab3rokAxrHG7kjCtShd5gyJ5_Y9gjBI8vwWq_hjSYel2RKpW9OWNlLURzS-M2cgEgWLHyhR052zpGSuAykLmnXWyQ9w3T9tI0V-KfD_h51ahK=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VE9XNXVWR2hvWlc1Q1VWaE1OVTFaTW5aU1RsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T04:12:33Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sbVZrRTRjRWN4YWpFNVJrRkliRkJuTWt0TU5GRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T04:34:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst service!! Nobody cares about the customer here.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONVprWTJNM0l0VVdZME9ERlpRMU5TYUhFMVMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 439,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T04:19:00Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had been to this restaurant last week. The ambiance is good, food is really good, no wait times even during rush hour.\nThe only thing I was unhappy about was the fact that there was no menu given to us or anyone on that particular day. I am not sure if this is the scenario on a regular basis, but the lack of choice made us order from the limited items told by the waiting staff.\nBecause of this, we were shocked when we saw the price while paying the bill. I have been to restaurants on highways where sometimes we have to order from what waiting staff says, but it’s usually from restaurants which serve meals, but this was a multi cuisine restaurant.\nBut I am giving the benefit of the doubt and recommend this restaurant to have the tasty Mulbagal dosa and the dip vada.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21seFFrOUNVRjlOTkZNNVIySXpjM2Q0Ykc5bldtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T17:44:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is average just coconut chutney is good otherwise cutneys and sambar just okaish\nService is really worst, taking one order giving different order that too after multiple followups, really need to improve on service\nVery very very expensive for the quantity and quality they provide.\nCompare to this mulbagal branch is much better...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTE5sVktaaTFTT0habE16TlRiRGQwY25reFIwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T16:20:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food friendly staff",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210clQycFJhM1pzZEZObFNXOU1VM0Z3WDFKdlMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T09:02:19Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 4,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWU1WZFVabTFXUldwdk5IcDJSbXRuVWs5Tk4xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 184,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T07:21:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good pitstop near airport, quick service and good taste, ample amount of parking space with easy access to highway.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 6,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3rPQdgGD5ZYfm9QEM7Ifa20RceVHYR_btn3llACMtJ0k1d6ajdXjkUJqYSEf7Xvaf49VZPaQ9MtlaizG1ULKGOLVlBK--qJS54lVshIr1sq2Npj04d4PzIkmB9QzoDjBQ30fQ2hG-jiyB=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenLZKmIRUaHkC5RP9E64EZjlJRgaFqXIUY8PFERnHevCahrbD6ob1wOjkECltv2sOd0gSLAdpfOG42mdEB0g9pK1LlNMxE69eFCVGlOhfoBGjhDLdTkUyRhlCDop_32d7-SgSDwzS3CqfK=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWQ5etOmR174Il1Z8e1Vvwszn_DKng6fEuT2ltgmz_tvRXTivUMA9kVdV1ChW_sRkhZlMVfsayo6qB-8Rxf4FgrnSgikr1wmOoZqPn5-JSMP1j1-KykoNinYsHp4dun6hnUkPCUWlr0LM_=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsweTeVJEpLSJGx_giz1PEKMcAVzloJoUUGJvVG4vIeGsgc1I6ZTWLfRwGJ_D-jfFWWhLfYw9MDFDQSS181S5g-Tz9_c_ldah2uLpS3q8Kp8qmwH-alBP8aD2h-GMM5c5uUDuHjZMpHShq=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcI2BzANYiRWCAGZDb_x1eoj_uXc48eRmBS4g_A9EJAiNwn76ByvwjPEXCSE5PzO8NAn4uqtxIAIDlZ1zZ3nK0vPv9YnyRKcKOFyH6d-SkS1nEcmKexY8vJNwIXHZejrpQxIyx17GDTaDbG=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzRh3_By9vV8QwDXm6lo5XtJuy-MJHZNvi82TghYk0xrWr-vn2eQT6cv2AX-1GprV2BzdBVuahq7qQ3RRi-fOVwuD5e_JYK2F3jE3bGjvj-P0wnPCxAPEwlvf1Y-jvApx5Rq5E1CrCcEjZ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OTVUxOVFWV2RIYUZab1QwSXpjblJTYkZwaFVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T04:37:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OaGVtWTFabDlvVTI4d09WOTRTbmRhTkZZek9YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T03:36:53Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZMVRsUmtkalJ5VGxkMWVHSnpiVTE2VWxKVVIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T03:02:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food and service 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tST2IwbzJORmRXVERGdFRVSXRkelZmWkhscU9YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T03:01:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5c1MwTmtTSEJhVERCcGRuUmtSR3BpWTJOaVJXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T01:53:43Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oSVlVWlZiSGRFVEU1eE1IZGxPV2htVmtObmNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T08:04:47Z",
+      "iso_date_of_last_edit": null,
+      "text": "Too much cost and quantity is too less for that price 1 dosa cost around 200 to 250 but size of the dosa is around small non-stick  tawa size dosa only",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcVpUQmhObEUzZFZCUlNYcHVlVzQxVlc1RlZGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T04:00:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Taste was okay, but portion or quantity is too small and people were not responsive as well. Very bad experience of the breakfast. Quantity for the premium price they charge is not justified at all.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSWJscERPVFpRUVV4cFNIQjVkMUZ5ZVVsaGFVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T02:57:10Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWU9XRnNVbmxTVDJaU2RXWm1hRTV4TWxwR2NHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 50,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T19:27:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "I had a fantastic dining experience here! 😋 Every single item I ordered was absolutely delicious. The Mysore masala dosa and regular masala dosa were wonderfully crispy, and the mini idlis were so soft. 🍽️ The accompanying chutney tied the whole meal together brilliantly. Highly recommend! 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGaGFEbDVjVzlxZFZGVk9WcFNjVlJwYWkxWGVVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T11:55:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "No staff was being helpful, moreover they were arrogant and not responsive at all. And for the service, well there was a massive waiting time after I ordered I had to wait for almost 30 min and when I wanted to ask about the food I ordered the staff was ignorant. Staff was so arrogant that they didn't even give me the menu to order. And after waiting all the time the food wasn't worth the wait and money.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQlNtOXBYMWRFVDFaNmVsbENNRkJvUkhjd1RHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T10:23:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Golden baby corn yummy tasty 😋 also good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMlV6YzJVa0ZwUkZKMFZsQnlTbXhNZFdkNE9FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T08:04:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaR01WVnNiMUJZWlVzeWJUUndhV2RNVFVwMlowRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T06:38:02Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWU0yUlVlakpMVkdsTVptdzNUR0pUTFdaRlNVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T03:36:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food taste was good\nBut the value for the food is very high ,they served set dosa type of dosa and called it as mulbagil dosa, food was not worth for the money",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 2,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRNVprMW1TV0pZVkhWUmJ6RkpMVGxHVkRrdE1FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 29,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T03:09:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Idli, Vada, Masala Dosa",
+      "text_original_language": null,
+      "language": "kn",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bmJHWnJVMXB5VTBNdGVHeE9NRVI1UkdsM1VYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T02:51:59Z",
+      "iso_date_of_last_edit": null,
+      "text": "Taste is decent but the quantity is serving probably only a 5 year old and is a joke when you consider the price they charge. Will probably not be coming to this place again. There are far better places nearby.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUlEycE9MV1pNVDBGa1VVd3ROalUxYUZJNFNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T11:50:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good vegetarian restaurant...can visit with family and friends 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank you for your valuable 4-star review! We’re pleased that you enjoyed your experience with us. Your feedback motivates us to keep improving, and we look forward to delivering a 5-star experience on your next visit!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KelVqRjVUbGRVVVZZMWVIRnNiR2g2TFhaTFVrRRAB",
+      "author": "The Verdict",
+      "author_url": "https://www.google.com/maps/contrib/107375320258089880353?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T08:28:44Z",
+      "iso_date_of_last_edit": "2026-09-22T08:30:23Z",
+      "text": "​Had a wonderful dining experience at Aradhya Grand, Devanahalli!\n\n​Food Highlights:​\nTried both South Indian Thalis featuring Holige and Pheni.\n​Delicious spread with porial, dal, sambar, veg kurma, rasam, hot rotis, rice, baby corn salad, bitter gourd chutney, and fryums.\n\n​Sweets galores:\nDelicious rice kheer plus a lovely surprise scoop of butterscotch ice cream at the end!\n\n​Service & Ambiance:\n​Friendly, attentive customer service.\n​Comfortable and neat dining space.\n​Very clean and well-maintained restroom facilities.\n\n​Verdict: Incredible value for money. Highly recommended if you're in or passing through Devanahalli!",
+      "text_original_language": "​Had a wonderful dining experience at Aradhya Grand, Devanahalli!\n\n​Food Highlights:​\nTried both South Indian Thalis featuring Holige and Pheni.\n​Delicious spread with porial, dal, sambar, veg kurma, rasam, hot rotis, rice, baby corn salad, bitter gourd chutney, and fryums.\n\n​Sweets galores:\nDelicious rice kheer plus a lovely surprise scoop of butterscotch ice cream at the end!\n\n​Service & Ambiance:\n​Friendly, attentive customer service.\n​Comfortable and neat dining space.\n​Very clean and well-maintained restroom facilities.\n\n​Verdict: Incredible value for money. Highly recommended if you're in or passing through Devanahalli!",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KelVqRjVUbGRVVVZZMWVIRnNiR2g2TFhaTFVrRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOmJzUjF5TldUUVY1eHFsbGh6LXZLUkE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaV1JHTndYMjFPWkdZMmRGTldVMUF3TFdWbmIxRRAB",
+      "author": "annapoorna ravi",
+      "author_url": "https://www.google.com/maps/contrib/116419545547522876645?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T03:48:28Z",
+      "iso_date_of_last_edit": "2026-09-22T03:48:28Z",
+      "text": "Excellent, heart clean toilets god bless you.\n\nYou have highlighted restroom board",
+      "text_original_language": "Excellent, heart clean toilets god bless you.\n\nYou have highlighted restroom board",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹2,000+",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Moderate noise",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Large vegetarian selection",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Clean toilets for onlyyyyy men mot women"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaV1JHTndYMjFPWkdZMmRGTldVMUF3TFdWbmIxRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOlZWRGNwX21OZGY2dFNWU1AwLWVnb1E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMVoyTkNRbE00TlUxRldtNW5hV1p1ZVhWS2JGRRAB",
+      "author": "Nitish Kumar",
+      "author_url": "https://www.google.com/maps/contrib/109084079759793028079?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-04T15:05:26Z",
+      "iso_date_of_last_edit": "2026-05-04T15:05:26Z",
+      "text": "Very clean maintenance\nWashroom is top",
+      "text_original_language": "Very clean maintenance\nWashroom is top",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGMVoyTkNRbE00TlUxRldtNW5hV1p1ZVhWS2JGRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOkF1Z2NCQlM4NU1FWm5naWZueXVKbFE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "author": "Asif Khan",
+      "author_url": "https://www.google.com/maps/contrib/107601307470902396973?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 137,
+      "author_photos_count": 1750,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-14T02:14:56Z",
+      "iso_date_of_last_edit": "2026-03-14T02:42:52Z",
+      "text": "Ordered mulbagan masala dosa, poori sagu and idli vada,  taste was good and ambience is nice well decorated clean fine dining experience on highway. Price is bit on higher side but overall experience was good. Lots of parking space and clean restroom to get refresh and drive your way through .",
+      "text_original_language": "Ordered mulbagan masala dosa, poori sagu and idli vada,  taste was good and ambience is nice well decorated clean fine dining experience on highway. Price is bit on higher side but overall experience was good. Lots of parking space and clean restroom to get refresh and drive your way through .",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOkJYb3h5Uml3Vko1R1NPeERPekFUQlE%7C%7C?hl=en",
+      "images_count": 8,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJCz5GPyWTOkb5GeH-A8uKwO-DVYJqkjZiDQo_zdzKd4xV04aZkEY2kgS7ZyyjUiLxAxrp0LrTg0Wzl1xKwhzJ0LymCyfXEIQG99Pso11QOzIffPmRpXXsA4yTQ7tPffoMMdFrWiqIHAk5=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpkW3qi3OfUEUnv_3E8pghfgSZxL65po1OTGAt5JceU3wodroYYEl1t_BVHrT9qo9FE0BDmv-kU1LI0zki3rIKuvKb0T-d5i0KMsWMWhXYWAQ5hdRqupAeKVyvJMcS4IBLSmPUm52xg_70=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmTemFYo1p2i7DhAtpe5PemGqHuE-dZnlGH_HpVTyTKVYc6k9o6aOteYj9BqOaTe4m7Qn-eeqs_ywGulqzv8tW2gTRg0Pvi0WLKBHmvDj5PlJTgfxTWWm6AnEHd4JUwcuVICouE4_K8Ase=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb_Uv2qGJUIDnyOx8nduaqZ33YZUq1zqzz5GiplXLhIGjlthAQJcCdivTbddnxAttlV9SaVoPjlKGzhS8-sJ_LfdbPcgnibejfXRriZW--eYfwTHR08hBH_-vVp6eLOgD9QkiOfA_JfDs=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdU7Ulkr5KB3iMkn_pFdtCDiUhzj_alFd-53HEzD41XUAHZgQ5vdkZ2exiGRIsznxngqVBXuNKSoBLy0JN1yFsQmWaKZGskQyUw8Qefm7ECoghiWfHJ5hBo4zcQ1cvl6DajKKfqCfKz1joG=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdA_WXl62lt2q0pXSuuwhaMbkJFP1WD--V66XY7behqWpIAuk0BrA0eS-I2SMBb5YItrOOeAGyrQqKgTDAOOlIQuyFCn8wKqwBjZARvdJryFgoov8wK28dbGURj3PdeVwGB03b4yg7KLms=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJ2ZTtZ_8V6PGNXhu1hFFv5YLEBw-6nPH1hdNCyZYiR-FfsZaWE9YcAUov8OnuXAnA_Q-HkWLq6oKgQ5cYUoz4nCl7yK2KUlupq1k4gvjR2Fsbysl8BkEBwSnPRdSGltf9mf1aBWj4XyhD=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFgvyDY-Wr6JF8Pwb1hntEMHRh5R-eYdBwsi5e97FKqUewUtzMBMQjnTVZB3j065dHlBsnWlgopJmk4346TIbUwfXCjDiOjdIMHuhgtwsFw9HpS1WWSSOSa_OqVuGcKZ_r57VjItY7yQQU=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVlVVk1MV2w0VFhRMVNUZzFVRzVqYW14alIyYxAB",
+      "author": "Avinash Manur",
+      "author_url": "https://www.google.com/maps/contrib/108238697645812731890?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 449,
+      "author_photos_count": 340,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-01T16:12:10Z",
+      "iso_date_of_last_edit": "2026-03-01T16:12:10Z",
+      "text": "Posted price list, bit expensive but decent food and has good car parking area and bathroom is nice new hotel so no issue with hygiene.  Price is very high, mulbagal dosa 170rs 😢",
+      "text_original_language": "Posted price list, bit expensive but decent food and has good car parking area and bathroom is nice new hotel so no issue with hygiene.  Price is very high, mulbagal dosa 170rs 😢",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1SVlVVk1MV2w0VFhRMVNUZzFVRzVqYW14alIyYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOk5IYUVMLWl4TXQ1STg1UG5jamxjR2c%7C%7C?hl=en",
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPKLD2a47eDDiHLLExnyamLuqr79o2nXGnEizJuMyQeIojDzkxM0Bx8i7u4lufNmnH2lTyKPZss24fcszNqJMhWgE6PO2Gd9yGN91nR0Zb-3sOz5FCYs5MXusJTTtGylIirw-j2FAfzFwS=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrw6Oyjssb2SFOE7XhoE8wpW_kVddasdydd-LrFoyJR8oEbm16fBVJUqGOed4ZopvlTItoEf_d-PlfZj1x-fNT8liY6Upr74aWAjhKtqYppTMXctTomXBiArncz5Oe1C5V2cdj73--V6GX=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVGVYcFBWMUJoT1UxdlJGWjJibGxSZEV4UU0wRRAB",
+      "author": "Nagraj Devadig",
+      "author_url": "https://www.google.com/maps/contrib/111447115049020838428?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": 1,
+      "rating": 5.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-12T03:12:47Z",
+      "iso_date_of_last_edit": "2026-01-12T03:12:47Z",
+      "text": "*🌟🌟🌟🌟🌟 | Exceptional Service & Hospitality!*\n\n\"I had a wonderful experience at this hotel. The staff were extremely welcoming, and the service was top-notch. everything ran smoothly.  Restroom was  neet and clean the ambiance was peaceful, and the food was delicious. I truly felt like a valued guest. Highly recommend this place for anyone looking for comfort and quality service.",
+      "text_original_language": "*🌟🌟🌟🌟🌟 | Exceptional Service & Hospitality!*\n\n\"I had a wonderful experience at this hotel. The staff were extremely welcoming, and the service was top-notch. everything ran smoothly.  Restroom was  neet and clean the ambiance was peaceful, and the food was delicious. I truly felt like a valued guest. Highly recommend this place for anyone looking for comfort and quality service.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWVGVYcFBWMUJoT1UxdlJGWjJibGxSZEV4UU0wRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOjVTeXpPV1BhOU1vRFZ2bllRdExQM0E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB",
+      "author": "spoorthi Sajjan",
+      "author_url": "https://www.google.com/maps/contrib/117733142926950690885?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": 2,
+      "rating": 1.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-16T02:54:14Z",
+      "iso_date_of_last_edit": "2025-12-16T02:54:14Z",
+      "text": "Taste is not so good for the price they r offering and very expensive for the quantity and quality which they are giving,\neither increase quantity or reduce the price, Tatte idli is like normal idli which is 140 rs and dosa is 180rs which looks like mini dosa worth 30-40rs anddddd ladies washroom is worst.\nStaff’s are good and friendly.",
+      "text_original_language": "Taste is not so good for the price they r offering and very expensive for the quantity and quality which they are giving,\neither increase quantity or reduce the price, Tatte idli is like normal idli which is 140 rs and dosa is 180rs which looks like mini dosa worth 30-40rs anddddd ladies washroom is worst.\nStaff’s are good and friendly.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOmwteFZwZTZSMVpybDhVOFM2SFU0Y3c%7C%7C?hl=en",
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxuCPaZq8UmlwunuMsh5NEJM2xrg8d4uqqCVJHHKoFabrTIbNEe8ftR39-PoNJbL3tVOdW7MtXtkqC-tjUi1r9tEkz_TWvDydhFzC4Sp8fZ29Z0gOg4_6DhkmjlWML1jmsjG2JoiEkKrQ7=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZnjLUxGRFB6I0hFY-bgxcx9i9Fu52e1-mHAu9KhSCXogjPkB3ZWNakytX1Xg38Ehysczy9ZE2dAMuUvk5YjlKZguUM9Tmy806JT-L6h6bmL88ClNKY5-l7y4LpDULEz5IE-DZGkU2dd1Y=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4247 @@
+{
+  "restaurant": "NH7 Refuel Restaurant",
+  "data_id": "0x3bb1e29159d69fe1:0x324d96dade0efb15",
+  "google_review_count": "4646",
+  "reviews_total": 114,
+  "reviews_with_text": 72,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 15,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUlZHdElOM2x3Y1daNFgwSlpXREJ4UlRNMFFVRRAB",
+      "author": "M I K",
+      "author_url": "https://www.google.com/maps/contrib/112287004030764550562?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 157,
+      "author_photos_count": 35,
+      "rating": 3.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T17:43:41Z",
+      "iso_date_of_last_edit": "2026-10-27T17:43:41Z",
+      "text": "Overall average, service is poor. On the roof full of mosquito.",
+      "text_original_language": "Overall average, service is poor. On the roof full of mosquito.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "food": 3,
+        "service": 2,
+        "atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oUlZHdElOM2x3Y1daNFgwSlpXREJ4UlRNMFFVRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOmhRVGtIN3lwcWZ4X0JZWDBxRTM0QUE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWVEzY3ROWFJTVWpOT2FFaEthRmg0VEdOak0xRRAB",
+      "author": "Makeover-by- Yashaswini",
+      "author_url": "https://www.google.com/maps/contrib/117646144389052429209?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": 3,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T15:26:02Z",
+      "iso_date_of_last_edit": "2026-10-27T15:26:02Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet"
+      },
+      "owner_response": {
+        "text": "Hi Makeover-by,\n\nWe truly appreciate you taking the time to rate us. It's wonderful to know you enjoyed your visit to NH7 Refuel Restaurant here in Devanahalli. We'd love to serve you our authentic Punjabi flavours again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OWVEzY3ROWFJTVWpOT2FFaEthRmg0VEdOak0xRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOmNYQ3ctNXRSUjNOaEhKaFh4TGNjM1E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tac05UbDJhRkppWjNwZk1URTRiVkJpWnpOdWVYYxAB",
+      "author": "Dr.Basawaraj Ireddy",
+      "author_url": "https://www.google.com/maps/contrib/103292787961291232352?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T16:03:02Z",
+      "iso_date_of_last_edit": "2026-10-24T16:03:02Z",
+      "text": "Very poor service.",
+      "text_original_language": "Very poor service.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 3,
+        "service": 1,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tac05UbDJhRkppWjNwZk1URTRiVkJpWnpOdWVYYxAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOkZsNTl2aFJiZ3pfMTE4bVBiZzNueXc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacVMxQXRjSE56Vm1WWldrUjVPVEl0UVV0Vk1uYxAB",
+      "author": "Govind Singh",
+      "author_url": "https://www.google.com/maps/contrib/111452166597950691123?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 3,
+      "author_photos_count": 117,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T07:30:40Z",
+      "iso_date_of_last_edit": "2026-10-24T07:30:40Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Govind,\n\nThank you for the five-star rating. We're glad you chose to visit us at NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We hope to see you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tacVMxQXRjSE56Vm1WWldrUjVPVEl0UVV0Vk1uYxAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOkZqS1AtcHNzVmVZWkR5OTItQUtVMnc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUGVqYzJSVU5sZERoSmRqRXhabTF3YmtWV1EwRRAB",
+      "author": "Andrei Albesteanu",
+      "author_url": "https://www.google.com/maps/contrib/117244849672676759028?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": 26,
+      "rating": 4.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T17:46:32Z",
+      "iso_date_of_last_edit": "2026-10-23T17:46:32Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,000–1,200",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "recommended_dishes": "Mixed"
+      },
+      "owner_response": {
+        "text": "Hi Andrei,\n\nThank you for rating us. We're happy you visited NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We look forward to serving you our authentic Punjabi dishes next time you're in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wUGVqYzJSVU5sZERoSmRqRXhabTF3YmtWV1EwRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOnpPejc2RUNldDhJdjExZm1wbkVWQ0E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodGVYZG1XV2t6UjJSRFlTMXhVRlYxZG5kaFptYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T16:11:09Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUFVFSm5VVk5pYmpFMlFtTldiVjkxVFVoRU5rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T12:12:37Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Benakesh,\n\nThank you for the five-star rating. It means a lot that you chose to visit us at NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We'd be delighted to welcome you back whenever you're passing through.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201b2NYWmZjVEl6UjA5eE5uQnJjamxDY2paTVFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 42,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T03:14:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "Like other customer, we also had similar worst experience in service and food. This place is not like earlier. Staff not interested to take orders, not interested to keep the place intact. We had gone for lunch yesterday and like most of other customers, we also had a leave the place and have lunch in nearby restaurants, which serves very good food with great staff response. I think, this is high time, you guys either close your outlet instead of miserable service and food. If you don't want to ruin your mood and stomach, stay away from this outlet.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWGIxaFZURkJEVVhaRmRsVTBkMlJSYWxBMldYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 31,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T10:25:10Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Anu,\n\nWe're grateful you stopped by NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We hope to see you again soon and serve you our Punjabi flavours next time you're in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNk1YazJiRXhsVTI5aGVqSmpablZhYW5kdU5rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-09-30T12:39:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "There staff behevior was not good\nWorst service & food quantity is so less\nNot value for my money\nSorry I am not visit this restaurant agin...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "We don’t think you ever visited our restaurant \n\nYou ate our old terminated staff , who thinks this 4-5 Reveiws can harm our brand image \n\nBest of luck",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paT1RrRmxNVE5RV0c5dlpVTjZhR2hYWlVKdFEyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T16:40:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food with nice vibes",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Rohan,\n\nThank you for the five-star rating. We're glad the food and atmosphere at NH7 Refuel Restaurant resonated with you.\n\nWe'd love to welcome you back soon. Whether you're heading our way from kurubarakunte, Anighatta, or nearby, do visit us at NH7 Punjabi restaurant on the Hyderabad-Bengaluru Highway in Devanahalli and try our Chicken Steak or Mutton Biryani.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJeE1YWjVZME53WDJwWVVrWldkbWg1WnpaNWJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T06:29:12Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Manisha,\n\nThank you for the four-star rating. We're happy you stopped by NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We'd love to serve you again soon, and next time do try our signature tandoori parathas with a cold Patiala lassi.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvdFdsSjVaREoyU3pCWmFVTkRUWE5HZEVWWVVGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 25,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-23T12:20:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Mouktik,\n\nThank you for the 4-star rating. We're glad you had a good experience at NH7 Refuel Restaurant.\n\nWe'd love to welcome you back soon. Next time you're around Devanahalli or traveling from nearby areas, do try our Mutton Biryani or Chicken Steak paired with one of our signature Mocktails. We're located on the Hyderabad-Bengaluru Highway and look forward to serving you again.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHzTtNcFlHg9I0aaWDF6fmUwroXYqujJetiXvVc4CvewvbA7jSjYkMNxkrM7qi4zq81-B8r4NbUc9p_SLU8Tf2dFY-_6mH1QVv9D3IVR91kEZJb-X3YRw7YGzBd7ym2u4sTCWTNlvvYhJf=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8OoFuV75QLcR4gSmmx9WtThg4BPQnM28EKguzqZCnYe4cYHfm5p6dSYLH58xm12SAjBsSu0SL0jOGXoJh9QYLzLdhJYEWta4TIeqQJ4bAsuegQPe2l527gek0560e-8L05fgOtf0GBvYB=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbk5tY3lNemh6T1VVMlNYVTVSSGMyYWs5SlpsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T09:19:51Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Arpan,\n\nWe truly appreciate you choosing NH7 Refuel Restaurant and leaving us a five-star rating. Thank you for your support, and we hope you had a nice experience with us.\n\nWe'd love to welcome you back soon. Whether you're traveling from Doddaballapur road or heading our way from Devanahalli town, do visit us at NH7 Punjabi restaurant at Hyderabad-Bengaluru Hwy, Devanahalli. Try our Mutton Biryani, Chicken Steak, or our refreshing Mocktails next time you're around.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZM2VXZDVVRzVKUTE5R04yWmtWamhmWkU1cU0xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T09:08:42Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Amrita Das,\n\nYour five-star rating is truly appreciated, and we’re happy you chose to visit NH7 Refuel Restaurant. We hope you had a pleasant experience with us.\n\nWe’d be happy to welcome you again. If you’re travelling from Doddaballapur Road or passing through Devanahalli town, do stop by our NH7 Punjabi restaurant at Hyderabad-Bengaluru Hwy, Devanahalli. Next time, try our Chicken Steak, Prawn Kadhai, or a refreshing Mocktail.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkc1RrMDVkR3d5ZWtKVGNHWTFlbXBhZVZoTGJXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T08:34:46Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Sneha,\n\nThank you so much for the five-star rating. We're grateful for your trust in NH7 Refuel Restaurant, and we hope your experience with us was wonderful.\n\nWe'd love to welcome you back soon. Whether you're traveling from kurubarakunte, Gokare, or Anighatta, our family restaurant near Devanahalli on the Hyderabad-Bengaluru Highway is always ready to serve you authentic Punjabi flavors. Do try our butter chicken and paneer butter masala next time.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMVozUkRPWEJXYkVveFNESlpWRzFGUVVGd2QxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T08:53:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Deepak & Manav has served really well- great service and hospitality. Thank you!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Kushal,\n\nThank you for the five-star rating. We're truly grateful for the kind words about Deepak and Manav. Their warmth and care are what we strive for at NH7 Refuel Restaurant, and it means a lot that they made your visit special.\n\nWe'd love to see you back with us soon. Next time you're heading our way from avati, kurubarakunte, or Gokare, do try our Chicken Steak or Mutton Biryani paired with one of our signature Mocktails at NH7 Punjabi restaurant on the Hyderabad-Bengaluru Highway in Devanahalli.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKME4ySkdYM1pwZG5SWU0xOXZXSEI0ZDJ0VlltYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T18:16:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good nice service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Uppara Harshith,\n\nThank you for taking the time to visit us at NH7 Refuel Restaurant. We're glad our team could make your experience smooth and welcoming.\n\nNext time you're in, do try our tandoori parathas or butter chicken — they're crowd favorites that really showcase what we do best.\n\nWhether you're traveling from Devanahalli town or heading our way from the airport area, we'd love to have you back at NH7 Punjabi restaurant on the Hyderabad-Bengaluru Highway. Looking forward to serving you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVM1VUVkdPRkI2ZUd3eGVUUk9TMmxYVG5FdFYzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T14:44:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice food and ambience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Salman,\n\nThank you for the five-star rating. We're delighted that both our food and the atmosphere at NH7 Refuel Restaurant made your visit special.\n\nWe'd love to see you back soon. Next time you're traveling from near the airport or Doddaballapur road, do visit us at NH7 Punjabi restaurant on the Hyderabad-Bengaluru Highway in Devanahalli and try our tandoori parathas with a Patiala lassi.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbkxXRnRjMVpUUjA1M1NVOTZjamMxTVRKSGFVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T08:41:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great ambience good food friendly staff and good quantity",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Sanskar Singh,\n\nThank you for the kind words about our team at NH7 Refuel Restaurant. We're glad the ambience, generous portions, and warm hospitality made for a great experience with us.\n\nNext time, do try our tandoori parathas and butter chicken—they pair beautifully with our signature mocktails.\n\nWe'd love to welcome you back to our Punjabi restaurant near the airport on the Hyderabad-Bengaluru Highway in Devanahalli. Whether you're traveling from Gokare, Doddaballapur, or anywhere nearby, we're here for you.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1NlVsTmtUMEoyVWpCMGVYcENNbGRGZWxKSE4zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T16:17:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tasty and nice food. Staff was so good and helpful",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Priyanka Sharma,\n\nThank you so much for the kind words. We're glad our team made your visit warm and welcoming, and that the food hit the mark at NH7 Refuel Restaurant.\n\nNext time, do try our Chicken Steak or Butter Chicken — they pair beautifully with a cold Patiala Lassi on a highway drive.\n\nWe'd love to see you again. Whether you're traveling from Doddaballapur, Devanahalli town, or nearby areas, we're here at NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli, serving authentic Punjabi food near the airport.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWWRrRlBaR1p6YkVGd1RIbERiVTlCV0VoRGRrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T15:27:21Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Sandeep A,\n\nThank you for the five stars! We're so glad you had a great experience at NH7 Refuel Restaurant.\n\nNext time you visit, do try our tandoori parathas and butter chicken — they're favorites among our guests.\n\nWhether you're traveling from Doddaballapur road, Devanahalli town, or nearby areas, we'd love to welcome you back to our Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli. We look forward to serving you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JNVQyVlNNSEk0V1hKS1IyVklWM290VkhKdGNuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T15:10:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good Quality food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi JASVIR SINGH,\n\nThank you for visiting us at NH7 Refuel Restaurant. We're glad the quality of our food stood out to you—that's what we work hard to deliver every day.\n\nSince you appreciated our offerings, do try our Chicken Steak and Patiala Lassi next time. They're crowd favorites that showcase what we do best.\n\nWe'd love to see you again soon. Whether you're from Devanahalli, Doddaballapur Road, or heading near the airport, NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy is your go-to spot for authentic Punjabi food.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQ1gwODJZVWxuZEV4VE5FUTNSa0o0VldweFgwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T18:27:39Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Pooja ganiger,\n\nWe appreciate you taking the time to visit us at NH7 Refuel Restaurant. A 3-star rating tells us there's room for us to do better, and we'd genuinely like to understand what we could have improved during your visit.\n\nWe'd love the opportunity to make things right. Please reach out to us at 99452 43000 so we can hear more about your experience and ensure your next visit is better.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGbFdXOTNVak4yWkU0M01YQlNkbTVCTUhWTFRHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T10:08:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food with yummy tast and also staff was with happy smiley faces",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Mahantesh Mk,\n\nThank you so much for the kind words. We're glad our team's warm hospitality and the taste of our food made your visit enjoyable. That's exactly the experience we aim for at NH7 Refuel Restaurant.\n\nSince you enjoyed the flavors, do try our Paneer Butter Masala or Butter Chicken next time—they're favorites among our guests. Pair them with our Tandoori Parathas for a complete meal.\n\nWe'd love to welcome you back soon. Whether you're traveling from the airport area, Devanahalli town, or nearby neighborhoods, NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli is your spot for authentic Punjabi food.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsZmIzRnRZMlprZDFnemMyNHRRMDlhUWpkWU1HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T09:17:23Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good. Food taste and service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi sukanya kundu,\n\nThank you for taking the time to review us. We're glad our food and service left a good impression on you at NH7 Refuel Restaurant.\n\nIf you're in the mood for some authentic Punjabi flavors next time, do try our Chicken Steak or Patiala lassi — they're customer favorites that perfectly complement a great meal.\n\nWhether you're traveling from Devanahalli, near the airport, or anywhere along the route, we'd love to welcome you back to NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli for more of the best Punjabi food in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poak5VRlRSbEZ4YlRVeFEzZExSakZ2WldkTFlsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T08:43:58Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Upasana Boruah,\n\nThank you for the four-star rating! We're glad you had a good experience at NH7 Refuel Restaurant.\n\nWe'd love to have you back soon. If you're traveling from the airport or nearby areas like Gokare or Doddaballapur road, do stop by our north Indian restaurant in Devanahalli on the Hyderabad-Bengaluru Highway. Next time, try our Mutton Biryani or Tandoori parathas — they're customer favorites.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUCosJfOUIj-a0rTB2VRQViKTEBhIGd5kMXri46UvD37CXfRUYKiJBq-6C0fpJlYij3txQ4gk_kgid2oKbtbRlY6wYCp8kMXWrXtqb-Irw3p_8aicEuTCWhRrhneSqsAlivUef2At_tIU=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnaXVmaVdnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a month ago",
+      "iso_date": "2026-09-12T15:57:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Airport + Highway + Parking\nVery conveniently located on the highway, quite close to Bangalore airport. The biggest plus for us was the huge car parking, which makes it very easy when travelling with family. Food was genuinely good, especially the Punjabi dishes. A very comfortable place for a proper meal while travelling.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi NABIN BHATT,\n\nThank you for stopping by! We're delighted you found our location so convenient, especially with the parking that made your family visit comfortable. It means a lot that our Punjabi dishes left such a good impression on you.\n\nNext time, do try our butter chicken or tandoori parathas — they pair beautifully with our mocktails for a complete meal experience.\n\nWhether you're travelling from Devanahalli, near the airport, or anywhere along the highway, we'd love to welcome you back to NH7 Refuel Restaurant for a relaxed dining experience. We're right here on the Hyderabad-Bengaluru Highway, ready to serve you.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aR2NrSXRYM1o2UlMxR1dHSnlXRk15Y0VGeGVVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-11T17:18:48Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Yashwanth,\n\nThank you so much for the five-star rating! We're genuinely grateful that your experience at NH7 Refuel Restaurant left such a positive impression.\n\nWhen you visit us again, do try our Tandoori parathas or our Mutton Biryani — they're among our most loved dishes here.\n\nWhether you're traveling from Devanahalli, the airport area, or Doddaballapur road, we'd love to welcome you back to our best punjabi restaurant near airport. Come see us at NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devarahalli.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paZlZWVlRaVVJIT0hkTmMyZFliME5VWlhwemNHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-11T15:57:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food & great ambience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Amit Kumar,\n\nThank you for stopping by NH7 Refuel Restaurant. We're glad the food and ambience resonated with you—that's exactly the experience we aim to create for our guests.\n\nNext time, do try our Mutton Biryani or Butter Chicken paired with a refreshing Patiala Lassi. They're crowd favorites for good reason.\n\nWhether you're traveling from Devanahalli town, Doddaballapur road, or nearby areas, we'd love to see you back at our best biryani spot in Devanahalli. Visit us at NH7 Punjabi restaurant on the Hyderabad-Bengaluru Highway.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSFJHNUpORTFJV1dZMmJtTkdXRWhMU21veGFWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-11T15:32:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Awesome and tasty food. Regular customer.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Chinmoy Mondal,\n\nIt's wonderful to have you as a regular with us. We're glad the food keeps bringing you back to NH7 Refuel Restaurant — that's the highest compliment we can receive.\n\nNext time, do try our Prawn Kadhai or Chicken Steak if you haven't already. They're crowd favorites that pair beautifully with our mocktails.\n\nWhether you're heading from the airport or nearby areas like Anighatta and Doddaballapur road, we look forward to serving you again at our spot on the Hyderabad-Bengaluru Highway in Devanahalli.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTE1qaEVaRjlVZWtwamRuQjFRMUI2Y0VWdlpXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-11T14:49:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice food we can enjoy with our family  quality is good but quantity just ok ok",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Shree Chowdary,\n\nThank you for dining with us at NH7 Refuel Restaurant. We're glad the family had a nice time and appreciated the quality of our food. We hear you on the portions, and we'll definitely take that feedback to heart.\n\nNext time, do try our Tandoori Parathas alongside the Mutton Biryani — they make for a hearty meal together.\n\nWe'd love to welcome you and your family again soon. Whether you're heading from Devanahalli town, near the airport, or Doddaballapur road, NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy is your go-to spot for the best Punjabi food in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxbExYWjJObWhXTUhSemVHMW1PVXBGYmpCZlFuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-10T16:43:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good ambience and tasty rotis...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Mahesh Malagatti,\n\nThank you for stopping by NH7 Refuel Restaurant. We're glad the ambience and our rotis made for a good experience with us.\n\nSince you enjoyed our rotis, do try our Paneer Butter Masala or Mutton Biryani next time — they pair beautifully with fresh bread and capture the authentic north Indian flavors we're known for.\n\nWhether you're traveling from Devanahalli town, near the airport, or anywhere around Gokare and Doddaballapur road, we'd love to welcome you back to NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOclJYazNWMUJYTkMxdFZHWnBWVWhHT1RjNWJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-10T15:41:16Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Gangadhara D Gangadhara,\n\nThank you for the kind words about NH7 Refuel Restaurant. We're so glad you had a good experience with us.\n\nNext time, do try our Butter Chicken or Prawn Kadhai paired with our Tandoori Parathas—they're absolute favourites here.\n\nWhether you're heading from Devarahalli or nearby areas like Anighatta and Doddaballapur Road, we'd love to see you again at NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli. Come back soon!\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdFNXeHRSV1J1U0hVMk1IVTRNUzFWUlZSTWVGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-10T14:37:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice location\nVery good service\nTasty food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Chander Prakash Mishra,\n\nThank you for taking the time to share your kind words with us. We're glad our team made your visit comfortable and that the food hit the mark at NH7 Refuel Restaurant.\n\nSince you enjoyed the flavors, do try our Paneer Butter Masala or Butter Chicken next time — they're favorites among our guests. A Patiala Lassi pairs beautifully with either.\n\nWe'd love to welcome you back soon. Whether you're traveling from Devanahalli town, Doddaballapur road, or nearby areas, NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy is your go-to spot for authentic North Indian cuisine.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sb2JtWkpRazR4VEVwWE9EZzBlV1ZST1V4V1pFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-09T16:52:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "All-Day Dining\nThis place is a lifesaver if you have odd meal timings. They serve a full menu throughout the day and stay open till around 1:30 AM. We came at a time when most restaurants would have been closed, but here we could actually sit down and have a proper meal. Very convenient.\n\nThe 4–7 PM Problem Solved\nIn Bangalore, especially around this side, finding a proper meal between 4 and 7 PM can be surprisingly difficult. NH7 Refuel solves that problem because they have all-day dining with a proper menu from morning till late night. No settling for snacks when you actually want a full meal. Really useful for travellers.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Arjhun Tamang,\n\nThank you so much for recognizing what we do here at NH7 Refuel Restaurant. We're glad we could be there for you during those odd hours when most places have shut down. All-day dining with a full menu is something we're proud of, especially for travellers and those with unpredictable schedules around Devanahalli.\n\nSince you appreciate a proper meal at any hour, do try our Tandoori parathas or Paneer butter masala next time — they're just as satisfying late night as they are for lunch.\n\nWhether you're coming from the airport, Doddaballapur road, or nearby areas, we're here at NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli, ready to serve you whenever hunger strikes.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bWNVSjZVbGRhU0hkM09UTnNUM290WmtrMlIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-05T03:21:55Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi David dhami,\n\nThank you for the five-star rating! We're glad you had a great experience at NH7 Refuel Restaurant.\n\nWe'd love to have you back soon. Whether you're traveling from Doddaballapur road, Devanahalli town, or heading toward the airport, our north Indian restaurant on the Hyderabad-Bengaluru Highway is worth the stop. Do try our Mutton Biryani and Tandoori parathas next time you visit us.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVVowWjJiVEIwTTJWVWIxTXplbE5DUTNkV1RFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 90,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-03T03:41:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "We ordered makke di roti sarson ka saag combo, Lassi, Lacha Paratha and Dal Makhni. The portions are big, the taste was average. We had also ordered achari paneer tikka which was okayish.\n\nService was good, however the outdoor sitting has mosquitoes.\n\nOverall it was a good find for north indian food.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Akhil Tewari,\n\nWe're glad you enjoyed our service and found us a good spot for North Indian food. We hear you on the taste — we take that feedback seriously and will ensure our kitchen maintains the flavour standards our dishes deserve. The outdoor seating mosquito issue is something we're actively working to improve for our guests.\n\nWe'd love another chance to serve you better. Please reach out at 99452 43000 if you'd like to discuss your experience further, or visit us again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 7,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKDIdsV6otJzFkPdx7vuaEMFo3IfV6OuAa3uiY8jchwokd0gkV0TZPsAARlnGabCh9FigT6pdkrLEHHDczY9-oxZCj7DIXEKqJ17vT5HUTw-1m4lKXR-fO0K-TkzRl6MPApg5m0lxyPCkh=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZP1qG69MtcoKZzxUVecVVXvn9-iJzCUoxvKA7ibg3NNIz8PwTVh17fUMqah5qEi2qLkk7LnPstm4T6fJi8RLM1DFcf7kAaPMzw-X844AEp0ZJGBxiTR58irjEfxiuXhBSJ8GjGEYiej0Z=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHHnCwTxxXn0oiJL78F8kSiTZw7oE4DV9RyeMOXopcVAs5yl0HfI3_qBgico1e_q6cgO5-7IeoexGQyHxXjY3etlbUWqUFftAg3P9qUm3SzcoIL3MVAMnTiDvLd4Usn0B1vIknvPoAYix1=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0Ylk09I042Ro_Gxwprd3TNEoovxZgredMMtFSiRoAn0Lw2fsC8-ldToR2f0B6sPNAfHqQ4SZcu80-1bcB5jWWWxhUbnLfJzIpwIEhGArBc7vzcsh_aJj3SokJzBTC0-2N-5DK-7jIt7ZV=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOQcfN-2T14tn3u8P185Eaj24emTdMw54IkzMJjgrURdQm9sqPf4OwyYeSne-3apFhq7kBUoilb18Drp6DfgmoJrh0ZcIh7jVcKBtzS89RqhtupJqXbIMABvz1rayAFlDzkIR9_L5NJerq=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdmdAsL-S85OD5EgIrowMBnuWug-n-nOWaxs8lAZJLkrawtY9Twl9lcE6jFOI4-asdX81WnXfUZsxDu9v2sC681tu6cGSCk8uNgDiwmxyW376_SHRX8Wbq0iM1RzQR6vEzVRWUGoeViXM=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZBc7QE_7X9WcXkYoFbsGxbBZSXcLjiU4-bXJJdttq3jkBXnz4vhNdcDuDNyUysjH93vhq198B1Mig6VBzTnqbihmKCLDpRFrB6PnkqAqfxpJynMl8HlkjB-GbsSRD-qA3EaSGHINftEE=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gd1drVmxUVmRJWkhsellXcExiMWxJY1U5WGMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T07:56:40Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Soumitra Mukherjee,\n\nWe really appreciate you choosing NH7 Refuel Restaurant and leaving us your rating. It means a lot to our team, and we hope your visit was a pleasant one.\n\nIf you’re visiting us again, we’d love for you to try our Mutton Biryani, Butter Chicken, or Tandoori Parathas with a Patiala Lassi.\n\nHope to see you again soon whenever you’re travelling around Devanahalli or heading towards the airport. We’ll be happy to serve you again.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVk9EVkZVM05tZGxwSFZtMHdSbE5STlZjdGEzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T15:26:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Mihir Nighojkar,\n\nThank you for stopping by NH7 Refuel Restaurant and leaving us a rating. We appreciate you taking the time to share your experience with us, and we hope you had a comfortable and enjoyable visit.\n\nOn your next visit, give our Butter Chicken, Mutton Biryani, or Tandoori Parathas a try. Pair them with a Patiala Lassi for a complete meal.\n\nWe hope to see you again whenever you’re around Devanahalli or travelling towards the airport. It would be lovely to have you back with us.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MWJHTnhWMFpPYXpsYU5DMTZhWHBqV25rdE0xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-20T18:32:03Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Iman Sarkar,\n\nThank you for your kind words about our service. We’re happy to know that our team made your visit comfortable and that you had a good experience at NH7 Refuel Restaurant.\n\nWhen you visit us again, do try our Butter Chicken, Mutton Biryani, or Tandoori Parathas. They’re some of the favourites on our menu.\n\nWe’d love to have you back whenever you’re around Devanahalli, Kurubarakunte, or near the airport. Drop in again and let us take care of the rest.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKeFRGOWhiR2cyTkhoMVgzWklhalZrY1dKcmEyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-20T16:10:55Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Rachamalla Sireesha,\n\nWe’re grateful that you chose to dine with us at NH7 Refuel Restaurant. Thank you for leaving us your rating and supporting our team. We hope you had a nice and comfortable visit.\n\nIf you’re back again, try our Butter Chicken, Mutton Biryani, or Tandoori Parathas. A Patiala Lassi goes really well with them too.\n\nWe’d be happy to serve you again whenever you’re around Devanahalli, Kurubarakunte, or near the airport. Hope to see you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcGNITjZTbXhtVjBSbWFHSlFiSGRqWTFweWRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-20T09:51:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Lassi is very good , staff are very comfortable with us",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Rohit Tiwari Akshaya Homes,\n\nThank you for the lovely feedback. We’re happy to know you enjoyed our lassi and felt comfortable with our staff. Making our guests feel welcome and relaxed is something we always try to do at NH7 Refuel Restaurant.\n\nNext time, do try our Tandoori Parathas or Butter Chicken along with the lassi. It makes for a great meal.\n\nWe’d love to see you again when you’re around Devanahalli or near the airport. You can always stop by our NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pka1dFd3dUamg1Y2toS1VETTBXa3d0VUVWTmFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T17:16:54Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Dhanush,\n\nThank you for choosing NH7 Refuel Restaurant and taking a moment to leave us your rating. We truly appreciate your support and hope you had a good time with us.\n\nOn your next visit, do try our Butter Chicken, Mutton Biryani, or Tandoori Parathas. And if you enjoy lassi, our Patiala Lassi is definitely worth trying.\n\nWe’d be happy to welcome you again whenever you’re around Devanahalli or travelling towards the airport. Hope to see you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JNGRVTlZUbmhoV0dKV1F6YzRaemxrUVcwMVIyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T12:24:55Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Syed Aneeb,\n\nThank you for visiting NH7 Refuel Restaurant and leaving us your rating. We appreciate you choosing to dine with us and hope you had a comfortable and enjoyable experience.\n\nWhen you’re here again, do try our Tandoori Parathas, Butter Chicken, or Mutton Biryani. Our Patiala Lassi is also a good one to pair with your meal.\n\nWe’d love to welcome you back whenever you’re around Devanahalli or travelling towards the airport. Hope to see you again soon at NH7 Punjabi restaurant at Hyderabad - Bengaluru Hwy, Devanahalli.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQ1RHNXVUR1EzV1VSRVpWVmFkbTlzVEdSNmNFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-18T10:22:32Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Nirmal Mandhata,\n\nThank you for choosing NH7 Refuel Restaurant and leaving us your rating. We appreciate you taking the time to support us, and we hope you had a pleasant experience during your visit.\n\nNext time, you can try our Prawn Kadhai or Paneer Butter Masala. If you’re looking for something lighter, our Mocktails are also worth trying.\n\nWe’d love to have you back whenever you’re around Devanahalli town, Doddaballapur Road, or near the airport. Hope to serve you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNGNISXRWalF6YVhvMVZrOVNlWGhNZUdwaGFGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-15T16:38:00Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Manoj Rane,\n\nThank you for spending some time with us at NH7 Refuel Restaurant. We appreciate you leaving us your rating and hope you had a comfortable visit.\n\nIf you’re planning another visit, try our Prawn Kadhai or Paneer Butter Masala. For a refreshing drink, our Mocktails are a nice option too.\n\nWe’d be happy to welcome you again whenever you’re around Doddaballapur Road, Devanahalli town, or near the airport. Hope to see you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWFEzVktZV3A0V1RCcU1HeDJOVGxGTld0UmMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-14T06:23:54Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Ravi Kumar,\n\nThank you for the five-star rating! We're glad you had a great experience at NH7 Refuel Restaurant.\n\nNext time you visit us, do try our Tandoori parathas and Patiala lassi — they're customer favorites that truly stand out.\n\nWe'd love to have you back soon. Whether you're traveling from Gokare, Doddaballapur road, or anywhere near the airport, find us on Hyderabad - Bengaluru Hwy, Devanahalli. We're your go-to north Indian restaurant in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWV1FuQlBSVUYyYzNnM2JXTmlWM2xVYlVSTmJsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-10T06:58:36Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi nagendra 6109,\n\nWe're sorry to see a one-star rating from you. We'd genuinely like to understand what went wrong during your visit so we can make things right.\n\nPlease reach out to us at 99452 43000 — we'd love to hear what happened and improve from here. Your feedback matters to us, and we'd be happy to welcome you back.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aGVXRkRMV3gyZVdocGIySnRVVTl3VEhoS09HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 93,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-10T06:18:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very Basic Food, Service wasn't Good as No one Care to Attend and wait for Much time for someone to come and take Order, then the Order you gave us Taken and 40 minutes later when you ask where is my Other Order they say sorry that isn't available. So you Give Order and Then if order doesn't come on your Table and you ask them Some Other person will Come and say Sorry sir that Food item isn't available and I don't know why the previous person took Order. The Waiter and Helper can been Seen Eating and Gossiping Behind the Counter near Wash Basin but not attending. This Is on Highway and Just Beside that there is a Wine and Dine and has Fabulous Service. I feel they should send staff over there to see how to Provide service to Customers.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Hi Mysterious Account,\n\nWe're genuinely sorry to hear about your experience. The delays in taking your order, the unavailable items, and the inattentive service you described fall short of what we stand for. We take full responsibility for letting you down that evening.\n\nWe've taken your feedback seriously and are retraining our team on service standards and order management. We'd welcome the chance to serve you better next time. Please reach out to us at 99452 43000 so we can make this right.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vM05tNXFlVEIzVFVSSk5IUXdkVFZSZWxOUVRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 154,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T18:48:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "The place is old now comparatively. The balcony is not that neat. The tables are all sticky sticky and smoke ashes. Lost its charm. Before this was the only food joint there and it was nice now it's awful. You have to call the serving guys all the time they will take their own time to come.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Hi Read About The Review,\n\nWe're genuinely sorry to hear about your experience. You're right—we've let our standards slip, and that's on us. The sticky tables and poor service you mentioned shouldn't happen at NH7 Refuel, and we understand how disappointing that must feel, especially given the memories you hold from before.\n\nWe're taking this feedback seriously and working to restore the place to what it once was. Our team is being retrained on cleanliness and service attentiveness. We'd love the chance to show you we're committed to making things right. Please reach out to us at 99452 43000 so we can make your next visit worthwhile.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWVWNqUlFSbTg0UkV0MWFGZEVORWxSYldwb1drRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 113,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T13:57:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing food !",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Shubham Baid,\n\nThank you for the kind words! We're delighted you enjoyed your meal at NH7 Refuel Restaurant. Your appreciation means a lot to us and keeps us motivated to maintain the quality you experienced.\n\nDo try our Tandoori Parathas and Patiala Lassi next time — they're absolute favorites with our guests and pair beautifully together.\n\nWe'd love to see you again soon. Whether you're traveling from near the airport, Doddaballapur road, or anywhere around Devanahalli town, make your way to us on Hyderabad - Bengaluru Hwy, Devanahalli for the best punjabi food near airport.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sNmRETTFWMFF0VVZsYVdWUlJVamg0VFdwblVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T10:05:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place. Had good food. Cortisious people.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Mohan Gowthaman,\n\nThank you for stopping by NH7 Refuel Restaurant. We're glad the food hit the mark and that our team made you feel welcome — that's what we're here for.\n\nNext time you're around, do try our tandoori parathas or prawn kadhai. They're real crowd-pleasers.\n\nWhether you're traveling from near the airport, Doddaballapur road, or Devanahalli town, we'd love to have you back at our place on Hyderabad - Bengaluru Hwy. Come experience the best punjabi food in the region with us again.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VFgweGpabFZ0WjB4cE9GSTVURVZYVVhaQ1ZWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T06:40:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "Best place for delicious food with pet friendly natural environment..,...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Chetan Shapkota,\n\nThank you for choosing us and for the kind words about our space. We're really glad you and your pet enjoyed the natural surroundings at NH7 Refuel Restaurant — that's exactly the vibe we're going for.\n\nNext time, do try our Paneer Butter Masala or our Chicken Steak paired with a refreshing Patiala Lassi.\n\nWe'd love to welcome you both back soon. Whether you're travelling from Devanahalli town, Doddaballapur road, or nearby areas, our best Punjabi restaurant near the airport on Hyderabad - Bengaluru Hwy is always ready for you.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORlpYWldPV3BPUXpWQlNtaFVkMjUxTVdad2VIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-07T10:56:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Chaitra Y,\n\nThank you for the five-star rating! We're grateful you chose to dine with us at NH7 Refuel Restaurant.\n\nNext time you visit, do try our Patiala lassi paired with our Paneer butter masala—a combination our guests really love.\n\nWhether you're traveling from Doddaballapur road, near the airport, or anywhere around Devanahalli, we'd love to welcome you back to our family restaurant on Hyderabad - Bengaluru Hwy, Devanahalli.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twTVluZEdiMnRJYkVaR1dFNDBUWHBxZW1sdGQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-05T13:42:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi SRINIVASA M,\n\nThank you for the five-star rating! We're glad you had a great experience at NH7 Refuel Restaurant.\n\nNext time you visit us on Hyderabad - Bengaluru Hwy in Devanahalli, do try our Chicken Steak and Prawn Kadhai — they're crafted to perfection.\n\nWhether you're traveling from near the airport, Doddaballapur road, or Devanahalli town, we'd love to welcome you back for the best punjabi food in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5elNXMURkVVF6TUVReU16TkpPSFZYYWpreU1XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 22,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-04T16:36:35Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Pradip Jadhav,\n\nThank you for the five-star rating! We're glad you had a great experience at NH7 Refuel Restaurant.\n\nNext time you visit us on Hyderabad - Bengaluru Hwy in Devanahalli, do try our tandoori parathas paired with our Patiala lassi — a perfect combination.\n\nWhether you're traveling from Doddaballapur, the airport area, or Devanahalli town, we'd love to welcome you back for some authentic north Indian flavors.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jM1R6TmFSV1k1Tm5KSVdqbGtjRTVRWVZOMlQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 69,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T13:20:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "The worst restaurant on the planet. The gravy was  so spicy that it burns your entire body and not only the tongue. The worst place on earth.\n\nOn informing the rude waiter they went and got another one which was even more spicy.\n\nThey don't give you even water to drink. You will have to buy their bottled water, which is branded by themselves and sold at an MRP of ₹50. The same bottle will be re-used and filled with water and given to other customers at the same price as it seems.\n\nWhen asked for hot water, they took the same bottle of water into the kitchen, used the same water, heated it, and they gave it as hot water.\n\nDaylight robbery, charging ₹50 for one liter of bottle and they don't sell the other ₹20 bottles nor give you an option to drink normal water.\n\nThe food was so bad, extremely bad, pathetic I may say. The food was very late and even when it came it was so bad, very stale and full of chilies, which made it so spicy that nobody can ever eat.\n\nOn informing the waiter they got new curry, which came in hardly a few seconds and that was even more spicy. That was very strange and very suspicious. Never ever  set your foot into such a restaurant.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Hi Arun,\n\nWe're truly sorry to hear about your experience. The issues you've raised — the spice levels not being adjusted despite your feedback, the water service, and the food quality — fall short of what we stand for. We take full responsibility for letting you down.\n\nWe'd like the opportunity to make this right. Please reach out to us at 99452 43000 so we can address your concerns directly and understand what went wrong. Your feedback matters, and we're committed to doing better.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SM1ZsazRPV2RPUlRCdk9WZHBNM0ZoU0ZGVlpVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T03:16:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "It was one of my favourite restaurant on that side of the highway once, and I visited after a long time(4-5 years). The ambience is still good - but the food quality has dropped significantly. We tried butter chicken and both the gravy and quality of chicken was poor. The kebab was good. Also, from service point the server was not able to help much with recommendations.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Probal Mukherjee,\n\nWe're genuinely sorry to hear that your recent visit didn't match the experience you remembered. It's disappointing that our butter chicken didn't meet your expectations, especially after such a long time. We take the drop in food quality seriously and appreciate you pointing it out.\n\nWe've been working to strengthen our kitchen standards, and your feedback helps us identify where we need to do better. We'd like the chance to serve you our signature dishes—like our prawn kadhai and paneer butter masala—the way they should be. Please reach out to us at 99452 43000 so we can make things right.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pab2IycFhhbTlzVVhGUWIzUTRVVVZVUTB0S2MxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T02:57:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Vipin Tripathi,\n\nThank you for the four-star rating! We're glad your experience at NH7 Refuel Restaurant left a good impression.\n\nSince you enjoyed your visit, do try our Mutton Biryani or Paneer Butter Masala next time—they're among our most loved dishes here.\n\nWe'd love to have you back soon. Whether you're traveling from Doddaballapur, near the airport, or anywhere around Devanahalli, we're right here on the Hyderabad-Bengaluru Highway, ready to serve you the best North Indian food in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacGIyZ3plbk0zUlRSS2N6Vm1TSGxOTVZNNGIwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 42,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T18:19:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Best food. Best lassi. Worth the drive. Ask for dish wise preparation time. Ask for chef recommendations.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Ankur Arora,\n\nThank you for coming by NH7 Refuel Restaurant and for the kind words about our food and lassi. We're glad the drive was worthwhile, and we appreciate you sharing those tips with others about checking preparation times and asking our chef for recommendations.\n\nSince you enjoyed our lassi, do try our Prawn Kadhai or Butter Chicken next time — they pair beautifully with it.\n\nWe'd love to see you again soon. Whether you're heading out from Doddaballapur, Gokare, or anywhere near the airport, swing by us on the Hyderabad - Bengaluru Hwy in Devanahalli for the best North Indian restaurant experience around.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tScmVqTkdVbmxOVGxsSlgwWTNNV0ZPUVZwelgzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T13:41:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Better to go home hungry than eat here.\n\nThree reasons:\n\n1. The food tastes terrible.\n2. You'll end up wondering whether it's 2 or 3 days old.\n3. The staff are unbelievably arrogant and couldn't care less about customers.\n\nOne of the worst dining experiences I've had.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Hi tumarada aditya,\n\nWe're genuinely sorry to hear about your experience. Poor food quality and service falling short is not what we stand for, and we understand why you feel this way. This feedback matters to us because it shows we've let you down.\n\nWe'd like the chance to make this right. We're reviewing what went wrong that day and want to ensure this doesn't happen again. Please reach out to us at 99452 43000 — we'd appreciate the opportunity to reconnect and understand better what happened.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dlNtMTVjM2RqVXpoaFNURXpTRVJYVEdOTk9FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T08:26:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Garima Garg,\n\nThank you for the four-star rating! We're glad you had a good experience at NH7 Refuel Restaurant on the Hyderabad - Bengaluru Hwy in Devanahalli.\n\nWe'd love to have you back soon. Whether you're travelling from Doddaballapur road, Gokare, or near the airport, do make your way to us again. Next time, do try our Mutton Biryani or Chicken Steak paired with one of our refreshing Mocktails.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214algyWm5NalJvYVdWMk5URndSbE5sWmpKQ1pXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 20,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-07-30T17:07:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Subham gave us the best experience and the food was awesome. I will rate the food 5/5",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thanks for your review",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTWFHUkRSRmhFVEVWeGIyMXdVbmx5YjFkR09VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 67,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-28T08:10:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "The service is incredibly slow, the food is very average and everything feels extremely unhygienic.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello \nPlease produce your bill    And your contact number.   We will like to understand where you felt hygiene issue",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMmNqZGxhSEpYVERWYU9WWmZYM1JCUlV4TWFIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-26T12:22:41Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Thanks for your visit",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCelkxSkhUR1pKVkVNMGRrTklXVmhaVVhGT2NXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-26T09:30:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Wasted my 1500!!! THIS PLACE IS NOT LIKE BEFORE. Please don’t waste your time here and upset your stomach .\nWe had “ Watery watery lassi , grilled chicken ..where the chicken was very old , lemon coriander soup …salt less and just water mixed with chicken , punjabi masala .. so spicy (although we had told them not to make it spicy )that we had to eat roti with green chutney .\nWhen we complained they tried change . But no improvement in the taste. And we saw other people also sending their food back.\n\nSo think before stopping here or  choosing this place for your next long drive .",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreFFuWjZYMHRWYkhCS2IzcFROSFZDUTFFdFJYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "Edited 3 months ago",
+      "iso_date": "2026-07-22T05:03:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst experince in service , irresponsible staff members , literally waited for 1hour 20 mins and still they are asking for 15 mins extra for preparation\nTotal negligence\nDont never ever go to this restaurant",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Kovuru, I'm so sorry to hear you had a terrible experience at NH7 Refuel, Azaruddin, I'd like to make it right, can we talk offline?",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeWVVeEVOMnBUYUhSMk5rdDRMWHBxWjFGMVYzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-15T18:34:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Oh what an experience! Was travelling with my family and accidentally stopped at the place for some dhaba style North Indian food and it was a delight. Loved the food, the North Indian authentic taste, responsive service and a feel good ambiance.\nPlan on making this our frequent getaway for nice North Indian dinner plans- dhaba style(expectation Bangalore based)!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Aditya, we're thrilled you enjoyed our dhaba style North Indian food and ambiance. Glad to hear we'll be your go-to spot for future dinner plans.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGS1NraE5RMDVuWnpONmJXMTJiall0VVZKdWNHYxAB",
+      "author": "Dr.Chaithanya H K",
+      "author_url": "https://www.google.com/maps/contrib/118267162484775945445?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 124,
+      "author_photos_count": 689,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-14T17:54:13Z",
+      "iso_date_of_last_edit": "2026-07-14T17:54:13Z",
+      "text": "One spot where we doesn't miss at Friday nighout to airport bck home.\nTheir parathas are really good and tempting. They serve wide types of parathas, freshly made and served hot with butter, curd and achar.\n\nAll time favorites is paneer paratha.\nThe service is good. But price is quite high, but due to highway it's more.\nThe chaas is also very good and is done according to our needs.\n\nChilling outdoor is best experience at night is really good with ur frnds and family. They do have a restroom, quite neatly maintained.",
+      "text_original_language": "One spot where we doesn't miss at Friday nighout to airport bck home.\nTheir parathas are really good and tempting. They serve wide types of parathas, freshly made and served hot with butter, curd and achar.\n\nAll time favorites is paneer paratha.\nThe service is good. But price is quite high, but due to highway it's more.\nThe chaas is also very good and is done according to our needs.\n\nChilling outdoor is best experience at night is really good with ur frnds and family. They do have a restroom, quite neatly maintained.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹200–400",
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": {
+        "text": "Dr.Chaithanya, thanks for making NH7 Refuel a part of your Friday night outs, glad you enjoy our paneer paratha.",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGS1NraE5RMDVuWnpONmJXMTJiall0VVZKdWNHYxAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOkFKSkhNQ05nZzN6bW12bjYtUVJucGc%7C%7C?hl=en",
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoJRoChj99gkzUNnF1v_RMW_mGA37KcR-lWR7At59gADuRYhLz1J8hIz495qlLjWrmpnH1V1we8uGUAuJF3fetDBAeQqjUk1aAqjKkrAXPMcLNatAsj-RqJWxc5A4WUQqiHf978QTalM9A=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0n2Cxq2gBsc70S2y5R8UbeSlzm9eCWUGPWp3lO0O0XbPEk9ifFnQCdY0LU7-uxc7yS6QKrl4kyo1YxkUK4B2EJgFbl_HtADl7evpqG0TVGb3wpE3L5UHd8CCrAfvrkD7-GtguG_pSlbeo=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWGXDs01hu-ZSIwCeTvsdDbm42IpvYi2IFr_8ASGSQ1dBbSSgb7_tacR1F0REhRTDBrLTr6IeO9xPV7x1rJ6fplqDYKHdTxyhLX24YxvnvA6ocZEjjnkweYp9iyzc4A_5N05iqe8mpW9c=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9Cr0p0-sWt2deGtxUhvDIzLWV9Kd8qY0EdeaYOKj5QOdT1oUa8Ua6f5tSUbst5KpQHOz5dFsQBGg_wJF6Q7T989NbpHgA_RcKkXZYJqaI1RKV5a0IjXsT9RPoPbrvOQqQiBGd7uCqO_g=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMlVrMUVWMjgxYlZneGJrVnRSbGRTV1dsNVVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 92,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-12T18:03:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Missi roti and sarso ka saag very good",
+      "text_original_language": null,
+      "language": "hi",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Shashikant, so glad you enjoyed our missi roti and sarso ka saag. We're thrilled you had a great experience at NH7 Refuel.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeExWSlZjV2t0VGxWaWRYUTRPV2RHZDFCSUxVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 65,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-12T04:58:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Avoid  !  Avoid  ! Avoid  !\n\nA big NO if you want good food. Despite its Punjabi name, the food tastes horrible.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Jaideep, I'm really sorry to hear our food didn't meet your expectations, can I make it right for you somehow?",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYtlmNuY-Ku1HrWBsrw3x-tuVkoX5xr4HJu0ZyldFuC8Ud1KqxvLJ9kPdbZqWu5MyBCoUbuioj2kLxYWLzDrLIYrQiltksMFKghCvS0mOmzoVlwkGKtd3-u7UPD_LwWridhdGSS91mZ_t_=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWVQxVnhaRXRhYTFOSVlqQnlUVXhzVTJwT2RrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 349,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-11T19:33:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice place.  Food was very tasty. Loved the traditional punjabi style food and lassi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Arvind, we're thrilled you enjoyed our traditional Punjabi style food and lassi. Thanks for loving what we do!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKemIxVllMWFExUVhvNU1VWk1TMTlPVlhFd1ExRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-09T17:26:15Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Sreeja, thanks for the 4-star love, we're glad you enjoyed your visit to NH7 Refuel.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VmVHOUJNVVJhVVVvNVdEbE9RVXh5Wmxjd09FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 119,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-06T12:04:11Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Sourabh, sorry we didn't quite hit the mark, we'll work on improving. Hope to see you back at NH7 Refuel soon",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 6,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo5yOcmN4EFq9KCJf7aDfnNQ7W02prYgDqvPL8aFqYSGkn2bkAlLYvXOUc-Gb2W7GB4G5cVplQhCfLaW5gINt92Txts8ZfbIz1WFkyWd3ElnUdqNHAiGyUY9gne2bwUy6FO_27kCP6Cg2J=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpd2N0KPMk8dxsUi7iSHMnnDJVh3V_VvvKhNrpmN3I5JdyxnLcrgMTvLzGkvOd8-eHJrWmzWtGNKSKGj4VIoGPpK8h97mPG5a54Ccl_JSI-wpuOcdSbmfdysvOEkBeoELnINoz8WItbrRV=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNSLg7ghk08jzIkXqtRXzaYigPByHPRSpuFfT03nY9q5e3Um3FqaVxo5G1W2rDdpUXmZiGvdnnxPc1BpumJYBUwiu725sbjZuYjQTFsIEelM8B-190NJ8nLqZrSk6M08NCApBDjZ11oY8a=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFvYOeJ8wfwc8_IEk41VIKdRU1HjthHgGb7iBAyhI7TsWo5gFZ6BhjmEY14g9byuJUBe-VUlV0sr-CdWodX7WPmQV6JRyITEd7PNjbQNeAbySVDwlMjAqhzhPfHSaDO-6XqVGbCmFTe6o=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYoshxOrepAWPLRAd11B38a7_HNsUNTdSQ3MkG5uR7B4TntqiX47A4PM1y0lDbPHugGj-9ySCprAWcTRuJnGnqe-M2cLzKxrjeLQdq5kihEx-VXIbpRn39jFP_GVmfZDiS3-43PONnDYOk=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1cMPSWJtAbZBOtdsFLZaNdWxMOZMt1Gkfd3ClJMdN-nhALvX-0Gf0eZ-8n7pJn4ruhhTI315RI5nHl8LQ6SUT2DtGlwy6KolW-mmBs-MMWjfnbJH-sEGc_9h7r3cum3TIfrUTCkZZWhp3=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWWNEbHdaVTFwTVhWR01rVndNbmw0V2t0WVJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 74,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-05T16:02:16Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Palash, I'm sorry to hear you didn't have a great experience at NH7 Refuel. Can I make it right, Palash, maybe over a call?",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jd1lXaEhXa1ZOYVZsbmJYTXlSRlp2T1hkeFQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-05T10:58:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst Service. More than 45 mins and no order. Avoid during Weekends.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Karil, I'm so sorry to hear you had a poor experience at NH7 Refuel, especially with the long wait time. Can I make it right with you offline?",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KQ1NDMUxaMUoxU2tOUWFVVmpYM2hhUTJOcGEyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-04T15:45:42Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Kailash, thanks for the 5 stars, we're thrilled you enjoyed your experience at NH7 Refuel.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WT2JHcHJVSEZ5VkVKeVEyUlhNakZoVW5KSmJVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 84,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-29T07:38:23Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Vismay, sorry to hear we didn't quite hit the mark, we'll work on improving. Hope to see you back at NH7 Refuel soon.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdFRIQjNPRkpIV1ZkalZWaGpXVjkxTVZaUk5sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 58,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-27T15:35:44Z",
+      "iso_date_of_last_edit": null,
+      "text": "Delicious food, generous portions, laid back ambience, excellent service. Will be back for sure!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dee, we're thrilled you enjoyed our generous portions and laid back ambience. Thanks for noticing our excellent service, we can't wait to serve you again!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WV1JHSlZRbmhDVWw5bVZtaDVOMGhuVUVSaVNXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-27T15:23:38Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Sanchari, thanks for the 5 stars, we're thrilled you enjoyed your experience at NH7 Refuel.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SVNtb3RhVFpFT1RoRmFETTRhbVJ4ZWpOaFNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-23T16:06:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very quick service, excellent food, loved the ambience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Ramakris, we're thrilled you loved the ambience and enjoyed excellent food with quick service. Thanks for noticing the details that matter to us!",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSWExTnJTa0o2WVhjemNVUkJNbkpxV1hCMmEwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 140,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-17T10:21:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "It's okay for a stop over. I have been there earlier but today's quality of food has come down drastically. I have visited them after 4 or 5 years and by that standard it was disaster today.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Om, sorry to hear the food quality wasn't up to our usual standard, I'll look into it and hope you give us another chance soon.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWU0xaHFPWFZTUVZwdWJtWnJVMnBQWVdzd1UxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-17T08:23:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Took 2 hours to deliver food.  After special request also,  not packed the food on time and delayed",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Bhoopali, I'm so sorry to hear your food took 2 hours to deliver. Can I make it right with you offline?",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5dFdHeG9VRGhLYjBKUVVpMXNka2RDVjJWRFUwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "Edited 4 months ago",
+      "iso_date": "2026-06-16T13:47:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "Pathetic service experienced while opting for dinner.\nThe waiter after taking the order comes after 45 mins saying the order that was taken has been lost !\n\nAnd we had to repeat the order again at 11:30 PM. Even after the wait time, that lasted almost an hour one of the dishes that were agreed to be provided wasn't given seems they don't have it anymore!!\n\n- Mocktail drink was also not provided after taking the order stating the same-\nItem no longer available.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Indrani, I'm so sorry to hear about the poor service you experienced at NH7 Refuel Restaurant. I'll look into what went wrong and hope you'll give us another chance to serve you better.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KRlJFNW5NMHBqUWxwS1VGVjRTazVFTjJ0d00xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-16T02:28:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "\"Everything is good, but one cup of cappuccino was missed.\"",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Santhosh, thanks for your kind words, sorry about missing that cup of cappuccino.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jM1kyWmtMVTAxUVhKcE0wNVZNM1pOY1ZoRFEwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 75,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-14T20:28:20Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Subbu, thanks for the 5 stars, we're thrilled you enjoyed your experience at NH7 Refuel. \n\nWait, since there's no review text, here is the revised response:\nSubbu, thanks for the 5 stars, we're glad you had a great time at NH7 Refuel.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kM0xVSlBUSE5RTkhocFNGOXBNa05sUWxjM2JWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-12T01:32:54Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was ok not flavored like authentic punjabi style",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Seema, sorry our dishes didn't quite capture the authentic Punjabi flavors you were craving, we'll work on that. Hope you give us another try soon.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMGJ6aGxWMFJsWjNadVpFeHBjbkJGVVZSRU1IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-07T17:40:59Z",
+      "iso_date_of_last_edit": null,
+      "text": "This restaurant has very poor service. The staff were highly irresponsible and failed to send our order to the kitchen for preparation. We waited for 45 minutes, and even after that, we were told to wait another 20 minutes. This reflects a serious lack of coordination and negligence. Overall, it was a very disappointing experience, and I would not recommend this restaurant.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Thank you for your feedback. We sincerely apologize for your experience. Unfortunately, a sudden Wi-Fi failure disrupted our front-end operations, and the unexpected rain affected some of our live cooking setups. While these challenges contributed to the situation, we take full responsibility and understand your disappointment.\n\nYour support over the years means a lot to us, and we would truly appreciate an opportunity to make this right. Please contact me directly at 9945243000. I would be happy to personally host you again, and your next meal will be on us.\n\nRegards,\nKshitij\nNH7 Refuel",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbExXVkhiakZVTTBoUVJqWmlhRGxCWkVaek1WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-07T17:38:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Lohith, I'm so sorry to hear you had a poor experience at NH7 Refuel. Can I reach out to you directly to make things right?",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVmNERmpabVpOVDJob2JIQmxXSE5WVUVkbWVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-07T17:35:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst experience in service, Irresponsible staff members, please do not visit who are starving and too hungry,  luteraly waited for 45 min still they were asking for 20 min for preparation, Total negligence",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Thank you for your feedback. We sincerely apologize for the delays and service issues during your visit. An unexpected operational disruption on a particularly busy evening affected our ability to serve guests at our usual standards. While this is not an excuse, we completely understand your disappointment. We would be grateful for an opportunity to serve you again and restore your faith in us. Please contact me directly at 9945243000.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsR1MzQTJlblJSUjJkUE5UWm1jMkpXTjB4S2NXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-07T17:32:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "This restaurant has a worst service.The people are so irresponsible they didn't even take the order of the kitchen for preparation though we waited for 45 min still they were asking for 20 more min , It reflects high negligence. ANot at all recommended",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 1
+      },
+      "owner_response": {
+        "text": "We are truly sorry that your experience did not reflect the standards NH7 Refuel is known for. A sudden surge in guests combined with technical issues impacted our front-end operations, resulting in delays and communication gaps. We take full responsibility and appreciate your honest feedback. We hope you will give us another chance. Please reach out to me personally at 9945243000.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVVJUTnJYekEzYmsxbFVGOWtZMmt3WVVOdE5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-02T17:47:51Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Suvarnaa, thanks for the 5-star love, we're thrilled you enjoyed your experience at NH7 Refuel.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWU2EwaFdWbFJPUmxaM2R6UmtiRXBSWlRaTE9FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-02T17:43:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "It's a great place and ambience.\nTaste is superb, service is awsm...\nMr Agnihotri suggested the best dish as per our requirements...\nSo one should visit this place...\nKeep up the excellent work team...🥂",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thanks for feedback.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwS2FWZFhVUzFmV0RSM2IycDVObmRVZUdsTmNrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-02T10:38:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing food and service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you.",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wM1MwaGhValZzUm01MmNWTkJSbVZCZW5aM1dFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 46,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-02T05:49:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Based on the reviews visited the restaurant for dinner on my son's birthday. It turned out to be a bad decision. The ambience is nothing but plain. The rooftop is infested with mosquitoes, restaurant burns some incense for mosquitoes which itself is suffocating. The veg manchurian soup was bad, starters of chicken chilly and paneer tikka were good. The main course of Amritsar Kulcha and butter Chicken was stone cold. Patiala Lassi was surprisingly with loads of ice. The service is pathetic and bad, servers have loads of attitude, they can't serve in plated and unabashedly refuse to serve. The time taken for the order was super late. They also come up with innovative excuse for the delay. All in all a big disappointment will not recommend this restaurant.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 2,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Thank you for taking the time to share your feedback.\n\nWe are sorry that your son’s birthday dinner did not meet your expectations. We sincerely apologize for the delays in service and for any interaction that came across as unprofessional. This is certainly not the experience we aim to provide.\n\nRegarding the rooftop, as an open-air dining space, seasonal mosquito activity can sometimes be challenging despite our continuous efforts, including herbal repellents, fogging, and mosquito traps. Similarly, our lassi is served chilled, but we appreciate your feedback and will review your concerns with our team.\n\nFeedback like yours helps us identify areas where we can improve, and we are committed to doing better. We would be grateful for another opportunity to serve you and provide the experience that many of our guests have come to expect from us over the years.\n\nRegards,\nTeam NH7 Refuel",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRGNYcFBjV00zVm05VGR6Wm1aVGN6VHpKRVlsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-05-31T10:16:37Z",
+      "iso_date_of_last_edit": null,
+      "text": "We came here for afternoon lunch and ordered baby corn pepper dry, vegetable parata, gobi parata, masala omlete, jalebi rabdi and dry fruit lassi. All dishes were too good and service is also very fast and co operative. Definitely must visit place.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kZmVrd3hTek16YVdKYVZsOTNaakJHV25ORFlsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-05-30T22:27:53Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Thank you",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbFNIWmZXblZhUzFSTU9XUlZTVXhJVm1SMVNHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-30T07:05:41Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Thank youn",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Scll6aElORGxSYkRBdFNYVnNXbmd0V1RaNU1HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 72,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-29T00:24:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Disappointed with starter had to leave without main course.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ad1EyRk5SekY1TFZKNFgxODBZMG8xWm5KRFYxRRAB",
+      "author": "Mita Rani",
+      "author_url": "https://www.google.com/maps/contrib/112050045302352301384?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 99,
+      "author_photos_count": 218,
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-23T11:15:29Z",
+      "iso_date_of_last_edit": "2025-09-23T11:15:29Z",
+      "text": "I had dineout here for dinner . Ambiance is too good . Exactly attach to NH so location is too good . enough parking facility.Service is too good .Must say Washroom is also too cleaned and maintained ( why I mentioned because in NH restaurant getting this is luckiest one .) Outside mini garden is there we can get good pictures here and it's calm and cleaned .Staffs are good and mannered here ..Food is good and taste yummy 😋 .I just feel one thing I.e I ordered punjabi kadhi ..taste was too good but very less Pakora only 4 peice where I am paying some 200rs+ otherwise it's good ....Seems Hygeinic also .. Pleasant Decor  .",
+      "text_original_language": "I had dineout here for dinner . Ambiance is too good . Exactly attach to NH so location is too good . enough parking facility.Service is too good .Must say Washroom is also too cleaned and maintained ( why I mentioned because in NH restaurant getting this is luckiest one .) Outside mini garden is there we can get good pictures here and it's calm and cleaned .Staffs are good and mannered here ..Food is good and taste yummy 😋 .I just feel one thing I.e I ordered punjabi kadhi ..taste was too good but very less Pakora only 4 peice where I am paying some 200rs+ otherwise it's good ....Seems Hygeinic also .. Pleasant Decor  .",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "5-8 people",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_space": "Plenty of parking",
+        "kid_friendliness": "Yes",
+        "wheelchair_accessibility": "NO"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ad1EyRk5SekY1TFZKNFgxODBZMG8xWm5KRFYxRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOmZwQ2FNRzF5LVJ4X180Y0o1ZnJDV1E%7C%7C?hl=en",
+      "images_count": 8,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSiiU2F8ejeHFalsgkH7ejKPLzttQO-7JGRH334vKreEqEcYGbkkJsmYuNKapDeFZa8QSGZWrGVwbWGNnZB0lm4UDruyJPcWpMVZS-4VSGoJD2WDLEEqb-ylKv-Bu28_AbVEQ18tU6T_zh=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL0xa5aQqQX60NXBv-vpOdZeFGi_VGi-PLo0fJ-ntHJSsBUNdRXSy12CrPWVQa3foG3l4ZFquKo3R-l5kR3raMr45m6_t1bwX6iAaw9YPKjMJs_d3Ck33KiZVK_Y1hkoqdQoTQFOVHVCSz=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7I83AtkcWzOS8_QS7JMu_Lb8pHx77qthM0KPAeedH4gpVOb0bkQeY9KZaxoqy4SpeMsZtUosUGpdugEjAEEjtPDKbvlZYAD_dJ918E3bQG5wgqfD39ceVVm9OnpfwVSdqkJrCBl36L90=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLexL3gYbJ6q6BAbaNFhVXET8oxe5EhhUTgXIGCWWOPT5WM9gSYUUFC_mSCPrRgvsAr3iHp0_4Wi5wwAimO4fXXuG8Q1KeTIx8SWLUfZHsKvTIfQBoKQxwSO8bG95f8rK3mbt9Iz_0Ukj51H=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhZmXluQvKHdC9E9UMZkJcpZEFGudcHDWnCGJ2nUl47ZC5V4UFptw_gwceOg_Km5LyZ-6iVtijp7R8Soym51O444W3fqNpOx3Ob1retwCjPSUDCj1oYz76M-zCcf9BplwLXsgZHwrVAbq1=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1Q6G6llKhSETwievryjPYE7rGUjlXOO-h7tnmDidTOm7NFEMYAv6dgXgvYFbAubC3xvGguONeNx4fAJYZmrPYskOZvNnsQpDVF9SSSlNoDRWQ-UpcI_A8hPUA4QLFePKiogVzM3EKF7o=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjS25hOiGClJ_Ft-9_-La6Hia7fGCbBSfIWz4xjjJ4VgM38h05rTgnUGx2KyLJvSxbk4i2PKXBEoCzjqzDA8CvrKg6awKiqHOpkN5rJzjiNKvv2ZyD5pmWFE2GxVWde0UlIihWyaw4RgYZ=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQlFubQ2mH0dDBsKcdXYiYk50A65UHuxS_qGzg27NvpLvbQnodLAQKXtNTCRPjnlflJhxSvXG2STH3SKQjmiZdVzSXuEWEoC1HPrIVzFh436BPBbmIy2evC-qVOTRg1mfAH2FfCE___s8=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREeEpQRmZBEAE",
+      "author": "Soumen Bhattacharjee",
+      "author_url": "https://www.google.com/maps/contrib/103817809477165755343?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 178,
+      "author_photos_count": 1048,
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-04-05T18:27:46Z",
+      "iso_date_of_last_edit": "2024-04-05T18:27:46Z",
+      "text": "If you are going towards nandi hills, you should try this place. Specially the evening ambience is really good.\n\nAmbience - I will give 5/5. It has a very good ambience specially in evening seating on the terrace.\n\nFood variety - They have lot of options to choose from. 5/5\n\nFood tastes -Taste for some items are really good and few are not good. Fish tikka is good. 4/5\n\nService - Service was bit slow but not bad. 4/5\n\nPrice - I will rate 5/5. Decent pricing.\n\nIt's a good place to go with friends or family. Toilet is not well maintained. Smell very bad.\n\nHappy dining foodie.\n\nFollow on\nInstagram: healthy_techguy",
+      "text_original_language": "If you are going towards nandi hills, you should try this place. Specially the evening ambience is really good.\n\nAmbience - I will give 5/5. It has a very good ambience specially in evening seating on the terrace.\n\nFood variety - They have lot of options to choose from. 5/5\n\nFood tastes -Taste for some items are really good and few are not good. Fish tikka is good. 4/5\n\nService - Service was bit slow but not bad. 4/5\n\nPrice - I will rate 5/5. Decent pricing.\n\nIt's a good place to go with friends or family. Toilet is not well maintained. Smell very bad.\n\nHappy dining foodie.\n\nFollow on\nInstagram: healthy_techguy",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 5,
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Large vegetarian selection",
+        "vegetarian_options": "They have lot of vegetarian options.",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "They have amole of parking space.",
+        "wheelchair_accessibility": "Not wheelchair accessible entrance,"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREeEpQRmZBEAE!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDDxJPFfA%7C%7C?hl=en",
+      "images_count": 10,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbDSGTsNqz6CGRH7N_81A9vNHz0fzGN9I6EGelvTYjOpi-XrT4x7m3XmJz6493x3AKpqBvOBeNLMFbUnuof2nYgwYUG7hsdVOhE9VbrWCweHWUDS5aDFr7t-_BtvQWZxFxZwv-=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBWSYxW-BtkGSSOGeNDKy9KBt9OyTpB1RV_Mrr-OxirSkaQh6T7RSBOxxS_APWFMASEJR8U5nTRh7Q3BAXCmcShlMQEmTNPtKm8E-1W9IFrsoFMu-cEwMPxKFnBKjtpHAkkGf0NA=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJvawf1IiDdZldtPeSDwil7dWhR74e0TpXnrkRgyDHTst0bP89BB1szZ1_bgWYAYXsMNLnTKATYJinT1VbTKgP3PHTr5SATu4YZ7oGTtiVgu0ht9sr4QMujNKJIs9M4humcuur=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjFeacWYjBN6wIAUV5NCqTQImOgGQrjPSHVFZIpvKDuBM2zv9n_KAIle4fYx2s3h0e7cpNqczynXiPNVWZgkGC9j0aNqhSYPpeLJnkAB9xTCxZWqXlwjiqlCUTA2ZeY50SBEx78g=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecbVw8ZfFR6jBAPx9ceuMDcS2Lk30z_30hOAdCR4ZWJ46emG8FMJYOl4LTHxWQ7e4tRytn6fib0L9PYaGBMvlcy33mzrUAMFJtOXgx1ipl6Wm5Ovk8atDrfgBdVPSnXCPfnLTO=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMrIfQbUCgj6hW9k93MLHDnkziYZUOmkxdg19M8evYL5Tymx_maTOjRywIl4Z1TO3UsRM9ct19IeWttrk1TokpqXMj1yQukd0PxRppHfTyBZBcP0sJmys1oA_GtcyksP7hLZ1vkg=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNyeP81AB598ZKRW7RQEk-Zg9FT5i-vwct3oLnGay660ZVsdv1yzqnqjK6yR0X1xIBTweBF2eA4HzFoLNk5nNC2kQ55gWsyHG71cK4dr5FB6S2znn6K510vmtS8OazGmj7WVg=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWQ8gKQdEZdR2NKiHKZDlkBIPOnrVoTS76uy7CWSNEhnZspR6c75H3WAS05oSG6hP2wUJoXHWwnDSn7L9s4hQtpx0uMcfUku-ifVmI_97MwK8HnlD5X923W3Q1Qxo5RA_DdG7G6Q=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewYsxaMr6IUuAJCiFc1YoEqmcClJd-hkNXGP4IB0w11ly985v586w5dAtdtEZ-P2A2QXON1IcG3aaqFw58DY9YTMcI4VvIfR9Xe_Io2Zxmnn1YK6VXpliZYrg-L35uN5F9DOqNzA=k-no",
+          "image_index": 9,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwhv9Z-mmObksaz5ryzQ8y23jCojFFDRVSxmKKqnUFRMb0inMMq6MDd9WUUgRSJzpSge8Cd2ixmYZ2fdqdchDN4EctR99IqwVmzqS6_jGa6oDe7_fyzizL_JkEVTR6AVnk-7Ks=k-no",
+          "image_index": 10,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0N3I2cGxRRRAB",
+      "author": "Abhiraaj Ray",
+      "author_url": "https://www.google.com/maps/contrib/101449275709720109214?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 years ago",
+      "iso_date": "2024-02-04T17:10:46Z",
+      "iso_date_of_last_edit": "2024-02-04T17:10:46Z",
+      "text": "This is the worst restaurant anyone could ever be in ,trust me the tables were sticky and gooey the chairs were all torn up the restroom was in a very very bad condition.I can’t say anything about the food it just sucked the Kadhai panner was tasteless and very sweet .I recommend you to not try this restaurant at all",
+      "text_original_language": "This is the worst restaurant anyone could ever be in ,trust me the tables were sticky and gooey the chairs were all torn up the restroom was in a very very bad condition.I can’t say anything about the food it just sucked the Kadhai panner was tasteless and very sweet .I recommend you to not try this restaurant at all",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,400–1,600",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR0N3I2cGxRRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDt7r6plQE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxc2NyYm13RRAB",
+      "author": "Priti Singh",
+      "author_url": "https://www.google.com/maps/contrib/108060025064875570426?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 86,
+      "author_photos_count": 263,
+      "rating": 3.0,
+      "date": "2 years ago",
+      "iso_date": "2023-12-31T16:42:43Z",
+      "iso_date_of_last_edit": "2023-12-31T16:46:55Z",
+      "text": "The place is good and the ambiance is also pretty. Roof top option and open space option is there as well. Coming to the food the taste was okay and nice but the worst was the restroom it was not at all clean. If you have such a good place and big at least keep the restroom clean. Too bad for that I have rated the atmosphere 2 stars.",
+      "text_original_language": "The place is good and the ambiance is also pretty. Roof top option and open space option is there as well. Coming to the food the taste was okay and nice but the worst was the restroom it was not at all clean. If you have such a good place and big at least keep the restroom clean. Too bad for that I have rated the atmosphere 2 stars.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹400–600",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxc2NyYm13RRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIC1scrbmwE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcGJ2bi13RRAB",
+      "author": "葉又嘉",
+      "author_url": "https://www.google.com/maps/contrib/114471927158883736572?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 44,
+      "author_photos_count": 101,
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-08-07T11:25:45Z",
+      "iso_date_of_last_edit": "2023-08-07T11:25:45Z",
+      "text": "I went on the trip from south Bangalore to Nandi hills. On our way back from Nandi hill, this restaurant caught our attention. It’s next to the highway. So we stopped for Food before heading back to Bangalore around 4:30pm.\n\nThe food was really nice! We ordered butter Chicken and garlic Naan! With lime soda.\nThe food was really awesome. The atmosphere was nice! Gives an American country bar vibe! Great place for family/ friends gathering! 👍🏻👍🏻👍🏻\nHowever the  cleanness needs to improve 😅.\nI can understand that people will need to use the toilet since is next to the highway. So the usage of the toilet will be more frequent here. There are flies flying around specially near to the toilet/ kitchen entrance. There are food crumbs on the floor near the entrance. And while I was sitting at my table, there were a lot of mosquitoes biting me that we have to finish my meal fast to get out of the restaurant.\nHopefully the owner can schedule the toilet cleaning more frequently.\n\nDespite the cleanness needs to improve. I still recommend this place because of the great food and friendly staff!!!!!",
+      "text_original_language": "I went on the trip from south Bangalore to Nandi hills. On our way back from Nandi hill, this restaurant caught our attention. It’s next to the highway. So we stopped for Food before heading back to Bangalore around 4:30pm.\n\nThe food was really nice! We ordered butter Chicken and garlic Naan! With lime soda.\nThe food was really awesome. The atmosphere was nice! Gives an American country bar vibe! Great place for family/ friends gathering! 👍🏻👍🏻👍🏻\nHowever the  cleanness needs to improve 😅.\nI can understand that people will need to use the toilet since is next to the highway. So the usage of the toilet will be more frequent here. There are flies flying around specially near to the toilet/ kitchen entrance. There are food crumbs on the floor near the entrance. And while I was sitting at my table, there were a lot of mosquitoes biting me that we have to finish my meal fast to get out of the restaurant.\nHopefully the owner can schedule the toilet cleaning more frequently.\n\nDespite the cleanness needs to improve. I still recommend this place because of the great food and friendly staff!!!!!",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwcGJ2bi13RRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgICppbvn-wE%7C%7C?hl=en",
+      "images_count": 5,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVeXXGDm5JBqkPjZvOR9AIr8LpzkV8wZvTeioZPebwAINxDY7xWDDVzON7b-5BTEVzN4uEN8aFl_Iv4K9H4L7buMqamk2dXcQn-wXz_5PjubI43qqE1TIgt2_F08Y3lLTS58Y=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecaeczXu1_SctBrpztKtk9eEteFOEjEcSA0F3CYzRgeOAKrOxRw83dfpRQTfV-cOSuAVMUyjUWDkpAMHq8DLLx-jt7KvOaFQ8YIk9ymYMBWNTc_-1Ey-oIaXUew5pNm9-46nTQ=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc61DnYsyaLyxoZ5GdeCtIOT5-QUbiiR-hVMcshxkecIWT7GhQKLl3cOdy8bZH7xp-bzJ9itK5gyXNVtf0tBPCh8hykphR6xNBrixQgvRj6fTcC40609r78fX9ae4spG_bBl1TtTA=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBHjgQ_7YEcid13uQhFSf5kYXygTQeUnAPXkM3A86-V2LV-2HNcID6uxd6LydJG4LBVtFxYLihL6E722rJ3UVUKPCO4LT4rc7pgfM5xKMESfDQ8FW6vpJrUg37bsgJtMwmTeNq=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRd6pFJx2VzDwLwNEVg_3ZKeMxWIWJUGFs-15hMZf3qgA5L1lBRCRKE5eUChFMsbxCrOduo00QfLudhGLy_GEhw8-47lMXFHht_lvSUxmeSd0VKGRnvxwOrY--WSTufRa4c7fndg=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKc016bDBnRRAB",
+      "author": "VIKASH KUMAR Roy",
+      "author_url": "https://www.google.com/maps/contrib/109624080037346549985?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 256,
+      "author_photos_count": 1152,
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-06-19T10:14:38Z",
+      "iso_date_of_last_edit": "2023-06-19T10:14:38Z",
+      "text": "NH7 Refuel - this is the most popular hotel /dhaba for the road runners who are going towards Airport, Nandi Hills and Adiyogi . People often take a lunch/breakfast/dinner break here and prefer this place.\nThis restaurant offers a wide variety of food items starting from Chinese to kebab and Punjabi dishes. Roti, daal makhani, makke ki roti sarso da saag, Patiala Lassi, Chicken Mutton everything.\nFood were fantastic to taste with less oil as well. The sitting arrangement is good and comfortable and has good inside and outside ambiences as rooftop view.\nStaff behaviour is awesome and very attentive. The washroom facility is good. The place is well decorated and itself worth visiting. This place has plenty of parking and food securitym.\n\nOverall highly recommended.",
+      "text_original_language": "NH7 Refuel - this is the most popular hotel /dhaba for the road runners who are going towards Airport, Nandi Hills and Adiyogi . People often take a lunch/breakfast/dinner break here and prefer this place.\nThis restaurant offers a wide variety of food items starting from Chinese to kebab and Punjabi dishes. Roti, daal makhani, makke ki roti sarso da saag, Patiala Lassi, Chicken Mutton everything.\nFood were fantastic to taste with less oil as well. The sitting arrangement is good and comfortable and has good inside and outside ambiences as rooftop view.\nStaff behaviour is awesome and very attentive. The washroom facility is good. The place is well decorated and itself worth visiting. This place has plenty of parking and food securitym.\n\nOverall highly recommended.",
+      "language": null,
+      "translated": false,
+      "likes": 2,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,200–1,400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "vegetarian_options": "Lot of vegetarians dishes are available with great taste",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "They have lot of parking area beside and front side..",
+        "kid_friendliness": "Kids friemdly and they have kept few games as well to play while order is in progress"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKc016bDBnRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgICJsMzl0gE%7C%7C?hl=en",
+      "images_count": 21,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6ilZq9KyK-CjQwgFbUsMQ4ZNfn7PCyyCFq10Gz4oKxWAFCYyDsXEHBO0eF9TU4qa6fdtHzJX7rbniHqX5WkhIRnEbxdbg4XOGwswhWjF-cMD1cvUC5JNCxO0axX0dbUPddyjW=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoeYm6kawL5nheH4Z4fovCmcXRkj8IpIsU4jREhwXd3Ou8Y6xr2vDtqKAebX1rGPUhHYHleiIfbOXaxTNvqCV8OkvieJnIr6-W1uKBPxvNmypuHMsQ2q04RuYEUnY8x7mF-svB=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb9ZyWyGokhEk3Br4yvyeuCSkSrSGCyBHuDml7REFyHz9KFvslpWDyJRuAoz0FXlnGaIp7hO2C8EXB5J3NpKDslPzvw4ytmDPmxsxm-eLDYzlURhbwTK4vqUbgtr7C6hu6mkFM=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfODDoRPgaDXRJHMeH_ktq3bZPSbbYZyKfqa0Yt4PwfaJuM-hfr01GAzyOqD-PghGV7aQdfWrhFz68F2lr8tvP1vNrpDYm6Me0GI5hVvPoApz9sN9SufRVizuvjP3nxqMJGU_IO3A=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvzLgaRdh8AJVaSCjS_tqglp2B8pVJnE9a3jIiefyXAUp6osaAPnVuN2dTIi2Yk4Rsw5H50A8R4o024abtyBl_CNG_6Judo2u0ha559_W5NpGHOhKaXLt7vL4ccej2drTiDXA=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePgtrNQtYwX__fjTv4JL1txkQ-0G_zenT6MpqLHGyCEojAUJCN_HPNlBvc66SEo-YjeoFyadWJ9JQJu8gp-Hz3RqLaCMkHWJkosBcRHUdBdCIfkOZCiNqOi_EECklVtUf_IZ6s1w=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcca4o2k32lhR0Lb5piVzl1vzXg3-pHDicaPxjajTc1stjd_60RnukOLIWZwS_RDQ2l_H-uRSyhDlnpdclqrVmz9Mk80CIEMvv0f-rDID_3vAs5-IBycdeUat5FO7R_R_og-Jg=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwdPbalF8bXXzJ0RR0psN0aIOzSM9GjLm7OoMcQwp2JwQ_XWSBQa3bHPv8OrqKB0SdaOoyXMZwZJb1Utcrh8um7m8_0PL5dKfPpAKZODL6C5-12MT3-uHi0BUsC1Y4CjPdy2mOrA=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbr3j80ah9KLsRHuRtDg4NXMuKa775qH2g8caJm5a7VUO3aLKy8bzPPNdrXOJI5apMZbA6C5OLNWRqY5cB6V0heBqKBXhUnorxLBI73I3jYVwmiCnEK9rkO9qQnHR2i14RHUs=k-no",
+          "image_index": 9,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1lbTWt0CqxQZG9cllONMziKfYagnetESByaN5lQfnFIqHJ3KobSFhOxuHzyOMbNdXavgAY0t3CvLENTUMafDp8ukFfxW4ZZDtd8ajUwtf9_Ppt-NPGZwvTL-sBK-OO0x5TDuK=k-no",
+          "image_index": 10,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9ePlJK-ea0u-eBJeeLPwStaMynNrYSR9vvlkHuJb9aUEdhhalNEn1yuZMZLLh8ae9bi448X_4TqezcxFfPr_ItDStaMa5lXDeNCqmdsXWNBxRNVzvhM0LaUFKNroaNiLYjI-s=k-no",
+          "image_index": 11,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvLchuHYY__Jt_ecR9RFuEKXxY8C-HRgB2TnRL4hKs9l0OarH1VuhkUARK3PFFrhV-yYy4GNsJNNf9rW2-bWZrmY8OjAiqiDF6ILNy0eg8CcwkpDYAaYEXJpS0Q_ZN5o6zmp_Zog=k-no",
+          "image_index": 12,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLen39TegfBo72tyL5eDhsn4pmagJHL8nzJ9uxy1LfiBO73xtFayLiD8Glu7oT6NACDhlqZV1Jw_m137IpPAaOiIxzwWiEcb7_1t_wVvy-tTYsOpGX9XOwDJuQ5226FRULmDhudS=k-no",
+          "image_index": 13,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjGB-65HmcwLY_xr46gha_KbZ2Is39v1OTQBIdDH9EFkFTF_MaVu5OxDht8n3RQEnwlFv8Po2bp0Hx7nLZgicrFBKZ6vQwrIhb5TfQiKJKeKjLFl0iGhQIgDd5fvXR2dYcgM5mCQ=k-no",
+          "image_index": 14,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfK46sX_abugy5YW65qZzJsegoLgawmGt-KnGVsOW1ij7Wz-nWTsbU-2oF7UJ5hSquPvrHe-KXvZIdQwKotFKweTkVYu0Hr2LBQyFFWWEuhx6KFA7j1KBWpl-JC8BgAt3iq5CKN=k-no",
+          "image_index": 15,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHa-C7XfXlqT0hQIe-MWY_79Hk_ud_u55RYLz_lxCuAJaY-oaB_jxDDSjTfwlPimIkKQivojDAysTIXs3KaMJPCtxNCOEIc4qItkFGYL6RMbaRG5GNn46wkzvl09fNgGwxKhf3=k-no",
+          "image_index": 16,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaTH_BoE2EOWpEitDz6BabZMDTNTe9pIIlV4DAEwbGHhamfhsruIQ9s1d8dZMny44JFyDuvv-jUXGQY02nh4oNW0zPjyBASR4UE4naeQY6m2gtOORVWVPjTD-ijcbWixSJHQTd=k-no",
+          "image_index": 17,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLef6hY9Uv-2X8wdPhKt88bH9oyxqnH0bkJfVgFpamY9OcErIvPAi4k44gVhqseWa9YLFtcZFYYrrseQmid7kygut5gTF90rUTrGkIdpYKJKZhhMaL4Gb8sbkk-DaAxBzGzPSjrwoQ=k-no",
+          "image_index": 18,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6S78oQ8B3YPGSVrC5RE2MgD1JusQLQbdgcW9dnR2yjBvBR1mif3-bvUSCmLOrIyFBGdS48xvR2loAR0sKL27CEUWMr2JSaOplFIlXYVHlm5r5nh9v9t565ucufMs-6STHiVYJ=k-no",
+          "image_index": 19,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoXksSzN0ZIEOQ6Ud5SjXK_UQ_kUWgL1Z9nYDaNnePFVmNMXZ5CTXk4cABhmPAu-2DIPA1TKds7llVtrEWWqv1XPvok-CXuVlFjCxxD1JvYrkulP5XBKHfqH_viRhPU4_MgvEUtA=k-no",
+          "image_index": 20,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbB5AgU4j8M69p0jrBa6p7dGX9TXMYiZrt9_51IHeMyflqzK_brLOT5HY6uxqXsKlmH2ZXVjwNyKyJRTfeU7l1d5wYZkgpewBwzmy7XK3NgFAFNjNVZ1jg-wiK0vLgIzWzJSAI=k-no",
+          "image_index": 21,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbUxIV3VRRRAB",
+      "author": "srikant chakravorty",
+      "author_url": "https://www.google.com/maps/contrib/108509057140500310563?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 282,
+      "author_photos_count": 973,
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-04-17T05:56:12Z",
+      "iso_date_of_last_edit": "2023-04-17T05:56:12Z",
+      "text": "Bathroom and other facilities should be drastically improved",
+      "text_original_language": "Bathroom and other facilities should be drastically improved",
+      "language": null,
+      "translated": false,
+      "likes": 3,
+      "details": {
+        "food": 5,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURSbUxIV3VRRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDRmLHWuQE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMy1Ya1Z3EAE",
+      "author": "Dr Shambu Dinesh",
+      "author_url": "https://www.google.com/maps/contrib/109124137265541408554?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 239,
+      "author_photos_count": 1039,
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-03-21T15:19:12Z",
+      "iso_date_of_last_edit": "2023-03-21T15:19:12Z",
+      "text": "Good customer service\nGood ambience\nGood toilet facilities\nBut the food is not up to that price.. it's ok that's all",
+      "text_original_language": "Good customer service\nGood ambience\nGood toilet facilities\nBut the food is not up to that price.. it's ok that's all",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURoMy1Ya1Z3EAE!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDh3-XkVw%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycnR2SWZ3EAE",
+      "author": "Dinakar Raj",
+      "author_url": "https://www.google.com/maps/contrib/106338561635879244414?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 734,
+      "author_photos_count": 3951,
+      "rating": 2.0,
+      "date": "4 years ago",
+      "iso_date": "2022-04-21T07:31:05Z",
+      "iso_date_of_last_edit": "2022-04-21T07:36:48Z",
+      "text": "Place looks really impressive from outside because of the design and the lighting .\n\nWe had to wait for more than one hour for a Chicken Fried rice and when it arrived could not find any chicken at all !! For the price of it, it was not worth it !!\nMy friend orderd Chicken Noodles and he complained that he could not find any chicken too  and so  they took it back to add some pieces !!!\n\nAmbience is good and good info and details regarding different NHs..very creative ideas but the service was a big let down!\n\nCan only conclude that this place is basically a glorified Dabba and nothing else. The washroom is just basic and small\n\nHope they improve these issues and  the place will be much more popular.",
+      "text_original_language": "Place looks really impressive from outside because of the design and the lighting .\n\nWe had to wait for more than one hour for a Chicken Fried rice and when it arrived could not find any chicken at all !! For the price of it, it was not worth it !!\nMy friend orderd Chicken Noodles and he complained that he could not find any chicken too  and so  they took it back to add some pieces !!!\n\nAmbience is good and good info and details regarding different NHs..very creative ideas but the service was a big let down!\n\nCan only conclude that this place is basically a glorified Dabba and nothing else. The washroom is just basic and small\n\nHope they improve these issues and  the place will be much more popular.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMycnR2SWZ3EAE!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIC2rtvIfw%7C%7C?hl=en",
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4arWCAHu9Hq70j53JgOoQt_OQSqrD4awJjGf-MU4LXWgeVxVSxSe8JxvOX10BfV_cJPqHLuB-HZRQdR9xoXm1bU14YkEYzEA0EWb7raXaj3q0eFXr2QQdgdUOBYP93g-7lr6b=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKSlFZUCaXgXDhP-OiRJasGTcNURzZQ0Znq0S6pTk8q-aN7AAsEe4v9auirO7q-EPzln06a12zxJyHktrHhnUb_g9PgDQzVieJX_1vNaO0YokaDAhCgeakg3c_SlvLLd2xR8M=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf53qCnzaLSc0tTDvjfpgWAxoJkBQm7jiKrxuXN2MZcpzGWYqdomYJz7PdGm7Z66-1A6qQvIyqLe3PYXLInYAceZXXOx-yZqqEvKlzgteU-gQw_laxYdMZSuP51rNSnQoOBFc8e_g=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9L-rf2luqr4yUKIW79gY7iBHTOPbUhlHCMmNMvuZl6tn9spTMxklnhqaBrOLjgOy4wIrOpaNuHiCsy2mBIPUe1a4Km4gFwD-ep8ekiViy3SSzlkav7TMGEswEDc_8TMjiDB_Y=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2eUxidTJRRRAB",
+      "author": "Ansh Paliwal",
+      "author_url": "https://www.google.com/maps/contrib/107396398359066455600?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 42,
+      "author_photos_count": 81,
+      "rating": 4.0,
+      "date": "5 years ago",
+      "iso_date": "2021-09-19T09:24:31Z",
+      "iso_date_of_last_edit": "2021-09-19T09:24:31Z",
+      "text": "A place with good ambience and location, this place has a good range of north indian food with enough parking and seats. Garlic naan is a must, I tried it today and I'm definitely going to order it again the next time. The reason I cut a star is due to slow serving time.\nSafety precautions were okay, the male restroom was clean enough. This place is worth a visit and I'd give 3.5 stars",
+      "text_original_language": "A place with good ambience and location, this place has a good range of north indian food with enough parking and seats. Garlic naan is a must, I tried it today and I'm definitely going to order it again the next time. The reason I cut a star is due to slow serving time.\nSafety precautions were okay, the male restroom was clean enough. This place is worth a visit and I'd give 3.5 stars",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2eUxidTJRRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgID6yLbu2QE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2LVBIdml3RRAB",
+      "author": "Debarati Dasgupta",
+      "author_url": "https://www.google.com/maps/contrib/103845812712766487265?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 90,
+      "author_photos_count": 1839,
+      "rating": 3.0,
+      "date": "5 years ago",
+      "iso_date": "2021-08-30T15:57:32Z",
+      "iso_date_of_last_edit": "2021-08-30T15:57:32Z",
+      "text": "Beautiful space. Clean washroom. Good service.  But food was disappointing. Spices tasted raw in tandoori chicken. How wrong can one get with jeera aloo. One of the potatoes was uncooked.",
+      "text_original_language": "Beautiful space. Clean washroom. Good service.  But food was disappointing. Spices tasted raw in tandoori chicken. How wrong can one get with jeera aloo. One of the potatoes was uncooked.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM2LVBIdml3RRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIC6-PHviwE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhc3JXc1JREAE",
+      "author": "Thirumala Raju (STR)",
+      "author_url": "https://www.google.com/maps/contrib/101351760686731720513?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": 6,
+      "rating": 1.0,
+      "date": "5 years ago",
+      "iso_date": "2021-07-27T17:58:34Z",
+      "iso_date_of_last_edit": "2021-07-27T17:59:34Z",
+      "text": "Experience very bad.\nDirty restroom\nSpoiled chicken food items",
+      "text_original_language": "Experience very bad.\nDirty restroom\nSpoiled chicken food items",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhc3JXc1JREAE!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgICasrWsRQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxMWZIWTZ3RRAB",
+      "author": "Noorulain Saleem",
+      "author_url": "https://www.google.com/maps/contrib/116796780138956862852?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 21,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 years ago",
+      "iso_date": "2021-07-14T10:51:56Z",
+      "iso_date_of_last_edit": "2021-07-14T10:51:56Z",
+      "text": "We visited NH7 refuel in the first week of July 2021. Firstly the place was not clean and the washroom was not in a useable condition. Secondly, chicken we ordered only half plate was marinated and we were given an option to take a different type of chicken which we did. The quality of the food was bad and the bill was incorrect. We were billed for 2 plates instead of 1. There was no use raising it as the person refused to change the bill. We had to pay extra for the food we did not order and received bad quality food. Not motivated to visit this place again.",
+      "text_original_language": "We visited NH7 refuel in the first week of July 2021. Firstly the place was not clean and the washroom was not in a useable condition. Secondly, chicken we ordered only half plate was marinated and we were given an option to take a different type of chicken which we did. The quality of the food was bad and the bill was incorrect. We were billed for 2 plates instead of 1. There was no use raising it as the person refused to change the bill. We had to pay extra for the food we did not order and received bad quality food. Not motivated to visit this place again.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURxMWZIWTZ3RRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDq1fHY6wE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5OExlRmtnRRAB",
+      "author": "Parul Sharma",
+      "author_url": "https://www.google.com/maps/contrib/105820144376589948500?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 23,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 years ago",
+      "iso_date": "2021-01-17T09:24:26Z",
+      "iso_date_of_last_edit": "2021-01-17T09:24:26Z",
+      "text": "Food was decent. Washroom was dirty and place was ok",
+      "text_original_language": "Food was decent. Washroom was dirty and place was ok",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5OExlRmtnRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgICy8LeFkgE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    }
+  ]
+}

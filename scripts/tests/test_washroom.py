@@ -450,7 +450,8 @@ class TestMentionOutputs(_TempProject):
         _utils.save_json({"saved_at": "x"}, _utils.OUTPUT_DIR / "washroom" / "collection_summary.json")
 
         csv_path = self.root / "restaurants.csv"
-        csv_path.write_text("#,Restaurant,data_id\n1,Test Dhaba,0xAB:0xCD\n2,Other,0xEF:0x12\n", encoding="utf-8")
+        csv_path.write_text('#,Restaurant,data_id,No. of reviews\n1,Test Dhaba,0xAB:0xCD,"1,200"\n2,Other,0xEF:0x12,\n',
+                            encoding="utf-8")
         with redirect_stdout(io.StringIO()):
             mentions.main(["--csv", str(csv_path)])
 
@@ -467,11 +468,55 @@ class TestMentionOutputs(_TempProject):
 
         with open(_utils.PROCESSED_DIR / "washroom_summary.csv", encoding="utf-8", newline="") as fh:
             summary = {r["data_id"]: r for r in csv.DictReader(fh)}
-        self.assertEqual(summary[DATA_ID]["reviews_collected"], "3")
+        self.assertEqual(list(summary[DATA_ID]), mentions.SUMMARY_COLUMNS)
+        self.assertEqual(summary[DATA_ID]["google_review_count"], "1200")
+        # Search results are washroom reviews by construction: the share comes from unfiltered reviews only
+        self.assertEqual(summary[DATA_ID]["washroom_search_reviews"], "2")
+        self.assertEqual(summary[DATA_ID]["sample_reviews"], "2")
+        self.assertEqual(summary[DATA_ID]["washroom_in_sample"], "2")
+        self.assertEqual(summary[DATA_ID]["washroom_share"], "1.0")
         self.assertEqual(summary[DATA_ID]["washroom_related_reviews"], "2")
         self.assertEqual(summary[DATA_ID]["latest_mention_date"], "2026-10-01T00:00:00Z")
-        self.assertEqual(summary[OTHER_ID]["reviews_collected"], "0")
+        self.assertEqual(summary[OTHER_ID]["sample_reviews"], "0")
+        self.assertEqual(summary[OTHER_ID]["washroom_share"], "")
         self.assertEqual(summary[OTHER_ID]["latest_mention_date"], "")
+
+    def test_search_only_restaurant_has_no_share(self):
+        _utils.save_json({"data_id": DATA_ID, "review_filter": "query:toilet", "reviews": [
+            _utils.flatten_review(review("r1", "Toilet was dirty.")),
+        ]}, _utils.OUTPUT_DIR / "washroom" / "0xAB_0xCD_reviews.json")
+        _utils.save_json({"data_id": DATA_ID, "reviews": [
+            _utils.flatten_review(review("r2", "Lovely food.")),
+            _utils.flatten_review(review("r3", "Biryani was great.")),
+            _utils.flatten_review(review("r4", "Clean washroom.")),
+        ]}, _utils.OUTPUT_DIR / "0xAB_0xCD_reviews.json")
+        csv_path = self.root / "restaurants.csv"
+        csv_path.write_text("#,Restaurant,data_id\n1,Test Dhaba,0xAB:0xCD\n", encoding="utf-8")
+        with redirect_stdout(io.StringIO()):
+            mentions.main(["--csv", str(csv_path)])
+        with open(_utils.PROCESSED_DIR / "washroom_summary.csv", encoding="utf-8", newline="") as fh:
+            row = next(csv.DictReader(fh))
+        self.assertEqual((row["sample_reviews"], row["washroom_in_sample"], row["washroom_share"],
+                          row["washroom_search_reviews"], row["washroom_related_reviews"]),
+                         ("3", "1", "0.333", "1", "2"))
+
+    def test_share_uses_only_the_newest_reviews_with_text(self):
+        _utils.save_json({"data_id": DATA_ID, "reviews": [
+            _utils.flatten_review(review("n1", "Clean washroom.", iso="2026-10-03T00:00:00Z")),
+            _utils.flatten_review(review("n2", "", iso="2026-10-02T00:00:00Z")),          # rating only
+            _utils.flatten_review(review("n3", "Good dosa.", iso="2026-10-01T00:00:00Z")),
+            # Older and outside the newest-3 sample, still counted as a washroom review
+            _utils.flatten_review(review("o1", "Toilet was dirty.", iso="2024-01-01T00:00:00Z")),
+        ]}, _utils.OUTPUT_DIR / "0xAB_0xCD_reviews.json")
+        csv_path = self.root / "restaurants.csv"
+        csv_path.write_text("#,Restaurant,data_id\n1,Test Dhaba,0xAB:0xCD\n", encoding="utf-8")
+        with redirect_stdout(io.StringIO()):
+            mentions.main(["--csv", str(csv_path), "--sample-size", "3"])
+        with open(_utils.PROCESSED_DIR / "washroom_summary.csv", encoding="utf-8", newline="") as fh:
+            row = next(csv.DictReader(fh))
+        self.assertEqual((row["sample_reviews"], row["sample_reviews_with_text"], row["washroom_in_sample"],
+                          row["washroom_share"], row["washroom_related_reviews"]),
+                         ("3", "2", "1", "0.5", "2"))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,94 @@
+{
+  "data_id": "0x3bae1fcd0ceaa3a3:0x920c3e619894eb14",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "BEE ONE FAMILY RESTAURANT",
+    "place_type": "Kerala restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSFduWnFTV3hpWVhsRk4xUnBXbVpLY3pGSlFXYxAB",
+      "author": "Devesh Goel",
+      "rating": 5.0,
+      "date": "6 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WFZqUjVjbkJ5TFROZk0yUnZOSGgzWTJ4MVdsRRAB",
+      "author": "Jay Prakash",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeGIxOVNTRlZLYlhkaVFVMTVOMWh2WW10Q1FXYxAB",
+      "author": "Piyush Pathak",
+      "rating": 3.0,
+      "date": "2 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqH910ZuRsBVdtmnzC5_KqSgagKOE7SC469TgkXgKLQfr2qyqDmvvxiikTt0yvgi3CdQjQt5flrbY_IDYW7ugg5lcPiwUKf5zr_b6UMKsNbmUdvf8rv1jRBtbsRPTKb00UbfRjsdIsHHb5=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmUqqJoTsBM6pxtUGQrvZd39ZOBqrkT2cpPu48Kf6xUTazk8Um55sV3YuNlbKO03bNgzt8ao7RKgf5kfxGKz9hklTgWtpATsfV6hTxBfT4zie6fcerzn0Ct77S34o8cFeSnSJ3ZFB1a4S0=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxM2IwWXRaWFppVW1nNVFtbE5hRlpHZUhKME5IYxAB",
+      "author": "GUJJALA ANJIREDDY",
+      "rating": 4.0,
+      "date": "7 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoT1EzUTNaRmwyVFhkVmQxbzRNRmgzYWtsaVExRRAB",
+      "author": "Prajwal Choudhari",
+      "rating": 5.0,
+      "date": "11 months ago",
+      "images": []
+    }
+  ]
+}

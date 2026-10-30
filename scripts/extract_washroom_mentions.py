@@ -14,8 +14,9 @@ about the washroom in several places: those passages are joined with " … ".
 
 Reads:
   - data/raw_data/restaurants_route_above_3.5.csv   restaurant list (data_id)
-  - data/output/washroom/*.json                     filtered (washroom) collection
-  - data/output/*.json                              any other collected reviews
+  - every collected review, merged first by merge_reviews.py into
+    data/processed/reviews/ and data/processed/all_reviews.csv (SerpApi
+    unfiltered, SerpApi washroom searches and Apify, each review once)
 Writes:
   - data/processed/washroom_mentions.csv  one row per washroom-related review
   - data/processed/washroom_summary.csv   one row per restaurant
@@ -41,9 +42,10 @@ for _p in (str(_ROOT), str(_HERE)):
         sys.path.insert(0, _p)
 
 try:
-    from scripts import utils
+    from scripts import merge_reviews, utils
     from scripts.utils import load_json, make_review_fingerprint, short_hash, to_project_relative
 except ImportError:
+    import merge_reviews
     import utils
     from utils import load_json, make_review_fingerprint, short_hash, to_project_relative
 
@@ -54,8 +56,14 @@ MENTION_COLUMNS = [
     "star_rating", "washroom_snippet", "passage_count", "full_review_text", "review_link",
 ]
 SUMMARY_COLUMNS = [
-    "restaurant", "data_id", "reviews_collected", "washroom_related_reviews", "latest_mention_date",
+    "restaurant", "data_id", "google_review_count", "sample_reviews", "sample_reviews_with_text",
+    "washroom_in_sample", "washroom_share", "washroom_search_reviews", "washroom_related_reviews",
+    "latest_mention_date",
 ]
+# The share is measured on each restaurant's newest N unfiltered reviews, the same
+# definition for every restaurant (older downloads in Google's "most relevant"
+# order favour long reviews, which mention washrooms far more often)
+DEFAULT_SAMPLE_SIZE = 100
 PASSAGE_JOINER = " … "
 
 # ---------------------------------------------------------------------------
@@ -181,9 +189,10 @@ def extract_washroom_snippets(text: Optional[str]) -> list[str]:
 # ---------------------------------------------------------------------------
 
 def load_restaurants(csv_path: Path = DEFAULT_CSV) -> list[dict]:
-    """``[{"restaurant", "data_id"}]`` from the restaurant list, in file order."""
+    """``[{"restaurant", "data_id", "google_review_count"}]`` from the restaurant list, in file order."""
     with open(csv_path, encoding="utf-8-sig", newline="") as fh:
-        rows = [{"restaurant": (r.get("Restaurant") or "").strip(), "data_id": (r.get("data_id") or "").strip()}
+        rows = [{"restaurant": (r.get("Restaurant") or "").strip(), "data_id": (r.get("data_id") or "").strip(),
+                 "google_review_count": (r.get("No. of reviews") or "").replace(",", "").strip()}
                 for r in csv.DictReader(fh)]
     seen: set[str] = set()
     restaurants = []
@@ -194,52 +203,67 @@ def load_restaurants(csv_path: Path = DEFAULT_CSV) -> list[dict]:
     return restaurants
 
 
+SOURCE_SEARCH = merge_reviews.SOURCE_SERPAPI_SEARCH   # returned by a filtered (query / topic) search
+SOURCE_UNFILTERED = "unfiltered"    # part of an unfiltered download (SerpApi or Apify)
+is_filtered_output = merge_reviews.is_filtered_output
+
+
+def _items(merged: dict[str, list[dict]]) -> dict[str, list[dict]]:
+    """Merged reviews as ``{"review", "sources"}`` items, unfiltered sources also tagged SOURCE_UNFILTERED."""
+    return {data_id: [{"review": r, "sources": set(r["sources"]) | (
+                {SOURCE_UNFILTERED} if merge_reviews.UNFILTERED_SOURCES & set(r["sources"]) else set())}
+                      for r in reviews]
+            for data_id, reviews in merged.items()}
+
+
 def collected_reviews(output_dirs: Optional[list[Path]] = None) -> dict[str, list[dict]]:
     """
-    Every collected review per data_id, deduplicated by review_id, from the
-    washroom (filtered) outputs first and then any other saved output files.
+    Every collected review per data_id, merged across sources by
+    merge_reviews (deduplicated by review_id).
+
+    Each item is ``{"review": <review>, "sources": {...}}``: the sources that
+    found it, plus SOURCE_UNFILTERED for a SerpApi or Apify unfiltered
+    download. Washroom searches only return washroom reviews, so only the
+    unfiltered reviews show how common washroom talk is.
     """
-    dirs = output_dirs or [utils.filtered_dir(utils.OUTPUT_DIR, "washroom"), utils.OUTPUT_DIR]
-    by_restaurant: dict[str, dict[str, dict]] = {}
-    for folder in dirs:
-        if not folder.exists():
-            continue
-        for path in sorted(folder.glob("*.json")):
-            try:
-                doc = load_json(path)
-            except (OSError, ValueError):
-                print(f"  [WARN] Skipping unreadable {to_project_relative(path)}")
-                continue
-            data_id = doc.get("data_id") if isinstance(doc, dict) else None
-            if not data_id or not isinstance(doc.get("reviews"), list):
-                continue
-            reviews = by_restaurant.setdefault(data_id, {})
-            for review in doc["reviews"]:
-                if isinstance(review, dict):
-                    reviews.setdefault(make_review_fingerprint(review), review)
-    return {data_id: list(reviews.values()) for data_id, reviews in by_restaurant.items()}
+    dirs = None
+    if output_dirs:
+        known = {folder: source for folder, source in merge_reviews.source_dirs()}
+        dirs = [(folder, known.get(folder, merge_reviews.SOURCE_SERPAPI)) for folder in output_dirs]
+    return _items(merge_reviews.load_sources(dirs))
 
 
 # ---------------------------------------------------------------------------
 # Building the CSV rows
 # ---------------------------------------------------------------------------
 
-def build_rows(restaurants: list[dict], reviews_by_id: dict[str, list[dict]]) -> tuple[list[dict], list[dict]]:
+def build_rows(restaurants: list[dict], reviews_by_id: dict[str, list[dict]],
+               sample_size: int = DEFAULT_SAMPLE_SIZE) -> tuple[list[dict], list[dict]]:
     """
     ``(mention_rows, summary_rows)`` for *restaurants*, newest first per restaurant.
 
-    One mention row per washroom-related review, so ``washroom_related_reviews``
-    equals the restaurant's number of mention rows.
+    One mention row per washroom-related review (any source), so
+    ``washroom_related_reviews`` equals the restaurant's number of mention rows.
+    ``washroom_share`` is measured on the restaurant's newest *sample_size*
+    unfiltered reviews only: washroom reviews among those with text.
+    *reviews_by_id* is what ``collected_reviews`` returns.
     """
     mentions: list[dict] = []
     summary: list[dict] = []
     for r in restaurants:
-        reviews = reviews_by_id.get(r["data_id"], [])
+        items = reviews_by_id.get(r["data_id"], [])
         rows: list[dict] = []
-        for review in sorted(reviews, key=lambda x: x.get("iso_date") or "", reverse=True):
+        sample = sample_with_text = washroom_in_sample = from_search = 0
+        for item in sorted(items, key=lambda x: x["review"].get("iso_date") or "", reverse=True):
+            review = item["review"]
             snippets = extract_washroom_snippets(review.get("text"))
+            in_sample = SOURCE_UNFILTERED in item["sources"] and sample < sample_size
+            sample += in_sample
+            sample_with_text += in_sample and bool((review.get("text") or "").strip())
+            from_search += SOURCE_SEARCH in item["sources"]
             if not snippets:
                 continue
+            washroom_in_sample += in_sample
             rows.append({
                 "mention_id":       review.get("review_id") or short_hash(make_review_fingerprint(review)),
                 "restaurant":       r["restaurant"],
@@ -257,7 +281,12 @@ def build_rows(restaurants: list[dict], reviews_by_id: dict[str, list[dict]]) ->
         summary.append({
             "restaurant":               r["restaurant"],
             "data_id":                  r["data_id"],
-            "reviews_collected":        len(reviews),
+            "google_review_count":      r.get("google_review_count", ""),
+            "sample_reviews":           sample,
+            "sample_reviews_with_text": sample_with_text,
+            "washroom_in_sample":       washroom_in_sample,
+            "washroom_share":           round(washroom_in_sample / sample_with_text, 3) if sample_with_text else "",
+            "washroom_search_reviews":  from_search,
             "washroom_related_reviews": len(rows),
             "latest_mention_date":      max((m["iso_date"] for m in rows), default=""),
         })
@@ -277,24 +306,55 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
         description="Extract washroom mentions from collected reviews (0 API credits).")
     parser.add_argument("--csv", type=Path, default=DEFAULT_CSV,
                         help="Restaurant list with a data_id column (default: %(default)s).")
+    parser.add_argument("--sample-size", type=int, default=DEFAULT_SAMPLE_SIZE,
+                        help="Newest unfiltered reviews per restaurant the washroom share is measured on "
+                             "(default %(default)s).")
     return parser.parse_args(argv)
+
+
+def coverage_warning(restaurants: list[dict]) -> Optional[str]:
+    """
+    Why the summary is not final yet, from collect_latest_reviews' coverage
+    file (None when every restaurant has its newest-reviews sample).
+    """
+    path = utils.OUTPUT_DIR / "latest_reviews" / "coverage.json"
+    if not path.exists():
+        return ("No unfiltered download yet (run scripts/collect_latest_reviews.py): "
+                "washroom counts come from Google's partial in-review search only.")
+    try:
+        cov = load_json(path)
+        status = {r["data_id"]: r["status"] for r in cov.get("restaurants") or []}
+    except (OSError, ValueError, AttributeError, KeyError, TypeError):
+        return f"{to_project_relative(path)} is unreadable; coverage unknown."
+    pending = [r for r in restaurants if status.get(r["data_id"]) not in ("complete", "target_met")]
+    if pending:
+        return (f"{len(pending)} of {len(restaurants)} restaurants have not reached the newest-"
+                f"{cov.get('target')} review target: the summary is not final.")
+    return None
 
 
 def main(argv: Optional[list[str]] = None) -> int:
     args = parse_args(argv)
     restaurants = load_restaurants(args.csv)
-    mentions, summary = build_rows(restaurants, collected_reviews())
+    # Rebuild the merged dataset first, so the washroom files never lag behind it
+    mentions, summary = build_rows(restaurants, _items(merge_reviews.build(restaurants)), args.sample_size)
     mentions_path = utils.PROCESSED_DIR / "washroom_mentions.csv"
     summary_path = utils.PROCESSED_DIR / "washroom_summary.csv"
     write_csv(mentions, MENTION_COLUMNS, mentions_path)
     write_csv(summary, SUMMARY_COLUMNS, summary_path)
 
     print(f"Restaurants                : {len(restaurants)}")
-    print(f"Reviews collected          : {sum(s['reviews_collected'] for s in summary)}")
+    print(f"Sample (newest {args.sample_size} each) : {sum(s['sample_reviews'] for s in summary)} reviews, "
+          f"{sum(s['sample_reviews_with_text'] for s in summary)} with text, "
+          f"{sum(s['washroom_in_sample'] for s in summary)} washroom-related")
+    print(f"Washroom search results    : {sum(s['washroom_search_reviews'] for s in summary)}")
     print(f"Washroom-related reviews   : {sum(s['washroom_related_reviews'] for s in summary)}")
-    print(f"Restaurants with no reviews: {sum(1 for s in summary if not s['reviews_collected'])}")
+    print(f"Restaurants with none found: {sum(1 for s in summary if not s['washroom_related_reviews'])}")
     print(f"Mentions CSV               : {to_project_relative(mentions_path)}")
     print(f"Summary CSV                : {to_project_relative(summary_path)}")
+    warning = coverage_warning(restaurants)
+    if warning:
+        print(f"\n[WARN] {warning}")
     return 0
 
 

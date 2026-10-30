@@ -1,0 +1,3841 @@
+{
+  "restaurant": "Acre Bengaluru (Bar & Kitchen)",
+  "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+  "google_review_count": "9873",
+  "reviews_total": 114,
+  "reviews_with_text": 79,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 14,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTmNtWkpXVzFTZDNCUlUwMUNiRnAzVUVFM05IYxAB",
+      "author": "Jamie Fu",
+      "author_url": "https://www.google.com/maps/contrib/108184233523347069802?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 48,
+      "author_photos_count": 305,
+      "rating": 5.0,
+      "date": "39 minutes ago",
+      "iso_date": "2026-10-30T07:14:17Z",
+      "iso_date_of_last_edit": "2026-10-30T07:14:17Z",
+      "text": "離公司大概 40分鐘的一間 Bar\n強力推薦木火 Pizza裡的義式辣香腸，薄皮上鋪滿濃厚起司，內涵胡椒，熱騰騰下口又辣又燙，很特別\nWisky sour 也不錯",
+      "text_original_language": "離公司大概 40分鐘的一間 Bar\n強力推薦木火 Pizza裡的義式辣香腸，薄皮上鋪滿濃厚起司，內涵胡椒，熱騰騰下口又辣又燙，很特別\nWisky sour 也不錯",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "5-8 people, Suitable for all group sizes",
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsTmNtWkpXVzFTZDNCUlUwMUNiRnAzVUVFM05IYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOllNcmZJWW1Sd3BRU01CbFp3UEE3NHc%7C%7C?hl=en",
+      "images_count": 9,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBkpWyTfToGGalpvAC72mz_OSLzrSTqk2gVSAHDcrMfFXSV21KJ4D7fANTWs3-6LmPtdsBlxishi15VQj_-KY7eBE_K8LChQSIR7AyEuQnxD8-HxfUAHNQoD-BC5hONgUUK9HYydF59wYt=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjJJ5vm-gkj-MZ0wdqbbMgHuoejWfeLbRrKgndxdLWyOy2tjtlZi1GCfYvbhTEhAEg9N-Ab7GFVoIYjd9_EFDTERyLHasntJwPlNnSXPRWKe08nWs70m_ymq-ysM9_9i5rkGq9oekot7qC=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVTAwDkQQK6RAfH-8H6FTj5-vvHreG8P-KfIeFuWxwjE_DN4Ap2ji97_3jJa0gJ_mgQxr4ZVynF0U0_3eB1A4SejK65hzB6v66p7Rkg7SFvt_LqWeNKlzeJ9biREK5YerOlq-ebT_P86hr=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4ZepLUOqQki4AXu0No4mp6L_mannyq0pgeh3l-kmjH0LbR-PxXzdvJARTFKm1ZlzCYlpKGMaVEVWYp7VzJyUIp56yFXPcM8HxghDRQsB6A4w-ljyO3lBw9wT-kxZ4qlVwoZcOq0W3974s=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0BSiTjCQQ54jsO9VUuz7rmKdUyzBYf_wU8yXlzafNiXCZaTtRxz6Bca1A6W6tseB8WUKhOgLRdLtSlFEUYtDKrD_r4MP4-2UUpB2zImKcjTfzx4fVPy4iUuYuRXaztuaFcAjgOEl_wT39=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKPF4kXL06bzZgXWvdBPkkC1DAdWiu3TZYO89yfoLto1pdZLbDp1hIO_UNvVvFoTXy_hdTFEj8DfABMiZ0R0bpMqeWH_yAwBhw6cjsklXMj4sus96rSvzw-6ewYdRcGtvWdHihZkjkvCs=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuot42UCjoO4IsvWnViltCHodk7MoiO-lvk_65XkRfngLJgV--oNCK8Kltm-78XOAOUWl8WfLpmhvqIfbaeNWO2Dn8Qxcs5-byG3rHmzhpxj6w05KI6zJ2Vh5-9A1cqlmh3j2MA8DW2XrH=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcM-pDt6GHGEnD8D0OVXLW1SaqELLN_2PYsTrShJBqBJpXDPtFkoKmMIOkcnlWPFo2-xAyJkT1smGQPxTStH9pZUFTuXn-GcFSo8oa3cqC5sOsOku4R8b9dRUV1yvvh8ZhLJkXwoqOA270=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjzmL8Gsxx3cxmkR8CGsKQ4IfcfQfuQ_019PmT9zTOhtJ6eiBl3-D7vcAR3OaNHVrdAxKz0-8FQHpTYlRQPIFzhlz0uSC2lVDiL0CTPJ3IOp6fUalH8KdjxMAkNRDHYT__I4XnQpTSvl8=k-no",
+          "image_index": 9,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twM1oyZzVUSE5pY1VSVExTMUdVMG96VXpkMk1VRRAB",
+      "author": "Munshi Raj",
+      "author_url": "https://www.google.com/maps/contrib/108117094847908363800?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": 7,
+      "rating": 4.0,
+      "date": "6 hours ago",
+      "iso_date": "2026-10-30T01:35:52Z",
+      "iso_date_of_last_edit": "2026-10-30T01:35:52Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twM1oyZzVUSE5pY1VSVExTMUdVMG96VXpkMk1VRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOkp3Z2g5THNicURTLS1GU0ozUzd2MUE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaVVIbGpPREIzUzA5WGNuQkdNM0ZSZW1GWVIxRRAB",
+      "author": "Azad Vali",
+      "author_url": "https://www.google.com/maps/contrib/116424139542952801054?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": 2,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T16:56:56Z",
+      "iso_date_of_last_edit": "2026-10-24T16:56:56Z",
+      "text": "Nice place i had great time.",
+      "text_original_language": "Nice place i had great time.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxaVVIbGpPREIzUzA5WGNuQkdNM0ZSZW1GWVIxRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOi1iUHljODB3S09XcnBGM3FRemFYR1E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSM2FqaGZXRVptTlVsSVVGZENWbEYxWkROdGRHYxAB",
+      "author": "Rasna Rajesh",
+      "author_url": "https://www.google.com/maps/contrib/116487690601132407503?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T14:16:50Z",
+      "iso_date_of_last_edit": "2026-10-24T14:16:50Z",
+      "text": "Ambience is good but food is terrible and if you re looking for a quality time with family or friends i will never suggest it.",
+      "text_original_language": "Ambience is good but food is terrible and if you re looking for a quality time with family or friends i will never suggest it.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "price_per_person": "₹1,000–1,200",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "noise_level": "Loud, but you can still talk",
+        "group_size": "Not sure",
+        "wait_time": "10-30 min",
+        "recommendation_for_vegetarians": "Not sure",
+        "vegetarian_offerings": "Large vegetarian selection, Not sure"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSM2FqaGZXRVptTlVsSVVGZENWbEYxWkROdGRHYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOlR3ajhfWEZmNUlIUFdCVlF1ZDNtdGc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNVkyRm1WVEJXTkd0WU9YWnZPR3MzV2pCb1lXYxAB",
+      "author": "Nandana Raju",
+      "author_url": "https://www.google.com/maps/contrib/111646872155957335900?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T14:15:29Z",
+      "iso_date_of_last_edit": "2026-10-24T14:15:29Z",
+      "text": "Very bad experience food is not worth for the price and service very poor",
+      "text_original_language": "Very bad experience food is not worth for the price and service very poor",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "wait_time": "30-60 min"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SNVkyRm1WVEJXTkd0WU9YWnZPR3MzV2pCb1lXYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOmR5Y2FmVTBWNGtYOXZvOGs3WjBoYWc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVVFYTkRWRzk1VVhoU1IzbEZkbE13VkU4dFJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T14:14:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "Ambience is good, food is terrible!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MmVYTm9VMmRRY1dkT1VFZzNSVGhrTjFaRWEyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T04:22:33Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRlUzUTJTVjlVY2pjdGVqVTNXbGhqVjJsalRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 147,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T15:53:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is average , great ambience but need your phone light to see the menu, staff is polite provided you can get hold of them , it’s hard to get their attention :)\nToo many mosquitoes and rest rooms are not maintained well, very unhygienic !\nThey have some very unique menu items , do try the fried gajar halwa ice cream..\nNot sure if it’s the time we visited they were playing only Telugu and Tamil songs, at last heard joteyali Kannada song just as we stepped out and were delighted but they cut it out!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBedxWr3D-nJpdX-BZaL2mt192dylAAR6KueDA_rUTAoEsCPt4ny0_l7u4BkswaM4CCGyrif-a4TLPZVj5tbOXKHk5ZGk2tMS-yj-6S_t7l7P5D4Bv6txEmwN8VzmY9M9zfeBQrISj4ayS=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MmRYVlJVek5UWjJsRFlsUmxSV2RpWlROV05HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T02:53:15Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BNGNuVXhjMHBTWDNOa2NrUjZiVzUwWVdWNWFGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T08:55:59Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kS2VFdFBlbloxYUhKRFJFWldUM3BIYm0xUmFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T17:30:17Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OYWNYRlVSSEpKU2pjeU1rNVBZazVXVmtKUmJYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T14:29:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good place to hang out with friends.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 10,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcygPKVZxmMjLKDeHpzRxOr5IUZBu6uKXIFyDVUBNqm9ssTmH8c30hDZbMMafdu1diKMHId371y5utq6EP5TABAP2NER8ar_dug72A84Q_XZ_xPiOfGpHQeqmhv7RtvxDx_qIatOEroTIrB=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchxd34kCxarjASPH5mBmACkVKBtPlQ6ycXyrn60OtNgsNRSGbJpRIRHesn2NVh4tfAdd6xfdkt1hZw-jEPh5nqsQvuM45eIPSDGlsUwWEIu6-AIVqNWkVxA2OM0io9W-giBUbbr0rExhn4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflLcH8T7hkTm0MVtvoo8hyWwDsO99jEAO-aUyZmk8yV8l9K1LyOskI4YeOAvdGTFJryFP-eu2nZrzfTMsH4c_kH-50Wube55YJVrywbD089KqYfIvofDBVM-UpqfcBsptWNda0qhDfblba=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgZSKj9rfbdg6-TsIR3Pvt8L4MRD-fcleeS3Lld3pfx2qnXW9nEH_zS9p_YhcBQwyFAybabLH2nuOffSRM1FP6RyX0dxMagFBMME1WKHPPNtwreZWsCnykxSRjd1eT67x7LbsasBJ8paBZ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAAscAv6FFVw3rWxcR-jI3YT36vUJAUm89o7QbK4lY49pTc85cjobgbBoDiGisZZ2mQZQmNRN-nDaldwCmmncmLibJkftuG_N5_O0e9MFGnUeaGBTKjc26H3Qycd8Jx22say8LT6DMKIU=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeQ-HQUEiRkRqKfcqpJYL9QtT7p6Qizcu87JtXZ7V0sQdjeExRFPadTDiakVSUPHy6rZSzJiyMRn-09MPMjNOw2WzaT2aJuadNN4Fh3IohF1wA0nmff03--t7Eq24sAoLlQRc3zX7XJK_e=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDhaJq-pDv0frSe_PA4I2a8oRkWYe3akDa9CMao4lxuuSJgnUPWGMW_GHL0NIbR3oWYDweiUn8zFu5TlFL7a4dHQRgWZoXhL8F0bKbNfLRYFOTdLAkNzkqZvvggYRjEyzDN15S7aSjhB4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOHoHLAVP4EO92wU8N0QMYCxyLbsUhB2bv9e2BEyFkzGCcSCN4sETTl3f7RGkls1Mqyqfnwm3PlQ2Hm-HoC_l6mDPTv2uwKwA_ZW6aDkz-TmfgrHlkqrRlZifGsf-QpoMBG2fVi98AvQu9=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLew1OfCYKyWRUA6UcBr0DQinC-nVNLg68jXPG7HKJhhpDtE6mx95_FUrg0ML2uwYp5OPGrUNRZxBt_i7UE_DW-u_59txRUyNhjp89L5dHBnnn2nn8BdnAK0Z6awG04a6cvMYwlDJ0T-eQnc=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC8pRufNvsuV79VHtfLE9XLAQ6-HTQ28N5UAJchlhkF14l1w0-mDBIyCuhU8wO8PLLvdri24dwA0xImxhWaGr-BmhaIde6OALHjYzmNLY1Hr6OXfJglxwvE4ZaOqMA8GZJPpvDO2be6GdB=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRlNXeFZkR05mY2t0eFV6TlRibTVDVUc5c1NFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 218,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T04:34:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "We had a good meal at Acre Bengaluru after arriving in Bangalore this weekend.\n\nThe beer was quite good, along with the pinacolada.\n\nThe starters were yum- we loved the falafel hummus, pepper chicken and the chili chicken.\n\nThe chicken biryani was a bit spicy for our liking, but the flavours were bang on 😍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 8,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxARscaAPN_AbteUp0ws-PGMsm_xxhLbl1TYODSwPugGzQQyiA_by_YvRCOY4KeCNjCWwa3kG71x8ohYLzWn-GRMuiFex_IudMNRDiTlR_n5mAO1ta9m3IX6cL9RvzwiJWz0ve97NZHro=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdOgjwxNTwmvSl7EmyLgEe59x3dDA2jn6I7c251Cyyf62QWwuV7rYWs603kQuLnzBsmsOSnnuozjlqS9YkF4qxe0wB73y9g0ST3iPusI2GsC8HkroQ-Fr3E56KC7q6J3aq1sSEDTFEIo2p=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1qFKJWy1l_C71k8NA10Q8Yd8lY8fDMZujecPn3Ck_aLwuWHaGV4YRXEIsj-RA0iLTUjtIlfGxAKqrULRw_PtvrJTaAjCv28mVvw1vf9srzku4vL3YS7hLKnqHgmQzzwQEn0OlcqngUGY=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFUNHwRNcgpmJJYDLNVZ2u-nMsdkE-IPpYBs4YWbvWIptlSu_dUMHvtRD0KpZ2kHQI43ZpjoU_eWEENb2IewQWvsVD2pjf5H3-JIjeUr7rr-LJSekS9jjCWb6vM9tcfddAcReIQvEMlocd=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfw-WnvozkGEuvGdccDlpBYX19uWhX5WYDXT8BoaugkZH8Muo7afbLpCTmmWknOwzoRv6d97vekSQLXSUH3CJZVIl1a-HRL_A8KyeX_RCOjTJCJrp0BCCAHw0rKk7U-fRXfxxs6CRefx_c=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1eQXrzHTWe-4L70ytiDRL2e44G4lrZSx72qdwCh1yT832gL947biNC5C6cgTGP_X-fHhULMjit67rKfwjQ3K57GDjqJy2pJF6GiIy6neBwQOttH9j6PgUESUXqc4Q53t15kygq91tJvkP=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHbLczaeD-wW9mdv61jw608zINKZYiypFep6_I88FLzPSj_jHimEGMF7tOP2NmZfN_aB_vhToxdoA6uUiCJmw3tCR3j4_aLgHyH2CC2nR6w2D2L7q_yrPgF16kZiYxl7iR0VokER9dqR9T=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQV-IwdOf2cOxTJjcm4BJyXklVpSN7qCbnl94sY_c0Pf_M20znweJdbPK3kIpyBk9ZLnuvJr9MmddOilJglui_SvQpxKwbFdfhk5GSP5h49cYLyS7pASWtxThUpmt1Yg4SG4cLTF5PVStj=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oV2RHRlVNVUpoYVhaV2EwTnFTbVI1Y0V0RWFuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 38,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T10:33:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "The ambience was good, but the food was extremely disappointing. The food contained excessive oil, and the quality of the oil seemed very poor, which upset our health.\n\nThe curries they served were overloaded with coriander seeds, making us difficult to eat. The taste was completely disappointing, and the overall food quality was nowhere near what we expected.\n\nTo make matters worse, most of the items listed on the menu were not available, leaving us with very limited options. The entire experience was not worth the money at all. It felt like a complete waste of money.\n\nDespite the good ambience, the poor food quality, excessive oil, curries overloaded with coriander, and lack of menu availability made this a very unpleasant experience. I would not recommend this place to anyone.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKa1VHVkJlWG81UW5oRFRGUjNObWRzZDE5NFlrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 61,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T14:00:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjaVpYdVRnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 127,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 2 weeks ago",
+      "iso_date": "2026-10-11T02:28:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great place to hang out",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 7,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdm8SxFlqTDJEqI3q6U6m1Tax7kqAYMi6BgdkrwCprP2Y0sd1JH_TLyz6qS_Ssz6jGyGtCbCkHZ_tQJVvu487QGj2ObtKKv2-s6_vDl9IfG5PAcVAFoQYDeP9-ktK6LHtxbAx9BFooFdrdQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGDTrxPTX_ovfwQeNYvHlpGh-4WNRTqu6OoQEylMsF9MvxxJxV8Yo5HSZ5O1NdMSimgllEq--gsLxFEiZbWUD0WiZfHKO_1T09JQeiEvVTnyc8BAaiKKfbFcCu1MvokLDMgkxM7g2lEiIv=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOOagpfcK1KAWPGaEBxv4YuezQv8fPfdOjTt-E1ieVEJC_R-z1RrjqZy-C-nMOFZUYbh0u7xiX5pJ-sZh_8iVhRy5Uo5OFM39t6Jk-keFdIGXrOLDFpus2CbEQW7Hi6JRHk7f2iM2_aI_M=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQe0VoqOawnueBaH3asphXxdOj_jtwAt_CH7vobHWdUBuTbrqD-0wjoAnPFwQjcd_sv7Oe8k2yzcWogRdXc0CfL2q2zBBbWmled9ZMlu5Jr1x5MRPtusce7gQGHOx6U_ML51_rzwh_z3NK=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfY_LdFWK1x0wq0m9cIweL2wG_-NCrb8BJJ59cOAhmcb1FUj1WRibY96aE_rh5qZDB2wbn1NxzZQ7iS9Duq0h5TYNsb9Y9oBq1e1-dtFJn4M-TSUyjQDW6aIStQ0n1uuDdR5MXA17-775dq=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1svGyjsJfpGau5fV4Q6aK1XCU39aDBZgMsAR3dAbkxs-huKyI2Y6QGCAY7i7f8lQnJelAbomOaY05DgrWivzxhh9iI72DBn-GX7tLByupwJZqGdCoOHuajEPFrgwTjqYHhiNwTKjsOHjm=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8n8pnZusvAP9GSiFCRRCvkjrYL70kYXT6g-o4XnR75H40Pm22zfuknf3a-EJ6qXF6eqzwj6eSkVRCHlvhtMzVCJt_W7N2P64mnf5vwjs5QSc4tRfhHqUZJIkOW2MVTLdT7x1W5OVMYxug=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wd2VHVldkVXhYYjFWRGVYRjNXRTVzTWxKMWJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 38,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T14:14:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWVVJXRkZiRXB2VEhSdFVEQkVORFkzVDBvelQzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 3 weeks ago",
+      "iso_date": "2026-10-05T02:40:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice ambience and service is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMmNYTnhiVWxMVFd4emR6TTFObXBOZUdOV2EwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T14:30:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice place but you need add  live DJ's nd make it happing 👍😊",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMFZpMXBUMmw2YzFsSmJrRmtNVXQyVlRocWRFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-03T17:56:52Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGdVlXUnpjVGRIUm5Nd2RtSlNObVZMY21aMWRtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-03T17:27:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is not fresh.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WFVrSjRRamg2VTJaaFNVTk1aa05qY0hsc1VGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 158,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-03T14:31:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNVVVOU9WV1UzT0ZOV2NIZHNaamhKTFVnNWQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-09-30T12:28:11Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFeFVuQjJjRFJFVTJkM1VWQTJWMXBMTjA1aFIyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 271,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-29T11:33:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food but slow service . Was hot in the afternoon since it's open air and bangalore no longer has the cool clime..they should have something like wet root curtains to make it slightly cooler.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poeVFtUm5WMk5OTjFWc1JtTldWbGh5YkhCcWNYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T18:43:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food taste was pathetic just hyped up place it is had such a worst experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVk1VVlFhVTVhUTJKWFZrRnBjRmROTkdwWFFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T16:27:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst service  test  is also  not good   very bad  experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNExYRmpRakJqZFhNd1RtbERYMGxmU0hOVlRsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 33,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T16:03:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "Recently visited with my friend from srilanka and it was great experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWQ2REWkhWVEptV2pKYVYzZE5VRFZ3ZGxwWU5HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-24T14:35:17Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONmRFZFZUVlpDTTJsR2RFa3phVTFGYVRRemFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 57,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T16:50:38Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTFoxZzJRbkZ0YjJneFNIQnRaVzFXTmpjNVJtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-21T17:10:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Overall good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMFdqZGZSMVkzYVhFM2VsRktOVUYzVEhsaVJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 119,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T17:09:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice spread of menu across veg n non veg. Ample food options to select from. A good mix of indian, chinese, japanese and continental cuisine. Have enjoyed every food item have ordered so far. Kid friendly space. My go to resturant on various occasions!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taclN6bGxUMnBuUXprdE5XODRMWFppYVdkdFFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 65,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-19T07:46:42Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehXsHlLapJLYUtPOeXq5KFu0oXzREaDgo5zeJWFu-30GEG9b1cK3hp45-LlcD6WoFm34rVYxBFLhmUY0hbecyWvuvcKiHlIl01J201WcEP8UsFYoUach6IPbUplvDLgztAkyOuMqpfV0I=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aGRGQjJkV2xtVVRkVlRtWlFNMnBwTmtobVNuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T15:04:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "Just think—we ordered this many items, and honestly, none of them were even worth eating. Trust me, guys, almost everything was served cold, and they use very low-quality cheese. We also ordered a Spanish latte, which was so bad that we had to return it. The cold coffee was more like a milkshake than coffee.\n\nI honestly don’t know what to say. We paid around ₹2,000, and this was the experience we got. On top of that, most of the items on the menu weren’t even available. Definitely not worth the money or the hype.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLZ-L5DnZ_iz0sq_2ANK4vnt2j6ryC0FAHRUX-H5UOwq0HE4X9y_PFbLpH4IE5LVWxq1zbZIx42jnBy7AivnygNVTsGHnM6dbKlslW0aqEDfxpiO0kcRzYXYHGbtcP4yqyphnV49OMyTbN=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevMPd7C6OWGF9o_u8nb5aisj7e6oa7GTnl-0ahptbxYxMx1OgKula2v-2DKwnZF-VPkWsIAuIhSjUFm9znoJMCHq0qEitFK0ZJWimPQRUjZ3Amw0pIbZsUZEtnocc7rIN72dtpV1IaXnQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIe__a24UJ_woF4SxiNjjSf21MPRFE8ux5PHaaP3KA65E4_5KpnpRyLDQP-7PfKmDW7LSi907sDYRS9qEA5V3fA1gm3LnRODW4HXsxnBEdEW2uMbsZGjeERw2E_yv-KuFWdsoI-eGMzCbU=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5iEFpfiprGCZ5Jg16PNtYHk8etpuSKmt9DLaqVulDwEHT7X1NVhgNB5leOTMPyjbr2M8f74rVymmaTBKu21P3AfZhKrdPVGJltyT-bsbFocbb2adgueF21bA9hS4k0uxhIXiJoUzsm2VO=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Vd1EyUnRVV0ZrT0RaS05YQnBUM1ZLY0U1SmJYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T04:32:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WMGMyOTZOMkoxUWpOVGVHMXNRbGhrV2xGb1YwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-10T13:00:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "Lot of housefly around.....if fly gets into ur drink...it is not their problem, it is customers problem....as they have not covered the glass. Staff started arguing, that it is an open space and fly will come and will sit on ur food and also fall into your beer glass. Its all my problem.....not theirs.\n\nIf this is the case....they should put posters and inform earlier that if fly gets into food and beer....it's all customers fault.\n\nMy evening got spoiled.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNElDRFVBEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 417,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a month ago",
+      "iso_date": "2026-09-08T12:01:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "Lovely ambiance, great swing seating. Really enjoyed it.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aFdtNDVORlJsZDBGbFpuYzFaWFZ1YVRSRGFuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-08T03:27:19Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 2,
+        "Atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRmVEaEJibFV5U1dkSVJGVnJSbGRsV0ZsSGVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-07T03:15:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "We came to acre after 6 months for dinner with a guest to our suprise we were very disappointed with delayed service miserable quality of food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GaGVVUkhTMHBNZUhRMlMwZEtWRGd4Y1dSUkxWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 82,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-06T17:23:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is good. Ambiance is good.\nBut service attenders don't know anything. Neither they know to speak/explain about the food, nor they know the language English&Kannada.\nOver that they don't play any native music also. Just Bollywood 🫩\nIts disappointing.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 1,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTHnuNYkzJ21iFHXtowGGS1mfVHIGwUtpiw3Z7l_9axnbFrYotAcCkk7Jfuj9moY3MK7ElsnNcf9oJ039Sh5zCZf236VT3PivYFe1TJtOZveMwqXZnoyOlrFQZAWfwarLS-8u9m3JRmeVW=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdBG0UcO1q2jXlPqpQeD6n56NshHYtpdxyU-dxyIYDmKaMvdSVM0nj9w2kOaxH-mR4OiBqzG9FBTtr1cp5ke6tKMXj0b7-QPcHE-A1kLD_Aq7j-Q3VKLzHreDgkhKftRiLmf330M_7KpJA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbWVrOWpaMEZXZEhSbWNIZDJUM0ZCT1VwcVQxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-06T14:24:03Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1lWSlZSV1Z4VjNONWJWcEZYMjlHVVhKTU4xRRAB",
+      "author": "Vivek Soni",
+      "author_url": "https://www.google.com/maps/contrib/106904502386034388522?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 61,
+      "author_photos_count": 41,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-06T08:45:28Z",
+      "iso_date_of_last_edit": "2026-09-06T09:01:07Z",
+      "text": "Food is third class, pizza was having strange cheese with some strange flavoured dough , aglio olio was having rubber dried tomato, and volcano ramen not arrived till the time this review was written, washroom was dirt like govt bus stand. Staff too is below average dressed poorly and not attentive to the table they are serving.\nI mean in Bangalore there is always scope to find worst restaurant.",
+      "text_original_language": "Food is third class, pizza was having strange cheese with some strange flavoured dough , aglio olio was having rubber dried tomato, and volcano ramen not arrived till the time this review was written, washroom was dirt like govt bus stand. Staff too is below average dressed poorly and not attentive to the table they are serving.\nI mean in Bangalore there is always scope to find worst restaurant.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "group_size": "2 people",
+        "seating_type": "Indoor dining area"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZM1lWSlZSV1Z4VjNONWJWcEZYMjlHVVhKTU4xRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOkY3YVJVRWVxV3N5bVpFX29GUXJMN1E%7C%7C?hl=en",
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfizn5YqSvpNbk11u5Ycky6LZdG1g3ev8RSvCl9VeJ0r2X4zcHAOh_g7VIc8bp_pAdKPtg72k4Uuoe_fpnd7Ysb8XCPxV_Lze5FJF2kNX10joH4GiYqy0QSuqBluJoxWDBNmXGY-iqIkHE=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVFRsUkZla2hvZDBKQ1pXNVJWVk54V1dGdmVuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 21,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-04T13:33:19Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVE5uZzNjalJ2Wkd0MVlUTk1ia2R6UkdocE5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-04T09:20:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice food\nThanks miya",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KbFpXaGFkSGhaZW1WMVRVTjFhRzFoVkd4a1kzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 37,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-03T16:52:17Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaeWE3MU1BEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a month ago",
+      "iso_date": "2026-09-03T03:58:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "The ambience was pretty good, the food was quite interesting. Jaydeep was really helpful and sweet, he suggested us few good dishes to try on, thanks to Jaydeep!!! 🥳",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TFZFSk9TbEUyUVZGRVp6QlFZVFZMYVhkTGIxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 30,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-02T05:07:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "We went to book venue for our event and found them extremely disinterested and lethargic. We have to follow up multiple times with Mr. Santosh.\n\nThe management must understand how the staff pull down a place like this.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMWR6a3lTRko2ZHpGT1p6Tk9PVzFOWDJWSmNuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 78,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "Edited a month ago",
+      "iso_date": "2026-09-01T15:59:55Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbFFUWjVSbkJqVWxsaWR5MUxWRXhuVmxGaWFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 91,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-01T07:26:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "I am writing to express my sincere appreciation for the exceptional service provided yesterday (31.08.2026)\n\nAll of our guests, thoroughly enjoyed the ambiance, cuisine, and service.\n\nI particularly value Mr Santosh's meticulous attention to detail, especially in ensuring that each course was served promptly and with appropriate intervals.\n\nThe mushroom soup was highly acclaimed, and the Caesar salad, a dish for which I have particularly high standards given my extensive experience in the United States, notably New York, significantly surpassed my expectations.\n\nThe appetizers were flavorful and perfectly spiced. The garlic naan and gravy were excellent, as were the Hakka noodles.\n\nThank you Mr Santosh and Acre for your thoughtful care of our guests. We had a truly wonderful experience yesterday, and I also extend my gratitude to Inder for his attentive service.\n\nWe will enthusiastically recommend Acre to our associates.\n\nIt was a truly memorable and delightful evening. Thank you.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNM1JXbEJUbW8wYVdjdFIyaHJVSEozZWtSYVRtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-08-30T16:07:26Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wM1ZuRmFWWEJ6U1d0bFFWcHFSRFI1VUhaMGNFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 42,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T14:58:20Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehlZNSLrnU-V76tAR4ETAJAaur2XPs1uMCzAaMXrSIFm5vVY8EAORnajKzxFLtOW-aJJiFOeSBbSliwPhDQohWM9vkpnbRrRcag5Mf_-3Puvlq0u0PMGkdizlpABqWdJfsaOWpR6_ZPAKz=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oV2VubGpVbTlmWmxkdFUwRlhTVk5QTlhaUFZFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T19:19:39Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSFFsWmZWV0pvWVUxRWFEUm5XR0p5U1RaRmFFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-24T04:50:54Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service was very bad food was serviced after 50 min of wait time with hardly anyone assisting us we had to run to find people responding. After that also Food was average. Drink were full of ice till half glass. They just want customers paying but the QUALITY OF FOOD was AVERAGE and the service was AWFUL! Never returning",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkZlVGWmxaMjlWVmtKTk56aHdhazl3TFZRM1VVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T18:04:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Celebrated my birthday at Acre. Nice ambience  to enjoy for lunch with natural lighting. Mr. Rakesh our server was really courteous and accommodating.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OUFJXTnRRbWhQT0RSek9HOWthM1ZOUTBsTWVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T12:30:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25neVF6RnFabEpaYzBkR2VHcEVablkyUVhoWlgwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T08:53:40Z",
+      "iso_date_of_last_edit": null,
+      "text": "Indra was a great host !",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgfN0ADvtJ_I3Ls8nU2aY1MW6QI92TbVkzg4jdSRPN72xBT1ubrghRBWr2tvi7tFx1hGbxLYzwDbjm2PScnMT0-VWBGGSpxWc0ROT2kZeBCuOT5VU7FYd8oRNmggHaw612mshA2i0V-ZJn=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwZ3VXZkZBEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 115,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "Edited 2 months ago",
+      "iso_date": "2026-08-20T18:48:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Ok",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsDC3ZZecF1Kz0aZ0m-0RkJsaViKKLD7_a7pcCbi4CGjVavD3rYEJVGTvMiMqxSUMvH5C80sHRrI3t4Q6dSIQkv7j5MoBhJNkw6vxrGTJEfHUryAQJ8cT1ypgQXxlU-Lyzp7_jsQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMVZsUlBWWE5WYVUxc1ptRm1ka1JDZFZvdGRWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 144,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T16:14:40Z",
+      "iso_date_of_last_edit": null,
+      "text": "The location is great, it right on the airport Road and away from the hustle and bustle of the city. Great for a weekend trip out of the city and yet within driving distance. Had visited this place on three days on an official event. The food is good , over 3 days we ate a variety of starters and  main course, most of the dishes I liked and would surely recommend visit the place. There is ample parking available at the venue, there is a restaurant and bar adjoining a staging area where our event was being held.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQUMsoMe3lirfpuMZsG8JVEongBMcnHc2bFWvhBN1a2KTN2WyR0g8qyOm_ei8gsy0ZG8ane0hiNbAxQNy7ySTY9kHMkX-fpA0mjPDSl0IoJ4CKCtzXpwDn9i-NzX5MHKlLRTIITGKMwPbx=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTo1d73VYOc7XEX1pbXYg_xmeXlvHVLrTtP9sI0BgQxUfQurPGPRuHpJ4emE-tB8NhtAZcHcaFG88UKJ4B4V5gPcVrx_6iMMrL0vNor61uO4lIhMVm_jWVJmNnE7kpvqhkkIVzyx4Me1Y=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd323UNLm5CvnnjdL7oNFmpaFjZjRSBcG1YBPEfBkmOURL2ICY6AYakHuLl17mE0P1NxlBEVMlTsZY4y0D6AwHzz4gr95B2cr3OXU-XiyKuK0hCfQK5nVOZjllzcwuaFpT4kpdw9eFCxnJR=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbGEwOXFTWHBRVGtOTWRHTnpOa1pwZGtkVE9XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T15:55:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had Subroto as a server very good food was OK types but excellent service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKWk0yWldMVkI2VUZKRFIwNWhlRFJIU0RjM2RYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 50,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-18T14:42:37Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGS2VqSlpjRzltTFhSVk56RktkVzFCY2xodWJVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-17T16:17:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and great ambience. Food was delivered quickly. If you are looking for a place with good vibe then must visit this place. Indra was prompt and served us with a smile. Keep it up!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbVNGOXNUR1U1WkZwa1NGRTBUV2RyVVc1M2JrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-16T17:14:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUk5HWjRZM2gyWDFWVFowdHlWRzFGVkVNek1XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 27,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-16T09:42:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Set in a large open space, ideal to take in the weather if you happen to visit on a pleasant day. Food is excellent, portions are generous.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek3do1bVBriKEvNVF9oQ0SpGGcqwpaWjZyIjmLAUXWecxFmkV2_GdDqgZquuS6-V9-o_JteTd_I-Gu9vhxy7bI-js0pojTLV6tzA9PF8WG7Vbjuo3tZ3G312E8Eiv796TCiJuCZCZgJWg3=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLczyKuHmRQYAzqZ0Hea0aVsNNFIMFNyM4IAY3Gj1i60zT8R7OXtZfUFtb-aeW1knV-QDpU4IEEKeJ-JkKFO9UbX4clACXvKzp-VQ6hhVLrGhgteW5YLJ9Yn2WQN9q5KH4hIo-YG5QGY_VN4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CeU56RjBVR1JOWXkwMlVtTTFNekZuZFhORU9IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-15T17:36:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Subrato was kind and polite. We had a good time.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3OTVmWmRREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 122,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "Edited 2 months ago",
+      "iso_date": "2026-08-15T15:04:55Z",
+      "iso_date_of_last_edit": null,
+      "text": "changed rating I had rated 4 based on previous experiences but decreased rating to 2 stars as didn't feel it's worth a visit\n\nOld outdated playlist music gives u headache",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUVJGQmhOVXRDU1RkVk5GSndVaTEzY0VScGRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-15T14:28:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent service by subrato",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGZlVsaFVRa0UxUzJaeU1YVTVlSFJWZDFOblVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-14T17:45:41Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UGJVODRkUzFIYzNOQlFVVXpXRWhTYkd4SloxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-14T14:41:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service and Food and service from Indra was good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWGRFMXBha2R4Wkd0ZlZrZzJOMGRRZEhKQlNHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-14T10:21:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUGJ6VnpSa0pYZVVWVlJXcEZPVXhwTlZCWlFXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 164,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-13T14:17:30Z",
+      "iso_date_of_last_edit": null,
+      "text": "The place is huge..\n\nFood was good, can say non veg items were better than veg items.\nStarters were good.\n\nThe quantity is less for the price.\nNot average price, a bit expensive.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prd2VWSlRUakEyYkhwaGJIUnRYMnQ1UXpGVVozYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-11T18:09:33Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTFJsZHJjRzl6Ym5wd2Qxb3hSekpOYlhKcE1IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-09T17:19:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "⭐️ 1-Star Review – Very Disappointing Experience\n\nWe visited Acre Bar & Restaurant on Sunday with our group and had a very disappointing experience.\n\nOur total bill was ₹41,133. After making the payment at around 9:45 PM, the staff’s behaviour became very unprofessional. We were not given proper answers to our questions, and the staff did not respond respectfully.\n\nOne staff member, Rakesh, was also giving incorrect information regarding another staff member’s name, which created unnecessary confusion.\n\nWe were also expecting music/DJ entertainment, but there was no DJ or proper music today (Sunday). When we asked about it, we did not receive a proper response.\n\nFor a restaurant where customers are spending ₹41,133, we expected much better service, communication, and behaviour from the staff. Unfortunately, the experience after payment was particularly disappointing.\n\nManagement should seriously look into the staff behaviour and customer service. Paying a high bill does not mean customers should be treated without proper respect or attention.\n\nOverall: Very disappointing service and behaviour. I would not recommend this experience.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aU5HeElkM2xCTTBZMlgyWkNPVzlzYkVWRGQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-09T13:28:29Z",
+      "iso_date_of_last_edit": null,
+      "text": "Vast space for families welcomes pets ample parking - food was okay by local expectations and this place needs maintenance",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMWFtcE1aVVpoZEVKS00wMUhVek16VVVab1VXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T06:04:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poVVluaHBaVjlHYjAxVVlYTkhjV3RIUVVkWldsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 48,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-07T15:16:55Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWlJXVTNSRGx1U3prMFFUSkVOVmRZVm1WV1FsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 34,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-07T14:49:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent place near the airport. Great tasting food and fabulous service by Subroto!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUlYweHNTRzkxZDA1TlJFUTRibXRsYzFkM2JsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-06T15:33:54Z",
+      "iso_date_of_last_edit": null,
+      "text": "We were in Acres for a team get-together..Excellent service from the heart by Santosh & Team..Excellent food and vibe..Live singing on Wednesday was beyond  words..",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMldtdDZSbFF0VUdjelNqSlRibGRLU1hCRVVFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-05T18:00:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great ambience .....\nAnd starters are amazing\n\nNot a big fan of the biryani there",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGQ1oxOTFlWE4wTVVrME9IWm9WM3BrTkhwRFlrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-05T16:32:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "Mr Indra treated us very well.😊",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMldubGFTVEJuVldOSFpIQnNkV00xZEhkYVNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-05T16:01:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Thanks for Indra good service we got from him",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSFoySmxXR3RUU1VaeGVXeDZXRWhaU25rMVZVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-05T14:56:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice\nPlace good service with Miya",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OeE4zZ3pNVXBrZUV0b1kySXlWMVpuWDFnMlNXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-04T18:07:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Subroto was really good with the service. Food is good.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTFozSnRSRmhzYzJkWlUyVTBjbkZzVms1Vk9XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-04T16:30:09Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice place. We came here with our pet. Subrato was really nice staff.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNE1FRldVVWRsTmtOSldFczNNa2w0YmxsVlpsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-04T09:39:10Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was good and ambience was much better. Indra served us well and over all good experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMmVtUlNZMVJ5VUZKWFNGTkVTRFJNWkhkb1ZVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T16:23:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "This for Nice please\nFood also very nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMk1sQmpSalp6Y0dSaE1FTnFNRloxVVY5M2FIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 50,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T03:29:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Best place to visit with pet",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WYWJtOVVaMDU1ZHpZMGVuaFFXWG96VlhWeVJVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 555,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T20:17:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "It's nice place . Food was really nice .",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNWVteDZkMmh4Vm01WGVucEpXRFprWm5SWUxYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T15:40:43Z",
+      "iso_date_of_last_edit": null,
+      "text": "Indra gave us a good service. It was a good dinner",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWGRYRnFSbEZRTkZCbGVpMTJiVVJtWlc1Qk4wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T15:05:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "We liked the food..service was also very good.. thanks vijay 😃",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeWJFVkpWVlZRTVZrNFVUSjBOVGw1YTNoYWQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T13:07:15Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GM01sTndTblZSVnpkbWQwdHJOVFpDY1VkMVgzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 44,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T08:37:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good and ambience was good. Service probided by Indra was real good and we had no wait yime for getting the food.\n\nDish to try: Fah finger, ACRE Special BBQ Chicken wings",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VldEaGlNWFZ3V0ZGS1UyMVVZMWhPTjNRdFJFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T08:30:42Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ob2RFdFBUbU5KYkVGR04wZFJUV3BmWWsxRWFGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T05:19:55Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food quality was ok ok, presentation of not up to the mark, vibe was not good, we went for dinner but such had  some drinks and pizza as a snack.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GM1kzTTJNM0o1Vm5kWmFETjJNWFJwVG5kaVdHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-01T10:13:17Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaWNUWjNUWGt0TlhwaVMyRm5UVXN3ZFVsQk9HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-01T09:42:42Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very poor response u need to sit for long and  remind the menu finally we had to cancel the order",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOelVXcFJaV2t4ZFdjMWRVNXBTSFpzT1ZOTGJtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-07-31T15:42:31Z",
+      "iso_date_of_last_edit": null,
+      "text": "Rakesh served well",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRWNYbFRTbUZNU2tsQ1pXdFFiblZpTUZKaE5tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-07-31T09:59:52Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25reGRqaFViR2xZZDAxNVZ6bGtZM0EzYm5Ka2QwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 37,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-07-31T06:26:47Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSaFVFRnpjV3Q2YURWdGMzSnBTMDlOVEVJdGFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-30T07:06:21Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trM1QyRk1hRm96TmxWQlVEZ3dSak5JVG0weE0zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-29T18:20:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Rakesh has been great and empathetic. You should give him a raise in salary.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tObE5WaFpkMWt4U1VSTk0wMHpWSFJoVWtSaGVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-29T18:19:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Mr Rakesh was very polite and is very hard working",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbUxXSjNRelJqVGt0ZllsUktTRXBGZGs0d1IyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-29T18:18:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "The atmosphere was  nice and Mr Rakesh was polite n very nice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB",
+      "author": "Nikita Sinha",
+      "author_url": "https://www.google.com/maps/contrib/101764323555742157344?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 51,
+      "author_photos_count": 28,
+      "rating": 3.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-20T17:10:42Z",
+      "iso_date_of_last_edit": "2026-07-20T17:10:42Z",
+      "text": "The food was below average overall. The sushi wasn't good, the dim sum was disappointing, and the Angara chicken lacked flavor. The only dish I really enjoyed was the Black Pepper Chicken.\nThe place itself was nice and had a good ambiance, but the washroom was smelly and not clean, which affected the overall experience.\n\nOverall, I wouldn't recommend this place for the food.",
+      "text_original_language": "The food was below average overall. The sushi wasn't good, the dim sum was disappointing, and the Angara chicken lacked flavor. The only dish I really enjoyed was the Black Pepper Chicken.\nThe place itself was nice and had a good ambiance, but the washroom was smelly and not clean, which affected the overall experience.\n\nOverall, I wouldn't recommend this place for the food.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 2,
+        "service": 3,
+        "atmosphere": 3,
+        "group_size": "9+ people",
+        "wait_time": "10-30 min"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOllMSTMxMUNnWjhZLVc3QWExNmVfOVE%7C%7C?hl=en",
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevvymvUlCNlnjbUpIk7IHO2YN6KpTgIXP-YUn2vv_LA62xSVWkDPxMFK-yvm-sj5YZ6C97qES8QucZJbgDQxfxTrzXK9ECTdS-bsnouPTWQ4rJEOtLZzWHb-IkYJIgq1ZSZcicSvwD8lY=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJCq-EmZwV4zxi3BELe3k5pgz-WGOp9v30w17tBalvXApWuV4Hy3IXqhmtVdJFJ1eAX9FmA32Srd1PZncLKuFFyW6krYF2NOrxLQ2VljAh-2Mjo4oJR2LFNRrNyYkxcv01PKyifnhwUaNU=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTafA2vwCKi1Xiq2McLV6bH3nRjc2cwljRMM1BklJanSWTs3_TnS4AvO6BlRtEL44EYD-fWq6wzNidE5VmZKm3aux12OkujDn1azy92-7Jnxc71HwUIQZeyF-zqGhEU9d4u2VuH36y5R6c=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqIp1_JBZckvNBZLP-bKz0TFKeGlAdg0s2Hxfs3vpdtvURZ6IBZFqQnoE3Pnjfv7wwtY0w5Qgj4TV-ob9yvHZMx4geUAD3S9_k8Ys9binkpXbclFM2fUrasVA-stO_DlVe-PQyGgK61Lwa=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUE9WVk5TVkJ2ZW5SYVRYbFJlRjh4ZUhCU1lYYxAB",
+      "author": "raffath ashreen",
+      "author_url": "https://www.google.com/maps/contrib/113376586517815726461?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": 5,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-22T18:44:45Z",
+      "iso_date_of_last_edit": "2025-10-22T18:44:45Z",
+      "text": "A good place near by the highway and decent atmosphere however it is suggested to have wheelchair accessible washroom and a short ramp can make this place a good one for everyone. To be an inclusive place it does not take much",
+      "text_original_language": "A good place near by the highway and decent atmosphere however it is suggested to have wheelchair accessible washroom and a short ramp can make this place a good one for everyone. To be an inclusive place it does not take much",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 2,
+        "noise_level": "Moderate noise",
+        "wait_time": "10-30 min",
+        "wheelchair_accessibility": "No wheelchair accessible washroom a small step at the entrance"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsUE9WVk5TVkJ2ZW5SYVRYbFJlRjh4ZUhCU1lYYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOllPOVVNSVBvenRaTXlReF8xeHBSYXc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SlYyVk1VRGRUVkdObmVVSllWMVJOYTJ3MlJGRRAB",
+      "author": "neeraj rao",
+      "author_url": "https://www.google.com/maps/contrib/100307752441412876975?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 67,
+      "author_photos_count": 821,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-05T18:57:21Z",
+      "iso_date_of_last_edit": "2025-09-05T18:57:21Z",
+      "text": "The restaurant is located at a prime spot with a beautiful property, making it an attractive place for hanging out, especially for young crowds. After reading several positive Google reviews, we decided to give it a try.\n\nUnfortunately, the experience was disappointing. The staff gave us cold greetings, seemed indifferent, and were constantly busy on their phones rather than attending to customers. While placing the order, they appeared aloof, and the food took unusually long to arrive.\n\nWe ordered butter garlic prawns and fish & chips. Both dishes were far from expectations—the prawns were drowning in a cornflour-heavy sauce, and the fish was stale, lacking freshness. The batter on the fish was so thick that it completely overpowered the taste of the fish.\n\nOverall, the food quality ruined what began as an enthusiastic outing. Also, the restaurant washroom was very dirty. This place seems more suited for youngsters looking to hang out over drinks rather than those hoping to enjoy good food.",
+      "text_original_language": "The restaurant is located at a prime spot with a beautiful property, making it an attractive place for hanging out, especially for young crowds. After reading several positive Google reviews, we decided to give it a try.\n\nUnfortunately, the experience was disappointing. The staff gave us cold greetings, seemed indifferent, and were constantly busy on their phones rather than attending to customers. While placing the order, they appeared aloof, and the food took unusually long to arrive.\n\nWe ordered butter garlic prawns and fish & chips. Both dishes were far from expectations—the prawns were drowning in a cornflour-heavy sauce, and the fish was stale, lacking freshness. The batter on the fish was so thick that it completely overpowered the taste of the fish.\n\nOverall, the food quality ruined what began as an enthusiastic outing. Also, the restaurant washroom was very dirty. This place seems more suited for youngsters looking to hang out over drinks rather than those hoping to enjoy good food.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1SlYyVk1VRGRUVkdObmVVSllWMVJOYTJ3MlJGRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOk5JV2VMUDdTVGNneUJYV1RNa2w2RFE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VKUGp1ZFhWbXV5N293RRAB",
+      "author": "vyshak Jayan",
+      "author_url": "https://www.google.com/maps/contrib/107213502331032323168?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": 2,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-04T15:55:14Z",
+      "iso_date_of_last_edit": "2025-06-04T15:56:40Z",
+      "text": "Mosquito 🦟 breeding centre.\nWashroom Washroom cleaned a decade ago stinks.",
+      "text_original_language": "Mosquito 🦟 breeding centre.\nWashroom Washroom cleaned a decade ago stinks.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "service": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VKUGp1ZFhWbXV5N293RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEJPjudXVmuy7owE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdk5qU0ZnEAE",
+      "author": "RAMAKRUSHNA PATRA",
+      "author_url": "https://www.google.com/maps/contrib/111833577103548287930?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 23,
+      "author_photos_count": 2,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-03-31T07:07:04Z",
+      "iso_date_of_last_edit": "2025-03-31T07:07:04Z",
+      "text": "Extremely rude and unprofessional staff with no sense of decency. The restroom had no details or water glasses, and the towels were dirty. One of the worst experiences with such discourteous staff. I strongly advise against considering this place.",
+      "text_original_language": "Extremely rude and unprofessional staff with no sense of decency. The restroom had no details or water glasses, and the towels were dirty. One of the worst experiences with such discourteous staff. I strongly advise against considering this place.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "rooms": 1,
+        "service": 1,
+        "location": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNJdk5qU0ZnEAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgMCIvNjSFg%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYa04ySURREAE",
+      "author": "Divya Shakti",
+      "author_url": "https://www.google.com/maps/contrib/110030264460702761307?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-12T10:58:47Z",
+      "iso_date_of_last_edit": "2024-10-12T10:58:47Z",
+      "text": "Bad experience, bad food & staff is very rude, they turned off the water supply at the restroom & forced us to pay the bill even before we finished our dinner & asked us to go! Pathetic experience!",
+      "text_original_language": "Bad experience, bad food & staff is very rude, they turned off the water supply at the restroom & forced us to pay the bill even before we finished our dinner & asked us to go! Pathetic experience!",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYa04ySURREAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICXkN2IDQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNF8ybUhREAE",
+      "author": "Tj Shah",
+      "author_url": "https://www.google.com/maps/contrib/112235491739594649000?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 years ago",
+      "iso_date": "2023-07-04T07:08:52Z",
+      "iso_date_of_last_edit": "2023-07-04T07:08:52Z",
+      "text": "Good food, bad service and hospitality at the hands of the manager himself. The reserved table was next to bathroom and it smelled of pee, so we moved one table over same smell. Manager's response was well others don't have any issue so we shouldn't either. Then he put us at another table which was reserved for another family. When we said can we please get water, response was well you should have asked for it earlier. Food was good but managers hospitality was down right rude. I wouldn't visit this place no matter how good the food is.",
+      "text_original_language": "Good food, bad service and hospitality at the hands of the manager himself. The reserved table was next to bathroom and it smelled of pee, so we moved one table over same smell. Manager's response was well others don't have any issue so we shouldn't either. Then he put us at another table which was reserved for another family. When we said can we please get water, response was well you should have asked for it earlier. Food was good but managers hospitality was down right rude. I wouldn't visit this place no matter how good the food is.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "price_per_person": "₹1,000–1,200",
+        "food": 4,
+        "service": 1,
+        "atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKNF8ybUhREAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICJ4_2mHQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMk1paHBRRRAB",
+      "author": "ASHWIN SHETTY",
+      "author_url": "https://www.google.com/maps/contrib/101846277270966141205?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 46,
+      "author_photos_count": 10,
+      "rating": 2.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-27T00:50:43Z",
+      "iso_date_of_last_edit": "2022-06-27T00:50:43Z",
+      "text": "Food was good but Poor maintenance of facility. Tv , A/c bathroom fixtures and kettle not working….",
+      "text_original_language": "Food was good but Poor maintenance of facility. Tv , A/c bathroom fixtures and kettle not working….",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURPMk1paHBRRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDO2MihpQE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPd3RHcjl3RRAB",
+      "author": "avinash s",
+      "author_url": "https://www.google.com/maps/contrib/100376826932551865770?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 108,
+      "author_photos_count": 20,
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-05T08:27:12Z",
+      "iso_date_of_last_edit": "2022-06-05T08:44:38Z",
+      "text": "There are many things which are not good in this property.\n\n• Do not think as an resort and go, u will be disappointed. Its an club house.\n• Rooms are small and huge cost.\n• Showers handles are not working, Toilet seats are having stains.\n• Room service is bad.\n• Pool is very small / tiny. If half of rooms crowed come to pool it will be full.\n•  Food one of the worst food. Weekends are only buffet dinner. Which Is high value low quality. Options are also less.\nAmenities except small pool , billards , cycling. There are not much to say.\n\nOverall rating 1/ 10",
+      "text_original_language": "There are many things which are not good in this property.\n\n• Do not think as an resort and go, u will be disappointed. Its an club house.\n• Rooms are small and huge cost.\n• Showers handles are not working, Toilet seats are having stains.\n• Room service is bad.\n• Pool is very small / tiny. If half of rooms crowed come to pool it will be full.\n•  Food one of the worst food. Weekends are only buffet dinner. Which Is high value low quality. Options are also less.\nAmenities except small pool , billards , cycling. There are not much to say.\n\nOverall rating 1/ 10",
+      "language": null,
+      "translated": false,
+      "likes": 2,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPd3RHcjl3RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICOwtGr9wE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMy15WF9RRRAB",
+      "author": "Ankur Saraf",
+      "author_url": "https://www.google.com/maps/contrib/116030984526568958156?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 1223,
+      "author_photos_count": 44359,
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2021-12-14T03:25:22Z",
+      "iso_date_of_last_edit": "2021-12-14T03:32:07Z",
+      "text": "Despite having a very good property, the service is third class.. even I can say that it can go more worst.. let's have look what I experienced..\n- On check in to the room (107) (13th Dec 2021) found that no water bottles was placed in the room.\n- House Keeping do not picks up the call.\n- Reception picked up the call after atleast 10mins and making 4 calls..\n- Then the person turned in even after another 10 mins .. and too after making one more call and showing the dissatisfaction.\n- Thereafter called reception to send someone for checking TV, as it was not working.. the person never turned in.\n- Hot water kettle placed in the room was in bad shape (broken lid), even after making complaint it was not replaced.(Check Pics)\n- The toilet flush button was found broken and hanging.. when one push the same the water kept flowing and does not stops automatically.\n- Now comes to Dinner.. firstly, the service was extremely slow.. even on that when you ask something from their Menu.. the person tells ki preparing that thing took more time (normal time for serving the items of their choice was more than 30 mins, God know how much more time they require.\n- Then the served food was cold and even the taste was not good.\n- Even categorically asked the reception manager to get ready the breakfast by 7:00 am morning, the breakfast not made available on time. And even the morning shift manager is saying that the breakfast will be served by 8 am, and didn't received any instructions. This happened when the breakfast was said to be complimentary and the cost was included in our stay.\nOverall had a very pathetic experience here... and will say..  Never. Ever. Go. There.\n\nWorst & Pathetic Service/ Maintenance !!",
+      "text_original_language": "Despite having a very good property, the service is third class.. even I can say that it can go more worst.. let's have look what I experienced..\n- On check in to the room (107) (13th Dec 2021) found that no water bottles was placed in the room.\n- House Keeping do not picks up the call.\n- Reception picked up the call after atleast 10mins and making 4 calls..\n- Then the person turned in even after another 10 mins .. and too after making one more call and showing the dissatisfaction.\n- Thereafter called reception to send someone for checking TV, as it was not working.. the person never turned in.\n- Hot water kettle placed in the room was in bad shape (broken lid), even after making complaint it was not replaced.(Check Pics)\n- The toilet flush button was found broken and hanging.. when one push the same the water kept flowing and does not stops automatically.\n- Now comes to Dinner.. firstly, the service was extremely slow.. even on that when you ask something from their Menu.. the person tells ki preparing that thing took more time (normal time for serving the items of their choice was more than 30 mins, God know how much more time they require.\n- Then the served food was cold and even the taste was not good.\n- Even categorically asked the reception manager to get ready the breakfast by 7:00 am morning, the breakfast not made available on time. And even the morning shift manager is saying that the breakfast will be served by 8 am, and didn't received any instructions. This happened when the breakfast was said to be complimentary and the cost was included in our stay.\nOverall had a very pathetic experience here... and will say..  Never. Ever. Go. There.\n\nWorst & Pathetic Service/ Maintenance !!",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHMy15WF9RRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDG3-yX_QE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2eW9TdG53RRAB",
+      "author": "P G",
+      "author_url": "https://www.google.com/maps/contrib/115504289338989942569?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "5 years ago",
+      "iso_date": "2021-09-26T04:39:49Z",
+      "iso_date_of_last_edit": "2021-09-26T04:39:49Z",
+      "text": "We stayed in Goldfinch Retreat for 2 nights check in 23 September 2021 and check out 25 September 2021.  All hotel staff behaviour was excellent.  Food was excellent.  But when it comes to room, I want to bring the following few points for the Managements kind consideration:\n\n1) Toilet door did not have a lock.\n2) There was no liquid handwash provided.  Hence we had to purchase one from the market.\n3) Two adults were there but only one soap was provided\n4) The window facing the garden where a platform was there was looking very ugly as if it was not cleaned for days.",
+      "text_original_language": "We stayed in Goldfinch Retreat for 2 nights check in 23 September 2021 and check out 25 September 2021.  All hotel staff behaviour was excellent.  Food was excellent.  But when it comes to room, I want to bring the following few points for the Managements kind consideration:\n\n1) Toilet door did not have a lock.\n2) There was no liquid handwash provided.  Hence we had to purchase one from the market.\n3) Two adults were there but only one soap was provided\n4) The window facing the garden where a platform was there was looking very ugly as if it was not cleaned for days.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "trip_type": "Vacation"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2eW9TdG53RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgID6yoStnwE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURReGYzRHd3RRAB",
+      "author": "Kalyan Basu",
+      "author_url": "https://www.google.com/maps/contrib/113734622075535075341?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 101,
+      "author_photos_count": 1633,
+      "rating": 4.0,
+      "date": "8 years ago",
+      "iso_date": "2018-07-06T03:09:21Z",
+      "iso_date_of_last_edit": "2018-07-06T03:12:25Z",
+      "text": "The hotel is very beautiful both from inside as well as outside.\nA beautiful scenic beauty from the hotel rooms also available.\nThe bedding is too good, soft and  fresh bed covers and pillow covers.\nA large TV. Clean bathroom welcomes you.\nThey have a complimentary breakfast buffet available.\nFood is good there.\nMore varieties everyday would make it more perfect.\nHowever it was a good and nice short stay at the hotel.\nThe staff and room service is also delightful.",
+      "text_original_language": "The hotel is very beautiful both from inside as well as outside.\nA beautiful scenic beauty from the hotel rooms also available.\nThe bedding is too good, soft and  fresh bed covers and pillow covers.\nA large TV. Clean bathroom welcomes you.\nThey have a complimentary breakfast buffet available.\nFood is good there.\nMore varieties everyday would make it more perfect.\nHowever it was a good and nice short stay at the hotel.\nThe staff and room service is also delightful.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURReGYzRHd3RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDQxf3DwwE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncE1PMXhRRRAB",
+      "author": "Sridhar Hegde",
+      "author_url": "https://www.google.com/maps/contrib/105125300249410656180?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": 50,
+      "rating": 2.0,
+      "date": "10 years ago",
+      "iso_date": "2016-04-16T14:46:57Z",
+      "iso_date_of_last_edit": "2016-04-16T14:46:57Z",
+      "text": "We stayed here for a day on our transit via Bangalore. We recd. a very warm welcome on arrival. There were 4 of us and while booking the room it charged us 1000 extra for the kids, however on arrival at the hotel we were told a bed would be provided immediately when needed. We were also told that the bed is king sized, however the bed is only queen sized and 2 adults and a 3 yr old can barely sleep on it.\nWe ordered a bed for the room before lunch, however even after an hour, the bed was not provided, it took 3 calls before someone showed up finally at our door. The room is a decent sized one, however there was no ceiling fan and only a single AC vent on the left side of the room so there is no air circulation and it got pretty stuffy at times. The bathroom has a single fixed shower, not the hand shower kind so you are forced to have a full shower each time. There is no shower cap on either so we had to request a bucket and even that needed 3calls with lots of following up and 1 hr to be delivered.\nThe hotel is located about a km inside from a side road so there are no options for eating anywhere other than the hotel. there is a restaurant inside the hotel that has breakfast and lunch, dinner buffets and they serve quite a spread. However we were never shown any menu cards for evening snacks and were charged atrocious prices for what we are ordered. The food however tasted good and the breakfast buffet was great. Service was also good in the restaurant\n\nOn the pro, this hotel has Close proximity to the international airport. Takes 15 to 20 mins to get there.however most of the cab drivers had trouble finding this place. They also have a nice pool with a large projection screen by the pool which is nice to sit by .kids under 5 eat free at the buffet which is nice.\n\nOverall, we were disappointed as this was supposedly a 4 star hotel but the service was lacking and left much to be desired.",
+      "text_original_language": "We stayed here for a day on our transit via Bangalore. We recd. a very warm welcome on arrival. There were 4 of us and while booking the room it charged us 1000 extra for the kids, however on arrival at the hotel we were told a bed would be provided immediately when needed. We were also told that the bed is king sized, however the bed is only queen sized and 2 adults and a 3 yr old can barely sleep on it.\nWe ordered a bed for the room before lunch, however even after an hour, the bed was not provided, it took 3 calls before someone showed up finally at our door. The room is a decent sized one, however there was no ceiling fan and only a single AC vent on the left side of the room so there is no air circulation and it got pretty stuffy at times. The bathroom has a single fixed shower, not the hand shower kind so you are forced to have a full shower each time. There is no shower cap on either so we had to request a bucket and even that needed 3calls with lots of following up and 1 hr to be delivered.\nThe hotel is located about a km inside from a side road so there are no options for eating anywhere other than the hotel. there is a restaurant inside the hotel that has breakfast and lunch, dinner buffets and they serve quite a spread. However we were never shown any menu cards for evening snacks and were charged atrocious prices for what we are ordered. The food however tasted good and the breakfast buffet was great. Service was also good in the restaurant\n\nOn the pro, this hotel has Close proximity to the international airport. Takes 15 to 20 mins to get there.however most of the cab drivers had trouble finding this place. They also have a nice pool with a large projection screen by the pool which is nice to sit by .kids under 5 eat free at the buffet which is nice.\n\nOverall, we were disappointed as this was supposedly a 4 star hotel but the service was lacking and left much to be desired.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURncE1PMXhRRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDgpMO1xQE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    }
+  ]
+}

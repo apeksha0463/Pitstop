@@ -1,0 +1,203 @@
+{
+  "search_metadata": {
+    "id": "6ae44d04a4e3cf1fd971f082",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mE2MhBgdl6R3NSgYAth9YDmuyBzVxIGoFqr5nAH9a_0/6ae44d04a4e3cf1fd971f082.json",
+    "markdown_endpoint": "https://serpapi.com/searches/mE2MhBgdl6R3NSgYAth9YDmuyBzVxIGoFqr5nAH9a_0/6ae44d04a4e3cf1fd971f082.md",
+    "created_at": "2026-10-30 07:53:40 UTC",
+    "processed_at": "2026-10-30 07:53:40 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1f8c15fece47:0x92e69992bab29c56!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/mE2MhBgdl6R3NSgYAth9YDmuyBzVxIGoFqr5nAH9a_0/6ae44d04a4e3cf1fd971f082.html",
+    "prettify_html_file": "https://serpapi.com/searches/mE2MhBgdl6R3NSgYAth9YDmuyBzVxIGoFqr5nAH9a_0/6ae44d04a4e3cf1fd971f082.prettify",
+    "total_time_taken": 0.25
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1f8c15fece47:0x92e69992bab29c56",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Cinnamon Restaurant",
+    "address": "5JRW+RHX, Sadahalli Main Rd, Shettigere, Karnataka 562110, India",
+    "rating": 4,
+    "reviews": 106,
+    "type": "Indian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "rotis",
+      "mentions": 2,
+      "id": "ATzxRGgqYW8"
+    },
+    {
+      "keyword": "buffet spread",
+      "mentions": 2,
+      "id": "ME-3dbq3HrE"
+    },
+    {
+      "keyword": "small restaurant",
+      "mentions": 2,
+      "id": "EAlInx86c8U"
+    },
+    {
+      "keyword": "kind staff",
+      "mentions": 3,
+      "id": "DukFdBtQwOY"
+    },
+    {
+      "keyword": "gravies",
+      "mentions": 2,
+      "id": "AVihpJg4h2M"
+    },
+    {
+      "keyword": "ambience",
+      "mentions": 14,
+      "id": "JGvrBjVCxMw"
+    },
+    {
+      "keyword": "food quality",
+      "mentions": 4,
+      "id": "ANy51bJICSk"
+    },
+    {
+      "keyword": "tasty food",
+      "mentions": 3,
+      "id": "JO2IVz9STEQ"
+    },
+    {
+      "keyword": "location",
+      "mentions": 3,
+      "id": "KlvowLLM6cQ"
+    },
+    {
+      "keyword": "the menu",
+      "mentions": 2,
+      "id": "lJ6q46kgAIE"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kbFQxTkJOVEF6U1ZFeE1qVkVlRzFwYmtVNWVIYxAB!2m1!1s0x0:0x92e69992bab29c56!3m1!1s2@1:CAIQACodChtycF9oOndlT1NBNTAzSVExMjVEeG1pbkU5eHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T15:06:59Z",
+      "iso_date_of_last_edit": "2026-10-28T15:06:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kbFQxTkJOVEF6U1ZFeE1qVkVlRzFwYmtVNWVIYxAB",
+      "user": {
+        "name": "Kailash Jain",
+        "link": "https://www.google.com/maps/contrib/102201165507175645220?hl=en",
+        "contributor_id": "102201165507175645220",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUsxcyFo9rXbhquEmSD1TEfTP7vVv9c07-tLPxgk0WTVurOcQc=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tjd1FtRXpRbVJpWlRsQ1gwY3lWRlZNUldGWGMwRRAB!2m1!1s0x0:0x92e69992bab29c56!3m1!1s2@1:CAIQACodChtycF9oOkcwQmEzQmRiZTlCX0cyVFVMRWFXc0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T21:10:48Z",
+      "iso_date_of_last_edit": "2026-10-27T21:10:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjd1FtRXpRbVJpWlRsQ1gwY3lWRlZNUldGWGMwRRAB",
+      "user": {
+        "name": "Neela Gowda",
+        "link": "https://www.google.com/maps/contrib/117301356821844694891?hl=en",
+        "contributor_id": "117301356821844694891",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW6XGDU9FptPnotOApiookVKPb715VwTgw8ZFWG0ZbDs1asVzU=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 49
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkek9VdFdjVGxKZEZKME5qZ3RUV3h0VEU1QmNWRRAB!2m1!1s0x0:0x92e69992bab29c56!3m1!1s2@1:CAIQACodChtycF9oOkdzOUtWcTlJdFJ0NjgtTWxtTE5BcVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-07T12:04:38Z",
+      "iso_date_of_last_edit": "2026-10-07T12:04:38Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkek9VdFdjVGxKZEZKME5qZ3RUV3h0VEU1QmNWRRAB",
+      "user": {
+        "name": "Anushka Gill",
+        "link": "https://www.google.com/maps/contrib/111533523982638322259?hl=en",
+        "contributor_id": "111533523982638322259",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXspfUkNJbjUTczHuYx1UcZZ-_6Pxm7THHFwx-CTaMgDA_DxZ0=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 19
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SbU1tNWFaMnhSTUZGeVEyNXdSblZzUlV0WU1WRRAB!2m1!1s0x0:0x92e69992bab29c56!3m1!1s2@1:CAIQACodChtycF9oOmRmMm5aZ2xRMFFyQ25wRnVsRUtYMVE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-11T20:54:24Z",
+      "iso_date_of_last_edit": "2026-07-11T20:54:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SbU1tNWFaMnhSTUZGeVEyNXdSblZzUlV0WU1WRRAB",
+      "user": {
+        "name": "Rikitha gnan",
+        "link": "https://www.google.com/maps/contrib/110849084799591253084?hl=en",
+        "contributor_id": "110849084799591253084",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVsvfiEeND0JIlztFu-Lx6w2KKV3tUb7NimJ6nBrxENk_sKRT63=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 18,
+        "photos": 2
+      },
+      "snippet": "It was Okish and Not worth the money. Very late service! But ambience is great!",
+      "extracted_snippet": {
+        "original": "It was Okish and Not worth the money. Very late service! But ambience is great!"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹800–1,000",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 4,
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOalQyNXJXVGRTWmpkblRUTklTVUZ5UVZkV2MyYxAB!2m1!1s0x0:0x92e69992bab29c56!3m1!1s2@1:CAIQACodChtycF9oOjNjT25rWTdSZjdnTTNISUFyQVdWc2c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-28T19:47:56Z",
+      "iso_date_of_last_edit": "2026-06-28T19:47:56Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOalQyNXJXVGRTWmpkblRUTklTVUZ5UVZkV2MyYxAB",
+      "user": {
+        "name": "RB",
+        "link": "https://www.google.com/maps/contrib/117179899482142350666?hl=en",
+        "contributor_id": "117179899482142350666",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUHTDGwPThYdPeXvukAGOzTQD9Zfv4amIWTWHg4-tfDGThI50Y=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 33,
+        "photos": 25
+      },
+      "snippet": "Very poor service",
+      "extracted_snippet": {
+        "original": "Very poor service"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    }
+  ]
+}

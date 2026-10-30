@@ -1,0 +1,4116 @@
+{
+  "restaurant": "Adyar Ananda Bhavan (A2B) Devanahalli",
+  "data_id": "0x3bb1e371772cff9f:0x4eb6f86a41629776",
+  "google_review_count": "10099",
+  "reviews_total": 113,
+  "reviews_with_text": 83,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 14,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKalZrdFBNVTUyYkcxSlUxQXRXR2d6ZVRoTU5sRRAB",
+      "author": "Aishwarya Bogar",
+      "author_url": "https://www.google.com/maps/contrib/105969927109437527912?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": 3,
+      "rating": 1.0,
+      "date": "14 hours ago",
+      "iso_date": "2026-10-29T17:20:41Z",
+      "iso_date_of_last_edit": "2026-10-29T17:20:41Z",
+      "text": "Food severed was either not salty or too spicy worst branch of A2B all food worth 2.5k was wasted",
+      "text_original_language": "Food severed was either not salty or too spicy worst branch of A2B all food worth 2.5k was wasted",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "group_size": "3-4 people",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Would not recommend"
+      },
+      "owner_response": {
+        "text": "Dear Aishwarya Bogar,\n\nWe're really sorry to hear that your experience didn't meet your expectations. It sounds frustrating to have dishes that were either too salty or too spicy, especially when you were looking forward to your meal. Thank you for sharing your thoughts with us; we’ll take this feedback to heart as we strive to improve.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKalZrdFBNVTUyYkcxSlUxQXRXR2d6ZVRoTU5sRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOkJjVktPMU52bG1JU1AtWGgzeThMNlE%7C%7C?hl=en",
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIjtGbZqcPHT5HxdCBkq0P4Vm5BrpfnlmBp3CXOBtp1r2X9KzqceECDHC1a4yc9gDWXoAcnKRe6jQinMvMsQ8XmWqly6iXY36mtcuv1tOEqSuSLSj31Q8RGc29AlHrgNtE9qffZiwQcpN8=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeziTUaTl_19PsRJI_33Ohg12TuEYMLM6SIYEGfDZ5LYuA3Wc5Yn4v38_hkf0VPedvSgzlNfS9E9Q0GuK33Mym2LaMPSHAkIWugRd2d035i4Rstlk9Rf3q4VcQ_5Rs455J6BxMOH3p8L0de=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzjlP4-bMUqrAUhqkcsRPWX2S2G27awA4dqaw-SodMhxc7zjx6nkNR0FY0VKwdOjXqkduf_mdpE1F5Mbj9lsDhFF5Yr31nOJ_8f9amKPOP6BmvBzSqFiP_itcpxMgutuueTUpi4hCQYoQ=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTE0wMDVka2haWkU5cFRYUjVabGMzU2pneE1FRRAB",
+      "author": "BASAVARAJA BASAVARAJA",
+      "author_url": "https://www.google.com/maps/contrib/114145732620886993852?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "16 hours ago",
+      "iso_date": "2026-10-29T15:47:57Z",
+      "iso_date_of_last_edit": "2026-10-29T15:47:57Z",
+      "text": "Good service by manaranjan",
+      "text_original_language": "Good service by manaranjan",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "2 people",
+        "wait_time": "No wait"
+      },
+      "owner_response": {
+        "text": "Dear BASAVARAJA BASAVARAJA,\n\nThanks for the shoutout to Manaranjan! We’re thrilled to hear you enjoyed the service. Our team always strives to create a great dining experience for everyone.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKTE0wMDVka2haWkU5cFRYUjVabGMzU2pneE1FRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOlJLM005dkhZZE9pTXR5Zlc3SjgxMEE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeFRYUnhNa3BUTWxoRFFsbG1URmRWVEcxd2NrRRAB",
+      "author": "Kruthika Devraj",
+      "author_url": "https://www.google.com/maps/contrib/103655943119975601196?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "22 hours ago",
+      "iso_date": "2026-10-29T09:28:34Z",
+      "iso_date_of_last_edit": "2026-10-29T09:28:34Z",
+      "text": "Geetha kumari",
+      "text_original_language": "Geetha kumari",
+      "language": "hi",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Kruthika Devraj,\n\nThank you for your review! We’re glad you chose to dine with us and hope you enjoyed your experience. If there’s anything specific you’d like to share about your visit, we’d love to hear more!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKeFRYUnhNa3BUTWxoRFFsbG1URmRWVEcxd2NrRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOlJxTXRxMkpTMlhDQllmTFdVTG1wckE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWmFFd3hVMEozUTJwMVRVSjVVVmhzZG01R05HYxAB",
+      "author": "ashutosh patil",
+      "author_url": "https://www.google.com/maps/contrib/112037021079186254662?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T17:06:40Z",
+      "iso_date_of_last_edit": "2026-10-28T17:06:40Z",
+      "text": "Subash Kumar & Manoranjan for incredible hospitality.",
+      "text_original_language": "Subash Kumar & Manoranjan for incredible hospitality.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear ashutosh patil,\n\nWe're thrilled to hear you enjoyed the incredible hospitality from Subash Kumar and Manoranjan! Our team takes pride in making every guest feel special, and it's wonderful to know they made a positive impact on your experience.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCWmFFd3hVMEozUTJwMVRVSjVVVmhzZG01R05HYxAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOlBZaEwxU0J3Q2p1TUJ5UVhsdm5GNGc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Rd1JIUXhaR3A0VkdwRlV6YzJjV0YwZVhsb1VVRRAB",
+      "author": "Chaitra K",
+      "author_url": "https://www.google.com/maps/contrib/111068113393936619955?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T17:06:35Z",
+      "iso_date_of_last_edit": "2026-10-28T17:06:35Z",
+      "text": "Manoranjan was of great help!",
+      "text_original_language": "Manoranjan was of great help!",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Chaitra K,\n\nWe're so glad to hear that Manoranjan made a positive impact during your visit! It's always wonderful to know our team is providing great help and making your experience enjoyable.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Rd1JIUXhaR3A0VkdwRlV6YzJjV0YwZVhsb1VVRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOnQwRHQxZGp4VGpFUzc2cWF0eXloUUE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5clNUWnZYME52Y2tkVVR6Sk1kSFZQUW5STFpXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T16:00:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Thank you Preeti for a wonderful service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Babu VaradaraJan,\n\nWe’re so glad to hear you had a wonderful experience with Preeti! Our team always strives to provide great service, and it’s lovely to know that it made a positive impact on your visit.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGNVVubE5RM0JHUVdkRk5uUndlR1F4Vmt0d1NsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T15:50:10Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear shail Pathak,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eU9VcGhYMmhRTmt4TU9UZFpZVEJhY1hWcE5sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T15:24:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Thank you Sonu for serving 😊🙏",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Shashi Kala,\n\nWe're so glad to hear you had a great experience with Sonu! Our team loves making our guests feel welcome, and it's wonderful to see that appreciated. Thank you for your kind words!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSmIyUXdSVUZWTkdaV1ZWWjBjVUpHUjBoME1FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 35,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T14:40:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food and service by Hambi",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ritu Mohanty,\n\nWe're thrilled to hear you enjoyed the great food and service from Hambi! It’s wonderful to know that our team's efforts made your experience memorable. We can’t wait to welcome you back for another delicious meal!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZeVVuZFZWME5XZW5wWmVFbHhja3hMTlV4TFRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T11:38:19Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Dear Ravi Baka,\n\nWe thank you for reviewing us. Please share your feedback at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214U1gwOVhNWEppTm10b2FuZHZiSGM1UW1wcFEwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 5 days ago",
+      "iso_date": "2026-10-25T07:11:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Prity service are too good 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ruchi Patel,\n\nWe're delighted to hear that you had a great experience at our restaurant, thank you for your kind words! We strive to provide excellent service to all our guests and we're thrilled to know that Geeta took good care of you. We look forward to welcoming you back again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oek9HOXpibmRpY1ZKeFZVSk5VME5CYzI0MlQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T06:43:22Z",
+      "iso_date_of_last_edit": null,
+      "text": "Preethi Kumari Staff was well behaved and professional",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sinan Rafeeque,\n\nWe're thrilled to hear that you found our staff to be well behaved and professional! It means a lot to us that you had a positive experience with our team. Thank you for sharing your thoughts!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WVVUazFVR3RVTlVaZlREWmZXQzFwUVdaalNtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T05:09:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Preethi is very good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear veena shankar,\n\nWe're thrilled to hear that you had a great experience with Preethi! Our team works hard to provide excellent service, and it's wonderful to know that she made a positive impression. Thank you for sharing!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kbFZGWm1ORkJXTm1WRFJuaEZhbTh4VVhGR2VWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T04:51:36Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear devanjan mishra,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jM2JXbE1TRnBPTVVaYWFtbGtlRGhSWHpGSmRHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T03:56:46Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear mohit,\n\nWe thank you for reviewing us. Please share your feedback at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbFdXYzNOMTk2UTFOcVVUUmlaaTExUWtWUk5uYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T03:22:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Subhash is nicely served and hosted",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Kashmita Panchi,\n\nWe're thrilled to hear that Subhash was nicely served and hosted! Our team always aims to create a welcoming atmosphere, and it's great to know that you felt that during your visit. Thank you for sharing your experience with us!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKR1JuZG1Nbk5MWkZWVmEwcDVjWFZ0VUhOd1MwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T01:29:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Subhash did a great job",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Simran Sah2401,\n\nWe're thrilled to hear that Subhash made a great impression during your visit! Our team works hard to provide excellent service, and it's wonderful to know that he contributed to your experience. Thank you for sharing!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSUxUSlFSM0ZRZGpaTFdYSnBTalZ6TldkTVNXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T16:00:02Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Harshini Padarthi,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORWFucFRjRmxDYlcxb1NqbEJaMkp0U25CRVowRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T11:24:41Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Hemanth,\n\nThanks for sharing your experience with us, Sonu! We’re thrilled to hear you enjoyed your time at our restaurant. Your feedback means a lot to us!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25selUxWktNRXB2Vm01dlNFNUJialZvYlhvMFNWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T11:09:38Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear svrj king,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRM2IxSTVVakI1V205YWJVeGlNVU5wVEVSVFYyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 23,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T09:18:29Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear ROOP THEJA,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocmVGbHZkVU51TTFwUk9XcFZiMDR3ZEhZMFdFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T08:13:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service byMana",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Revanthraj Raj,\n\nThanks for highlighting our service! We're thrilled to hear that Mana made your experience special. Our team is dedicated to providing great service, and it's wonderful to know that it stood out to you.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xab2JVOVZMVVZ1ZDFOc1lXazBYek5IVFU5RVFWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T07:41:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear ritika vernekar,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TFFtWmlOWFpZUWxjM2RtRkpTVGRFT1RsSmFVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T06:14:21Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5
+      },
+      "owner_response": {
+        "text": "Dear Saritha,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMVVIUjJjMjlaYkV4MGJXMHlTMmhsVUZSWlFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T05:23:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good place to enjoy your food 😋  dinesh was very good in his job 👌",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sowmya S,\n\nWe're so glad to hear you enjoyed your time with us! Dinesh is indeed a fantastic member of our team, and it's wonderful to know he made your experience even better. We hope to see you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BNGFqSnZXVlpKUTFwQ1lucFFPSFoxWHpka2VWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T05:08:40Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good experience with manoranjan",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Prasanna,\n\nWe're so glad to hear you had a good experience with manoranjan! It’s always wonderful to know when our guests enjoy their time with us. Thank you for sharing your thoughts!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSFlrTmljR2hyYTFOaWJGRjBaRjl1VTBObVZFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 86,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T03:48:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service and atmosphere is good.\nBut food is not tasty.\nWe had sambar idly and ravva masala dosa. Dosa is not good, hard and no taste. Sambar is spicy. Overall not satisfied.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear akky's World,\n\nThanks for sharing your thoughts with us. We're glad to hear you enjoyed the service and atmosphere, but it's disappointing to know that the sambar idly and ravva masala dosa didn't meet your expectations. We'll definitely take your feedback about the dosa's texture and flavor into consideration as we strive to improve our dishes.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbWRsWmtSMDAwUVRZdE9XbDZXbWxXVkhWWGVIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T14:31:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very bad experience. The food was cold. The staff did not bother to take feedback. Do not recommend",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 3,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Dear Archana Chandrashekar,\n\nWe're really sorry to hear that your experience with us was disappointing. It’s concerning to know that the food was cold and that our staff didn't take your feedback into account. We take this seriously and will work to ensure our team is more attentive in the future.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkb2VuSnFhVmR0TFhob1VDMTFSRGhpU1hWTlVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T07:27:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Manaranjan provided great service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Harshith Reddy,\n\nWe're thrilled to hear that Manaranjan provided great service during your visit! Our team is dedicated to making every dining experience memorable, and it's wonderful to know that Manaranjan made a positive impact. Thank you for sharing your experience!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTk5UUkdRVGN6UlUxSFFWUm1WSFI0T1UxaWRYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T05:22:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Priyanka p g,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd45JKFnf6NDg5B2UnP1HNFIdrsx6OmcnOsRuMxfvHcWrbITBFOeXdQ4i4bWscRmR5jDLWME9Ce1fLN7n8GeOvGjJ1o63K9JU_HU6IGLGxxWY1cW4ufQSu_LIzwXkD7VZrruFvF_UzTjNY=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVVptTTJWbEYzVDBGSGNIUjNlVXgyWVd3elNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T16:44:23Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sony gave very good service, make more jain optionssss",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Khushi Jain,\n\nWe're thrilled to hear that Sony provided you with excellent service! We appreciate your suggestion for more Jain options and will definitely take that into consideration as we continue to enhance our menu. Thank you for sharing your thoughts!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tScVgweFFWMFkzVm1oemJERnpUMkpvVkVkdldtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-22T16:43:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great service by Sonu\nShe was very patient and sweet",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Shreyaa Venkatesan,\n\nWe're so glad to hear you had great service from Hambi! Our team works hard to create a welcoming atmosphere, and it's wonderful to know that Hambi made your experience special. Thank you for sharing!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQk9XTlZia3BpZVdWNFgxVjVWamxQV0dWSFNYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T16:25:34Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear KANCHANA KS,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjM1dITTJPVEJZUms1ME9GazNjVFZTTjJoclZuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T14:55:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Krishna Koushik,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRVRrMXZWblJaVW1WWmJETTBXRlpFYWs4elVGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T04:02:49Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Nawaz Pasha,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S1dFUlVXRkpaVFhjM1FtcG5NM0YwVEZsNVoyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T16:40:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service by sonu",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear manje gowda,\n\nWe're thrilled to hear that Sonu provided you with good service! Our team works hard to create a welcoming experience, and it’s wonderful to know that Sonu made a positive impact during your visit. Thank you for sharing!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toS2VXUkZWMUoxVkVOdmRVZFRWakJtVHpOak1XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 38,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T16:22:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sonu’s service is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Dr Pavan Kumar,\n\nWe're thrilled to hear that you enjoyed Sonu's service! Our team always strives to create a welcoming atmosphere, and it's wonderful to know that Sonu made a positive impression. Thank you for sharing your experience with us!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0S2ExWklOVnBGYzNGQk9UTTFSRTEzVERsMVlWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T13:11:18Z",
+      "iso_date_of_last_edit": null,
+      "text": "Preeti has done good service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear nikhil chowdary,\n\nWe're thrilled to hear that Preeti provided you with great service! Our team works hard to ensure everyone has a wonderful experience, and it's always nice to know when they succeed. Thank you for sharing your thoughts!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScFZGQnZXRVpqWkVsUmVIZEpWa0pJZEhKRE9YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T12:30:01Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Yashwanth G,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSVltMW1OMmRmYm1wb1ptVnFlVnBuUjNOT2FIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T12:22:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Stella assisted us with good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear shrish saxena,\n\nWe're thrilled to hear that Stella provided you with good service! Our team works hard to ensure everyone has a great experience, and it's wonderful to know that Stella made a positive impact during your visit.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KM2VVUkRUMkp4U1hwMmFVdDFRMEZDUkd0SVgzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T11:19:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Preethi service is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear arun s,\n\nWe're so glad to hear that you had a great experience with Preethi's service! Our team strives to make every visit enjoyable, and it's wonderful to know that we hit the mark for you.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdFQzTTNVVzVwYWt0cVNubGZURlJGV1RkYVYxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T09:53:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service by Manaranjan",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear pooransen kumre,\n\nThank you for highlighting the service by Manaranjan! We’re thrilled to hear that his attention made a positive impact on your experience. Our team always strives to provide great service, and it’s wonderful to know that it resonated with you.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOamVWRlFjSHAzWjJsWFpGUkVaVlJKV1dzMVkxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T07:48:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "Manoranjan service good and communication",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Muniyaappa Thirumalappa,\n\nThanks for the shout-out! We're thrilled to hear that you enjoyed the service and communication from Manoranjan. We always strive to make our guests feel welcome and appreciated.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WTWRXYzFWVm8xYWtSVlQwNTFUMFZYU21wUlkyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T07:45:47Z",
+      "iso_date_of_last_edit": null,
+      "text": "Never try worst food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1
+      },
+      "owner_response": {
+        "text": "Dear Vikas Shukla,\n\nWe're really sorry to hear that you didn't enjoy your meal with us. We strive to provide great food, and it's disappointing to know we missed the mark this time. If there's anything specific you'd like to share about your experience, we'd love to hear it.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oTlYwZGlSMmRXZDJjMk9IWmxablpuV2t0aVkyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T07:18:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "Rahul captain",
+      "text_original_language": null,
+      "language": "hi",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sangamesh K,\n\nThanks for the shoutout to Rahul! We're thrilled to hear he made an impression during your visit. Our team works hard to provide great service, and it's wonderful to know that Rahul contributed to your experience.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4NGQySTBjMVJsZWtoTE4wVjFUbTE1VFRsb1duYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T07:16:16Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear HARSHA YT gaming HARSHA YT gaming,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoM1NXRkpObXhZZURObFkzcFdNWGMzVmpReU5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T07:10:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Overall good. Manaranjan behaves very good and serve the food on time.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Nitin Maheshwari,\n\nThanks for sharing your experience! We're glad to hear that you enjoyed your time with us and that Manaranjan provided great service while serving your food on time. We appreciate your kind words!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poZlgxTjZhek4wUXpOb1lYUlhjVnBWVlRnNWVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-21T06:56:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice sarvice was mr Dinesh Kumar 😊",
+      "text_original_language": "Very nice sarvice was mr Dinesh Kumar 👌",
+      "language": "hi",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Bablu Panjiyar,\n\nWe're so glad to hear you enjoyed the service from Mana Ranjan! Our team strives to create a welcoming atmosphere, and it’s wonderful to know that they made a positive impact on your visit.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3dDRQWVpREAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-21T06:54:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service good food and dinesh bhai",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Yallappa Dyavanur,\n\nThank you for your updated review! We're delighted to hear that you enjoyed both the service and the food at A2B Restaurant. We hope to have the pleasure of serving you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MmNFZFhlbXBEYmtaVGVWQlNUVTVxWW0xZmFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-21T06:47:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food very nice sarvice",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sonu Khan,\n\nThanks for the shoutout! We're thrilled to hear you enjoyed our service, and we'll be sure to pass on your compliments to Sonu. We hope to see you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1amRGUkNWSE5CZFhKUmJXSnNabVZNTmpKbVNtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-21T06:43:52Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good  service was mr Dinesh kumar 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Lokendar Thapa,\n\nThanks for the shoutout to Dinesh! We're glad to hear you enjoyed the service. Our team works hard to make every visit special, and it's great to know they made a positive impression.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLft_Ooj2C-n-94UTyTWBV2oyY9mf76yHGumVBYo8WKA2SEQ6CvTKsaQiVS9uWV9yjsk_3OFF6Fb-w3GfW2AEnC2l_4l6jhiKNLpVmeaRKteOGSMgAGrhP0YJhg09HB3RFw-HhPnP0WANFJF=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSVJIa3hWbGhVT0ROcVduSXdVMXBtU0ZkVVFrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T06:35:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "EXCELLENT AND POLITE SERVICE AMAZING 😍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Kumar Kumar,\n\nWe're thrilled to hear you enjoyed our excellent and polite service! It means a lot to us to know we could make your experience amazing. Thank you for sharing your kind words!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNFNWYzRSbWt4U0ZoS09HMVBVbXhEV1hJM2FIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T06:34:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very Good sarvice mr Dinesh",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Indrajeet Singh,\n\nThanks for the shoutout to Mr. Dinesh! We're thrilled to hear you had a very good experience with our service. Our team works hard to ensure everyone feels taken care of, and it’s great to know that it made a positive impression on you.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFd1VYbFVlWGhYYVVFMWVWUkpTVTVOTlhCa1dGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T06:33:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good choice for vegitarian option.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear ShilpaMN,\n\nThanks for highlighting our vegetarian options! We're glad you found a good choice with us. We take pride in offering delicious dishes for everyone to enjoy.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxU1YyTlhURmhDZDNWYVFUSlBlSFJMVHpKNU4yYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T06:24:59Z",
+      "iso_date_of_last_edit": null,
+      "text": "awesome service by Rahul verry good service....",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Manu,\n\nWe're so glad to hear you had an awesome experience with Rahul! Our team works hard to provide great service, and it's fantastic to know that it made your visit special. Thank you for sharing!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTmFYbExTSEp0VnpZd1lVUnFRaTFpWmsxd00xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T05:58:54Z",
+      "iso_date_of_last_edit": null,
+      "text": "Kachada service nobody ll responce proprley very bad service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Nandish711@mail.com N,\n\nWe're really sorry to hear that you felt our service didn't meet your expectations. It's important to us that every guest feels attended to, and it sounds like we fell short during your visit. We appreciate you bringing this to our attention and will work on improving our response time.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnMVFqTldSalZhZUdSclJXazRMV1YwZVhCc1pGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T05:56:02Z",
+      "iso_date_of_last_edit": null,
+      "text": "Service is very poor nobody ll responce worst service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Puni Kshatriya,\n\nWe're really sorry to hear that you experienced poor service during your visit. It's disappointing to know that no one responded to you, and we understand how frustrating that can be. Thank you for sharing your thoughts with us; we’ll make sure to address this with our team.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kb1h6RTFSVlJxZDJ4SlIybHFZMkpHWkdZek0xRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T05:54:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very bad service worst service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Vinod Ganesha Vinu Vinod,\n\nWe're really sorry to hear that your experience with our service was so disappointing. We strive to provide a welcoming atmosphere and attentive service, and it's clear we missed the mark during your visit. Thank you for sharing your thoughts with us.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RVNEWTFMV0ZZYTJWM1lXMUxjRzk2ZUVGeGIwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T05:53:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very bad service verrrrrrry bad service service is not responding",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear NAGESH KRISHNAPPA,\n\nWe're really sorry to hear that you experienced such poor service during your visit. It's disappointing to know that our team wasn't responsive when you needed them. We take this feedback seriously and will work on improving our service to ensure a better experience for everyone.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSU1dsZ3dUM2gxYjJaUk1GRXlkWGR6VWxWR1VHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-21T05:50:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very bad service nobody ll response management is very bad",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear Santhu Santhosh,\n\nIt looks like there might have been a little mix-up with your review, as we didn't catch any specific feedback. If there's something you'd like to share about your experience, we’d love to hear it! Your thoughts are important to us.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRmIySnNhM0ZXWDE4eE5UUnpVR3B4YjNoa1pIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-20T06:42:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good proffesional service from manoranjan and team",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear AJIN BHASKARAN,\n\nThanks for highlighting the great service from Preethi and the team! We’re thrilled to hear that you had a professional experience with us. It means a lot to know our staff made a positive impact on your visit.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUE5WbGlVVWRYY1c4MGFFeHpTR0ZXTVhWYVNuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T05:06:49Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Madhu Chari,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VdFlrRXdUV05GZGpKNVExSTVjbXhWVERWMFQyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 25,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T14:09:37Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Srikant Kumar,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cFEwMUNlbGh4TWtGTFEyZGFhVTEyZDBKa05GRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T14:03:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Worst service in A2B I visit this hotel regularly but service was very worst no one ready to take orders , we need to beg to take order with all still they won’t respond 0 star recommended",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Service": 1
+      },
+      "owner_response": {
+        "text": "Dear Ankith Kiran,\n\nWe're really sorry to hear about your experience with our service. It’s disappointing to learn that you felt ignored while trying to place your order, especially as a regular visitor. Your feedback is important to us, and we’ll be addressing this with our team to ensure everyone feels valued and attended to.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzeVluVkVaRlZUZVRBemRYVjVSVmxvYkRsak1GRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T13:22:44Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Vijay Kumar,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSc01reG5jWFJCTWtOTVFqWkRNMjVqTlc4d1dHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T08:11:59Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 5,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear Mohammed Zain333,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMWFHUXpUSEUxZVRscmIzbHVWMUIxY2xGcllYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T05:39:31Z",
+      "iso_date_of_last_edit": null,
+      "text": "Wholesome food.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Anshu Yadav,\n\nWe're so glad to hear you enjoyed our wholesome food! It means a lot to us to provide meals that resonate with our guests. Thank you for sharing your thoughts!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213emRYTlFZekpPYVcwd2N6Z3pSRlF3VFVnd1JWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T09:32:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "A very bad service, we had to wait for 15 minutes and many people started shouting about the improper service, no waiter is responding properly",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Dear Mamatha Prashanth,\n\nWe're really sorry to hear about the wait and the lack of response from our staff during your visit. It’s frustrating when service doesn’t meet expectations, and we appreciate you bringing this to our attention. We’ll be sure to address this with our team to improve the experience for everyone.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dk0ycDJRelV4WkVwNk4yWlliSGw0U1RsMmMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T09:03:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Sonu served us our meal very patiently. Great service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Shrey Pandey,\n\nWe're thrilled to hear that Sonu provided you with such patient and attentive service! Our team always aims to make your dining experience enjoyable, and it sounds like they hit the mark. Thank you for sharing your experience!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5ak9FdERjeTB0Y2pkZllYWnRhMGt6Y1dsdU0wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 22,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T08:32:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Really good special south Indian thali and special paneer cheese balls. Had an amazing experience and service was really good by Sonu",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Suraj Baglodi,\n\nWe're thrilled to hear you enjoyed our special South Indian thali and paneer cheese balls! It's great to know that Sonu provided you with such excellent service during your visit. Thank you for sharing your amazing experience!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4alluTXRORzVEWDJsaFEwNVpTMFoxYjFOUWNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T05:32:24Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Asim Haneef,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvM2FqQmhXbW93UTBNekxWSlNPVU5CVG1kUGIwRRAB",
+      "author": "Akshay",
+      "author_url": "https://www.google.com/maps/contrib/101161846228244313138?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T03:43:51Z",
+      "iso_date_of_last_edit": "2026-10-18T03:43:51Z",
+      "text": "Worst washroom i have ever visited, both me and my wife was dissatisfied\nOverpriced\nTalking about food quality\nIdly was overcooked and sticky\nChutney and sambar was pretty good",
+      "text_original_language": "Worst washroom i have ever visited, both me and my wife was dissatisfied\nOverpriced\nTalking about food quality\nIdly was overcooked and sticky\nChutney and sambar was pretty good",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 1,
+        "service": 3,
+        "atmosphere": 1,
+        "group_size": "3-4 people",
+        "wait_time": "No wait"
+      },
+      "owner_response": {
+        "text": "Dear Akshay,\n\nWe're really sorry to hear that your experience didn't meet your expectations. It's disappointing to know that the washroom facilities and the idly didn't impress you, though we're glad you enjoyed the chutney and sambar. Your feedback is important to us, and we'll be looking into these concerns to improve our offerings.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xvM2FqQmhXbW93UTBNekxWSlNPVU5CVG1kUGIwRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOlo3ajBhWmowQ0MzLVJSOUNBTmdPb0E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdE5XcERiWE5oYnpaVE4zTTNlbGQ0Ykc4NWRHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T03:14:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Manaranja service good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5
+      },
+      "owner_response": {
+        "text": "Dear Praveen A,\n\nWe're thrilled to hear you enjoyed our service! Our team works hard to create a welcoming atmosphere, and it's great to know that it made a positive impact on your experience. Thank you for sharing!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMVdVNHhZVzFSZVRSMlVFWlhOekZXVERWdlZFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T12:18:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Md Abrar,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjNWNYbEJObFZYVW5aNFMwa3dXa0ZyV25wMWEyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-16T12:32:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Prakash Babu,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVVRYUmpSWFpmUzI1aWVFWXljWEJWVEZvM1dGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 104,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-16T09:48:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Itz not worth, north & south indian thali",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 4,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Viji Bhaskar,\n\nWe're sorry to hear that you didn't find our North and South Indian thali worth it. We strive to create a satisfying experience for everyone, and it sounds like we missed the mark for you. Your feedback is important to us, and we'll take it into consideration as we continue to improve.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaU1EQnpOR05mWTFOTFYwUlhWMjk0UWt0cWVGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-16T06:19:40Z",
+      "iso_date_of_last_edit": null,
+      "text": "Hambi\nMam gave good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear SACHIN KUMAR YADAV YADAV202620588,\n\nWe're thrilled to hear you enjoyed the Hambi and had great service from our team! It's wonderful to know that Mam made your experience special. We hope to see you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbWEzcGhkazlYUzBoRlpqZHJWRGxqUTE4d1UwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-16T01:31:28Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear SWEETY,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSmJtNTFNV2gyVEZkcWFUVmFTREZ0T0hSaFkwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T13:29:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear prashanth V C,\n\nThanks for the positive note! We're glad to hear you had a good experience with us. We hope to see you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WcU0yaGlkbm81WVRoTVNsVklUVzQxUW5aMGMzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-15T13:15:09Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear prasanth arivu,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1T1dWWTNWVUpXTUhwME1XbG9Va2c1ZERCa1QxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T12:59:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good service by Manoranjan",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Arun kumar,\n\nThanks for highlighting the great service from Manoranjan! We're thrilled to hear that you had a positive experience with us.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSQ1ZrRlhXVGxzZEZoWlpuZHhNMUJ4U2xwUWEzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 2 weeks ago",
+      "iso_date": "2026-10-13T12:50:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "Mana ranjan",
+      "text_original_language": "ಮನ ranjan",
+      "language": "kn",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Muniraju M,\n\nWe're so glad to hear you enjoyed our service! It sounds like you had a great time with us. Thank you for sharing your experience!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVFVGOHdTWGRGVVU1cGRtbEtXSGhtVFRGd09FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 2 weeks ago",
+      "iso_date": "2026-10-13T02:41:27Z",
+      "iso_date_of_last_edit": null,
+      "text": "Manu",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Chamansab Nadaf,\n\nThanks for mentioning Asha! We're thrilled to hear you enjoyed it. It’s always great to know our dishes are hitting the mark. We hope to see you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kdk5rTlhTV2hEVkY5VVdVNDJXbXRPWDBrM09XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T02:39:36Z",
+      "iso_date_of_last_edit": null,
+      "text": "Manoranjan good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Nandini Nayak,\n\nWe're so glad to hear you enjoyed the service from Manoranjan! Our team works hard to create a welcoming atmosphere, and it's wonderful to know that it made a positive impression on you. Thank you for sharing your experience!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GV1VtNXFiRk5WYnkxR2JYTlJiM2xVYTFoaU9XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T02:35:04Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very polite staff , Mr Dinesh helped us order and the food was provided timely .",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Pratishtha Tiwari,\n\nWe're so glad to hear that Mr. Dinesh made your ordering experience pleasant! It's wonderful to know our staff's politeness and timely service contributed to your enjoyment. Thank you for sharing your experience with us!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CclpUbDNhbE5tWW14dWRIUXdVV0kxVFVVemFtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T18:07:52Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear NARASIMHA OMKAR,\n\nWe apologize that your experience at A2B was not as expected. Please let us know what went wrong so that we can fix it immediately. Please do reach out to us at care@aabsweets.com or WhatsApp us at +91-7338793387.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUFVVbHVTMVYxTVdaR04zcGxiR1UzWTBNMGRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 2 weeks ago",
+      "iso_date": "2026-10-12T14:10:50Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food and atmosphere is good as always. And the service of Mr.Manoranjan is excellent.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Karthick Krishnaraj Rajendran,\n\nWe're thrilled to hear that you enjoyed the food and atmosphere! It's wonderful to know that Ms. Hambi provided you with excellent service. We look forward to welcoming you back for another great experience!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RemVXRlFWVWhuUjA5YVpXODRjbWR2YVdzMVRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 107,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T08:15:14Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Dinesh,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQllraFdOM1JyVlRGaWFXNDNTa052UlMxeVUyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 2 weeks ago",
+      "iso_date": "2026-10-12T02:48:41Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Kalyan Kumar,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RE1tdExVelpOWlhKWVVUZHJWMGc1Um5wMFEzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T09:23:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Prasad KNVV,\n\nWe're so glad to hear you enjoyed the food! It means a lot to us that you took the time to share your thoughts. We hope to see you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toc2NGZFFWMDFhVTNOUGJsQlRiV3BPWDBkT2RVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T09:13:43Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Yashasvini Baala Vigneshwaran,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNGRHRm9UMmxLYVVSblNuRnNUV1pOYW14bVdHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T06:04:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Price very high",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear ESAKKIRAJ. M,\n\nWe understand that pricing can be a concern, and we appreciate you sharing your thoughts with us. We strive to offer quality dishes that reflect the care and ingredients put into each meal. Your feedback is important as we continue to evaluate our menu and pricing.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bVJIUTFWMDVLY3pad1kycFRRMWhQVGtSNmRHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 104,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T13:40:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Pranshu Choubey,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdVprTk5SVlYwWTIxNE9EZFRWR2xtV2tkSlNrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T12:07:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Totally bad service available for this restaurant, more rush due to name A2B but service is worst",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear MAHENDRA PRATAP SINGH,\n\nWe're really sorry to hear that your experience with our service didn't meet your expectations. We strive to provide a great dining experience, and it's disappointing to know that you felt rushed. Your feedback is important to us, and we'll work on improving our service during busy times.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214c05WUjRkR3BtUm1aaVUwUXlYMkpoY1VRd1ZHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T06:19:32Z",
+      "iso_date_of_last_edit": null,
+      "text": "Arrange",
+      "text_original_language": "Manaranjan",
+      "language": "mg",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear JOVITA SHALINI,\n\nThanks for sharing your thoughts! It seems like we may have missed the mark on your visit. We’d love to know more about what we can do to make your experience better next time.\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodVpEWklSMWR5TmpsNVgyWm1jVk4yVjFWdFYxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T05:46:48Z",
+      "iso_date_of_last_edit": null,
+      "text": "Manoranjan served tasty food and service is best, I recommend to all to try.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Kali Prasad Paramkusum,\n\nWe're thrilled to hear that you enjoyed the tasty food and exceptional service from Manoranjan! Thank you for recommending us to others; it means a lot to our team. We hope to see you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkQldVdExVV0ZYUW5kRGNEZG5abmxVUmxCSVRYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T04:54:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Manoranjan good service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Arun Paul,\n\nWe're thrilled to hear that you enjoyed the service from Manoranjan! Our team works hard to create a welcoming atmosphere, and it's great to know that it made a positive impact on your experience. Thank you for sharing!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FemVXOVBPR0ZwVVZwelZFNVpkelZVZWtOUGJHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 21,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 2 weeks ago",
+      "iso_date": "2026-10-10T04:49:56Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had breakfast here today. Mane provided excellent service. The food was good, and the overall experience was pleasant. Thanks Manaranjan. Thank you.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ramakrishnan Kamaraj,\n\nWe're so glad to hear you enjoyed your breakfast with us! Preethi will be thrilled to know her service made a positive impact on your experience. Thank you for sharing your kind words about the food and overall atmosphere!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OS11c0hnEAE",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 87,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 2 weeks ago",
+      "iso_date": "2026-10-10T02:33:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food, great service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Vimal Jose,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bVZrMWlSV1p1TFRsNGFHWXRUazlqYlZsNmVVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T15:34:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "Hambi nice service provided food taste was good thanks.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Chethan Luckky,\n\nWe're so glad to hear you enjoyed the food and that our service met your expectations! Thank you for taking the time to share your experience with us. We hope to see you again soon!\n\nThanks \nTeam A2B",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWlNHSnJXa1JsYlVGMFpVWTRabTlwWTFRNFUzYxAB",
+      "author": "Seemanth Madhu",
+      "author_url": "https://www.google.com/maps/contrib/116544718571434488747?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 43,
+      "author_photos_count": 3,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T04:59:28Z",
+      "iso_date_of_last_edit": "2026-09-13T05:00:35Z",
+      "text": "Good service. Suggestion -napkins can be kept in washroom",
+      "text_original_language": "Good service. Suggestion -napkins can be kept in washroom",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "2 people"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aWlNHSnJXa1JsYlVGMFpVWTRabTlwWTFRNFUzYxAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOnZZSGJrWkRlbUF0ZUY4Zm9pY1Q4U3c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWQ1JYRm5VREJ6VUZsWU0zZDBNekI2VEZWdVYwRRAB",
+      "author": "hemanth bhat",
+      "author_url": "https://www.google.com/maps/contrib/114724566644284030558?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 52,
+      "author_photos_count": 12,
+      "rating": 2.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-17T10:53:52Z",
+      "iso_date_of_last_edit": "2026-05-17T10:54:43Z",
+      "text": "Food was good and tasty at A2B. But the dining experience could be improved — the AC was not working, the wash area tap was broken, and the toilet was not clean. Hope the management fixes these issues soon.",
+      "text_original_language": "Food was good and tasty at A2B. But the dining experience could be improved — the AC was not working, the wash area tap was broken, and the toilet was not clean. Hope the management fixes these issues soon.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWQ1JYRm5VREJ6VUZsWU0zZDBNekI2VEZWdVYwRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOkVCRXFnUDBzUFlYM3d0MzB6TFVuV0E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxU2JYbENZVnAyUWkxRU56VjJhV05VVjNKb2NtYxAB",
+      "author": "H.K",
+      "author_url": "https://www.google.com/maps/contrib/112745411304422085352?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-17T03:23:55Z",
+      "iso_date_of_last_edit": "2026-05-17T03:23:55Z",
+      "text": "Not even ready to give 1 star because\nBad Quality food\nOverprized\nPoor hygiene (including washroom and washbasin)\nNo space for car parking.",
+      "text_original_language": "Not even ready to give 1 star because\nBad Quality food\nOverprized\nPoor hygiene (including washroom and washbasin)\nNo space for car parking.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxU2JYbENZVnAyUWkxRU56VjJhV05VVjNKb2NtYxAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOi1SbXlCYVp2Qi1ENzV2aWNUV3Jocmc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSk0yeEhVVk40ZVhwR1RrZENSRmt3WnpkNlRFRRAB",
+      "author": "kiruthika murugesan",
+      "author_url": "https://www.google.com/maps/contrib/105698714984355227399?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-02T09:00:24Z",
+      "iso_date_of_last_edit": "2026-05-02T09:00:24Z",
+      "text": "Kindly clean the washroom properly if someone eats after using washroom they will never eat at all keep it hygienic",
+      "text_original_language": "Kindly clean the washroom properly if someone eats after using washroom they will never eat at all keep it hygienic",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹800–1,000",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 1,
+        "group_size": "3-4 people",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "No",
+        "dietary_restrictions": "No",
+        "parking_space": "Somewhat difficult to find parking",
+        "parking_options": "Free parking lot",
+        "parking": "Maintain washroom in a clean way",
+        "kid_friendliness": "Yes",
+        "wheelchair_accessibility": "No"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toSk0yeEhVVk40ZVhwR1RrZENSRmt3WnpkNlRFRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOkhJM2xHUVN4eXpGTkdCRFkwZzd6TEE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CSmFFdzJUM2xxVFdsRE4yNVhlbWxFZVdsTmVXYxAB",
+      "author": "Veera Ragavan",
+      "author_url": "https://www.google.com/maps/contrib/109245978248303259687?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": 30,
+      "rating": 1.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-21T06:45:35Z",
+      "iso_date_of_last_edit": "2026-03-21T06:45:35Z",
+      "text": "First come first, we went for food and it was not up to the A2B standard. Easily available ghee dosa was very bad and kara chutney was very sweet.\n\nHalf of the menu was not available due to LPG shortage which is acceptable.\n\nWashroom was smelling very bad.",
+      "text_original_language": "First come first, we went for food and it was not up to the A2B standard. Easily available ghee dosa was very bad and kara chutney was very sweet.\n\nHalf of the menu was not available due to LPG shortage which is acceptable.\n\nWashroom was smelling very bad.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Brunch",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "group_size": "3-4 people"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CSmFFdzJUM2xxVFdsRE4yNVhlbWxFZVdsTmVXYxAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOnBJaEw2T3lqTWlDN25XemlEeWlNeWc%7C%7C?hl=en",
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7B6ImB_xapWp2-SQSO88cBE8nRi8hrJt1BKb5ysDhWT58s4KRxTm5OtQv_hvd6Ptb0c0tWLO6Zxnp9pnbDIIiHXkZsH3MqHgi3QoVVzIbIeSFeOrBK3W_6Ggw_U313P8CG2aXwXHnGXPd=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT2IzVmZkblZSVWxkM2NXOXlhVE13UWxKTVowRRAB",
+      "author": "karthik Krishna Murthy",
+      "author_url": "https://www.google.com/maps/contrib/116323177907190655612?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 78,
+      "author_photos_count": 26,
+      "rating": 1.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-28T01:18:26Z",
+      "iso_date_of_last_edit": "2026-01-28T01:18:26Z",
+      "text": "Worst service. There was no one to take order. We had to search and call him. Service as well very worst, got vada and chutney came after vada was over.\nRestroom are not clean.\nDo not recommend",
+      "text_original_language": "Worst service. There was no one to take order. We had to search and call him. Service as well very worst, got vada and chutney came after vada was over.\nRestroom are not clean.\nDo not recommend",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 3,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OT2IzVmZkblZSVWxkM2NXOXlhVE13UWxKTVowRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOnNOb3VfdnVRUld3cW9yaTMwQlJMZ0E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZNFZHOWFiMnRzTFdOWFZHWXRRVlJpYzA5Q1ZtYxAB",
+      "author": "Shradha Priya",
+      "author_url": "https://www.google.com/maps/contrib/101828444957724052914?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-14T13:58:27Z",
+      "iso_date_of_last_edit": "2025-09-14T13:58:27Z",
+      "text": "The service was very good by Manoranjan. He is very polite. The ambiance was a little hot. Improve in cleanliness of the sitting area lots of flies and food particles. The washroom was also very dirty and smelly.",
+      "text_original_language": "The service was very good by Manoranjan. He is very polite. The ambiance was a little hot. Improve in cleanliness of the sitting area lots of flies and food particles. The washroom was also very dirty and smelly.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 3,
+        "group_size": "2 people",
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pZNFZHOWFiMnRzTFdOWFZHWXRRVlJpYzA5Q1ZtYxAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOjY4VG9ab2tsLWNXVGYtQVRic09CVmc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VQS2QwNmpXNGZYTnJnRRAB",
+      "author": "Alby",
+      "author_url": "https://www.google.com/maps/contrib/117485195542040760688?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 712,
+      "author_photos_count": 3544,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-18T01:43:59Z",
+      "iso_date_of_last_edit": "2025-05-18T02:04:19Z",
+      "text": "Sambar was not up to the mark and vada received was very cold at the cost of 60..Toilets were not cleaned at least for a year time,...Only dosa up to the mark and please check my photos for your reference..A2B everywhere in Tamilnadu assure clean toilets but here it's like a public toilet...once you change it will be happy to give a positive review",
+      "text_original_language": "Sambar was not up to the mark and vada received was very cold at the cost of 60..Toilets were not cleaned at least for a year time,...Only dosa up to the mark and please check my photos for your reference..A2B everywhere in Tamilnadu assure clean toilets but here it's like a public toilet...once you change it will be happy to give a positive review",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VQS2QwNmpXNGZYTnJnRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEPKd06jW4fXNrgE%7C%7C?hl=en",
+      "images_count": 11,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4tDV7M4kDyTfhLuE7RNxmQPII1sUvC5EYQxRKey2Fokfo8KbZ3OJ40irZvPt8S4FonWmosdZRGf1ITL98uD63x9fP__UCtaVuA9RrTEopCMXbZUF7PgOnmXxjDu4oQSNu3bq3=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6tZiyXtcrX7MNGHeTH4xu7kiOLBpAMzV6ZjlwW51hcdMjRbenWO7K-4Z66DDgia9IW5VTbJUBMshMre6eMpkh1E8jGiIgIIWN_MflUf8SRx_8onbzfLVedia7wSWk08prQD3BQw=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcujYJ1msIax-SbAK0_foET5V1l_JKlZcOFz0sgwmvdQLEL7v0f963BwZdA0ie1aufV8rhVRVSXxmQVn-EAl7D2qdt4lt7RLUAaCpaOeMF8fXu-6VJLRDWkJbhS7ND5iDv_xy-yUw=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgaLCOGZ4vyJhkwURzdWGIrW_3HeMjp6VuZIBLXZqli_NEuN4idNctZlShJdByWzCzUQ5YHMTVtL5iIRZohjGUCU0GrVAIgTYu8ybxpEnz3sU2OZlNQYUQHujmVRRWiHP5Q-iRwA=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXPtNCSMzF4GjJndMKIHQgfdg2BZJ4zJmt6-p8htfM9QAl4MXCnWi7z5A59iAB1ANbvGmGwCJsGAeWS-qP-DovuDJcGQ7_cefQd6p-nkfchqkW3g57o8ehe-ue4KVCmJNMbhQv=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOa3ZUY-bbknjhNkDiXol_ZKbluFHj9QSx5ngj7q1Sr0yuG3SGmSokiTIoCQbegd5TLQwcMT3VVKQ6G_2Vc_52gKrwsZ8SYkKHUanriu7RZerQwYQW9Vtr4hiu3r3zrqfLe-jB=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5TQGvBjF1hvMD05Um2fZ9UQkDUKL6Q7JCsYoeVB1_Vt9Sdl4A4DdOTgutNRCKnilhciyAm_MpP-1IOhpvbWZZ5JNOkeKAk4cubip7lVkKh3nvDFJazgEDziXJVfYD795_sCEo=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8DU9vIQg_Lz77eaE7VE91Pnc-J8xH9mZ3Bx7rLwjic3WgBuRoNUbCKmF4X9XcUG5uP2DlRCnC1rH3jfcyscVU1W4_EG1-MB3Ft1uLWqUrfcK6PTmvIdDoDgx_cQmwewROty5O=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC6eteRBvUZaYEVBnuWW-dDLWs0SraWLbqZhkxypmYYoxNfxScFgH4steJwiBEOsMUQ9phNOpm6MVvxfhmSm3fznBB5XI6DQgv-ufr4yEerFyHgi5RsjNh-uINQECMkksqqGIDjw=k-no",
+          "image_index": 9,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmW6aYLRdCtG6qNIgS4CqUsQslGmlG5BZMXh6qi26r_BeywhQb1evpdj6UzIPnSKspz9HL79T7USD7vC3oAUy_tF6D0uUBA-_t5r_Lq1DsD0U8i7s4I_wGH-oDVgnVj_JTln-G=k-no",
+          "image_index": 10,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLTWQ-k0lzyjPm9ZiNRG_eO_MNURnjttGn1gUEJ5mNmZR9Wzgjri4Sbsd1EpYL33GxRtrXabi3Ba3mEh1dAo9yxtCOKGmLgR_Zq96doEPkqWlNc7vfDKv2GwaiXGN7VzY_qu-P=k-no",
+          "image_index": 11,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2akpQYTlBRRAB",
+      "author": "anshika",
+      "author_url": "https://www.google.com/maps/contrib/111375727240924302801?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 22,
+      "author_photos_count": 1,
+      "rating": 2.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-18T06:27:23Z",
+      "iso_date_of_last_edit": "2024-12-18T06:27:23Z",
+      "text": "Yesterday we went there for lunch, we had to look for people if we wanted something. We have been waiving at the staffs but they were hardly paying attention to their customers. Once they serve your order, they forgot that you are sitting. Customer may need something more or would like to order more. But they just want us to finish and go. They don't pay attention to their customers at all, when we told one of the lady staffs when she came with bill, she didn't even apologise or said that anything? Is this the way you people treat your customers? So it doesn't matter that u lose one customer but I will tell more people about your customer service! Not coming back again! We pay for food n service and they were hardly good at both! 👎🏻also a lot of flies there.. irritation while eating, dirty washroom.",
+      "text_original_language": "Yesterday we went there for lunch, we had to look for people if we wanted something. We have been waiving at the staffs but they were hardly paying attention to their customers. Once they serve your order, they forgot that you are sitting. Customer may need something more or would like to order more. But they just want us to finish and go. They don't pay attention to their customers at all, when we told one of the lady staffs when she came with bill, she didn't even apologise or said that anything? Is this the way you people treat your customers? So it doesn't matter that u lose one customer but I will tell more people about your customer service! Not coming back again! We pay for food n service and they were hardly good at both! 👎🏻also a lot of flies there.. irritation while eating, dirty washroom.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Brunch",
+        "price_per_person": "₹800–1,000",
+        "food": 3,
+        "service": 2,
+        "atmosphere": 4,
+        "noise_level": "Moderate noise",
+        "recommendation_for_vegetarians": "Would not recommend"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR2akpQYTlBRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEICAgIDvjJPa9AE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQOHZPM3NnRRAB",
+      "author": "Ram Pancharia",
+      "author_url": "https://www.google.com/maps/contrib/101537000921788461554?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-11-23T02:42:10Z",
+      "iso_date_of_last_edit": "2024-11-23T02:42:10Z",
+      "text": "The food was good, very hygienic. The service was fast. The washroom was clean. Helen was very Swift and good!",
+      "text_original_language": "The food was good, very hygienic. The service was fast. The washroom was clean. Helen was very Swift and good!",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Rava Masala Dosa",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "dosa"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNQOHZPM3NnRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEICAgICP8vO3sgE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMTR2S0ZBEAE",
+      "author": "Saud Shaik",
+      "author_url": "https://www.google.com/maps/contrib/102294605864314671152?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 116,
+      "author_photos_count": 268,
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-01T02:13:58Z",
+      "iso_date_of_last_edit": "2024-10-01T02:13:58Z",
+      "text": "One of the best choice to experience here while returning from nandihills to banglore\nThe taste very good\nPrices are high but they are equally to taste\nU can spend high because taste is good\nService is very good throughout the dining\nWashroom are very clean\nSome of the shops are available inside it they are also gud to shop in time as we wait for the food",
+      "text_original_language": "One of the best choice to experience here while returning from nandihills to banglore\nThe taste very good\nPrices are high but they are equally to taste\nU can spend high because taste is good\nService is very good throughout the dining\nWashroom are very clean\nSome of the shops are available inside it they are also gud to shop in time as we wait for the food",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Rava Masala Dosa",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "All vegetarian menu is available"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNuMTR2S0ZBEAE!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEICAgICn14vKFA%7C%7C?hl=en",
+      "images_count": 16,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpSTUtL_YioweEg-4Xo9qXJR9BrsAd5TAFVm9UgQEhU4hlb4UEtD0l6S5lYFp4JmzLTt4o2wW2SZQH8zuztO_bPKjP0RQb34CfJcPHIHvFsWZmGV0XdtPQ34HYiHgi4ETsDpk-=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrebEmP083k8mdRq3cMoMcBYqkfm7y7qnTx5bAonmTe7HahPyZ9CopxkRrJgdNATXpI4RWctofDJQJ4Yk8qV-F8xQART7F-22vXmbCweNg_JKXU_CDqwv_zWoJJ8R1DF9rtCd_=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8xjLbC7nHc06gxgBozwBnlP9cXqgJrKqtfolLN2fMA3zBw68py2zuFUT7gRRnPTIQnH1LO-Nla8aVt3963kWH-zxaNpvECs4rCEVMnp2-hmHusiYpWHqwDGIK_JUltavm4rkR=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnTLlYmWNfNxty_kRKEmj1A52SQbXgtzK2ZDO_ULKMPBC4SCTAksqrfBQwEUTbTAB4jJifcBRcXEXfz_QN6VcPRbybpWc1J0drk9XoEVlisgk8JRslZ1QRhJAyIr9neQEaXpBb=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0dA9rinP6HIAmoQ7cUdjbwGpvyGW5krOMApurUGcTJ6WZ8NpbemDXx9X7DvyRa5sYYDQVXES_Y2k5687rzPX1VxIv5KdLU5kkJcNlhSnwU0F4bqJ23ZXPwC5B9Eitoal4Qiq2Dg=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPg5JO-RW1KkNOdY9OCMjq-v1AcOyefQXScfZPSzN8E05HvQFrRBRyz5YJN3_lK6XeIPjRp3fSU8bMRkTzcEoMBwVskoo0oLP2fec3fWyhF8zXekS0muKaLFwDJDbYO8H9h6rZ=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaEC2egevXUcsMvo9K0eiiy75ILfFwZw1YgqNY6HQgcqMl3teuLguVuvJ2gd4H6wtKgr0TMXPab586bSSeDOc_sXcUOWSoYUMLneQNFXGcVKGkJ1repBCdoZBPmB7c-k3MO5PDAw=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdN-aNeI4LDSZ-dQ9Q8PsogeMDmJ2I847uT9vSOgnzjflIBfzRwv-XMRVZmoKlO6CfHQc9DqlGisKJRRWGRJMIEpD37_pWfFbTnlH-fYReNXJisJ7fr_R6Wv2pNusD3HEz-io8=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNomPSnVHbcgN-d60ZGyMWVQWoxG3FZq41AAJ3rBS8vGTPsWCZCc199cxQyYGRuYz89rvOzM4jVVRfal6a7aoqpfLcOWvIck8BsL7b6yr8Wbzp-nO8akAxREnM3PZ30FWksdN_rA=k-no",
+          "image_index": 9,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4OVvmKj03_GQC81Ww9uvGHllcPlAygbDFd9EBE8ZCAKDlMOf332a692PoJ4D1hGgkA4Zp1gmcJLF_a-Vb878Cqld3l0C0q2k01dxhWqvt7m91JI8HLhAL8bM7TyrHXwhFjw9Z=k-no",
+          "image_index": 10,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBpTb40mCqlx3ZsPIbw-1PZdDNo1fsWvr8o5kDXtOTT7CjdJpxhSuVoHesIHjDoD4lqubgCQy-214jwI_ztXHbKR_XrtiJUkkCgbH8XXU6PDZerJh16ZfGE7WznsaXIDX-eA32mg=k-no",
+          "image_index": 11,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9bn7E7Ygl9QVAa9ow6ElafcYScLMN3nd8b1h4EAA0fKlSn_Z1xx0pfhqe5Eby1AKZMfI9fYZ64bYpg-41ZSH449djsjMMlbnYtG2MZJiUp02Fl1FYm6hCbmXLOCh7o9M25shZ=k-no",
+          "image_index": 12,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9pohsM5zhU6JLnmjEN2iiMpgWBtUGZ80rQwus8ILZZAbpttv6zyqL6ydiizFxQnkpPbeUM_ct3e_aj_knsyNUeGOqIJ5YLsfsKFTqeEapwZ4nFJbnjlJVERUeKc1ubntLwyqHFg=k-no",
+          "image_index": 13,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLYM9saL8qo5qowaLDYSfDgRvSAhVqeA-1INoe4SlD6dz96Wx6LXyqBEGAcgJgvhSHGF40YglEDWAVlpir6mRO1-wMDkdJLrUfWS4y8NE0UriRLD2K7G-dtmTBRVOvxqv6NQsX=k-no",
+          "image_index": 14,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC2kOwgWnnkugkU-C34vm-d95NkPNlab9UxiAZ0A4hwb54D-i7UW-rTy5YNjuOdBd7EW-MdHbqspDdJQuWD_GlhyQ0KdynM0AqEQrv9EScCZhm8rHmJF6BHWdDwRZfvX-5FY4y4Q=k-no",
+          "image_index": 15,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7iSvfcW-NvllxeV91sJ10EJW71iTD3-jSdrIlrDqNjZsqpmbYFw7DRyrUlZFuQ_gGGvEz01ga99HtB65WVuuKRzLkVqvv_iIEZvSds2A00HdVpcvbBJ3Lv-QU6ULL_bkNM-FJ=k-no",
+          "image_index": 16,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3d1llZUVBEAE",
+      "author": "Pavithra M",
+      "author_url": "https://www.google.com/maps/contrib/109558039586057818608?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": 10,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-25T02:52:48Z",
+      "iso_date_of_last_edit": "2024-08-25T02:52:48Z",
+      "text": "The food was amazing, staff were courteous. We had ample parking space and the toilet was also clean.",
+      "text_original_language": "The food was amazing, staff were courteous. We had ample parking space and the toilet was also clean.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3d1llZUVBEAE!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEICAgID7wYeeEA%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUbnNtVU9nEAE",
+      "author": "Sona Suzanne",
+      "author_url": "https://www.google.com/maps/contrib/117273584322534557134?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 773,
+      "author_photos_count": 4902,
+      "rating": 4.0,
+      "date": "Edited 4 months ago",
+      "iso_date": "2024-05-15T05:11:19Z",
+      "iso_date_of_last_edit": "2026-06-08T07:21:20Z",
+      "text": "A2B is undoubtedly one of the preferred breakfast stops for many. The airport road one was neat and bathrooms were ok. Food was at par. Service needs to be handled better. The lady cleaning the bathroom was pretty rude saying don't wash hands in the restroom area. I told her to speak a bit more politely as I wasnot aware that the tap is leaking.",
+      "text_original_language": "A2B is undoubtedly one of the preferred breakfast stops for many. The airport road one was neat and bathrooms were ok. Food was at par. Service needs to be handled better. The lady cleaning the bathroom was pretty rude saying don't wash hands in the restroom area. I told her to speak a bit more politely as I wasnot aware that the tap is leaking.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "group_size": "3-4 people",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "All veg restaurant",
+        "parking_space": "Somewhat difficult to find parking",
+        "parking_options": "Free street parking",
+        "parking": "The restaurant,  for the capacity that it runs with, doesn't have sufficient parking space. The security guard was a bit rude to all of us... esp bikers. I don't understand why bikers are discriminated against while a car with a single person gets better respect. What we eat and pay mostly is the same i believe. It was a let down.",
+        "kid_friendliness": "It's an ok place to bring kids if they like South Indian breakfast",
+        "wheelchair_accessibility": "A bit tough for a wheelchair...there is a flight of stairs at the entrance."
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUbnNtVU9nEAE!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEICAgICTnsmUOg%7C%7C?hl=en",
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMGNgerW5r_XhhWw7ubiy9LqWSFkFPkKhKjDUP5G25b_qLnjqfjXHKn4SO7aP_NOanxCYcIMl6bWhAAxTd0F9Zw2LZnLmBFDavfoBMeWSiy2yQHOm6UWJ8Nol3Ma4YpiKJLJQ=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNedJdfnzptL26LjeN9JUsqEIc_pb1B2Z_wg9uXDu6aA5XfsKjrQr0_ycIJgih7FVjDZq-iEJzPdzbDUHv8elAH9khrNP-HbLIFHCtd1grVnsp6Snr2AvNegVlZttwtrsGlm44SJfvpWBm=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom",
+        "query:restroom"
+      ],
+      "sources": [
+        "serpapi_washroom_search"
+      ]
+    }
+  ]
+}

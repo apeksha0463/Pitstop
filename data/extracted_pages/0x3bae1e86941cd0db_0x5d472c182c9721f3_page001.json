@@ -1,0 +1,79 @@
+{
+  "data_id": "0x3bae1e86941cd0db:0x5d472c182c9721f3",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Seasons Restaurant",
+    "place_type": "North Indian restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WNlVqbFNjSGhsYmtSSE56VlBXV0ZpUkhoRVIzYxAB",
+      "author": "MUDASER AKBAR",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMmEzZGhhazF2T1VsWWNsbzBSR2hpVW5GYVkwRRAB",
+      "author": "nyvic T s",
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUlozRkJSR1pYY1hsTGVHNWtla0ZoVmtKYVQzYxAB",
+      "author": "vel murugan",
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdFRXRm9XVzFyY0V0WFJHbHpTV05SZG1ObFlWRRAB",
+      "author": "Jayendra AR",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GM05razRRa1l5Y1RGM2NUWjRjMXA0Y1VOMFZuYxAB",
+      "author": "Darshan Roy",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "images": []
+    }
+  ]
+}

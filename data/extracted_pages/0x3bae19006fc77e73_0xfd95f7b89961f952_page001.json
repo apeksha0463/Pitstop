@@ -1,0 +1,90 @@
+{
+  "data_id": "0x3bae19006fc77e73:0xfd95f7b89961f952",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Udupi Sambrama",
+    "place_type": "Vegetarian restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aVkwaFNTVFZJYlVSdFRGaEVTbmhuVFU5VWRsRRAB",
+      "author": "Prachi Sharma",
+      "rating": 1.0,
+      "date": "21 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdWRuSkxSbDlSYm1FeGVEQTBiMVJXWkhaU1owRRAB",
+      "author": "Arjun Bandi",
+      "rating": 1.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWk1YUjRiblJNVmpGcVdFMUNhRWRIZVRKeGFrRRAB",
+      "author": "Gurudeep Rao",
+      "rating": 1.0,
+      "date": "a week ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcFZVVnJNR2xZVVdoc2JVZFBibk01VmxNeE0zYxAB",
+      "author": "Plvi",
+      "rating": 1.0,
+      "date": "a week ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMVlWcExiSFpPZUV0aVlpMTNTME13YVZkMmFtYxAB",
+      "author": "Shrasti Rajput",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2If3pamzsQD2W6wUCslrJHHOnPrUX1KVOJD5Nz3-5dnPSIlZ6XjinIp-0nGn52kE8s9Qhmc3s7xR4RZQPVMSVqIq08VFcTBPIebJSZKIyNGuwV_yOTPk4hgegruDBvHURIJEL6pnbr1A=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    }
+  ]
+}

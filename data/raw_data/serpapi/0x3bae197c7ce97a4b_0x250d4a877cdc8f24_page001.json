@@ -1,0 +1,244 @@
+{
+  "search_metadata": {
+    "id": "6ae44cc4dea400dcb7e66995",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SZ3csXb5Kb0aF_-7m2lgblBoOEkUdNK0kAJSf7sCxuc/6ae44cc4dea400dcb7e66995.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SZ3csXb5Kb0aF_-7m2lgblBoOEkUdNK0kAJSf7sCxuc/6ae44cc4dea400dcb7e66995.md",
+    "created_at": "2026-10-30 07:52:36 UTC",
+    "processed_at": "2026-10-30 07:52:36 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae197c7ce97a4b:0x250d4a877cdc8f24!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/SZ3csXb5Kb0aF_-7m2lgblBoOEkUdNK0kAJSf7sCxuc/6ae44cc4dea400dcb7e66995.html",
+    "prettify_html_file": "https://serpapi.com/searches/SZ3csXb5Kb0aF_-7m2lgblBoOEkUdNK0kAJSf7sCxuc/6ae44cc4dea400dcb7e66995.prettify",
+    "total_time_taken": 0.93
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae197c7ce97a4b:0x250d4a877cdc8f24",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Nasi and Mee - Yelahanka",
+    "address": "Third Floor, The Galleria Mall, Bellary Rd, Ambedkar Colony, Yelahanka, Bengaluru, Karnataka 560064, India",
+    "rating": 4.8,
+    "reviews": 1403,
+    "type": "Southeast Asian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "balaram",
+      "mentions": 63,
+      "id": "LGcoPjVLVys"
+    },
+    {
+      "keyword": "sajal",
+      "mentions": 35,
+      "id": "AmNsIWkfUK8"
+    },
+    {
+      "keyword": "outdoor seating",
+      "mentions": 3,
+      "id": "AEmHqxr-_tg"
+    },
+    {
+      "keyword": "dimsum",
+      "mentions": 41,
+      "id": "Ag6MTWM3wnc"
+    },
+    {
+      "keyword": "sushi",
+      "mentions": 64,
+      "id": "AVNsejk8Zyc"
+    },
+    {
+      "keyword": "seating options",
+      "mentions": 3,
+      "id": "EBDGJGre1s0"
+    },
+    {
+      "keyword": "ramen",
+      "mentions": 37,
+      "id": "Bj8oLGASMw8"
+    },
+    {
+      "keyword": "Panda Baos",
+      "mentions": 8,
+      "id": "G2kpfjFQP-E"
+    },
+    {
+      "keyword": "chendol drink",
+      "mentions": 7,
+      "id": "neLIa2A18m0"
+    },
+    {
+      "keyword": "mee goreng",
+      "mentions": 9,
+      "id": "Ixyjn8iRI9A"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SaVRFZ3lXR3gwUW5sUVlWRjJkM0UyVTNkRFJsRRAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOmRiTEgyWGx0QnlQYVF2d3E2U3dDRlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T19:51:31Z",
+      "iso_date_of_last_edit": "2026-10-18T19:51:31Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SaVRFZ3lXR3gwUW5sUVlWRjJkM0UyVTNkRFJsRRAB",
+      "user": {
+        "name": "Jaya Bharath",
+        "link": "https://www.google.com/maps/contrib/112033688417906133792?hl=en",
+        "contributor_id": "112033688417906133792",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKX_SaVg1kG0ntl4YCQnp74B22Qq32XeRr8N0BrWez7LaRvpw=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 1
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "seating_type": "Booth seating"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a week ago",
+        "iso_date": "2026-10-18T21:00:14Z",
+        "iso_date_of_last_edit": "2026-10-18T21:00:14Z",
+        "snippet": "Hello, Jaya Bharath,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "extracted_snippet": {
+          "original": "Hello, Jaya Bharath,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xeFowUTRTRzk0Y0Mwd1J6WmtjMlJDYTJKNWRsRRAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOm1xZ0Q4SG94cC0wRzZkc2RCa2J5dlE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T15:03:14Z",
+      "iso_date_of_last_edit": "2026-10-09T15:03:14Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xeFowUTRTRzk0Y0Mwd1J6WmtjMlJDYTJKNWRsRRAB",
+      "user": {
+        "name": "Leo",
+        "link": "https://www.google.com/maps/contrib/109960202025454321182?hl=en",
+        "contributor_id": "109960202025454321182",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVk4NO_Y4M04E6KvpKuFoCrPGmShGkMi8P4zlxAV2U1MVwuUbE=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 54,
+        "photos": 0
+      },
+      "snippet": "We ate here a total of 3 times. We genuinely loved the food and it sat very well with us.\nThe staff is very friendly and they helped us choose the meals based on our food intolerances.\nSome of the dishes need slight improvement and please make sure to always use fresh, clean ingredients.\n\nWe noticed the 10% service charge too late and would have complained if we would have seen it on time. We were never informed about such charge, which is not ethical.",
+      "extracted_snippet": {
+        "original": "We ate here a total of 3 times. We genuinely loved the food and it sat very well with us.\nThe staff is very friendly and they helped us choose the meals based on our food intolerances.\nSome of the dishes need slight improvement and please make sure to always use fresh, clean ingredients.\n\nWe noticed the 10% service charge too late and would have complained if we would have seen it on time. We were never informed about such charge, which is not ethical."
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 weeks ago",
+        "iso_date": "2026-10-09T17:44:23Z",
+        "iso_date_of_last_edit": "2026-10-09T17:44:23Z",
+        "snippet": "Hello, Leo,\n\nIt's wonderful to hear that you loved the food and that our team was able to assist you with your meal choices based on your food intolerances. We always aim to use fresh, clean ingredients, and we appreciate your input on the dishes needing slight improvement. We're sorry to hear about the confusion regarding the service charge; we want to ensure everything is clear for our guests. Thank you for sharing your experience with us!\n\nCheers, \nTeam Nasi and Mee",
+        "extracted_snippet": {
+          "original": "Hello, Leo,\n\nIt's wonderful to hear that you loved the food and that our team was able to assist you with your meal choices based on your food intolerances. We always aim to use fresh, clean ingredients, and we appreciate your input on the dishes needing slight improvement. We're sorry to hear about the confusion regarding the service charge; we want to ensure everything is clear for our guests. Thank you for sharing your experience with us!\n\nCheers, \nTeam Nasi and Mee"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SRWNsbEVjbU5rVlhkaE9GSm5lV3REVkZsVVFWRRAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOnREcllEcmNkVXdhOFJneWtDVFlUQVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-08T09:28:58Z",
+      "iso_date_of_last_edit": "2026-10-08T09:28:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRWNsbEVjbU5rVlhkaE9GSm5lV3REVkZsVVFWRRAB",
+      "user": {
+        "name": "SOUMYARANJAN SATAPATHY",
+        "link": "https://www.google.com/maps/contrib/108611963621763014117?hl=en",
+        "contributor_id": "108611963621763014117",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU7zH9dsltJUKO3_HKZ6de1Y94kxpwe5kONS1lPUk8ckNwQjcgwzQ=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 1
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 weeks ago",
+        "iso_date": "2026-10-08T10:00:28Z",
+        "iso_date_of_last_edit": "2026-10-08T10:00:28Z",
+        "snippet": "Hello, SOUMYARANJAN SATAPATHY,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "extracted_snippet": {
+          "original": "Hello, SOUMYARANJAN SATAPATHY,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SUE5ta3pURU4yWHkxVWRHVkpVUzB0VXpGS2FuYxAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOnRPNmkzTEN2Xy1UdGVJUS0tUzFKanc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-02T11:30:28Z",
+      "iso_date_of_last_edit": "2026-10-02T11:30:28Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUE5ta3pURU4yWHkxVWRHVkpVUzB0VXpGS2FuYxAB",
+      "user": {
+        "name": "Adarsha A S",
+        "link": "https://www.google.com/maps/contrib/107215145732176042941?hl=en",
+        "contributor_id": "107215145732176042941",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUKxeg7_kmUalYRPWtFg-9-RRy8wJZLT7D4jPlk9vOt5n4iaIBcOw=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 3
+      },
+      "snippet": "Great service from sajal it’s amazing 🤩",
+      "extracted_snippet": {
+        "original": "Great service from sajal it’s amazing 🤩"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 weeks ago",
+        "iso_date": "2026-10-02T12:00:31Z",
+        "iso_date_of_last_edit": "2026-10-02T12:00:31Z",
+        "snippet": "Hello, Adarsha A S,\n\nWe're thrilled to hear you had a fantastic experience with Sajal! It's always wonderful to know our team is making a positive impact. Thank you for sharing your kind words!\n\nCheers, \nTeam Nasi and Mee",
+        "extracted_snippet": {
+          "original": "Hello, Adarsha A S,\n\nWe're thrilled to hear you had a fantastic experience with Sajal! It's always wonderful to know our team is making a positive impact. Thank you for sharing your kind words!\n\nCheers, \nTeam Nasi and Mee"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGU2VHb3dUV1JxUkc5QmQxOTZOekYzV0doT2VrRRAB!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CAIQACodChtycF9oOkFSeGowTWRqRG9Bd196NzF3WGhOekE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T06:22:50Z",
+      "iso_date_of_last_edit": "2026-09-27T06:22:50Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGU2VHb3dUV1JxUkc5QmQxOTZOekYzV0doT2VrRRAB",
+      "user": {
+        "name": "Mukesh Kottaram",
+        "link": "https://www.google.com/maps/contrib/109787572231121646888?hl=en",
+        "contributor_id": "109787572231121646888",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXcp6rj7bUU-_1fLiV3D7O2GUjgQD6R8BTc1Rx7L_N0PooSTrMN=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 9
+      },
+      "likes": 0,
+      "response": {
+        "date": "a month ago",
+        "iso_date": "2026-09-27T08:00:20Z",
+        "iso_date_of_last_edit": "2026-09-27T08:00:20Z",
+        "snippet": "Hello, Mukesh Kottaram,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee",
+        "extracted_snippet": {
+          "original": "Hello, Mukesh Kottaram,\n\nWe're delighted to hear that you had a good dining experience at Nasi and Mee. Thank you for sharing your positive feedback, and we can't wait to have you back for another great meal!\n\nCheers, \nTeam Nasi and Mee"
+        }
+      }
+    }
+  ]
+}

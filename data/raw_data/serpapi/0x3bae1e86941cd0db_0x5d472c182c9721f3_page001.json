@@ -1,0 +1,194 @@
+{
+  "search_metadata": {
+    "id": "6ae44d015d4ad5ad90092637",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XS82g3eHdc7qI2-5PavADFDd9XJK7NqlLC7HcOJ1fBA/6ae44d015d4ad5ad90092637.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XS82g3eHdc7qI2-5PavADFDd9XJK7NqlLC7HcOJ1fBA/6ae44d015d4ad5ad90092637.md",
+    "created_at": "2026-10-30 07:53:37 UTC",
+    "processed_at": "2026-10-30 07:53:37 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1e86941cd0db:0x5d472c182c9721f3!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/XS82g3eHdc7qI2-5PavADFDd9XJK7NqlLC7HcOJ1fBA/6ae44d015d4ad5ad90092637.html",
+    "prettify_html_file": "https://serpapi.com/searches/XS82g3eHdc7qI2-5PavADFDd9XJK7NqlLC7HcOJ1fBA/6ae44d015d4ad5ad90092637.prettify",
+    "total_time_taken": 1.08
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1e86941cd0db:0x5d472c182c9721f3",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Seasons Restaurant",
+    "address": "Plot No.89, Down Town Park , Shettigere Village, Near Saadahalli Gate, International Airport Road, Bengaluru, Karnataka 562157, India",
+    "rating": 3.9,
+    "reviews": 3836,
+    "type": "North Indian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "kerala parota",
+      "mentions": 11,
+      "id": "Ap_B6U7v_Cw"
+    },
+    {
+      "keyword": "shawarma",
+      "mentions": 20,
+      "id": "NGskbtlrJ48"
+    },
+    {
+      "keyword": "outdoor seating",
+      "mentions": 4,
+      "id": "AEmHqxr-_tg"
+    },
+    {
+      "keyword": "barbeque chicken",
+      "mentions": 10,
+      "id": "TB_aURWpq0U"
+    },
+    {
+      "keyword": "chicken biriyani",
+      "mentions": 7,
+      "id": "GA_0dW0Jr4k"
+    },
+    {
+      "keyword": "mutton biryani",
+      "mentions": 8,
+      "id": "MT0hXK5zIxk"
+    },
+    {
+      "keyword": "arabian food",
+      "mentions": 9,
+      "id": "NE-gd95CGe0"
+    },
+    {
+      "keyword": "kerala cuisine",
+      "mentions": 4,
+      "id": "Ft-B6yjr_AQ"
+    },
+    {
+      "keyword": "hyderabadi chicken",
+      "mentions": 2,
+      "id": "XAvwuUApv2c"
+    },
+    {
+      "keyword": "prawns biryani",
+      "mentions": 2,
+      "id": "BIdkNC1LJyo"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WNlVqbFNjSGhsYmtSSE56VlBXV0ZpUkhoRVIzYxAB!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CAIQACodChtycF9oOmV6UjlScHhlbkRHNzVPWWFiRHhER3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T14:04:48Z",
+      "iso_date_of_last_edit": "2026-10-24T14:04:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WNlVqbFNjSGhsYmtSSE56VlBXV0ZpUkhoRVIzYxAB",
+      "user": {
+        "name": "MUDASER AKBAR",
+        "link": "https://www.google.com/maps/contrib/115228888707844144627?hl=en",
+        "contributor_id": "115228888707844144627",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXoN0EZ95KRvV3zfDk6K4TgNCnyMYaIfwxFyplOjel0zEePu1dm=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 13,
+        "photos": 7
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2prMmEzZGhhazF2T1VsWWNsbzBSR2hpVW5GYVkwRRAB!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CAIQACodChtycF9oOjk2a3dhak1vOUlYclo0RGhiUnFaY0E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T13:09:08Z",
+      "iso_date_of_last_edit": "2026-10-13T13:09:08Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMmEzZGhhazF2T1VsWWNsbzBSR2hpVW5GYVkwRRAB",
+      "user": {
+        "name": "nyvic T s",
+        "link": "https://www.google.com/maps/contrib/105122507528264546807?hl=en",
+        "contributor_id": "105122507528264546807",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU68e7hbiTupf24aMZJFYp7m3sNIqcnFC1kD4vZP-qqgdXumV2HUg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 48,
+        "photos": 32
+      },
+      "snippet": "The restaurant is kerala style food. We have ordered fried rice and hyderbadi chicken biriyani. Both were good and the staff were very friendly. The drawback is when someone ordered a sizzler it smoked the entire area.",
+      "extracted_snippet": {
+        "original": "The restaurant is kerala style food. We have ordered fried rice and hyderbadi chicken biriyani. Both were good and the staff were very friendly. The drawback is when someone ordered a sizzler it smoked the entire area."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 3,
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KUlozRkJSR1pYY1hsTGVHNWtla0ZoVmtKYVQzYxAB!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CAIQACodChtycF9oOnJRZ3FBRGZXcXlLeG5kekFhVkJaT3c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T08:50:43Z",
+      "iso_date_of_last_edit": "2026-10-13T08:50:43Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUlozRkJSR1pYY1hsTGVHNWtla0ZoVmtKYVQzYxAB",
+      "user": {
+        "name": "vel murugan",
+        "link": "https://www.google.com/maps/contrib/106210429184919245022?hl=en",
+        "contributor_id": "106210429184919245022",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUxZuYBQuv4Xd8xyYwCx8olnJvMvDLp3A2GcnHGT1lmka8qtDhE=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwdFRXRm9XVzFyY0V0WFJHbHpTV05SZG1ObFlWRRAB!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CAIQACodChtycF9oOlptTWFoWW1rcEtXRGlzSWNRdmNlYVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T09:22:51Z",
+      "iso_date_of_last_edit": "2026-10-09T09:22:51Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdFRXRm9XVzFyY0V0WFJHbHpTV05SZG1ObFlWRRAB",
+      "user": {
+        "name": "Jayendra AR",
+        "link": "https://www.google.com/maps/contrib/113643263635911507042?hl=en",
+        "contributor_id": "113643263635911507042",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXrCnUNCw2w0-C3WewVujotfunOR_sfS62dZm0G2t3fR_oQhtp6=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 21,
+        "photos": 8
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GM05razRRa1l5Y1RGM2NUWjRjMXA0Y1VOMFZuYxAB!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CAIQACodChtycF9oOnF3Nkk4QkYycTF3cTZ4c1p4cUN0Vnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T16:22:09Z",
+      "iso_date_of_last_edit": "2026-10-04T16:22:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GM05razRRa1l5Y1RGM2NUWjRjMXA0Y1VOMFZuYxAB",
+      "user": {
+        "name": "Darshan Roy",
+        "link": "https://www.google.com/maps/contrib/104004627085611400750?hl=en",
+        "contributor_id": "104004627085611400750",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX9vmH9aQrDUJdPI7JePWLGhmbp6_U1f9uLLFIVEEOQK60Lcjs=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 6,
+        "photos": 73
+      },
+      "likes": 0
+    }
+  ]
+}

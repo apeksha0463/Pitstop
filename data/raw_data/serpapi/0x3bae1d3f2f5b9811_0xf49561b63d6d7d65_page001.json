@@ -1,0 +1,259 @@
+{
+  "search_metadata": {
+    "id": "6ae44d1094c42b26033bf784",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2acYaSQfP0cD-GiW3M08XShv_zYPT-S_8Obc6sX2ZyQ/6ae44d1094c42b26033bf784.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2acYaSQfP0cD-GiW3M08XShv_zYPT-S_8Obc6sX2ZyQ/6ae44d1094c42b26033bf784.md",
+    "created_at": "2026-10-30 07:53:52 UTC",
+    "processed_at": "2026-10-30 07:53:52 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1d3f2f5b9811:0xf49561b63d6d7d65!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/2acYaSQfP0cD-GiW3M08XShv_zYPT-S_8Obc6sX2ZyQ/6ae44d1094c42b26033bf784.html",
+    "prettify_html_file": "https://serpapi.com/searches/2acYaSQfP0cD-GiW3M08XShv_zYPT-S_8Obc6sX2ZyQ/6ae44d1094c42b26033bf784.prettify",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1d3f2f5b9811:0xf49561b63d6d7d65",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Dhaba On The Highway",
+    "address": "Brigade Orchards, No. G-02, Ground Floor, The Arcade, Devanahalli, Bengaluru, Karnataka 562110, India",
+    "rating": 4.5,
+    "reviews": 518,
+    "type": "Punjabi restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "sarson ka saag",
+      "mentions": 7,
+      "id": "hzIdcqESKjM"
+    },
+    {
+      "keyword": "authentic punjabi food",
+      "mentions": 36,
+      "id": "LO0hdgpHv8c"
+    },
+    {
+      "keyword": "lassi",
+      "mentions": 16,
+      "id": "ZwPRfxd1Ig8"
+    },
+    {
+      "keyword": "chole kulche",
+      "mentions": 3,
+      "id": "ESTB61PtfkU"
+    },
+    {
+      "keyword": "dhaba gosht",
+      "mentions": 2,
+      "id": "lMyglzL4M_M"
+    },
+    {
+      "keyword": "kukkad biryani",
+      "mentions": 2,
+      "id": "Mt_g9zxprys"
+    },
+    {
+      "keyword": "amritsari fish",
+      "mentions": 2,
+      "id": "Ashwf0ZQRqo"
+    },
+    {
+      "keyword": "dahi kebab",
+      "mentions": 2,
+      "id": "0wySrUCof0c"
+    },
+    {
+      "keyword": "chicken tikka",
+      "mentions": 4,
+      "id": "OAbUcUirK0U"
+    },
+    {
+      "keyword": "gulab jamun",
+      "mentions": 3,
+      "id": "B3WgE9lRMtU"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOcGJGcGtNVVZXYUdOcmRGcEVaeko2U2prNFEzYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOlNpbFpkMUVWaGNrdFpEZzJ6Sjk4Q3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T07:59:03Z",
+      "iso_date_of_last_edit": "2026-10-26T07:59:03Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcGJGcGtNVVZXYUdOcmRGcEVaeko2U2prNFEzYxAB",
+      "user": {
+        "name": "Sanjivani Handa",
+        "link": "https://www.google.com/maps/contrib/111316471621654712505?hl=en",
+        "contributor_id": "111316471621654712505",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX2prJc_TopNRfojH5g-UgWYt8u6crndTIjYpCjJ2NIHlhmJkU=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 7
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 days ago",
+        "iso_date": "2026-10-28T06:48:37Z",
+        "iso_date_of_last_edit": "2026-10-28T06:48:37Z",
+        "snippet": "Dear Sanjivani,\n\nThank you for taking a moment to rate us. Your support is sincerely appreciated, and we look forward to welcoming you again to Dhaba on the Highway.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "extracted_snippet": {
+          "original": "Dear Sanjivani,\n\nThank you for taking a moment to rate us. Your support is sincerely appreciated, and we look forward to welcoming you again to Dhaba on the Highway.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2todFYwc3dNRkZSU1hOMVdHSTVRMU5PVkRkTFgyYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOkhtV0swMFFRSXN1WGI5Q1NOVDdLX2c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T10:14:31Z",
+      "iso_date_of_last_edit": "2026-10-25T10:14:31Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todFYwc3dNRkZSU1hOMVdHSTVRMU5PVkRkTFgyYxAB",
+      "user": {
+        "name": "Deepak S",
+        "link": "https://www.google.com/maps/contrib/108939731403445967288?hl=en",
+        "contributor_id": "108939731403445967288",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXBgCaRG6vHVAKmOINxY_-gQcM_6RklAamz-HtPQu6qCeUerOc-=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 272,
+        "photos": 183
+      },
+      "snippet": "Wrost food....",
+      "extracted_snippet": {
+        "original": "Wrost food...."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "reservation": "Reservations not required",
+        "group_size": "3-4 people"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 days ago",
+        "iso_date": "2026-10-28T06:46:22Z",
+        "iso_date_of_last_edit": "2026-10-28T06:46:22Z",
+        "snippet": "Dear Deepak,\n\nWe are sorry to know that your dining experience did not meet your expectations. We take your feedback seriously and would appreciate the opportunity to understand your concerns better.\n\nPlease share your contact details with me at arvindks@signatureclubresort.com, and I will personally reach out to you to understand what went wrong and address your concerns.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "extracted_snippet": {
+          "original": "Dear Deepak,\n\nWe are sorry to know that your dining experience did not meet your expectations. We take your feedback seriously and would appreciate the opportunity to understand your concerns better.\n\nPlease share your contact details with me at arvindks@signatureclubresort.com, and I will personally reach out to you to understand what went wrong and address your concerns.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWSk0zaHJXR0p6ZERkWmFHVnRUMTlFWDNOU1FtYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOjVJM3hrWGJzdDdZaGVtT19EX3NSQmc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T09:56:11Z",
+      "iso_date_of_last_edit": "2026-10-25T09:56:11Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSk0zaHJXR0p6ZERkWmFHVnRUMTlFWDNOU1FtYxAB",
+      "user": {
+        "name": "Navya Devang",
+        "link": "https://www.google.com/maps/contrib/118233013724636563921?hl=en",
+        "contributor_id": "118233013724636563921",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU6BQdLvBAO9DBSJtaA7HgRwqIl9leHd_QgSZ1CB7p6drHmahPy=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 28,
+        "photos": 30
+      },
+      "snippet": "Food was worst ! This was our first time to try punjabi food , we had come from Yelahanka to try but it turned out a nightmare ! No basic masala’s , no salt , no taste !",
+      "extracted_snippet": {
+        "original": "Food was worst ! This was our first time to try punjabi food , we had come from Yelahanka to try but it turned out a nightmare ! No basic masala’s , no salt , no taste !"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹800–1,000",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 3,
+        "reservation": "Not sure",
+        "group_size": "3-4 people"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 days ago",
+        "iso_date": "2026-10-28T06:46:03Z",
+        "iso_date_of_last_edit": "2026-10-28T06:46:03Z",
+        "snippet": "Dear Navya,\n\nWe are truly sorry that your first experience with us was so disappointing, especially after making the trip from Yelahanka to dine with us. This is certainly not the impression we would want you to take away from Dhaba on the Highway.\n\nWe take your comments regarding the taste and seasoning of the food seriously and would appreciate the opportunity to understand your experience in greater detail. Please share your contact details with me at arvindks@signatureclubresort.com, and I will personally reach out to you to discuss your concerns.\n\nWe sincerely hope you will give us another opportunity to provide you with the dining experience you expected.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "extracted_snippet": {
+          "original": "Dear Navya,\n\nWe are truly sorry that your first experience with us was so disappointing, especially after making the trip from Yelahanka to dine with us. This is certainly not the impression we would want you to take away from Dhaba on the Highway.\n\nWe take your comments regarding the taste and seasoning of the food seriously and would appreciate the opportunity to understand your experience in greater detail. Please share your contact details with me at arvindks@signatureclubresort.com, and I will personally reach out to you to discuss your concerns.\n\nWe sincerely hope you will give us another opportunity to provide you with the dining experience you expected.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWTmVISkhURkphYVZaR2NqVnFaemRmUVVNNFRIYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOlVNeHJHTFJaaVZGcjVqZzdfQUM4THc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T18:07:32Z",
+      "iso_date_of_last_edit": "2026-10-24T18:07:32Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTmVISkhURkphYVZaR2NqVnFaemRmUVVNNFRIYxAB",
+      "user": {
+        "name": "Kamal Venkat",
+        "link": "https://www.google.com/maps/contrib/114932914280051435857?hl=en",
+        "contributor_id": "114932914280051435857",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW8Cqnr50xuNq_OLn6O-E_MUmk_g_ArkMsJmeagt4c5vPQgMoNe=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 105,
+        "photos": 540
+      },
+      "snippet": "Good food and service was quick. They accepted the booking via District app.",
+      "extracted_snippet": {
+        "original": "Good food and service was quick. They accepted the booking via District app."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 days ago",
+        "iso_date": "2026-10-28T06:45:28Z",
+        "iso_date_of_last_edit": "2026-10-28T06:45:28Z",
+        "snippet": "Dear Kamal,\n\nThank you for sharing your feedback. We are glad you enjoyed the food and prompt service, and that your booking experience was convenient. We truly appreciate your support and look forward to welcoming you back to Dhaba on the Highway for another enjoyable meal.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "extracted_snippet": {
+          "original": "Dear Kamal,\n\nThank you for sharing your feedback. We are glad you enjoyed the food and prompt service, and that your booking experience was convenient. We truly appreciate your support and look forward to welcoming you back to Dhaba on the Highway for another enjoyable meal.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xQ2NIZGpRM0E0T1ZSamJqUjFRbDlEWlRsbVIyYxAB!2m1!1s0x0:0xf49561b63d6d7d65!3m1!1s2@1:CAIQACodChtycF9oOm1CcHdjQ3A4OVRjbjR1Ql9DZTlmR2c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T22:15:57Z",
+      "iso_date_of_last_edit": "2026-10-23T22:15:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ2NIZGpRM0E0T1ZSamJqUjFRbDlEWlRsbVIyYxAB",
+      "user": {
+        "name": "Abhilash Shetty",
+        "link": "https://www.google.com/maps/contrib/115460377975404367754?hl=en",
+        "contributor_id": "115460377975404367754",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXHe9yY8t7KkpowgYHPl83kKcfE-Vm1XLNWzIwDndMqACYf-rn0=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 60,
+        "photos": 83
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 days ago",
+        "iso_date": "2026-10-28T06:43:27Z",
+        "iso_date_of_last_edit": "2026-10-28T06:43:27Z",
+        "snippet": "Dear Abhilash,\n\nThank you for taking a moment to rate us. Your support is sincerely appreciated, and we look forward to welcoming you again to Dhaba on the Highway.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway",
+        "extracted_snippet": {
+          "original": "Dear Abhilash,\n\nThank you for taking a moment to rate us. Your support is sincerely appreciated, and we look forward to welcoming you again to Dhaba on the Highway.\n\nWarm Regards,\n Arvind Kumar Sharma\n General Manager\n Dhaba on the Highway"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "search_metadata": {
+    "id": "6ae44d3069ae7a97a9a5c894",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WVo0Cw1vbzuqQji-Gt1Q_sMwFKM32W7CM91Sc6ABqfw/6ae44d3069ae7a97a9a5c894.json",
+    "markdown_endpoint": "https://serpapi.com/searches/WVo0Cw1vbzuqQji-Gt1Q_sMwFKM32W7CM91Sc6ABqfw/6ae44d3069ae7a97a9a5c894.md",
+    "created_at": "2026-10-30 07:54:24 UTC",
+    "processed_at": "2026-10-30 07:54:24 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1ef7b3a68cf11:0x346e2f8b991ea805!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/WVo0Cw1vbzuqQji-Gt1Q_sMwFKM32W7CM91Sc6ABqfw/6ae44d3069ae7a97a9a5c894.html",
+    "prettify_html_file": "https://serpapi.com/searches/WVo0Cw1vbzuqQji-Gt1Q_sMwFKM32W7CM91Sc6ABqfw/6ae44d3069ae7a97a9a5c894.prettify",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1ef7b3a68cf11:0x346e2f8b991ea805",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "HOTEL NAMMURA BHARJARI BAADOOTA",
+    "address": "Shidlghatta, Chikkaballapur Rd, Chikkaballapur, Karnataka 562101, India",
+    "rating": 3.8,
+    "reviews": 109,
+    "type": "Restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "biryani",
+      "mentions": 18,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "kabab",
+      "mentions": 7,
+      "id": "NGv8L1Mq_44"
+    },
+    {
+      "keyword": "mutton biryani",
+      "mentions": 2,
+      "id": "MT0hXK5zIxk"
+    },
+    {
+      "keyword": "sambar",
+      "mentions": 2,
+      "id": "JiT9ZvNSMhM"
+    },
+    {
+      "keyword": "chicken fry",
+      "mentions": 2,
+      "id": "BI3UZXyLPWM"
+    },
+    {
+      "keyword": "kshatriya kabab",
+      "mentions": 3,
+      "id": "ECOEZ35vv2o"
+    },
+    {
+      "keyword": "hygiene",
+      "mentions": 8,
+      "id": "FGCrxlDIPOI"
+    },
+    {
+      "keyword": "healthy food",
+      "mentions": 2,
+      "id": "LN6rhbgoLOU"
+    },
+    {
+      "keyword": "family restaurant",
+      "mentions": 2,
+      "id": "FIhGN7r6990"
+    },
+    {
+      "keyword": "tasty food",
+      "mentions": 6,
+      "id": "JO2IVz9STEQ"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsU1duaGxPWE0zZDBKRk1FeG5VM2wxT1Y5d2FtYxAB!2m1!1s0x0:0x346e2f8b991ea805!3m1!1s2@1:CAIQACodChtycF9oOklSWnhlOXM3d0JFMExnU3l1OV9wamc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-09-30T14:47:12Z",
+      "iso_date_of_last_edit": "2026-09-30T14:47:12Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsU1duaGxPWE0zZDBKRk1FeG5VM2wxT1Y5d2FtYxAB",
+      "user": {
+        "name": "bharath gowda ph",
+        "link": "https://www.google.com/maps/contrib/115276039775351907059?hl=en",
+        "contributor_id": "115276039775351907059",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUIIUXNQ8cCMuXh5TIRwZv5t6e8Z4e1SxnOAocUFHyvWlr-QGPv=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tadk16RnVjbVJPZEZodVJHWlRiSEJ0VGtWNFNIYxAB!2m1!1s0x0:0x346e2f8b991ea805!3m1!1s2@1:CAIQACodChtycF9oOkZvMzFucmROdFhuRGZTbHBtTkV4SHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-03T06:23:06Z",
+      "iso_date_of_last_edit": "2026-09-03T06:23:06Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadk16RnVjbVJPZEZodVJHWlRiSEJ0VGtWNFNIYxAB",
+      "user": {
+        "name": "Pavan Kalyan pspk",
+        "link": "https://www.google.com/maps/contrib/114896004112878377587?hl=en",
+        "contributor_id": "114896004112878377587",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXIb7s-Ih5b_STmcpgD1ACc2P7-9kSEWlbDmHShiYWy_i29eCVM=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 7
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psdFEweGFOVTgyYjNsVlEwSlhjRkJxYUUxd01HYxAB!2m1!1s0x0:0x346e2f8b991ea805!3m1!1s2@1:CAIQACodChtycF9oOjltQ0xaNU82b3lVQ0JXcFBqaE1wMGc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T15:14:02Z",
+      "iso_date_of_last_edit": "2026-08-25T15:14:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdFEweGFOVTgyYjNsVlEwSlhjRkJxYUUxd01HYxAB",
+      "user": {
+        "name": "prem kumar",
+        "link": "https://www.google.com/maps/contrib/109145937625554788690?hl=en",
+        "contributor_id": "109145937625554788690",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKTWfnpDTI93wPjBzWIjTBwFCAHTzGlvjOk7ywkGsfIGqbsUA=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 0
+      },
+      "snippet": "Recently I ordered chicken fry biriyani one of the worst I had in my entire life they cooked waste chicken pieces and mixed it with biriyani rice.Never ordering from you ever again",
+      "extracted_snippet": {
+        "original": "Recently I ordered chicken fry biriyani one of the worst I had in my entire life they cooked waste chicken pieces and mixed it with biriyani rice.Never ordering from you ever again"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5RVNHcFhkWFIyUkZWa2NFRmhkSFpDTFZndFpuYxAB!2m1!1s0x0:0x346e2f8b991ea805!3m1!1s2@1:CAIQACodChtycF9oOl9ESGpXdXR2RFVkcEFhdHZCLVgtZnc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-04T13:05:04Z",
+      "iso_date_of_last_edit": "2026-06-04T13:05:04Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RVNHcFhkWFIyUkZWa2NFRmhkSFpDTFZndFpuYxAB",
+      "user": {
+        "name": "Nagarjuna B",
+        "link": "https://www.google.com/maps/contrib/101932072812417005474?hl=en",
+        "contributor_id": "101932072812417005474",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLUOjYuYS4f4Spm6YRZc592zYnZ_dAsZ4tARPMHZXLE6YJeGjRe=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 0
+      },
+      "snippet": "Worst food as soon as v had lunch stomach got upset and full gastric full soda food one of my friend started omitting and loose motion don't ever recommend",
+      "extracted_snippet": {
+        "original": "Worst food as soon as v had lunch stomach got upset and full gastric full soda food one of my friend started omitting and loose motion don't ever recommend"
+      },
+      "details": {
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wblVscHpjRU41T1MxWFNtTm5OVkV5U1hKemNFRRAB!2m1!1s0x0:0x346e2f8b991ea805!3m1!1s2@1:CAIQACodChtycF9oOnpnUlpzcEN5OS1XSmNnNVEySXJzcEE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-04T13:04:24Z",
+      "iso_date_of_last_edit": "2026-06-04T13:04:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wblVscHpjRU41T1MxWFNtTm5OVkV5U1hKemNFRRAB",
+      "user": {
+        "name": "Vishwa RVK",
+        "link": "https://www.google.com/maps/contrib/100651786607788259424?hl=en",
+        "contributor_id": "100651786607788259424",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJbcYOl-ZnWrUK42AWyAfDVQh65Je5bqTYb8CwBob0C9K9_CR0=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 1
+      },
+      "snippet": "Very bad experience sod too much..",
+      "extracted_snippet": {
+        "original": "Very bad experience sod too much.."
+      },
+      "details": {
+        "price_per_person": "₹1,200–1,400",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "group_size": "2 people",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    }
+  ]
+}

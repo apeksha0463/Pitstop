@@ -1,0 +1,82 @@
+{
+  "data_id": "0x3bae1d00468c4e4f:0xb472f74e2a0cfb45",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Cafe Iftar Restaurant",
+    "place_type": "Seafood restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zM1ZUTnRiR0kxUnpWM1FWVlVUMDFoV1hkS1VYYxAB",
+      "author": "Ram Kumar",
+      "rating": 5.0,
+      "date": "14 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR1drNHhhemxITUhoZlIwNU1lbDlxU2podU1GRRAB",
+      "author": "mazhar pasha",
+      "rating": 5.0,
+      "date": "15 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NWNXOUlkV2R3UVVwUk1rWTJOMHB5V0dSUVdYYxAB",
+      "author": "Mohammed Waseem Bin Nasir",
+      "rating": 5.0,
+      "date": "18 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JM1kydDVTblZIV0U1TWVqWlZhMkZaWHkxMWJsRRAB",
+      "author": "Sumit Kapoor",
+      "rating": 5.0,
+      "date": "20 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWGNYUmZOVEZrVm1jeWN6RlhPV1pwVkVKdGFGRRAB",
+      "author": "YASHU COOKIE",
+      "rating": 5.0,
+      "date": "23 hours ago",
+      "images": []
+    }
+  ]
+}

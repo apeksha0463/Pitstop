@@ -1,0 +1,3483 @@
+{
+  "restaurant": "Celestial Multicuisine Restaurant",
+  "data_id": "0x3bae1fb999936ad5:0x79374f06ffceb889",
+  "google_review_count": "164",
+  "reviews_total": 101,
+  "reviews_with_text": 62,
+  "reviews_by_source": {
+    "serpapi_washroom_search": 0,
+    "serpapi": 5,
+    "apify": 100
+  },
+  "saved_at": "2026-10-30T14:21:37",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTmJuQTVXa0ZGUVZKNkxWSlBWa05ZZFMxd09XYxAB",
+      "author": "suneetha sequeira",
+      "author_url": "https://www.google.com/maps/contrib/102251033918545534562?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": 9,
+      "rating": 5.0,
+      "date": "21 hours ago",
+      "iso_date": "2026-10-29T10:09:40Z",
+      "iso_date_of_last_edit": "2026-10-29T10:09:40Z",
+      "text": "Was there with my friends from office, during office hours.  Had requested for quick service.  Away from the usual menus of rotis and rice.  The food was exceptional.  So wasnthe service.  Thank you Tina.",
+      "text_original_language": "Was there with my friends from office, during office hours.  Had requested for quick service.  Away from the usual menus of rotis and rice.  The food was exceptional.  So wasnthe service.  Thank you Tina.",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsTmJuQTVXa0ZGUVZKNkxWSlBWa05ZZFMxd09XYxAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOklNbnA5WkFFQVJ6LVJPVkNYdS1wOWc%7C%7C?hl=en",
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdERUOuFh8tNuu0Dunll98ECCZWUe-YG-ZwQ-n8TPlbm4DpI5ob9LG8GAm0d2ax0zgYyPpmYASpun6h7i6c_e49c_4VOJ6y5KLLruTX6idxIS2q3-m52EGXVGM94dRxCax8GnnI9Sm3Gn7g=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfM_5eCCI9S_CuEy_L9BI76mUalTn4eGGbRj2k9dHBLpxwed3mlGY5uaRlf18-sM5YPM5jH_CsXjX5WMkKBvIaCckp-X0kcCwlM-1EaRm1z8-L8P_824AJZSH01MiDEjYwtwz_jYS_pATxO=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe93CVUwUiKRqRS21AZv_ZDAj7FV9xvdwIbh0SEUlwuN5vawIgRXuX0s1RvYzvxFKYkeKPRUlGNWZbbqu--0IVeKQ6Q_QjUlgu5Cfks-taa1bkWaMDZMvbRIaLEKsNfwYRUmR-o5Ceo5kzU=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMmVrdFhiSEZKTFRCS1FUWlpkMjFtUzBOR1NtYxAB",
+      "author": "Charu Purohit",
+      "author_url": "https://www.google.com/maps/contrib/103522344622022087321?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 2,
+      "author_photos_count": 61,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T10:03:34Z",
+      "iso_date_of_last_edit": "2026-10-27T10:03:34Z",
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twMmVrdFhiSEZKTFRCS1FUWlpkMjFtUzBOR1NtYxAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOkp2ektXbHFJLTBKQTZZd21mS0NGSmc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4elUwRjFWVzlQVmxwMVdFRkdZbXRHWWs1UGRtYxAB",
+      "author": "Uplift Mindset with Naomi Dent",
+      "author_url": "https://www.google.com/maps/contrib/110175212711757097482?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T13:04:33Z",
+      "iso_date_of_last_edit": "2026-10-26T13:04:33Z",
+      "text": null,
+      "text_original_language": null,
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "1 person, 2 people, 3-4 people, 5-8 people",
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s4elUwRjFWVzlQVmxwMVdFRkdZbXRHWWs1UGRtYxAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOk8zU0F1VW9PVlp1WEFGYmtGYk5Pdmc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbWJFVktZV0V4YzBRMU1HcDFYemQwYTJKbU5VRRAB",
+      "author": "Mohammed Zahoor",
+      "author_url": "https://www.google.com/maps/contrib/110265685307227740223?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T12:55:36Z",
+      "iso_date_of_last_edit": "2026-10-26T12:55:36Z",
+      "text": "Excellent service, food was amazing",
+      "text_original_language": "Excellent service, food was amazing",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "5-8 people",
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKbWJFVktZV0V4YzBRMU1HcDFYemQwYTJKbU5VRRAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOkJmbEVKYWExc0Q1MGp1Xzd0a2JmNUE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UWVGVkhRWEZJTjBFeVpXZ3lkM2QwV0hSUVdGRRAB",
+      "author": "Aquib Khan",
+      "author_url": "https://www.google.com/maps/contrib/103295433224568946770?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T03:07:10Z",
+      "iso_date_of_last_edit": "2026-10-25T03:07:10Z",
+      "text": "Great service!",
+      "text_original_language": "Great service!",
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "group_size": "1 person",
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1UWVGVkhRWEZJTjBFeVpXZ3lkM2QwV0hSUVdGRRAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOk5QeFVHQXFIN0EyZWgyd3d0WHRQWFE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [],
+      "sources": [
+        "serpapi",
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMVFqTnhUVnBVTUhkb1EwNU5kMUZ6YjJVeVMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T02:11:26Z",
+      "iso_date_of_last_edit": null,
+      "text": "Jhuma gave fabulous service. She was eager to please and very cheerful. She was there when we needed her!  Great job!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNU5GQmFVSGx5YW01cVozcGZaRk0zYVhSTk1HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T11:16:14Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice ambiance with helpful staffs.Ms.Jhuma and team are quiet efficient in deir service. Tasty food.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUGRsRlljM1ZxV21SWmVGSlZkMVUzZDJKUVprRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T15:43:49Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KT016SmZSM2xVVlZsWFozWTNjVEZLTVZKUGNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 46,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T15:20:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "For was excellent and Emanuel and others service was very very good. We thoroughly enjoyed the food and the hospitality.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful feedback. We are delighted to know that you enjoyed the food, service, and hospitality at our restaurant. Your appreciation is truly encouraging and motivates our team to continue delivering excellent dining experiences.\n\nWe look forward to welcoming you back to Spektrum Hotel Bengaluru Airport for another memorable experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSalVVbFJXVXB2VW0xVldrUnRSRlpZYjBwak5sRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T08:49:21Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind support. We are delighted to know that you had a pleasant experience with us and look forward to welcoming you back soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6ppKUhe0lsjYsP3AVePiyqptS_tQluPaSVw3DTBOQ-bbtkh2pHwKa0MaIDryqxAJH3qiRPpRf7-WD_wN7JYqABWzArfVguzGA3xPafUfhtFbaZw3gq8TpRM3RwieuR5yVnwJbRgiCE-kI=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsYVRVaFVMVEJrYkdNMWJsRnFaV04xVW05bmVtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 73,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T14:31:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "Emmanuel was great at service - a wholesome meal",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaFlVOURlSFZEZEVWNGVGbHFTRVJQZDAxa1JFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-13T05:44:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing hotel with an amazing team! ❤️ The staff was so cooperative, warm, loving, and welcoming. Their hospitality made our stay truly special. We felt comfortable and well cared for throughout. Highly recommended! ⭐⭐⭐⭐⭐",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your lovely feedback. We are delighted that you enjoyed our warm hospitality and service. We look forward to welcoming you back soon!\n\nWarm Regards,\nCelestial Multicuisine Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WT1Yyd3lUM2hKTFUwMmFIbExNM1pHT1hwelFVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T16:15:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbVNGcDNjM2hHVkUxTFpHSklMWE5FTUdad2NsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 139,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T15:45:44Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and atmosphere",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNE0wNWpaV1JpTWxkZlFrOUphVFJqTlRaMVJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T17:06:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good team and good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UlMwTkRZbVpwWVVOdFFYcENhMVJMYkhoVWNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T16:55:10Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCV1VVRXdTSEJ6TlVkdlFsSmFVbkYyT1ZKSWRsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T13:06:47Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great food, great service, overall a decent experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTlFsbDBSRVJLVlZZeWEwNTZSVk0xYlVsR1JXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T03:32:07Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNE4zSnFjVzFhY0hReFRHbE1YMDVLUkhoNE4wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T03:06:41Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food & service is nice and excellent",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJNWFHVk9VMUo1UlhaaVZGUkRWWEp2Y21oVlNGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-07T09:43:57Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and good service by Santu",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOR0xYTnZXbUpsVUZwNE9XRjNUWHBHY3pKSlJXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-06T09:20:13Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice here",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsS2VVRjVZa2xsYUROUlJVMWZPWEpOWTNsMWRsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-30T04:16:11Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSblFpMU9la2xCWHpjNFEwRlRUbmQ2ZUhWclExRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T21:30:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twZlVYQmFkbGwzUmtVME1tSlNhRk5XYlZGeFRVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-28T03:58:58Z",
+      "iso_date_of_last_edit": null,
+      "text": "The restaurant is pretty amazing. Nur was very prompt with serving breakfast.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUGJXTnJWVmgyYkROdWVVZGhaRlpKVkZkbk9XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T05:31:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nur was amazing really kind service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taU05tRXRTR0ZWYjJsUmRuRkxaMTl0TmpaS1UzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 23,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T02:31:19Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jek5YRnZVREkyVGxKRVFsZHJZMFZUVFZsdmRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-23T03:47:45Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tina was excellent. Very helpful thank u for ur Great service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twT1VqSlpZa1ZYZVhGemRYY3pPV3REZG1ad01VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-23T02:37:45Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WYUxXc3hTbmxzZUZKTFN6WnVlVmxYU1hGTlkxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T16:04:55Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great experience and food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5QlZEVnFRMDFaWTJoblpYUkxRbGd6UlRJemQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T15:28:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good food and best service by Emanuel",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcGNFTjFlbUpxVUV3d2FWUmpkbEpVWm1SVk5WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T12:38:13Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poV2VWVlNhbGRmWDNoUGFuaE9RamhNYUY4elowRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T03:11:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very delicious food with good ambiance,  support staff is also very kind.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review. We are delighted to know that you enjoyed our delicious food, pleasant ambiance, and the courteous service provided by our team.\n\nYour appreciation means a lot to us and encourages our team to continue delivering a warm and enjoyable experience.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUmFsZElVWGRqVlhwMGQzbFpYelJ2YkZCMlUyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-21T09:43:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very authentic asian food. Really enjoyed the food and the experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5M1IzaE5jMlJ6Y1ZWM1h6STJhREpKUkhJeFdFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T12:33:37Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210d1ZVeEhWREF5WkdOUWNXdGplRXBUUlhod1NFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T10:17:38Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSFV6RlVlVEoyTVZkVFUxQTFUems1YXpKU09IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T09:54:56Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed our food and were pleased with the service provided by our team.\n\nYour kind appreciation is a great encouragement to us, and we look forward to welcoming you again for another enjoyable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eGRsVmhkVUYxUlRoNVJHVTNlbG81WkdGVVkyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-19T17:09:47Z",
+      "iso_date_of_last_edit": null,
+      "text": "Staff is very good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review. We are delighted to know that you were pleased with the service provided by our team. Your appreciation is a great encouragement to us.\n\nWe look forward to welcoming you back to Spektrum Hotel.\n\nWarm Regards,\nSpektrum Hotel",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMWVUUnBMWGh2UXpsclRrZHFhMWw0UlVRNGJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-18T15:22:58Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWlVubEpSMlJhWmxWbVMxSjNPWEp4TUVOaU1WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T04:47:08Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food and the team was exce",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSmVUQlVXV2hqU20xUFYxUkNVM05LWWtwU1IwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T16:42:46Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGV2NtOU9SMlF5YTNwTFJIZG1XVU5YTTBWMU9IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T11:15:18Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210S09ETTBkV2d4VlRKaWNXZG9VbFpPTkdwdldGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T11:02:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent food and service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWFJuWnZNVkJNUzJabmJqZzJhR1JKVlRadVpXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 21,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T10:23:23Z",
+      "iso_date_of_last_edit": null,
+      "text": "The menu has lots of options to choose from. Excellent customer service and lovely Ambiance. Super friendly staff and quick service.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for sharing your wonderful feedback. We are delighted to know that you enjoyed our variety of menu options, pleasant ambiance, friendly service, and quick assistance. Your kind words are greatly appreciated and motivate our team to continue providing a memorable dining experience.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSBU9b6dlpsATQKail7uheTp0fPe-v6Q5aYhEft3_yfNN844BTvPG67HURt32kGvhgFmiiP1dRP7I1Z2vXafCMpoi_0sbFUMJXnTC_CBG_Z1-zR2LBH4E6cgAgcNRDNUFlADEKobDk4RtA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSlJyTVFehPW1UJzVMgTKmzL-yNwGOnGPxFQxxM9funmgzvhVry4iMdsv6vLecy4pu6EGUxY_zj9w3Z9AG7nq9lilFJZNy0TvccmLvvibJ7xkVDGf2A3dVuZMBI4HIzyJ71mzthAL4rOIc=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xONVJXTkVTM2d3U2pSUFRtdG1lVmRaYm5Ka1ZWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T03:22:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRemNXUk5SbU5KVWpWak1qbEZWSHBsZFZONE4zYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T03:01:27Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcVdHSjRNRkF5Tms1V2QydExXbUU1TlRnd00wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-12T05:05:18Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prNGVVbDZXWGhWYWpSc1pIazNOR2w0VEUxT1VYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 55,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-10T16:49:11Z",
+      "iso_date_of_last_edit": null,
+      "text": "Surprisingly good food considering it’s attached to a hotel where foot steps are limited. The food was fresh, yummy and served with care. Thank you chef Sovik and the restaurant staff.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review. We are delighted to know that you enjoyed the fresh and delicious food and appreciated the care and service provided by our team. Your kind words are truly appreciated and encourage us to continue delivering a pleasant dining experience.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUmIwNVhlVEZDTlVoTU9XVjFVV1ZUZVhOdmVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-10T04:08:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good breakfast and good food and I'm order for 1pic poori and omlate is very nice and Emanuil ,Nur , Aman is very nice service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful review and for choosing Celestial Multicuisine Restaurant.\n\nWe are delighted to know that you enjoyed your breakfast experience and appreciated the quality of our food and service. Your kind words are truly encouraging and motivate our team to continue delivering memorable dining experiences.\n\nWe sincerely appreciate your support and look forward to welcoming you back again soon.\n\nWarm regards,\nTeam Celestial Multicuisine Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wak1EaHhRMnAyZW5oclZrUjRMVEJTZERCeFprRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-10T03:45:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and good hospitality.   Speciaal thanks to Emanuil.  Thanks",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sT09GZGZXbEZzVDFWRFdsZEVXbWt3ZWtNNWJGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 33,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-09T13:42:47Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toV1EyZHNkRTVsYTBGaWVqVjNhVGxsTVc4MFkzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-09T12:27:49Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaVUxbGtWa3BTYkhwamNWOUpaazltTmtONWRtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-09T03:15:01Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a positive experience. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUWVrTnpkR0kxU0ZaNWEwcGtSVkZ4ZFVWSldHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-08T04:47:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good food and nice ambiance. Friendly and helpful staff. Thumbs up.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind words and appreciation. We are delighted to know that you enjoyed the hospitality and service provided by our team. Your special mention means a lot to us and motivates us to continue delivering a pleasant dining experience.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTWFTMUJURVpuWmtneVZIRkRSbXR2ZDBaTlpsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-07T04:13:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Special mention about Tina and Emmanuel at the restaurant for their hospitality and service.  Very nice people",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind words and appreciation. We are delighted to know that you enjoyed the hospitality and service provided by our team. Your special mention means a lot to us and motivates us to continue delivering a pleasant dining experience.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVFgwbHJRalU1TWpKT2JUUXpPSGRYYkVzNWVYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-05T09:32:12Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating. We sincerely appreciate your feedback and look forward to welcoming you again.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaR2JHVmpkalExT0U4M1JUZGtOV0oxUTBNNGNrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-05T03:36:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating. We sincerely appreciate your feedback and look forward to welcoming you again.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sYU9FaHFPVmx3Wm1SamQzQTFjMWQwWkhKT1VtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-04T15:31:01Z",
+      "iso_date_of_last_edit": null,
+      "text": "Emnuil room service is so good 👍 😍 thank you 😊",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating. We sincerely appreciate your feedback and look forward to welcoming you again.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVE1IWXdOa1JXYjNaYVFrNU5VMmxtYW5sUmVVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-03T03:47:45Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating. We sincerely appreciate your feedback and look forward to welcoming you again.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SdVJGVkhaazVxV1MxellVeHNWVFJYTVdsR0xVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-02T17:09:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "Please be careful what you order at this restaurant, they are serving non veg when you order veg food. On top of this, Staff was not at all in the position to understand the blunder that they made. Very disappointing experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nWe sincerely apologize for the disappointing experience you had during your visit. We understand your concern regarding the incorrect food being served and the lack of proper assistance from our team. This is certainly not the standard we aim to provide.\n\nYour feedback is important to us, and we will take this matter seriously and work with our team to ensure such mistakes are not repeated. We truly appreciate you bringing this to our attention and hope you will give us another opportunity to serve you better.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMFZuSjVaVzlGZVhabE1WVnpOV3BIV0dsVmJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-28T03:32:35Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating. We sincerely appreciate your feedback and look forward to welcoming you again.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRU9Wa3lTa1ZwVG1wV1ExcFhXa2szZVhkMFRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T14:30:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very nice , simple food. Extremely friendly restaurant staff . Great place to eat of you are staying in hotel, hassle free, simple food.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind feedback. We are delighted to know that you enjoyed the food and found our restaurant convenient and hassle-free. We truly appreciate your support and look forward to serving you again.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dGFrVnpUVEI2TFZaVlpsZE1hVkV4U0ZOb05YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T12:23:58Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating. We sincerely appreciate your feedback and look forward to welcoming you again.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TFRETk9iMlZtVVhSaVZHaHRUblIwVFZBNFVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-27T04:28:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate us. We truly appreciate your 5-star rating and your support. We’re delighted to know that you had a positive experience with us. We look forward to welcoming you back to Celestial Multicuisine Restaurant soon! 😊\n\nWarm regards,\nTeam Celestial Multicuisine Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWVNWTTNSRUprYlc5MVIydHVRMjU1YkhGV01WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T18:26:20Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating. We sincerely appreciate your feedback and look forward to welcoming you again.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ob2NVSmhRMHBuWW1wb2FqWkljMUptT1dWaWNYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 31,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T15:05:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food is very good and delicious, staffs also very friendly. Must recommended.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for sharing your wonderful feedback. We are delighted to know that you enjoyed the food and found our team friendly and welcoming. Your recommendation means a great deal to us and serves as a motivation for our team to continue delivering exceptional dining experiences.\n\nWe look forward to welcoming you back to Celestial Multicuisine Restaurant for another memorable visit.\n\nWarm Regards,\nTeam Celestial Multicuisine Restaurant",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSE5tbHVRemxaYldkUWJEVk5VVjlhZFVkTGFFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 47,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T05:00:38Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVVduZDNPRTFHY3psZlRtbG5ZMWcyVjJKSFpGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T04:53:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVGREWktTbVpYTUVaR2N6bFpXWEJUWVdJdE5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 29,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T03:23:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing food and facilities, neat and clean. Near to airport as well so recommended to all the people who are visiting for business or official meetings.\nMr. Nur was very kind and attended very politely asked for the food. That's also amazing\n\nThanks Spektrum",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful feedback and recommendation. We are delighted to know that you enjoyed our food, facilities, and the cleanliness of the hotel, as well as our convenient location near the airport.\n\nWe are also pleased to hear that you appreciated the courteous and attentive service provided by our team. Your kind words are truly encouraging and will be shared with the team.\n\nThank you once again for choosing Spektrum Hotel. We look forward to welcoming you again on your next visit to Bengaluru.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKS2VVNDFkMFJEZG5ob04ybGFZbUpTYkc1cFJVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-24T09:29:05Z",
+      "iso_date_of_last_edit": null,
+      "text": "Santu, emnuli, tani good",
+      "text_original_language": "Santu,emnuli,tani good",
+      "language": "te",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWeVVWQTJha3g2ZW10elpISllaVFJUT0RWUk1VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-24T04:22:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent ambiance and staff",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WbFJrSlVaRXRrVW1wdVdXNWFRVXh5WkVrd05YYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T16:38:31Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food excellent. Place excellent. Workers excellent.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMlIweFplbk4yU0c4M1YybGhUbkJsWjE5eGNHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T16:11:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent ambience, wait staff was super helpful highly recommended 👍",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdE1VZENXa1U1UkV0eGFXd3dRWGhIVFVkeU1XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-20T15:08:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "food took some time but it was worth the Wait. very friendly waiters and staff as well",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful feedback! We are delighted to know that you enjoyed the food and felt it was worth the wait. It is also great to hear that our waiters and staff made you feel welcome with their friendly and courteous service.\n\nWe truly appreciate your kind words and look forward to serving you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcWFIcE1NVnBVWHpOWGRXVkVaVFZHY0U5d1FtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 46,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-20T05:07:28Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great service, very friendly staff",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MmJIVkZZVnBPYkVjeVdWcG9WbEpMVlRGeGEwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 93,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-17T11:08:53Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good ambience with good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8vDp09J64nsjZGMgYuX7E7WbKB4zouOgSt4TbVU63EcsmeYcxm3eNeYc_HnRtdriQdjRHu7Kdpb6wC6mlbq66aLKVdQj4XWJofYTEXPpkunjXFrAJ1QoqSBIrxZYkGFsKlTH2wP8B5qX4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCV09GTkhlbHByVlY4eWRFNDNla1JXZW5ReE1WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-15T09:16:19Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good food and ambience...perfect for a fsmily lunch....superb taste...special thanks to the staff Santhu  ,Tina and Emanuel and our chef Aramairaj...highly recommended...",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful feedback and for highly recommending us. We are delighted to know that you enjoyed the food, ambience, and overall dining experience with your family.\n\nYour special appreciation for Santhu, Tina, Emanuel, and our Chef Aramairaj means a lot to us. We will be happy to share your kind words with the entire team.\n\nWe look forward to welcoming you and your family again for another memorable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4RlZ6UnFSVzg0Y2tRemVWcGZNbVZrZUZjeWMyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-14T17:10:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "I recently stayed at this hotel, and while the hotel itself is certainly good and meets the expected standards, what truly stood out to me was the exceptional service provided by Santu, Teena, and Emanuil.\n\nAll three were extremely well-mannered, professional, helpful, and excellent communicators. Their warm attitude and willingness to go the extra mile made my stay genuinely memorable.\n\nIn my opinion, people who consistently deliver this level of service deserve to be recognized, promoted, and rewarded with a well-deserved hike. I sincerely hope the management takes note of their dedication and considers them for greater responsibilities.\n\nSantu, Teena, and Emanuil — thank you for making my stay so pleasant. You truly represent the best of hospitality! 👏🌟\n\nCons  -\nCarrot 🥕 halwa was not so good , also that was not hot.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 3
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you sincerely for taking the time to share such a detailed and encouraging review. We are delighted to know that you had a pleasant stay and that our team made your experience truly memorable. Your kind words about our staff's professionalism, helpfulness, and warm hospitality mean a great deal to our entire team.\n\nWe truly appreciate your feedback and will certainly share your appreciation with the team and management.\n\nWe also apologize that the carrot halwa did not meet your expectations and was not served at the desired temperature. Your feedback is valuable, and we will take this up with our culinary team to ensure better quality and presentation in the future.\n\nThank you once again for your kind recommendation. We look forward to welcoming you back and providing you with an even better experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnZ_XFlfZ4gEDgMK10_knAB2HZ_T3xEVNYqezVWHSTbxq6r6WU8nf6WELMEQrsbPzQ1ZfbXLx8U0O9oZkLi1ql42ziz_QfzezYdupUyFqRfQLtjYc0O_DTKZyVkdqAsA-nSHUqTcjJUUGE=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX43s2ZwK1hdm5xMP3HXPil0iehzXBoi7S0wDqOJ_0rquOGVo1e946rInBRziGG_SsWImYVJiJoDzJ8aO5Ww7oZ0VhgHsgUuMxxTulExeQXJ4ayLAOKunJbu2P3BC5ptBqhF_3dilPwbBp=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTQsr6h3WA6IDlzp0oqPglw20IZpNP1u_R4kVer7eUw_d0K2L4Gz3Uq3KkEd64uwe8PfJ50chP-PvAOnzCZuyn8f6bvXdMTNMYzHKyBYTARUTHXlIiIuxhl-WGntCF9MCcg7NSyt3u0po=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsLjwuxSpcXTKTyeUoWyrwkB4jPI_NNO6Z4U4p0fO_6Iv34Np1VGxmV2I7eQcjWXXy9Xh5BGTr02yAN0AHc3ZOFw71irMeFKN2GoasmMgY64IV7E2BYZmq4N2ZDNwQnICGuSA3bP9UKfg=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSFVIVjNOamxxUWtKa1YyaDJWV2wxZVVGcFFWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-13T04:05:06Z",
+      "iso_date_of_last_edit": null,
+      "text": "Nice food ♥️",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your lovely feedback! We are delighted to know that you enjoyed the food. Your kind words mean a lot to our team, and we look forward to serving you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4TFptRTVMV0pDTVRoM2MxbFNVRFJLVG5aNFVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-11T04:35:34Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had the best time staying here at Spektrum. Breakfast was top notch and the service was great. Highly recommended",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GV1VUQTJjbWhmWlRacGVEZGpVamxuVTFkT2RXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 77,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-11T03:37:23Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNFlVdFBNekJ4TFVOQ1ZEWjRkVTg1VDNWMlRFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T13:20:56Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your feedback and look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdWFtMHRNVGd6UkZoRFMwSXlOMjlPVkhoT1JtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 69,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T09:37:15Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very clean and hygienic place. Food was very good. Santanu and Sagar helped me with menu selection. We ordered chilli paneer, paneer do pyaza, veg diwani handi and ghee phulka. Everything was very tasty. We mentioned to make the food non spicy and they made it exactly as per our linking",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for sharing your wonderful feedback. We are delighted to know that you enjoyed the food and appreciated the cleanliness and hygiene of our restaurant. We are also glad that our team could assist you with your menu selection and accommodate your preferences.\n\nWe truly appreciate your kind words and look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205T1JsQlNjVXBPUlROUFVVaGpMVkpyUmpreldFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T04:45:25Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good service. Neat and clean Resturant.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind feedback. We are delighted to know that you appreciated our service and the cleanliness of our restaurant. We truly value your support and look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMFlYUk1iekZCVGtKMFNERmpTblo2ZFhaS2RrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-06T15:50:12Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was delicious and my waitress Tina was particularly great— such good hospitalit!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful feedback. We are delighted to know that you enjoyed the food and had a pleasant dining experience with us. Your kind words are truly appreciated, and we look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdWJ5MUJSM1poWkhkNVQwMUNPVFY0WWtRMFUyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-04T15:50:24Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUlZUZFNOSGRGVmxkeFFYb3pTMVpQT0ZCSE9IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T03:32:34Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind review! We’re delighted to know that you enjoyed the food. We look forward to welcoming you again at Celestial Multicuisine Restaurant.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWFdHcFpOVE5aZFVONVZuWlZNMjk0VHpod2RXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-01T09:52:46Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food serving is really excellent, and my heart is very happy brother, may God's blessings always be upon you all😃",
+      "text_original_language": "Food serving is really excellent, aur humara dil bhai bauhat Khush hogaya hai,bhagwaan ka aashirwaadh humsesha aap sab ke upar rahega😃",
+      "language": "hi",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating of Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a pleasant dining experience with us.\n\nYour encouragement inspires our team to continue delivering exceptional food and warm hospitality. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0aldteEVWbXR6UjIxUWJtUkZWa1J2ZDJKRlJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-01T04:38:20Z",
+      "iso_date_of_last_edit": null,
+      "text": "The ambience and the hospitality is really nice and the food tastes great",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating of Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a pleasant dining experience with us.\n\nYour encouragement inspires our team to continue delivering exceptional food and warm hospitality. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCclJGVlFWMGxQY2xWZlFrdE9PQzAzVW0xNlowRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 56,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-07-31T04:38:30Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating of Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a pleasant dining experience with us.\n\nYour encouragement inspires our team to continue delivering exceptional food and warm hospitality. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wdE1FWlFXamRpU0ROWlRuWXpUalpJU1Y4MkxWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-07-31T03:27:35Z",
+      "iso_date_of_last_edit": null,
+      "text": "It’s very neat and clean ,  food was delicious.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating of Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a pleasant dining experience with us.\n\nYour encouragement inspires our team to continue delivering exceptional food and warm hospitality. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Nek1FVlhZMjR6VG5odlJFdElka2RaUW1KQmQwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-07-30T14:39:33Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was tasty. Staff were very courteous. Enjoyed the meal",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating of Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a pleasant dining experience with us.\n\nYour encouragement inspires our team to continue delivering exceptional food and warm hospitality. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTGNFMXFSRkZCYjFKYVV5MHlkSFI2T1VzdFVXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-30T03:24:51Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating of Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a pleasant dining experience with us.\n\nYour encouragement inspires our team to continue delivering exceptional food and warm hospitality. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210blRGSmxXUzFIV0RnNVYwZG1hbkp6VjJvNVIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-29T04:13:24Z",
+      "iso_date_of_last_edit": null,
+      "text": "The food was really delicious and the service was amazing , we loved it",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating of Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a pleasant dining experience with us.\n\nYour encouragement inspires our team to continue delivering exceptional food and warm hospitality. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toeFdYRkVRbTlWVVdSUk0zUjFWbVpwWkd4RGMyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-29T03:12:04Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your rating of Celestial Multicuisine Restaurant. We truly appreciate your support and are delighted to know that you had a pleasant dining experience with us.\n\nYour encouragement inspires our team to continue delivering exceptional food and warm hospitality. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCUVRWZFBUa2wzTWpnNGVUVnplWGQ1VjBaNVpWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-28T02:57:39Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent service and awesome employee",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your wonderful feedback. We are delighted to know that you enjoyed our service and found our team to be welcoming and attentive. Your kind words are truly appreciated and serve as great motivation for us to continue delivering memorable dining experiences.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCYWFYQm1kVFJTZFdsc1pGSnNibUZoVTA1TU9XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-27T10:24:44Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to rate Celestial Multicuisine Restaurant. We truly appreciate your feedback and your visit.\n\nWe noticed that your experience did not fully meet your expectations. We value your feedback and are continuously working to improve our food and service. We hope to have the opportunity to welcome you again and provide you with a better dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poc1RrSnRXSEpFUW1oNldqUjZlRkZuU2tGaVMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-27T05:04:07Z",
+      "iso_date_of_last_edit": null,
+      "text": "We had breakfast at Spectrum Hotel and had such a lovely experience! The staff were very attentive and thoughtful. They even toasted the bread for me, which I really appreciated. 🥰\n\nMy husband especially enjoyed the coconut chutney, along with the chicken sausages and masala omelette. Everything was delicious, and the attentive service made our breakfast even more enjoyable. Thank you to the team for making our morning so pleasant!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your wonderful experience with us. We are truly delighted to know that you enjoyed your breakfast during your visit.\n\nIt is especially rewarding to hear that our team's attentive service made your morning memorable. Your kind words about the toasted bread, coconut chutney, chicken sausages, and masala omelette will certainly be shared with our team—they will be delighted to know their efforts were appreciated.\n\nThank you once again for your kind words. We look forward to welcoming you and your family back for another memorable dining experience.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSWNrVnBWVU42VEhKNWQxSnpZMWhmVVd4U1MzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-27T03:31:25Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your feedback. We truly appreciate your support and are delighted to know you had a pleasant experience at Celestial Multicuisine Restaurant.\n\nYour encouragement means a lot to our team, and we look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsU2VrNU5RVEpGY0Y5NWMySkdRM05CY0RObFRuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "Edited 3 months ago",
+      "iso_date": "2026-07-26T04:22:21Z",
+      "iso_date_of_last_edit": null,
+      "text": "Ambiance is so good. And good staff",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your review. We are delighted to know that you enjoyed the food and had a pleasant dining experience with us.\n\nWe appreciate your support and look forward to serving you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGelFuTXlNekJWV2xSU1NHSjFTVU0zWDJZMmMwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-25T02:12:46Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your feedback. We truly appreciate your support and are delighted to know you had a pleasant experience at Celestial Multicuisine Restaurant.\n\nYour encouragement inspires us to continue providing excellent food and service. We look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRM2IyaFVORkJzUzFWZlJYUkhXVGRtVFc5dU1HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-24T03:55:37Z",
+      "iso_date_of_last_edit": null,
+      "text": "Short but nice experience!!!!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Valued Guest,\n\nThank you for your kind feedback. We are delighted to know that you had a nice experience at Celestial Multicuisine Restaurant. Your encouraging words mean a great deal to our team and motivate us to continue providing excellent food and service.\n\nWe look forward to welcoming you again soon.\n\nWarm Regards,\nCelestial Multicuisine Restaurant Team",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+      "matched_by": [],
+      "sources": [
+        "apify"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3323 @@
+{
+  "restaurant_name": "Koteshwaram-The Temple of Divine Food",
+  "data_id": "0x3bb1e30070aee50f:0x4b5fdf769acaf73f",
+  "expected_restaurant_name": "Koteshwaram",
+  "restaurant_name_matches_expected": true,
+  "google_place_id": "ChIJD-WucADjsTsRP_fKmnbfX0s",
+  "address": "Sy No 15, Abbachikkanahalli, Southegowdanahalli, Kurubarakunte, Karnataka 562164, India",
+  "rating": 4.3,
+  "total_reviews_reported": 4691,
+  "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)",
+  "reviews_requested": 100,
+  "reviews_returned_last_run": 100,
+  "reviews_collected": 100,
+  "last_run_id": null,
+  "saved_at": "2026-10-30T14:21:24",
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVE0xRmFRVTlwUlZKclkwdGxkelJHWmtkelRGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "34 minutes ago",
+      "iso_date": "2026-10-30T07:42:16.918Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear BALU S REDDY,\n\nThank you for taking the time to share your thoughts! We truly appreciate your feedback and are delighted to hear that you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your insights are invaluable to us as we strive to enhance our offerings. \n\nWe’re currently working on improving our service speed to ensure an even better experience on your next visit. We look forward to welcoming you back soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbVVrUjFYMnQzTVhkWk5XVm9UamR6UjI5SlZVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 32,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "an hour ago",
+      "iso_date": "2026-10-30T06:36:12.188Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi there, \n\nThank you so much for your wonderful 5-star review! We at Koteshwaram-The Temple Of divine food are thrilled to have earned your trust. Your support means the world to us, and we’re committed to maintaining our high standards of quality and service. \n\nWe can't wait to welcome you back soon for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSaFgxSXplamxRU1ZOTU5WSkViaTAyZW1WT1gyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 hours ago",
+      "iso_date": "2026-10-30T05:47:32.536Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Budharam,  \n\nThank you so much for your fantastic 5-star review! We’re thrilled that you chose Koteshwaram-The Temple Of divine food and experienced our commitment to excellence. Your support inspires us to continue providing exceptional service and delicious meals. We look forward to welcoming you back soon for another delightful experience!  \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWWNHUmtlR0ZOUVZOa2JYazVaMlpwVjA4d2VGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 379,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 hours ago",
+      "iso_date": "2026-10-30T03:10:24.504Z",
+      "iso_date_of_last_edit": null,
+      "text": "If you are planning a trip to Nandi Hills, Koteshwaram is the perfect place to stop! Located right on the highway outside Bangalore, it is ideal for a breakfast,lunch or dinner stop while heading back to the city. The restaurant is massive with a serene temple-like theme and beautiful seating options. The food quality is excellent, and they have an extensive parking space that easily handles the highway rush. A must-visit spot for families!",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Harish,\n\nThank you so much for your wonderful review! We're thrilled you enjoyed your visit to Koteshwaram-The Temple Of divine food. It’s fantastic to hear you appreciated our serene atmosphere and extensive food quality. We strive to create a welcoming stop for travelers on their way to Nandi Hills. Your kind words inspire us to continue providing excellent service. We look forward to welcoming you and your family again soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 7,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRCuKJff-f0X81szr_u_D-WMgf-MPN_oEEkEinATJR1a2yYVNKBb8VU0nE_pXNsyMCjVDiU4O7VD-LpjbxYzDuUtB0cEOrxUDpB7vp9Hl2qcLT6s7TmMlfj7RjKi93x3rzEnUSV5ATw5WB=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyxFRWxmligJ0P_-OVuneJB0cHNpsLMPC3HQQ9r7xfJaGecWIfn1Lxm8zGc76PjoesI6cjs8K-G_L-KxtToCncirh3AxbVCqRlR2BuvDWzlkoxiu4jprskl5VNc6p-Ez322uFMELVCZLs=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJhtdSnIdfiOYNmwob-rscCBkMTSRnLfQnQRtoxLiwj_vfcJEMjGRRpgTON8aNfIU_mFlW6nEuvTDxbeqzJfNuQBR7kBraFBfdRp9-32oMCYYt8FYavqWzW-GmhYAvE2KNiyAH9nHalclD=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm5N8YO4GDhUZJARCCyh5meXK4FX4tpy_0O0YftRqaxwr-r4Yrxb-ZHO608tXfPTXryEjk1yA8xU45DU4Ga57sVXJ42pDQn0tQokxgPNO67eBC6dHPmw5Nrf3RJumhkU7I7zdDkO0wVS9Q=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxy2RNFLw_efE76nRE_pVIx6YMJh9AQeG9YXs_Ms-v5wu1mhxTYl5Tc8CHkD6s7ihnaCsLI99lDbB9n8l6RAQMSR6Jm63Nw1bfCYbOmyluLLykDqdGHEhTJn9joN0fbstjXYejbdYBJTGo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjZWoJ7V73Fv29TkHxSHiC2c21xE4mvYH4I6e8wJA-aJ15FmnJuCxiL_PHhfq85meMWUv6az7mdnzxR-PlJSSCkoFtrSGNfbmoh0lWX3pFR5CLWFg2Mc_0eGRXtnlmkI2085ZVbh8v_h-1=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeurTDBoqfOTF8svYflTEcDPMAOy66uCYkY4suwptFKfsbLxcdDttYtSPdAHtxAjkYUYsjjr9V9-rqzVuZ_9DLTrzz1uDoYDHT8RkhZYIfScku1E0YuyExIGcfN_nstMuG784yhMD7TGtJv=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210cVRESXhkRVZFT1RsWk1XVkdlRlI1VjNoV1dsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 497,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "13 hours ago",
+      "iso_date": "2026-10-29T18:26:18.982Z",
+      "iso_date_of_last_edit": null,
+      "text": "Great discoveries on the\n\nWay back from Nandi Hill. Lots of places with quick service.\nTested and loved: dosa, cheese naan (super creamy), tali.\nAverage: gulab jamuun.\nNote: small playground for children.\nA great time with the family.",
+      "text_original_language": "Belles decouvertes sur le\nChemin du retour de nandi hill. Bcp’de places services rapides.\nTeste et aime : dosa, cheese naan (super cremeux, tali,\nMoyen : gulab jamuun\nA noter petit air de jeux pour les enfants.\nUn bon moment en famille.",
+      "language": "fr",
+      "translated": true,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Julien,\n\nThank you so much for your wonderful review! We're thrilled to hear that you discovered us on your way back from Nandi Hill and enjoyed the dosa, super creamy cheese naan, and thali. It's also great to know that your family had a lovely time in our small playground. Your feedback is invaluable as we strive to maintain speedy service and quality food at Koteshwaram-The Temple Of divine food. \n\nWe look forward to welcoming you back for more delicious experiences!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 16,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchF2qrufLh3-2qUgjHRx4G-GwgYUjZsl6-LC46G99eBkbNcAuCBJeMzjdeDBB5eEgY9tKZPT0Ms3RBfDNgaawLf1Rzsen1dVZrCdd0XwHsD_9Rj9qa2WcS-MuhqO5G8vjLcJKteirZXBJQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcsthdNbw6WEFhNoyWAfxUElOIJlQqIhxlssDpByk2_xxpMv8epqV89IXoacey2eyWlwzkO0DKatPljHhSuvwG6rJi3xViWmDs0cgXUCycSNEUVI4jQdRpiCunXCrslBhXjkOHfKZBhD8_=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZrUZk7tLBzKVXiOwivaO-NlNxhGhcquai6zyyUgyf8cvzvYharPxOnGeKMoamTKx5R9NamVNa335MzYoArj3VwIh3THfjl5jTX10EGWevQPCmYJeOaBVzvPjc8vffSQ0YX6ssdm3P5h21=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTo9pmKX4pvGFL3bF2KZjfRZGMOpgwjug4eHI-UT7s7K1a97Y6WMHZ-EK0KSLD06k2-AV72TQWDzK1BuAK82Qmle_YtUhM9W8PJ2cOlJ5A5-3A3lA9jv8VA3XJ3PjAGBfUlgXBS0BJiNKs=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxQfzPikcd77twldNTviDRBLNoSCq-avl3kfWpt0lMVNp8PzoyRDjy0-VsvUW2grpapKrH-DIFpyiNmATDElv9R-77eRDoYUC7H6567IJV-3PHhxUKn2Q36niXXm0kkDhoTp05geJKt_g=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgjjByrUYN2t4MiELMxH1tFTKElz2aEdaaWeON7iDwb6Y1hnJ_bbbTmZ8dD_n063wEQdXvg3YJ-VrK1_AlBC04OtcNgn_46IkZMfaIn7KMIkPxG7Dr2p9tHFBu-q2K8POwgPNmhDHxgTk0=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC9cdJpzOiiiw_slxyyQBs-cGDisLzQnpR481ygDu-aNIB49CnymcAEyf8zM9Bn4dP3vhmpYIZtZKfB1ENYzQpKshTQtJP9kzPFY5WbuyRwghzcAc97tE4ODj5Ugy4bFTRMzGb-68IZHY=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDMXWNWz8M51_NGXb7ViDsA6gAlFXi1kUxqI4aDjGb-JP6Tt_HLEeK6KoXVgB6MAQYhluHJtMYz6afk00H7NEgAGpH1LpA_ijeBwpJtO_NwHE3e1zQtgkvj0Tm93NsvVpv-xPxc9Jgqkh8=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLda6rdJxlGb3SzPvJWr-Pv0TNY6xs-efVEOzgC3bOWZrio2Fw75X6Kre84MNStvVpd_l2lCBAkdn-8w7w73M8UOl-fgoHCzhcodjefK0FQN48NX6Zzem-gGQf3SWr9WBqOO6vsr9UC5Nspf=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLee8LsIoKjiOmeifohDYk6FbgRGxTfkw6esJPsl-nl7TZ5C47edQwankcMGCdL_iDisiO__A0Wnbl3PsVTVukSXGtFwPa9uWcRiUMpxuplTGuxo7DXmrLZsGtVMvCfaNeVrT3960EwbaUOs=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeGnHirwGxhQVsDSG9X726nDsQyNAvFUbxRzPs6J_-hxZ6tF8KfI9Qu4MFjKWdkdrKVfOtOHQvqGVgWstR06rbLUcvHsSqWYPaU9Ur07YdkUjomL3fm8QBgxrhkoXY8vnxRiZWC6uWbyQ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1Yah-RlnuzSZ2K3zT9V4c82k_HzKIVkbeDutHts983PvL1YA8_sJHMWkFlDVx7NcH8_rgAtw4Qd7yhdDvM-wsmIRdY2mS8Hzg0XFsmY5d4RXytqPpSr09hHMBtdbcLw-hzYzWpmISxgv6=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeru6sxr4vZRuQZKpLXogQbkKomMVzHriTLEcFhkcAAxayPy2SXyH3jM8JUJKszV7xz1xzkPR5FMGdztY28g-23-Ys7LB_edt6xDuclhn19vZxjf96UpofFOd4gdSMtM4VzbR4C4rEnDWa1=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfK5xZq6RYFnoxA804HtBlEJC9a-Cs4ddMSiNt0ANaegaRJbxXhEMznuB6QWGLNsu2e2C_-9xSa_6bNO5-pcWefgFLpRQOaWNUSKzAFhgt0sq7bXxmyp5EI3byiO2PmEtiktsgsuLYeh_Y3=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLen6YxoFL9UyKz6M_F2VFb4aa2kmN0CFYmnRZJSP6q1jYpTtw-CBzUxKF2Qhs6m6dBoWXr1zjPiopKIXbzAP-zzIgDaGwqt18MneRvY87d0w5n5TOiQZ9P5a-cpdIoAB5ohoXGVlX3U03ZJ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek5Vu1ShegiSFCrNed4k64-x-RUInKKyKJ4fmujKHxyh9Xb7l4Z3DfLZvdwFQPLQduxhZLs8qei41ujdUl9IEZ2-M6r2dKguSnei7AsgHcq9Sg0L3ReJjFXzakqSyQ6fVb4cRvFH23Txer=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUWNXTlJMV2cwUlZZNVUzQm5XRzVvUlRGWlVGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 119,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "21 hours ago",
+      "iso_date": "2026-10-29T10:38:28.927Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Sudhanshu,\n\nThank you so much for your wonderful 5-star review! We’re thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support inspires us to continue delivering exceptional service and creating memorable experiences. \n\nWe look forward to welcoming you back soon for more delightful culinary moments!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwYWIwUkhTWGxhTmtKMVFYTnJNbFJQWlZsaU1rRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "22 hours ago",
+      "iso_date": "2026-10-29T09:40:41.058Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Pramila,\n\nThank you so much for your incredible 5-star review! We are thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support means the world to us, and we’re committed to maintaining our high standards of service. It’s always a pleasure to serve you, and we look forward to welcoming you back for another delightful experience soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwclEzcHFOekJGTUZNeVoyaERaVXR1ZDFwUk5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "22 hours ago",
+      "iso_date": "2026-10-29T09:18:58.229Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Akansha,  \n\nThank you so much for your wonderful 5-star review! We’re thrilled that you chose Koteshwaram-The Temple Of divine food and appreciate your trust in us. Your support means a lot! We strive to provide a delightful dining experience, and we're glad to know that we met your expectations. \n\nWe look forward to welcoming you back soon for another memorable meal!  \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUVFqZ3lTMkZ0YXpsaU1WUkZPVk5ZWkU1dFVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T04:44:23.184Z",
+      "iso_date_of_last_edit": null,
+      "text": "The koteshwaram food was too good and tastey and the service also provided was good.\nThey also treated a customers as a family especially Srikanth has good conversation with us and treated well.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Archana,\n\nThank you so much for your wonderful review! We're thrilled to hear that you enjoyed the delicious food at Koteshwaram-The Temple Of divine food and had a great experience with our service. It’s fantastic to know that Srikanth made you feel like part of our family; that's exactly what we strive for! We’re committed to providing excellent service every time you visit. \n\nWe look forward to welcoming you back for more tasty meals soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5T1QyUlpiVlpxTFRSVk9UVXhPVFkxTlRWU1pFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T04:41:23.973Z",
+      "iso_date_of_last_edit": null,
+      "text": "A hiden gem !!everything we ordered was a home run 🩵🩵",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello Varshini Varsha,\n\nThank you so much for your kind words about your experience at Koteshwaram-The Temple Of divine food! We're thrilled to hear that everything you ordered was a home run. Your feedback is invaluable to us as we strive to enhance our offerings. We are currently working on introducing some new menu items to keep the excitement going for your next visit. We can't wait to welcome you back for another delightful meal!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOek56QmhOMVIyYTJGaWFIRldUR0U1U1cxbE0wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T04:41:22.521Z",
+      "iso_date_of_last_edit": null,
+      "text": "I had visited first time for koteswaram\nFood was good\nI felt like temple feel superb experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Dhruv Kumar, \n\nThank you so much for visiting Koteshwaram-The Temple Of divine food and sharing your wonderful experience! We’re thrilled to hear that you enjoyed the food and felt the temple vibe during your visit. Creating a superb atmosphere for our guests is what we aim for, and your feedback inspires us to keep up the excellent service. We can’t wait to welcome you back for another memorable meal!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRmFHOHphbWxqYTJ3eVUzZExhRlpPTlhWSk5VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T04:38:13.713Z",
+      "iso_date_of_last_edit": null,
+      "text": "Had a great experience in koteshwaram the food was priceless\nThe way of their guesture is really heart touching especially thanks to Srikanth for suggesting the best",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Farheen,\n\nThank you so much for your wonderful feedback! We're thrilled to hear that you had a great experience at Koteshwaram-The Temple Of divine food. It’s fantastic to know that Srikanth's suggestions made your visit memorable. We strive to provide heartfelt service and delicious food, and your kind words motivate us to maintain those high standards. \n\nWe can't wait to welcome you back for another unforgettable meal!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xT2VGYzFSVjl6YkhadGJWaG9jMmN3VUVGTU9XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T04:16:27.333Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Shriya, \n\nThank you so much for choosing Koteshwaram-The Temple Of divine food! Your support means the world to us. We are thrilled to hear that you enjoyed your experience. Our team is dedicated to providing exceptional service, and it's wonderful to know that it resonated with you. We look forward to welcoming you back for another delightful meal soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zNFZFMVRUR2hUV0RKa2MzWkRiazlQVjJORlFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T03:56:05.765Z",
+      "iso_date_of_last_edit": null,
+      "text": "They are very bad in out door catering services. We had worst experiences. Don't trust manager Mr. Nagaraj he gives fales promises very very bad in managing things. Supervisor and staff too much of attitude 😔 not ready to serve food. Families and children were very unhappy.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 1
+      },
+      "owner_response": {
+        "text": "Dear Sanjay S,\n\nThank you for your feedback, and I sincerely apologize for your experience with our outdoor catering services. I understand how disappointing it must have been for you and your family. I assure you that I will personally follow up to address your concerns regarding management and service quality. \n\nPlease call us at 089715 10111 for immediate assistance. We value your input and hope to make things right.\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSU1GaE1MWEJoWVZKdFMzVjVXV2s1WldoVGJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 45,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T03:08:25.177Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Balu, \n\nThank you so much for your stellar review! We're thrilled that you chose Koteshwaram-The Temple Of divine food, and we appreciate your trust in us. Your support means the world, and we are committed to maintaining our high standards of quality and service. \n\nWe look forward to welcoming you back soon for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZemMxQnpWVXhTVVc4NWJrRnZhMGczTjJGWFlXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T17:46:48.537Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi S Vinod Babu,\n\nThank you so much for your wonderful 5-star review! We're thrilled that you chose to dine at Koteshwaram-The Temple Of divine food. Your support means the world to us! We're dedicated to providing an exceptional dining experience, and it's rewarding to hear that our efforts resonate with you. \n\nWe look forward to welcoming you back soon for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RFJIRTNZbWRJYkZOa2NESjNZM0F3TXpKSFYxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 133,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T17:15:54.426Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Srikanth Kande,\n\nThank you so much for your thoughtful 4-star review! We truly appreciate your feedback and are delighted to hear that you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your insights are invaluable to us, and we’re always looking for ways to enhance our offerings. For your next visit, we are excited to introduce a new feature aimed at improving service efficiency. We hope to provide you with an even more delightful experience.\n\nLooking forward to welcoming you back!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNlJsWnBZamhSZGxWR1JsQjBlR1JZWlVFd1pIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 67,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T13:21:09.131Z",
+      "iso_date_of_last_edit": null,
+      "text": "Visited this eatery on 25/10 for evening snacks.  You can find this on this on the left side from on the way to Bengaluru from Devanalli/ Chikkaballapura. This place has huge car parking space, no issues with that, you can also take your vehicle to backyard of the hotel. To be honest Masalapuri wasn't so great, it was below average and Baby corn Manchurian was decent. Coffee was good. One positive about this place is they have a backyard lawn, you can just sit and relax. 7/10 recommended",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 3,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rajesh Shivanna,\n\nThank you for sharing your honest feedback about your experience at Koteshwaram-The Temple Of divine food. We appreciate your insights regarding the Masalapuri and Baby Corn Manchurian. We are committed to improving our menu, and your comments are invaluable as we strive to enhance our offerings. We’re glad you enjoyed the coffee and the relaxing backyard lawn. We hope your next visit will showcase the improvements we've made, and you'll leave feeling more satisfied.\n\nLooking forward to welcoming you back!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkb2FqaE5PSFJXVjFJelIyVTNTRkZ1T1VFMmVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T13:03:49.422Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Veda,\n\nThank you so much for your wonderful 5-star review! We’re thrilled to have you as a part of the Koteshwaram-The Temple Of divine food family. Your support truly motivates us to keep delivering exceptional service and delicious meals. We look forward to welcoming you back soon for another delightful experience. \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwMk0yODJWM2RQVVZwVlRtSllOa2RUUVhSQ1luYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 42,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T09:58:27.079Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Chandan,\n\nThank you so much for trusting Koteshwaram-The Temple Of divine food! We’re thrilled to receive your 5-star review, and we appreciate your support. It’s wonderful to know that you enjoyed your experience with us. We’re committed to maintaining our high standards of service and creating a welcoming atmosphere for all our guests. \n\nWe can’t wait to welcome you back for another delightful visit soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUVQzVnlYekJ2YVZOeVdsTmxTSFE0Y2pSSVFtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 96,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T09:06:45.154Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Kartheek,\n\nThank you for your wonderful 5-star review! We're thrilled that you chose to trust us at Koteshwaram-The Temple Of divine food. Your support means so much to us. We’re committed to providing an exceptional dining experience, and it’s gratifying to know we’re meeting that standard. \n\nWe look forward to welcoming you back soon for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RVJuZGxhVmhWZUhKc1EyMWhSbkl5Ym1FNVIwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T08:59:30.396Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Sumaiya,\n\nThank you so much for trusting us at Koteshwaram-The Temple Of divine food! We’re thrilled to receive your 5-star rating, and we truly appreciate your support. Your positive vibes inspire us to keep delivering the best service and atmosphere for our guests. We look forward to welcoming you back soon to share more delightful moments together!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rME9UUjZZV0pmWVRKcGJVdEZURUkxUzJjd1FVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T04:27:03.676Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Rahul Sharma,\n\nThank you for your thoughtful review! We truly appreciate your feedback and are glad you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your insights are invaluable to us, and we’re continuously looking for ways to enhance our offerings. We are currently working on improving our service efficiency to ensure an even better experience on your next visit. \n\nWe look forward to welcoming you back soon and providing you with a delightful dining experience!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxU1RXRnVaa05CTVZOV1NHOHhTbEJXVjBGaU9XYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T03:19:21.122Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Nitin, \n\nThank you so much for trusting us at Koteshwaram-The Temple Of divine food! We’re thrilled to hear that you enjoyed your experience. Your support means the world to us, and we’re dedicated to maintaining the high standards that brought you here. \n\nWe can’t wait to welcome you back for another delightful meal soon! \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVlIzRnVkVTFGVVhoUFdHTm1SMEp4T0dWRlNIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T09:32:17.730Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Anjali, \n\nThank you so much for your wonderful 5-star review! We're thrilled that you chose to dine with us at Koteshwaram-The Temple Of divine food. Your support means the world to us! We’re committed to providing an exceptional experience, and we can’t wait to welcome you back for another delightful visit. \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TVgyWmZjMG81U1U1RFFVRnpVMVJNU0dacE5HYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T07:42:22.065Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Praveen,\n\nThank you so much for your wonderful 5-star review! We’re thrilled that you chose Koteshwaram-The Temple Of divine food. Your support inspires us to consistently deliver exceptional service and create a welcoming atmosphere for our guests. We’re dedicated to maintaining these high standards and can’t wait for your next visit. \n\nLooking forward to serving you again soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUWFXWmZTbkp4Y1dwV05FUldZMVZTYmxWMGFGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T03:00:01.965Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Gayatri, \n\nThank you so much for your glowing review! We're thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support inspires us to maintain our high standards of service and quality. We look forward to welcoming you back for another delightful experience soon! \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGT1REQkNZVk5IZVVkbWRFWkNPRVJHWldsWFlYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 35,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T17:14:09.858Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Akshay,\n\nThank you so much for your amazing 5-star review! We’re thrilled that you chose to dine with us at Koteshwaram-The Temple Of divine food. Your support means the world to us! We’re dedicated to providing a delightful experience, and it’s wonderful to know we could meet your expectations. \n\nWe look forward to welcoming you back soon for another memorable visit!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRQSotbbKnSg9OB0uEltT8JkoGcKB4Gf9R4An-0zQYDQIIrlgutA9gxMp3Jd25Cb_YqgZzrlmbHNRvRaCC8zD99znpMtjRGgYg7wGxUNOw9QdZsvAXS3CIeyZw6f8wgYXB0YaSllgiQnHi=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMU5sRnpUVXRwUjBRNFJVZ3lXSEJrYzA0eU4wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 272,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T16:05:48.614Z",
+      "iso_date_of_last_edit": null,
+      "text": "Location & Access:\nSituated just north of Devanahalli town, this spot is easy to catch on your right when driving out of Bengaluru toward Hyderabad on NH 44. Since it sits on the opposite side of the highway, you will need to take a quick U-turn right after the main traffic signal. There is plenty of dedicated parking space out front, making pulling in hassle-free.\n\nSpace & Ambience:\nThe property is massive. Along with a spacious air-conditioned dining hall, they also have a neat lawn area out back that looks well-suited for small gatherings or private parties. What immediately stands out is the upkeep—the entire dining area is spotless, fresh-smelling, and even the washrooms are remarkably clean, which is always a huge plus on a highway drive.\n\nFood & Fresh Juices:\nWe stopped here around 9:00 AM. As is standard across most South Indian highway eateries at that hour, only the South Indian breakfast menu was available. Everything was served piping hot within 15 to 20 minutes. A special shout-out goes to their fruit juices: they are freshly squeezed with no preservatives or added sugar—something that is both rare at highway stops and genuinely commendable.\n\nService & Pricing:\nThe staff is polite, patient, and attentive when taking orders. Pricing is fair and well-aligned with the portion sizes and taste.\n\nVerdict:\nA solid, reliable highway pitstop. Between the clean washrooms, ample parking, and hot breakfast, it is well worth pulling over for if you are heading out on NH 44.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Aayush Goyal,\n\nThank you for your thoughtful review! We're delighted to hear that you appreciated our clean facilities, spacious ambience, and freshly squeezed fruit juices. Your feedback is invaluable to us as we strive to enhance our offerings. \n\nTo improve your experience even further, we are expanding our breakfast menu options to include more variety for early morning travelers. We look forward to welcoming you back to Koteshwaram-The Temple Of divine food, where you can enjoy even more delightful choices on your next visit!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwE16skkkCJE5yqUJoz82QHDjmrBL-z9X_RCLhjylK9VVTHqfT2TAQg0_4bqCzp4QrIhfXokmfgZpI9zbXK9pTyL27QyylrnkeDanMLKsssypHed7sMwcZlBRg7LpQeDBZesjRSNAX5L0I=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWQGXns9Ip2c09uEBPAFsPVM6l-kCip3BHWNTVgp_PwkNh3UkX2yadQF5vCfI7Yzy_VdwJkm0HhPA3dMxim32R1FVlhWxywEEDuPLrY0XrWo0zwR1TGiKOUzoiyMOXi9egC4NIhhNeP2Hn=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdozeBZs1K0S7NnnMugllQ1rWRkzN-SqRb-BFTXYPh55D2LRfmFwfUvH4qxir9t1JTvfNmz8rkhW9qKxUlLksP6Cb6HGbrwYUfEd-BtdhwigozD1VbJxAld7O2wiUwTFUk6Gr6isYtkh38e=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbmFWcGxObDlPUkhGNE5HbHpZWEIyTW5Vd1RFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T15:42:50.016Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Govinda, \n\nThank you so much for your wonderful 5-star rating! We’re thrilled that you chose Koteshwaram-The Temple Of divine food. Your support means the world to us, and we’re committed to providing an exceptional experience each time you visit. \n\nWe can’t wait to welcome you back for more delicious moments!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Uk4xcEhaalpOUTB0amRXMTJORzkwVlZSbFdXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T13:24:37.412Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food and atmosphere is very good, nice place to visit",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Brahma,\n\nThank you so much for your wonderful review! We're thrilled to hear that you enjoyed the food and atmosphere at Koteshwaram-The Temple Of divine food. It's always our goal to create a welcoming space where our guests can savor every moment. Your kind words inspire our team to continue delivering exceptional experiences. We can't wait to welcome you back for another delightful visit!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRk1razFkR0ZQYWxWSVZEVlZhMlkyTTNndFQzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T12:27:29.947Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Archana,\n\nThank you so much for your wonderful 5-star review! We’re thrilled to have you trust us at Koteshwaram-The Temple Of divine food. Your support means the world to us! We’re committed to providing exceptional quality and a delightful atmosphere for all our guests. \n\nWe can’t wait to welcome you back for another extraordinary culinary experience. \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbmJsTlNibE5yTlRsdmIxTTBiazlUYjI5RlNsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T12:08:50.801Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Saikulkhan,\n\nThank you so much for your wonderful 5-star review! We’re thrilled that you chose to trust us at Koteshwaram-The Temple Of divine food. Your support means the world to us! We’re dedicated to providing an exceptional experience for all our guests and can’t wait to welcome you back to enjoy more of our delicious offerings. \n\nLooking forward to your next visit!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObVJXeHlUVXN5VjFCamNuUmFaazB0YlRWTmRFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T10:45:24.334Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Ashok, \n\nThank you so much for your amazing 5-star review! We’re thrilled that you chose Koteshwaram-The Temple Of divine food. Your support inspires us to continue delivering exceptional experiences. \n\nIf there’s anything specific you enjoyed during your visit, we’d love to hear more! We’re committed to maintaining our high standards and can’t wait to welcome you back again soon. \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsblIzRkJlVXh1ZW05VVptcHRlV0pyYTFoaldsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T18:27:14.149Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Garima,\n\nThank you so much for trusting Koteshwaram-The Temple Of divine food! We're thrilled to have your support. Your kind words inspire us to maintain our commitment to excellent service. We’re so glad you enjoyed our offerings. \n\nWe can't wait to welcome you back for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxa1JGTjFTekZaVGpKWllsYzVNMU5wYTJaak0yYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 23,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:51:03.104Z",
+      "iso_date_of_last_edit": null,
+      "text": "Tried breakfast,lunch and dinner was not disappointed,it's my go to place wh never I am on this route,ambience good,service good,food taste good,cleanliness good,washrooms well maintained and hygienic,you find very few places on highways who maintain overall ambience,hygiene and quality all at the same time.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Uday,\n\nThank you so much for your wonderful review! We’re thrilled to hear that breakfast, lunch, and dinner at Koteshwaram-The Temple Of divine food have consistently met your expectations. Your kind words about our ambience, service, and cleanliness truly inspire us to maintain these high standards. It’s always a pleasure to provide a welcoming and hygienic environment for our guests. We can’t wait to welcome you back on your next trip!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWU9UVlpVV3czVDFWU2RrRTVjMUJ4WjBjMGFtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:46:58.274Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Shiva Kumar,\n\nThank you so much for your 4-star review! We appreciate your feedback and are glad you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your insights are invaluable to us. We're always striving to enhance our offerings, and we’re currently working on improving our service speed for an even more pleasant dining experience. We look forward to welcoming you back soon to enjoy these upgrades!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebLurFBLOosnFaVl_kqHq003C1SP1alqL8ukf02_Oymct0fhpIYH0Yb9VeA_bq1mZP9nOiyefJClJCbuxjIvqJoCljTsSjmbvYrXlRNTID5m8TQjNdHJB2xh9tfq1tPXiml97GZoVrYkc=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMVkzTlFWRWhaTVZCbVgzVlpTR3RqUVU0M2NFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T16:09:38.748Z",
+      "iso_date_of_last_edit": null,
+      "text": "Awesome place to chill out and enjoy",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Sandeep,\n\nThank you so much for your kind words! We're thrilled to hear that you found Koteshwaram-The Temple Of divine food to be an awesome place to chill out and enjoy. Creating a welcoming atmosphere for our guests is something we take great pride in. Your feedback inspires us to keep delivering fantastic experiences. We look forward to welcoming you back soon for another delightful visit!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwM1ZsWnRiV0pRTTBjd1ZYbDZjMDlxTTFkWVVsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 13,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T15:34:40.019Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Siri,\n\nThank you so much for your incredible 5-star review! We’re absolutely thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support means the world to us. We're dedicated to providing a warm atmosphere and exceptional service, and it’s wonderful to know you enjoyed your experience. \n\nWe look forward to welcoming you back soon for more delightful moments and divine flavors!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rd1duRTJibXhGWmtjNFRrVnRiVEZmYURkcWFVRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 45,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T15:28:57.445Z",
+      "iso_date_of_last_edit": null,
+      "text": "Donot order Naan itwas  very tough to chew. It was very rubber type. We changed the Naan but another one was also same. Also same with pizza cheese.  South indian is okay. Ambiance is good. Kids enjoyed the open area.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 2,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Sumit Nagar,\n\nThank you for your feedback regarding your recent experience at Koteshwaram-The Temple Of divine food. We sincerely apologize for the issues you faced with the naan and pizza cheese. Your comments are invaluable, and we will personally follow up to ensure we address these concerns. We're glad to hear that you enjoyed the ambiance and that your kids had a good time in the open area. \n\nFor immediate assistance, please call us at 089715 10111. We hope to welcome you back soon for an improved experience.\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 6,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRgh6oj6sKy0uyfjohdNoM_aRO8C1PiNMdP7ucVquIOTp42N4BxCgo8-Z_m1Ab2U-9ZfosXeLITe0ZUjeM58zJPQ3kL8VHdaJcoKcJVLsMkz833nu5HEjXXuvxuK3a7OK0Ws0tU0Bdcfbs=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfswlYmwqpAB9J5NaSDcRNgaSIDgtQb-Kl_BM316BAt5vlkqXZzI95RmyCXp8o7uyWzWQxhGFh5brZqLOQv_zMygHdWhNkyUvI7AChK4cFY3NWIjsxRvmaxAnncHnBz2g87wNOG2m9zekeN=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-vlZuvz0Q4bb-f9KcbVMk0FueIHKOVm9eXIHQPigPhOIfKoDPlQ6pqQSgKMpECUE-YdWZSOOmwAnp5XCAhpecciTKw7f9_tGu2N2KBMVDi-ttvJT9PICAwffmBsIuIr06uVPCrQ13c58=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfe1b-L5hdSWay-9aClqF-TrRKEgcWc70l8t7MwWfChweoc9GzwaY8HZpMOyrpwuKekLXcI0eCX9i0PkbdDGgGJ-mYHDxD6OZ1imNSP_vA3wAnSjUPJ3BJkDvcUpe9wFspT21Zp5EfdlMM=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdI-gSl3bqfNAJux-ctxAd1z997LKyAPFuibM-OE5AR8DMMVw_t0grYszvu5VTCilkJXB0GLloHAf5y1-xiZvlGO_lp7r71qaIZ_Kck3383QwD0YW2Kuz0TIGoa96S4LNNugWrIqEk1USiz=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnp90xStNF6JlWTX52m-UHWmL4ObN2zl9NY-Hf4xN1r1b_5B150dm_BsOu8lwb-XsQrqKWXZ4Ye4dY7mnVI-XkSZ0PqGhWkAuGxYswPTa4KQqJuV6tPkhjIwgLY_dE98bKmOB2VdKF1PSm=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MlRYQk9kREJrTm01aFMyVkRSbk5OVjNSWllXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 43,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T15:00:38.008Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 3,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi there, \n\nThank you so much for your fantastic 5-star rating! Your trust in Koteshwaram-The Temple Of divine food means the world to us. We’re dedicated to providing an exceptional dining experience and are thrilled to know you enjoyed your time with us. \n\nWe look forward to welcoming you back soon to explore more of our divine offerings!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Q1J6Z3lZemN5ZVZKU2J6aHZObTV1U25OVmExRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 25,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T14:54:14.574Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Ravi Teja S,\n\nThank you for your thoughtful review! We truly appreciate your feedback and are glad you enjoyed your experience at Koteshwaram-The Temple Of divine food. We’re always striving to enhance our offerings, and we’re currently working on streamlining our service for even faster turnaround times on your next visit. \n\nWe can’t wait to welcome you back soon to enjoy the improvements!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NU9XNDJNVnB6ZEhOUVVIcEhSRXBXU2pkbFdXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T14:17:33.872Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Mounika, \n\nThank you so much for your glowing 5-star review! We're thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your appreciation means the world to us, and we're committed to maintaining the high standards that make our dining experience special. \n\nWe can’t wait to welcome you back for another delightful meal soon! \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGV1NuaEtSbkJJYUhKVFNrYzNObE4zZVRNeU4wRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 43,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T12:07:15.020Z",
+      "iso_date_of_last_edit": null,
+      "text": "Food was not so great compared to earlier we ordered simple meals and pepper gobi which was not so great. Good place they need to work on kitchen staff ⚕️",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Raghu Reddy,\n\nThank you for your feedback. We sincerely apologize that your recent experience with our meals, including the pepper gobi, did not meet your expectations. Your insights are invaluable, and we will personally follow up with our kitchen staff to ensure we enhance our food quality.\n\nPlease call us at 089715 10111 for immediate assistance. We hope to welcome you back to Koteshwaram-The Temple Of Divine Food and provide you with a better experience next time.\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWWJEWk5hR2hGYldkaFNYUnhYMGMwVUUxc1VsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 15,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T11:26:23.358Z",
+      "iso_date_of_last_edit": null,
+      "text": "Koteshwaram Restaurant is an excellent choice for a memorable dining experience. The food is flavorful, the quality is impressive, and the overall hygiene is well maintained. One of the biggest highlights is the ample parking space, along with the spacious garden and family-friendly ambience. The dining area and restrooms are also kept exceptionally clean. It can get quite crowded during peak hours, so planning your visit accordingly is advisable. While the prices may be slightly higher than average, the quality, cleanliness, and pleasant atmosphere make it worth the expense. Highly recommended",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Megha,\n\nThank you so much for your wonderful review of Koteshwaram-The Temple Of divine food! We're thrilled to hear that you enjoyed the flavorful dishes and appreciated our cleanliness and family-friendly atmosphere. It's great to know that our ample parking and spacious garden added to your experience. We value your insight about peak hours and will continue to focus on maintaining our high standards. We look forward to welcoming you again for another memorable dining experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQneCY7QQ3FCdCdj9AelCA4K0E5878KI-3sCtq8jqx8cU5Iqn5_JuKAwR5peMahcfc8rNb83pQZ-swsWraMdEGLMJI2ED-ju69Pviz5kqVFmzWfEJ6gqUsfzwgNOtF8RbPhY3IfWI8bd3Z=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe845Rj_9l2kgXrR644AiYb-wnoWukepi2qr-UABzZNcGWdPLJIkqC5mMPPkV6i4zuYwydwm2HFmxw7A3LXK1NHloEQg5HrgDiQ1kXRaHVlGzBP1X6fEOsUmJNvF6XMQzZmUXaEBp2Fv9qZ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1PeRBqOpsgqFez1O_gQ6QYDHyHb1BY7p74eTMgeDnZAMmVhF2KnoLsBKWOsahRro3L-c4PJVpgTIGl10SOywB0lBby5IqqEOc1Ng_dHm7Ph0fay2_jSHXGN3EAyd2NvYf_5ye5ivjQQ2g=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNGFISm9UbmRsYkRKblIwUnRiMk0zVVdsaU9VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T10:53:23.130Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Siddharth,\n\nThank you so much for trusting us at Koteshwaram-The Temple Of divine food! We are thrilled to hear that you had a wonderful experience. Your positive feedback fuels our commitment to providing exceptional service and delicious meals. We look forward to welcoming you back for another delightful visit, where we’ll continue to serve you with the same dedication.\n\nBest wishes,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSlUwRTViV3hSUzNCMVZVWlhka1JuZGxCZmNIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T06:46:56.679Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing place near Devanahalli. Huge space surrounded by greenery. Ample parking space.  Great food and quick service. Value for money.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Venkatesh,\n\nThank you so much for your wonderful feedback! We're thrilled to hear you enjoyed the spacious, green surroundings and appreciated the quick service at Koteshwaram-The Temple Of divine food. Your recognition of our value for money means a lot to us! We are committed to maintaining these high standards and ensuring every visit is a delightful experience. \n\nWe look forward to welcoming you back soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sV1dtMU5aRFYwT1U5ak1FbERNWFpuYlVWNldsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 55,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T05:32:29.773Z",
+      "iso_date_of_last_edit": null,
+      "text": "Visited a couple of times now most of the south Indian breakfast items like masala dosa, onion utthapam, bisibelebath.... coffee, kashaya...are good, few of the north Indian & chinese  items were not up to the mark. Good ambience worth stopping if you are in the vicinity of Nandi Hills or travelling towards Chikkaballapur",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Harish Swamy,\n\nThank you for your thoughtful feedback! We’re delighted to hear you enjoyed our South Indian breakfast items, including the masala dosa and onion utthapam. Your observations about our North Indian and Chinese offerings are invaluable, and we’re currently enhancing those dishes to ensure they meet your expectations on your next visit. We appreciate your recommendation for those traveling near Nandi Hills, and we look forward to welcoming you back for an even better experience at Koteshwaram-The Temple Of divine food.\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUWFVZHhVWGxJU1hNd09IRmxNRlJHVFdkS2VuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T04:53:15.365Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hi Shreyas,\n\nThank you so much for your wonderful 5-star review! We're thrilled to have your trust in Koteshwaram-The Temple Of divine food. Your support means a lot to us, and we’re delighted that you had a great experience. We're committed to providing excellent service and a memorable atmosphere for all our guests. \n\nWe can’t wait to welcome you back for more divine food soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psQlluQkxZbWx4T0MwNVltUkpkRWxXYkZsYVVGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 201,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T03:21:19.254Z",
+      "iso_date_of_last_edit": null,
+      "text": "Beautifully curated gardens with vast space inviting with some historical displays… different welcoming style.\n\nFood was good, need to try more varieties.  Great service, clean and great ambience.  Very large and tends to be full.  Highly recommend.  More comments below.  Ghee podi thatta idli was very good. So was coffee.  South Ind meal is bit spicy, came with akki roti option.  North Ind thali is good.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi there,  \n\nThank you so much for your wonderful review! We’re thrilled to hear you enjoyed the beautifully curated gardens and appreciated the great service at Koteshwaram-The Temple Of divine food. It's fantastic to know you loved the ghee podi thatta idli and coffee, and we can’t wait for you to explore even more of our diverse menu options. Your recommendation means the world to us!  \n\nWe look forward to welcoming you back for another delightful dining experience soon.  \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 8,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeP6riBPGT5fElPQ6HvXkiCY6k9vrh9Towsu13o6v1HIiQv3NzVZotxI3DIe9C86sUGZlmst46LvrZhEzb9R0QmaVIwdD_VAuQ1jAifcMomnhJ96Zngo4bU0Njcfkd6YOQDoUNiqOo2ft4=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2qyGX8kSUE4MTZRYs4XdDYWBkXs7P0aHwk2sfGMotBF23g37cCtXv2S2ALyjIlZw8KzMsLQg-qUd9zi1lmOTzNDTUMYt1eMhnHCUaxYwaN69vPhpxNedH12Dw0rqsUCdHmnMcbDrNmvbz=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-awa4tn-_Ipd_zv2B4pFVDnTzV5ZKHjjSr6X622OE6tvN8fKMmE9hxMol317C27HahFK9mC2K731EtJrQeM2Qiyui0t4cEZllszHz-JBw3c2oZkVwWE6tW39wJW3oUBn6G33tibXUGJw=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx8-9XGcqR9NA3LG-jNW9T641txAnjiLBbRnbAqwBWEBhJL4eXzFEngY-tEZE5PW19qYoTsTkBEd-H3CFQoBM8IqwUv6IFqTSkl7rUxPSAWFO6zViuzEk2NdliXaTMMNzfeCZj-I1zmGA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCULrgynMO1Vn7ZRj6A2UOFI3usBBBItwh3jlezftiWXJ-jKOZtgCIoF2SVjGbc00Nkm7hXxd8bQLSUKi3_A2jGpEsKebIt2DzHoxYRTfg-vrCnNiQeW3Qp5-ToY4MveGi0iUhzCo24ob6=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRIcX2UPw9Vz0VDM-5j7mKHe5OL2loZB6IxGCRDrWCjB-bG5J5y8qPIICkQTsGmSc7vC8UF4SOqGTpwVkhBuh5-tnPPHqTQrKe86A8ab-rnSW8DI1eRc86j6MWsvJOSwrmJrur9NT7ubo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeokzu_u7KT1bF96aH-W40_pjs0vd0WqByCSVD7O8GpPqNxJ6B-lBuwjVGpTC7ayamXEO2aaQ1F2jU9Qs6kjfq7PXPZjoOuxBetcQXm271Hxbpj6p20CHZwmT4gAzADPFoaQ0cZEhQfib45=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6JHSjEsqZHNG1r-_Di-OIN99MDhgDB84YeOfEXLHoBosfQro4SmYsnWeumJtzQ60-Yfj3Vk9wXe2po-9lZFPhV1_85WY_WWuDrF7w3AiBGklrkBTgCFyku7e38wDELpa-YR_Z8AqOKBxL=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcE9HcHlOR014ZVU5RVZraFpYMEpXTVhGWU1tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T16:23:40.720Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi there, \n\nThank you so much for your fantastic 5-star review! We're thrilled you chose Koteshwaram-The Temple Of divine food for your dining experience. Your support means the world to us, and we’re committed to maintaining the highest standards in service quality. \n\nWe can’t wait to welcome you back for another delightful visit!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ1ozWnBkMWd6Ym5jNE5HdEtTRkJrWjJGU1ZYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T15:59:32.354Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good food and nice ambience and. Excellent service",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi chelluri sravani,  \n\nThank you so much for your wonderful feedback! We're thrilled to hear that you enjoyed the food, ambiance, and excellent service at Koteshwaram-The Temple Of divine food. Your kind words inspire our team to keep delivering a memorable dining experience. We can’t wait to welcome you back for another delightful visit!  \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUGMyTnNVVkV5WTBsU2VURTBSVlZ2VVV4a2NrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T15:41:33.174Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Manish,  \n\nThank you so much for trusting Koteshwaram-The Temple Of divine food! We're thrilled to have your support and are delighted to know you enjoyed your experience with us. Our team is dedicated to providing exceptional service, and your positive feedback inspires us to continue delivering the best. We look forward to welcoming you back soon for another delightful meal!  \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9M4L6RZ---LfmNEYVYvx6zrPx_mvEgttDQp7-mzh4Fy8tPVIbzWGeAbcD6XrjQSKGxre3F_1iuJmluymQS0sWZRsCMnpIlRFd9awUq06EpO_gCfPtx6_4Ijt00TfzVR1Pu2LbpmrnxUGD=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQmFVSlNjbEE0VFRaUmNrTmhkakYyVFdVMVNFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T15:29:37.516Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Dear Arpit Awasthi,\n\nThank you for taking the time to share your thoughts with us. We appreciate your feedback, as it helps us improve. We understand that your experience did not meet your expectations, and we are committed to enhancing our service quality moving forward. \n\nAt Koteshwaram-The Temple Of divine food, we are actively working on ensuring a more satisfying experience for all our guests. We hope you will give us another chance to provide you with a better visit.\n\nLooking forward to welcoming you back!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJeVNtbGxZMU5QUVhCRFVVc3RkVjk2Tm5WbGFsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 19,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "Edited 5 days ago",
+      "iso_date": "2026-10-24T11:50:22.067Z",
+      "iso_date_of_last_edit": null,
+      "text": "North and Chinese dishes are average. Ambience is beautifully designed with a traditional temple aesthetic.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 3,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWVR6RlpOSFZDZWxWWldWZE5hREJHYWpsclpFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 20,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T10:42:48.110Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Sundeep, \n\nThank you so much for your fantastic 5-star review! We're thrilled to have your trust in us at Koteshwaram-The Temple Of divine food. Your support inspires us to keep delivering exceptional culinary experiences. We’re committed to maintaining our high standards and can’t wait to welcome you back for another delightful visit soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VE0wbFFZMDFNU1MxQlRYbEhSMDVHYjFJeGVIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 71,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T10:15:23.010Z",
+      "iso_date_of_last_edit": null,
+      "text": "Excellent service with good food\nRecommeded",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Shankar,\n\nThank you so much for your wonderful review! We're thrilled to hear that you enjoyed excellent service and good food at Koteshwaram-The Temple Of divine food. Your recommendation means the world to us! We are committed to maintaining our high standards and ensuring every visit is a delightful experience. We look forward to welcoming you back soon for more divine meals!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxalZsSlhkRVpRVGtzd1FqSlNUakJNZWpSNFdGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 54,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T07:27:10.395Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Jatin,\n\nThank you so much for your amazing 5-star review! We’re thrilled that you chose to trust us at Koteshwaram-The Temple Of divine food. Your support truly energizes our team! We are dedicated to maintaining the highest standards of service and are delighted to know we made a positive impression. We can’t wait to welcome you back for another delightful experience!\n\nWarm regards,\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sQ2MxZHdXSGRDZHpGaFlXazNaVlJKWlZZM2RWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T03:10:03.968Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Srijan Verma,\n\nThank you for your valuable feedback! We appreciate your support and are glad to hear you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your insights are important to us, and we are always looking for ways to enhance our offerings. We are currently working on improving our service speed to ensure a more seamless experience for our guests. We look forward to welcoming you back soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNd1IyWmFaVXhIV0MxNk9URk9SR1IxWjBaMldIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T15:50:51.713Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Gauransh,\n\nThank you so much for choosing Koteshwaram-The Temple Of divine food! We’re thrilled to receive your 5-star review and it truly energizes our team. Your support means the world to us as we strive to provide a delightful dining experience. We look forward to welcoming you back soon for another exceptional meal. \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WVJUZ3dSMGM1TWtKalJsZGtMVU4wWmtWU1QyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 34,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T15:16:37.786Z",
+      "iso_date_of_last_edit": null,
+      "text": "Super ambience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Devaraj,\n\nThank you so much for your wonderful feedback! We're thrilled to hear that you enjoyed the super ambience at Koteshwaram-The Temple Of divine food. Creating a warm and inviting atmosphere is important to us, and it’s fantastic to know you appreciated it. We’re committed to maintaining high standards and look forward to welcoming you back soon for another delightful experience!\n\nBest wishes,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TlQxQnZhVVJWY2psV04yOUJaMjlYZGxwZmNuYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T14:21:24.747Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi there, \n\nThank you so much for your wonderful 5-star review! We are thrilled that you chose to dine at Koteshwaram-The Temple Of divine food. Your trust means the world to us! We're committed to delivering exceptional service, and it brings us joy to know you had a great experience. We can't wait to welcome you back for another delightful visit!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQ1R6VklNamh5VERrd1VIQlFla3h6UVdwNU1tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T12:52:08.772Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Kaushik Nagururu,\n\nThank you for your thoughtful review! We appreciate your support and are delighted that you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your feedback is invaluable, and we are always looking for ways to enhance our offerings. We are currently working on improving our service efficiency to ensure an even better experience on your next visit. \n\nWe look forward to welcoming you back soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WRGEwRjZOR1pVT1hWelJXaHlXV0p0ZUdOc1QxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 362,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T12:23:58.900Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi there, \n\nThank you so much for your wonderful 5-star review! We're thrilled that you chose Koteshwaram-The Temple Of divine food. Your trust means the world to us. We strive to provide an exceptional dining experience, and it's great to know that we resonated with you. \n\nWe look forward to welcoming you back for another delightful experience soon! \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dldEbFdSVXRyTWxacGVtODNVekIwVFVVMFozYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 67,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T11:47:22.164Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Gautam,\n\nThank you so much for your wonderful 5-star review! We’re thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your appreciation means the world to us, and it inspires our team to continue delivering outstanding service and delicious cuisine. We’re dedicated to maintaining the high standards you expect from us. \n\nWe look forward to welcoming you back soon for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdFNrSkNOa3hCYW5CRlJVRlJXRkZSYW1wUmJWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T11:46:32.733Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi there, \n\nThank you so much for your fantastic 5-star review! We are thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support inspires us to continue delivering exceptional service and delightful experiences. We look forward to welcoming you back soon for more divine flavors!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSME5qbGlRV3BJUVhWWVpqRktNa0ZFYlRabk4yYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T11:21:24.036Z",
+      "iso_date_of_last_edit": null,
+      "text": "So good",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Hello Satyanarayana Dnv,\n\nThank you so much for your kind words! We’re thrilled to hear that you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your satisfaction means a lot to us. We're constantly looking for ways to enhance our offerings, and we hope to provide even more delightful dishes on your next visit. \n\nWe look forward to welcoming you back soon for another wonderful meal!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VmEzcEdRMVJIZDFGS2FHRlFhSE5oTTFrdFZFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 35,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T10:19:38.805Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very good starters and main course. Service was nice. Farheen was patient and she served with a smile on her face.\n\nGood experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Abhishek,\n\nThank you so much for your wonderful feedback! We're thrilled to hear that you enjoyed our starters and main course at Koteshwaram-The Temple Of divine food. Farheen is indeed a gem, and we’re glad her friendly service added to your experience. We’re committed to maintaining high standards and creating memorable dining moments for our guests. \n\nWe look forward to welcoming you back for another delightful experience soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOb2JGRkVPRzFEYm10dVdFUTVNek51TldkTVoyYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 10,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T09:02:12.903Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi there,  \n\nThank you so much for trusting Koteshwaram-The Temple Of divine food! We're thrilled to see your 5-star review, even though you didn't leave any specific feedback. Your support means the world to us, and we’re committed to maintaining our high standards of service. We can’t wait to welcome you back for another delightful experience!  \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOM2FucGxZMkl4ZDFoSlVqazVkMlV4YkVad2JWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 51,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T08:28:28.885Z",
+      "iso_date_of_last_edit": null,
+      "text": "Very Nice place. very hygienic tiffins. open kitchen. clean rest rooms goe travelers. They also have charging station. Hope they maintain the place.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Ramanand,\n\nThank you so much for your wonderful review! We're thrilled to hear that you enjoyed the hygienic tiffins and appreciated our open kitchen and clean restrooms at Koteshwaram-The Temple Of Divine Food. Your feedback on the charging station is also valued, and we’re committed to maintaining our high standards. We look forward to welcoming you back for another great experience!\n\nBest wishes,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNFNsaFdRV3RJVVhoSlN6UmxOWE5WTTFKWFJrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 227,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T07:42:49.741Z",
+      "iso_date_of_last_edit": null,
+      "text": "Overall experience was good.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Sachin Chauhan,\n\nThank you for sharing your feedback! We're delighted to hear that your overall experience at Koteshwaram-The Temple Of divine food was good. Your input is invaluable to us as we strive to enhance our services. We are currently working on improving our menu options to provide even more delightful choices for our guests. We look forward to welcoming you back soon to enjoy these enhancements!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoAoOiV9l2bIPgCWfv2sLhFN38n_Fuv8uvk4REw680SHJCF20cS10nK0fzlBJqaEe0ukAnzqKtDmvh_BOHSwNsttHDDfcbJC05FgrTfOG2dCKa-Z9Al6gRSwyPqljDhJmJ2_iYsLL2_gOF=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8Sms6MpbjJ2rkef56clm7VwbcgT8VeC7ENumZ5V7zardb91XBA_K8xU3fNf4lwSHMprwfSN-hueApLa03qSt88vHEzaU5q-GvIub-ymkHrkriwUkyG2DuIW3CUAnctoZGOsrvFT2kPWCM=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdWNscEVXUzFJZGtkaExURmZNME51Umw5NGEwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 134,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-23T07:00:23.862Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear L SHAASHIKANTH,\n\nThank you for sharing your feedback. We sincerely apologize for not meeting your expectations at Koteshwaram-The Temple Of divine food. Your experience is important to us, and we would like to understand more about your visit to improve our service. Please call us at 089715 10111 for immediate assistance. We genuinely appreciate your input and hope to have the opportunity to serve you better in the future.\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xad2RYUmZaMU5GYzNwTGIxRXlVR0ZQZDBGelVWRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T15:20:50.797Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi there, \n\nThank you so much for your fantastic 5-star review, Pawan Kumar! We're thrilled that you chose Koteshwaram-The Temple Of divine food to enjoy a delightful experience. Your support truly means a lot to us! We are committed to providing exceptional service and a warm atmosphere for all our guests. We can't wait to welcome you back for another amazing visit soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNmRrZEZjMEZFVWxneWRqTjNWMWx1UWxZNFlrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T13:30:40.845Z",
+      "iso_date_of_last_edit": null,
+      "text": "Weekends are crowded",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Manogna M,\n\nThank you for your feedback! We appreciate your visit to Koteshwaram-The Temple Of divine food and understand that weekends can get quite busy. We’re continuously working on enhancing our service to ensure a smoother experience for our guests. In the future, we plan to implement additional seating arrangements to better accommodate our valued customers. \n\nWe hope to welcome you back soon for an even more enjoyable visit!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvelUwaEtlSEJWT1daSk1GUjFTRFJhWHkxUFRFRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T13:21:42.766Z",
+      "iso_date_of_last_edit": null,
+      "text": "Best vegetarian restaurant near Chickballapur.Great ambience and serves delicious food too.\nKotte kadubu must try",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Ashitha, \n\nThank you so much for your wonderful review! We're thrilled to hear you enjoyed the ambience and found our food delicious at Koteshwaram-The Temple Of divine food. The Kotte Kadubu is indeed a favorite, and we’re glad you loved it! Your feedback inspires us to keep delivering exceptional experiences. \n\nWe can’t wait to welcome you back for another delightful meal!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbnanQojJ6uZ2U8e1Vv9RlrhzEi6Or2muTR0yiakrTdnmBHE-44nPo8tIlEymhogU41uKK4_9-9HgHz7SGig4GbC3C2-6Rs2kWPK7gkPJVdZECWe_7c5Mk3knZj89OlllhB_XXbDtJBHzH=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMVYwNTBNVFZ1WTJSSmRtNUxNSEpZTUVGTlpsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 17,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T13:20:41.259Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Jayanth AB,\n\nThank you so much for trusting Koteshwaram-The Temple Of divine food! We’re thrilled to hear you had a wonderful experience with us. Your support fuels our commitment to providing exceptional service and creating a vibrant atmosphere for all our guests. We can’t wait to welcome you back for another delightful visit!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMVUwWklXa2gwUVdONlQyWk5aemszZWpkVGIzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T13:00:28.032Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi there, \n\nThank you so much for your stellar review, Amarnath! We’re thrilled you chose Koteshwaram-The Temple Of divine food and appreciate your trust in us. While your feedback is brief, it speaks volumes about a positive experience! We are committed to providing exceptional service and look forward to welcoming you back for your next visit. \n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NVIyazJlR1ZJVVc1dlgxSTNVRTgxYjBKa0xYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 25,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T12:53:33.912Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Ashwin,\n\nThank you so much for your fantastic 5-star review! We're thrilled that you chose Koteshwaram-The Temple Of divine food for your culinary experience. Your support means the world to us, and we’re dedicated to providing exceptional service every time you visit. \n\nWe can't wait to welcome you back for more delicious moments!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gd01XczJiM2wzYzNCYVNESTRiRTVJTVc1RmJtYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T11:41:35.086Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hello Charan Muntimadugu,\n\nThank you for your 4-star review! We truly appreciate your feedback and are glad to hear you enjoyed your experience at Koteshwaram-The Temple Of divine food. Your insights are invaluable to us, and we’re continuously working to enhance our offerings. We look forward to welcoming you back soon, where you can enjoy even more delightful dishes and improved service. \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210RVVqTldhUzE0UVRaS2NHZzRha2s1ZW5SbE5tYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 169,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T02:20:45.711Z",
+      "iso_date_of_last_edit": null,
+      "text": "Must tast food if your traveling on this highway and lots of choices to taste. Ghee button idli must try... faluda is nice... afternoon time little crowded otherwise no waiting time",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Balaraman,\n\nThank you so much for your wonderful review! We're thrilled you enjoyed the diverse menu at Koteshwaram-The Temple Of divine food, especially the ghee button idli and faluda. It's great to hear that you found the experience satisfying, even during busy times. We’re committed to maintaining our high service standards, ensuring every visit is enjoyable. \n\nWe can’t wait to welcome you back for more delicious dishes on your next journey!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 6,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZz8SkEfSCOKLJgYlDXVDO8RejbTVNuGaz8cTicZmWJgvHxW9zqVitl4xvikTLdc7ObiJiOtCTVnoIwAAjiRtbQx5jv-BzzGvPXIqoHkialERRaS3Y7-TGeMRaSSZTCsb7rIfnLqL5ihV8=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdt2V4tcquhFJjYKyuthiiKuhTDtu2Aj9PTpiOa-lS71299wTNVQB6YfGR7zyXOae4H7KaR-fJ8_VJ9k1SjC7FX7pbYZTpegnieqVNH1Khj4fp3PHEoSK-PkvdEcGsn85NEdyrjtkqAep8v=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMYaBoEs_6xVEP0K_fCOv-KJMb1qmwpAWdOBpxdiiFrMliMjLu_g0vzhR36hchsVeScd7_mp_R2wfAdq04rDPLdVRNzwnb2UscBqByyu4Z5x1UD5NWhvO3i50wzKkojWZJXmGXREISHdo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcb3oiwWqkkCzQofxF-dRhq9RND26FGFdQgmGC2u6OJeW-tCEjDakblxjhPWPTSuQsg2chga3YIxoDNULltTrIeZBk8asZRCL7JpbCZViWt1IwChDP4afo52NQManwMCC7RWKP8gi2Mhszf=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdouPPmd_6dyeqMmytCA1Sar6wsA5sFMWemrxYYu0ZsTdQ_noIr9TXJs2JToNjiMeMEmE1uwZUPbJC9Udn5NONe4MmSfRmX67bMJG47tqiehPRvUKqTiztIsLv2lOjR-mnPJ9oUfEpRRBs=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLxlppQyuddfoXwBIMME5YnwJToxYx-wmCyrSyHoWW62e509CSlmRgBHq8xHJRAhUb31SbnQxvZEUoDeYoImmFNEWoe0rQleUrpiYCGFoDSBAg3bTqWm3xR6Heivl-IMrP0KehZTnWQRwq=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0S2VsSlpXRXcxVjBaV1UwMUhiVzQyVEdVelJIYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 209,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-10-22T02:15:55.435Z",
+      "iso_date_of_last_edit": null,
+      "text": "Good seating capacity and enthusiastic courteous staff . Good parking space for vehicles. Children can play in the playground .",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SR1RtZGlXbVo1UkhSUk16SlpRVlZIZUVSSWFGRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 12,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T18:25:35.830Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear RAVI SHANKAR REDDY Bommana,\n\nThank you for your thoughtful review! We truly appreciate your feedback on your experience at Koteshwaram-The Temple Of divine food. Your insights are invaluable as we strive for excellence. We're continuously working on enhancing our service and are excited to share that we’ll be implementing faster turnaround times for orders on your next visit. We hope this improvement will elevate your experience even further. \n\nLooking forward to welcoming you back soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WE0yMHdWbXBxYzBOSVgxUkZjV1k1VlV0MU5FRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 32,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T15:14:47.845Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Yasar, \n\nThank you so much for your 5-star rating! We're thrilled to have you trust us at Koteshwaram-The Temple Of divine food. Your support means the world to us. We’re dedicated to providing an exceptional dining experience, and we can't wait to welcome you back for more delightful moments. \n\nSee you soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pacWRVdEhOVEJJV0RsTGJUSTJVR2REY1UxalkwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 136,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T13:51:42.756Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Shashya,  \n\nThank you so much for trusting us at Koteshwaram-The Temple Of divine food! Your five-star review means the world to us. We’re thrilled to know you enjoyed your experience, and we’re dedicated to maintaining our high standards of service. We can’t wait to welcome you back for another delightful visit.  \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSE9IQTRTekZPZUhsMFUyTTRRMXBuTm1sWFQzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 101,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T13:30:36.365Z",
+      "iso_date_of_last_edit": null,
+      "text": "Clean washroom . Plenty of parking space. Good food",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Payal, \n\nThank you so much for your wonderful review! We’re thrilled to hear that you enjoyed the clean washroom, ample parking, and, of course, the good food at Koteshwaram-The Temple Of divine food. Your feedback truly brightens our day, and we’re committed to maintaining these high standards for all our guests. \n\nWe can’t wait to welcome you back for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toRFJ6RnFibU5CV1RSUlYxY3lVR1ZYVjNSSFJYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T12:22:15.769Z",
+      "iso_date_of_last_edit": null,
+      "text": "For sambaar 0......vada 0......food is upto mark",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 2,
+        "Service": 2,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Ashwini Murthy,\n\nThank you for sharing your feedback. We're truly sorry to hear that your experience with the sambaar and vada did not meet your expectations. Your insights are invaluable, and we will personally follow up to ensure we address your concerns. Please feel free to call us at 089715 10111 for immediate assistance. We hope to have the opportunity to serve you better in the future.\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGQlpqZG5TRU5MU1VGek9GRmFWVUpQTUVOcE5IYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 332,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T05:00:20.697Z",
+      "iso_date_of_last_edit": null,
+      "text": "\"My mentor chose this spot for a lunch meeting, and the first impression was an absolute 'wow.' The ambience is stunning, well-maintained, and perfectly set the tone for a great meal. Both the food and the overall experience were a solid 10/10. The staff members are incredibly friendly and attentive. A must-visit if you are looking for an exceptional dining experience!\"",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": null,
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetclrp3E-jTDLgU7KhzdE1bnXaH0tMRY6Z6KtAOBnL509QGZK9Lt6ElEAd_OgQwsNHrFNOpTApSk6U8JjVVP1tDKuDhVmKzip7M5Xl7RB8peWgRwH6_cR8h0vcrMGtMb04fon5M5BFu8AC=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVxhihHsmj7f9T9eQ-e2lyjM4ZPS5LR__ldhVYkeHfhZJoRQkqC9Xy86_XfFM_1RMSvX7kGN0btbwECiIpk9IDU30u1X3pKSFtCC6s2QrQrqPSSK5l_8JTh57fYaTg_bV7yviYQL8BpDQU=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVFMwUXRha1ZTY0VsM01UUjBjRXhYZFVWa1FsRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 36,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T18:52:45.882Z",
+      "iso_date_of_last_edit": null,
+      "text": "Must Vist place all three South Indian, North Indian and Chinese are excellent in taste.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Vikrant,\n\nThank you so much for your wonderful review! We’re thrilled to hear you enjoyed the diverse offerings of South Indian, North Indian, and Chinese cuisine at Koteshwaram-The Temple Of divine food. Your appreciation for the flavors inspires our team to keep delivering exceptional dining experiences. \n\nWe look forward to welcoming you back for more delicious meals soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taaFJqQkNPRVJTWDJWcmVXMUNOMGh5ZDBRdGRXYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 81,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T18:29:24.840Z",
+      "iso_date_of_last_edit": null,
+      "text": "Amazing atmosphere",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Bikash,\n\nThank you for your wonderful feedback! We’re thrilled to hear that you enjoyed the amazing atmosphere at Koteshwaram-The Temple Of divine food. Creating a welcoming and vibrant environment is something we take great pride in, and it’s fantastic to know that it resonated with you. \n\nWe’re committed to maintaining these high standards and can’t wait to welcome you back for another delightful experience!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wd2JtVk9aelZJZGs5clFsOXVTRnBWYjIxUFYwRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T16:16:52.374Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": {
+        "text": "Hi Vikram,\n\nThank you so much for your wonderful 5-star review! We're thrilled to have you as part of the Koteshwaram-The Temple Of divine food family. Your support inspires us to maintain our commitment to delivering exceptional service and a delightful dining experience. \n\nWe can't wait to welcome you back for more of our divine offerings—come visit us again soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVVgycFFRVkZqY2pWUFFsZHFlVVUyUm5sb2FHYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 11,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T12:59:02.353Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Nikhil,\n\nThank you so much for your wonderful review! We’re thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support inspires us to maintain our commitment to quality and service. We’re delighted you enjoyed your experience and look forward to welcoming you back for more delicious moments. \n\nSee you soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjeFRtMVBNRlJOVnpCeE9HbHpiMU5mT1VGWVlrRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 34,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T12:51:01.619Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi there,\n\nThank you so much for your fantastic 5-star review! We’re thrilled to have earned your trust at Koteshwaram-The Temple Of divine food. Your support means the world to us! We're committed to providing a delightful dining experience, and we’re glad you felt that. \n\nWe can’t wait to welcome you back for another amazing meal. \n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKclRVbHNPR2h2VUVWME1rWTJkMHAyZUVWbFgzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 14,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T10:58:01.974Z",
+      "iso_date_of_last_edit": null,
+      "text": "Extremely Disappointing Experience at koteshwaram – Worst Food and Service!\n\nOne of the worst restaurant experiences I’ve had. The food quality was extremely disappointing, and the service was equally poor. The staff seemed completely clueless about the orders, which made the entire dining experience frustrating.\n\nWe ordered Paneer Tikka Masala, and to our shock, the dish had just one tiny piece of paneer, barely an inch in size! This is absolutely unacceptable for a dish that carries such a fancy name and is expected to deliver proper quality and quantity.\n\nA restaurant cannot survive on fancy names and presentation alone. Customers expect good food, reasonable portions, and staff who know what they are serving.\n\nKoteshwaram seriously needs to improve its food quality, portion sizes, and staff training. If this is the standard you continue to maintain, God bless you! Definitely not recommended based on my experience",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 2
+      },
+      "owner_response": {
+        "text": "Dear Shreyas Tharanath,\n\nThank you for sharing your thoughts with us. We sincerely apologize for your disappointing experience at Koteshwaram-The Temple Of divine food. Your concerns about the food quality and service are important to us, and we will personally follow up to ensure improvements are made. We strive to provide our customers with the best dining experience, and your feedback helps us to achieve that. \n\nPlease call us at 089715 10111 for immediate assistance. We hope to have the opportunity to serve you better in the future.\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jMlF6aHFSSHBQVVZabGFXRmxVbTlWTFhCWE1WRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 137,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T09:18:22.354Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Rajshekhar,\n\nThank you so much for your fantastic 5-star review! We're thrilled you chose to trust Koteshwaram-The Temple Of divine food. Your support means the world to us. We strive to provide a welcoming atmosphere and exceptional service, and we’re glad to hear you enjoyed your experience. \n\nWe’re excited to serve you again soon and to keep delivering the divine flavors you love!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSQ09YQXlOMDlWVVhaYVNHZGtjREZMTmpOTFoxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 20,
+      "author_photos_count": null,
+      "rating": 2.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T08:05:38.341Z",
+      "iso_date_of_last_edit": null,
+      "text": "Missed opportunity. Place is right, ambience is right. Food is horrible.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 1,
+        "Service": 1,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Dear Venkata Rajesh,\n\nThank you for your feedback. We are truly sorry to hear that your dining experience at Koteshwaram-The Temple Of Divine Food did not meet your expectations regarding the food quality. Your comments are invaluable to us, and we will personally follow up to ensure we address your concerns. \n\nPlease call us at 089715 10111 for immediate assistance. We hope to have the opportunity to serve you better in the future.\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSFpqUm5ZVTVJVms5MVIyMTVVVGM1ZFd0R2IzYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 150,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T07:19:46.712Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Sreedhar Sreedhardesamsetty,\n\nThank you for trusting Koteshwaram-The Temple Of divine food! We’re thrilled to hear you enjoyed your experience with us. Our team is dedicated to providing excellent service and a warm atmosphere, and it's wonderful to see that reflected in your feedback. We look forward to welcoming you back for another delightful meal soon!\n\nBest wishes,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUFVsbFBXVVZ2WldwS09VcDNibEJFWkRCdWFYYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 220,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T06:07:45.809Z",
+      "iso_date_of_last_edit": null,
+      "text": "During a highway trip, I visited Koteshwaram Restaurant. The restaurant is just as magnificent and unique on the inside as it is beautiful and well-maintained on the outside. The ambiance here is very peaceful and soothing. There is also a large, pleasant garden where you can sit back and relax. The parking area is quite spacious, so parking your vehicle is never an issue. The tea here was absolutely delightful! We also tried the lassi, which was very tasty. The staff is extremely supportive and polite. It is the perfect spot to take a relaxing break during a highway journey, enjoy some great tea or lassi, and have some refreshments.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Akshit,\n\nThank you so much for your wonderful feedback about your experience at Koteshwaram-The Temple Of divine food! We're thrilled to hear that you enjoyed our peaceful ambiance, spacious garden, and delightful tea and lassi. Our team takes great pride in providing supportive and polite service, and it's fantastic to know you felt that during your visit. We aim to be the perfect spot for travelers looking to relax and refresh. We can't wait to welcome you back on your next highway journey!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 20,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeacy-Rxx9AKmeG4EUW9r5hd2-kGFu7ry12AjK9pRZWfrXmwYwnL9MyD9VW6Sdzz3zMTzLzySQl1JnkyRSCAs11oYC6ZUW-KoHzfuoKXoNWKrE0IuGMS5JsolQvFRMJg3J3nxRI3WotEm10=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEcpQj1gBmnxqjJxK0gufCvAJyxfR4uI0d2nCqv9HXkCtQa_SOt_qWQrLNwx7wZ6A4YMr03N_wdAIU8bvOgw64g1eaLQh7XGSOMcP8Bxl936iHRQrFBI287ISQ9Tex7OsQ9k88niaC90JJ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0mDVc8mgcsvqjzEWPVP_sBAz3QmTDTXmgnmEuw2PYvpW2jSoRBDAFQld2hzenGx86-yZ8_ZVeRws3ZHtgAN-wL8vP6WluHNaRRcVGg5embOVUJJUThOVsvzNkP9zwsApTT4YkJkR5Y7JF=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3BaHYaOzBsP4gHEgje7TPrZbzrfkJ6yS-GVbDwRYImV2RoKCQArGyuQl2refL4RxgZjXkG835rVx9or8HTBevcH0OP2JiZYKF_h8tOFg2B6GV1mwbMGIk7BpHATChziIjxltpxj7yGdGA=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLew-Fg5tDfi-op43XZC-T4Ik6NuPnG9ik8MM9RuKRfSKsWdxh9QiQO1YPFxElpiNVmvgwSsxaXuULjSiTuTVzZOwlS4ekGK56EV92QlyN1FK9U2JcpuQTp-pa8SUDD9kLlUZlTwVqqkKffx=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaTR0q7g9l-kbDAbHTLq6v2FwGHDTRAIAoOv-G9SzpwCPSunG9OICJcL3pSPQ6hKCBQ3UIPZp-WuNFN2qlK4TuRKf43DB__4IfI6ipTtopMrG9ZukzbTEUlQTXAe0b7g5XO2O7DUGneMw-=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVhGdPJnwJLkewHBUK1rA28Mn5no0-veqbLihnXgHFcZH5LN-d9Nog-ZRwZWtNmn-wF__LXJUpxVn0ruxmlogXjhngw2qLi6W51jAKMQWRL9NSIYvHw7XjTaalTV7NtNix_tK_N96DYvfz=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7sZ3kBdkSA3UFKq7wNR_Qaxjv-2ReMZGiPcBbjebStX3xoIkeOV5FIP-M7FdSp2j_pjvLTz4Z3-DIWCTxfz0OiAqkXZ-i21JK51UxGLkAYMdz3dX2_109QzBpV8fAkM6qoPBOfxZSzoo=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy2WnachoTh5yiTomEGBAxtyHtaKN5EMX_ZbSZD2fJP3XbCAxWkZc8LBqKmwACC8BL0doijCTkj4wOM5PqkuDc98WZsw46ulZWPcysc1TsuNUbpgu69B-gWz8VzZJDFCnSLj31MeV5u0tJ=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecou9Tqyntw178jIxXGAl9f8lveNqCwA6dl_7OeeYsUfGTApcxuCfKQHtXqjEvfjyma0lUsVHUDryTwdLmFlX203YKNTxzBFBLHfM_v6F7IsCeXJPGYnC4vK8X19o_RW1FlzOEq1UGvu9S=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekuvHFFb26T59b-bEsp6cfr3fKViN3xDSdFsofcdifb_QqMq3gstyH-lUtE58_7p6jrWzg6JlWcGUnUjst7311qtJ91OoAH_V4BVhzaAfR36aTqutRTqd2i0oKlNXtU-iA5jFeU9oqhfdV=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfR3WECNnrRXQa5cQcUYNkERNn-VN5BDxAUHGmiLFtEOW0Y0uk5IzERplz4GW2pkjZuwkD-wciMbHAcak3n7tq0ZJpU0Ugiomwt5wvjmxJSUf0M0eKEjjZ-kM9VjMtRaOp-iDnFRbKHW6DD=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaK9ZZ4MrfdmdFDn116k2WhjVdbcDXoNed669n7FkuSjPXziUmlXnJVKJydVCgG-opXEBo3Vi--PKX_UfONrR28fsvWdSyvTtfOxh2R1B54_UVHNQwSZBPHEnemygDg86sfzpLqaHquo7H=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcV-MrAfsP8TKuJINHBZwyAHboAZR8pm-adnW0H8HoETevPfQCfyQxWUdTSLNTmAEGWt3i9ybpjwI-XLR66-_srsE_UI_hIfPZ4EptzROEWvifQIQ7z6CoQJh4TVxECAa4kaJotQ5a1w429=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYoCa0htob2IaJs7-Jasz1uFOpaMkib0rJHz1rR2nT3NdLcqG2qXjv3pKRx3TRPtrVc7II0BI3p3cy2hVZnnrw5HWa30nmIt2A4VHqHbureHRngWoK_Knlha6WpgDlqM6PA7eoz-D8AvyD=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxjpLaOUF6fUpkkgzX4NtC1R42mwNC4dCDXNO7to8hlQgom2ofilKk4PJ0CVeqQPwKNvwjAM8Sr1CaoWaF8QxXotlWXL4XSUsRYxpWtfMdefIXZuAmRTCLnVxyDfGZajWmANJX5z6z_iI=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvqicIz-HVxpGS2YFhyq96Vq-QIDRhZmuxoNJuL3hDu8Sd8r7aa-UBhcM-e-IW5dop95588Ycy5QgEvHNR-E1kqDIe8jOX5SeFc-wDkrQWeICL5v7F_F1wrhSucgJy07duDrmIBrOBYF7w=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiSi5Uy50b8rn13cK9nFKg3U5_xfFXkw4n-D8OPLHiQI7mSlTt2yJRQhqH5h6NTbs-ItGGAv5bVdwT6k1P516uTGZm02hpZU8j23jk-F3RzEK2hOdw67tpe2n8lkG4ZC8Pcgm9q_ZyI0U=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeR-46UxbhXGyY6J8_pdlrBSaAj89H4IsEWUejgg2wcSCPd2lmp8SrqhRCQO0VFp0PR3EJ2_nkdUkMngeXaJ39alALcqW9O8ZMIL42lKIU_rpxcjng2R9IW4NWGrp-4yud5jOZTBEsP0Cg=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLFcMDNeECeUtmZ3j0J2XNK3vViT_VHZSYdYYcxOw8gaj7Elq9EwrMfZ4Vui3JDpaNozwY6meABjkEi36f_z0lR_Wl9sigPGvaOsqcMuh1GUiVvz8YTO6AgiFdQi8lREgckGL82XQiF8k=k-no",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KeVRsWk9SeTE2V0RKTmJHSlhkbWMzTW5SVE1uYxAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T03:03:51.149Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 5,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hi Akash, \n\nThank you so much for choosing Koteshwaram-The Temple Of divine food! We truly appreciate your support and are thrilled to have earned your 5-star rating. Your trust means a lot to us, and we’re committed to delivering exceptional service every time you visit. We can't wait to welcome you back for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTlpqUmZjVmxZY0VaVmExbE5USEEzUm1jdFMxRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T03:45:36.465Z",
+      "iso_date_of_last_edit": null,
+      "text": null,
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 4,
+        "Service": 4,
+        "Atmosphere": 4
+      },
+      "owner_response": {
+        "text": "Dear Suresh Thunga,\n\nThank you for taking the time to leave us a 4-star review! We sincerely appreciate your feedback. It means a lot to us that you enjoyed your experience at Koteshwaram-The Temple Of divine food. We are always striving to enhance our offerings, and we’re currently working on improving our service speed to ensure a more seamless dining experience for you on your next visit. We look forward to welcoming you back soon!\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UWJscHBiRmhZUVhGS09HcG1XVWxMT0V0Zk1VRRAB",
+      "author": null,
+      "author_url": null,
+      "author_local_guide": true,
+      "author_reviews_count": 30,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T17:12:02.912Z",
+      "iso_date_of_last_edit": null,
+      "text": "We just stopped here for light snacks but turned into kind of light dinner.  From the dosa to fried rice Everything that we tried was delicious. Kids specially loved the pulpy grape and coconut juices.",
+      "text_original_language": null,
+      "language": "en",
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "Food": 5,
+        "Service": 4,
+        "Atmosphere": 5
+      },
+      "owner_response": {
+        "text": "Hello Manuj Gupta,\n\nThank you for taking the time to share your experience with us! We're thrilled to hear that you and your kids enjoyed the dosa, fried rice, and our refreshing grape and coconut juices. It’s wonderful to know that your light snack turned into a delightful dinner.\n\nTo enhance your next visit, we’re working on expanding our snack options to include even more flavors. We can’t wait for you to try them!\n\nLooking forward to welcoming you back soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "date": null
+      },
+      "review_link": null,
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via Apify (compass/Google-Maps-Reviews-Scraper)"
+    }
+  ]
+}

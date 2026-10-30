@@ -1,0 +1,173 @@
+{
+  "search_metadata": {
+    "id": "6ae44cfe430875a04285f3b4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mIgklCdsaitAY_XmWdHOPJk5KblQACaR6LdZMa6dilQ/6ae44cfe430875a04285f3b4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/mIgklCdsaitAY_XmWdHOPJk5KblQACaR6LdZMa6dilQ/6ae44cfe430875a04285f3b4.md",
+    "created_at": "2026-10-30 07:53:34 UTC",
+    "processed_at": "2026-10-30 07:53:34 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1e842d0cbdd1:0xd4eb870efbba7967!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/mIgklCdsaitAY_XmWdHOPJk5KblQACaR6LdZMa6dilQ/6ae44cfe430875a04285f3b4.html",
+    "prettify_html_file": "https://serpapi.com/searches/mIgklCdsaitAY_XmWdHOPJk5KblQACaR6LdZMa6dilQ/6ae44cfe430875a04285f3b4.prettify",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1e842d0cbdd1:0xd4eb870efbba7967",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Shivaji Restaurant",
+    "address": "Sadahalli, Gate, Kempegowda Int'l Airport Rd, near SBI, Bengaluru, Doddajala, Karnataka 562157, India",
+    "rating": 3.7,
+    "reviews": 281,
+    "type": "Non vegetarian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "egg biriyani",
+      "mentions": 2,
+      "id": "JTqwABiCLw0"
+    },
+    {
+      "keyword": "highway food",
+      "mentions": 2,
+      "id": "Bsirt9op8EM"
+    },
+    {
+      "keyword": "clean",
+      "mentions": 3,
+      "id": "dLD4wjH9qSs"
+    },
+    {
+      "keyword": "gravy",
+      "mentions": 2,
+      "id": "IdyxvpF5J3E"
+    },
+    {
+      "keyword": "food",
+      "mentions": 9,
+      "id": "BFzIY7owYWU"
+    },
+    {
+      "keyword": "biriyani",
+      "mentions": 10,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "money",
+      "mentions": 3,
+      "id": "hAr67_kOQUM"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w4NGEzUTVOblJ2U3pSaU5VSTJTbEE0ZWxBNFUwRRAB!2m1!1s0x0:0xd4eb870efbba7967!3m1!1s2@1:CAIQACodChtycF9oOl84a3Q5NnRvSzRiNUI2SlA4elA4U0E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-05T14:00:20Z",
+      "iso_date_of_last_edit": "2026-04-05T14:00:20Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NGEzUTVOblJ2U3pSaU5VSTJTbEE0ZWxBNFUwRRAB",
+      "user": {
+        "name": "vivek sharma",
+        "link": "https://www.google.com/maps/contrib/118342956571846240623?hl=en",
+        "contributor_id": "118342956571846240623",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXl_xnRc1AgeI5h6GhgXPgzcTv-HVMInO6APelLgtv1hmNC_8I=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "details": {
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wVFJESmpWVkJ1VVVkeGNXNXlZM2R5U21sSmJrRRAB!2m1!1s0x0:0xd4eb870efbba7967!3m1!1s2@1:CAIQACodChtycF9oOmpTRDJjVVBuUUdxcW5yY3dySmlJbkE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-21T07:47:13Z",
+      "iso_date_of_last_edit": "2026-03-21T07:47:13Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVFJESmpWVkJ1VVVkeGNXNXlZM2R5U21sSmJrRRAB",
+      "user": {
+        "name": "nevin samson",
+        "link": "https://www.google.com/maps/contrib/114383441774313785524?hl=en",
+        "contributor_id": "114383441774313785524",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUecBzeKCAGKjxCO9dFsYc_g-VQRCWxRnSgvaXmWB_R92qfM-Lh=s120-c-rp-mo-br100",
+        "reviews": 8,
+        "photos": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CYVZIbDVVbkprTjNBME9XSXdVRVppTjBVNGFsRRAB!2m1!1s0x0:0xd4eb870efbba7967!3m1!1s2@1:CAIQACodChtycF9oOnBaVHl5UnJkN3A0OWIwUEZiN0U4alE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-28T00:51:51Z",
+      "iso_date_of_last_edit": "2026-02-28T00:51:51Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CYVZIbDVVbkprTjNBME9XSXdVRVppTjBVNGFsRRAB",
+      "user": {
+        "name": "Dushey Huli",
+        "link": "https://www.google.com/maps/contrib/112692573878167661210?hl=en",
+        "contributor_id": "112692573878167661210",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXKnAr0J_4TjOlI0-ctaLaWQKXoielwEN8yvoJgN2AUBcvXe-bk=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 0
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWRVVWcE1WalpmY2tWNFluUkpaM0pvYlhaRmFVRRAB!2m1!1s0x0:0xd4eb870efbba7967!3m1!1s2@1:CAIQACodChtycF9oOjVEUVpMVjZfckV4YnRJZ3JobXZFaUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-05T13:23:20Z",
+      "iso_date_of_last_edit": "2025-12-05T13:23:20Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRVVWcE1WalpmY2tWNFluUkpaM0pvYlhaRmFVRRAB",
+      "user": {
+        "name": "Ravi Suma Ravi Suma",
+        "link": "https://www.google.com/maps/contrib/117421863259743062030?hl=en",
+        "contributor_id": "117421863259743062030",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXrzJlM7rnWZeEgzQAbqtozw1hz3k07lUv7eTGJC8_sAsd_A7OZ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 20
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wRlgwRlpXSGRyVVZadVIyTlZaMWswVG1WMmRYYxAB!2m1!1s0x0:0xd4eb870efbba7967!3m1!1s2@1:CAIQACodChtycF9oOnpFX0FZWHdrUVZuR2NVZ1k0TmV2dXc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-22T14:41:42Z",
+      "iso_date_of_last_edit": "2025-11-22T14:41:42Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRlgwRlpXSGRyVVZadVIyTlZaMWswVG1WMmRYYxAB",
+      "user": {
+        "name": "Akhil Darsh",
+        "link": "https://www.google.com/maps/contrib/109202244633179275741?hl=en",
+        "contributor_id": "109202244633179275741",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUXSo1dJzwjR6Gi15X-N7awLN70VS5C7VVEmZC1jm7-GoKj0vkt=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 165,
+        "photos": 223
+      },
+      "likes": 0
+    }
+  ]
+}

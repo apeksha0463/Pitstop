@@ -1,0 +1,80 @@
+{
+  "data_id": "0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Kings Family Restaurant",
+    "place_type": "Dhaba",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jNVEyaERUa1pxY2pSSGFVdGhRVXQwU0VKVk1FRRAB",
+      "author": "raghavendra yaraddi",
+      "rating": 2.0,
+      "date": "4 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNVh6TnljVUl5TWtWb1drdFJXbVkwZEdaV1kyYxAB",
+      "author": "Muniraju p v Muniraju p v",
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscWRXSTBRVGhIWVhsQ1MyVk5WbE5wVVhCWlRYYxAB",
+      "author": "Adarsh Prasanth",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VelZtTllUVzFHWnpKa2JUSkNjMEpsV0ZKUk5uYxAB",
+      "author": "Kavya Pavan",
+      "rating": 1.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WcWREQXlRa1pYWVhKc01WbHpXbXBqY1c1TGVGRRAB",
+      "author": "Pavansarathi 456",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    }
+  ]
+}

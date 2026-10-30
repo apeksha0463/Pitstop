@@ -1,0 +1,211 @@
+{
+  "search_metadata": {
+    "id": "6ae44cf8287034b3790dc727",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pka33lHfEhd1PJeZk9B1pMhZ87cIwNEU-vQ5aXpOKJw/6ae44cf8287034b3790dc727.json",
+    "markdown_endpoint": "https://serpapi.com/searches/pka33lHfEhd1PJeZk9B1pMhZ87cIwNEU-vQ5aXpOKJw/6ae44cf8287034b3790dc727.md",
+    "created_at": "2026-10-30 07:53:28 UTC",
+    "processed_at": "2026-10-30 07:53:28 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1ebf50072b75:0x444bc75f4a582a0a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/pka33lHfEhd1PJeZk9B1pMhZ87cIwNEU-vQ5aXpOKJw/6ae44cf8287034b3790dc727.html",
+    "prettify_html_file": "https://serpapi.com/searches/pka33lHfEhd1PJeZk9B1pMhZ87cIwNEU-vQ5aXpOKJw/6ae44cf8287034b3790dc727.prettify",
+    "total_time_taken": 0.71
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1ebf50072b75:0x444bc75f4a582a0a",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Itihaas Restaurant",
+    "address": "Kempegowda international, Srinagar - Kanyakumari Highway, near Decathlon sports, airport road, Chikkajala, Bengaluru, Karnataka 562157, India",
+    "rating": 4.1,
+    "reviews": 7514,
+    "type": "South Indian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "kerala food",
+      "mentions": 149,
+      "id": "Ft-B6yjr_AQ"
+    },
+    {
+      "keyword": "appam",
+      "mentions": 62,
+      "id": "Tc_Y7mCjYM0"
+    },
+    {
+      "keyword": "malabar biryani",
+      "mentions": 22,
+      "id": "Jk8g3jxbWpg"
+    },
+    {
+      "keyword": "shawarma",
+      "mentions": 36,
+      "id": "NGskbtlrJ48"
+    },
+    {
+      "keyword": "egg curry",
+      "mentions": 16,
+      "id": "BzrwuzoQX5g"
+    },
+    {
+      "keyword": "puttu",
+      "mentions": 10,
+      "id": "AgzJ72KnKG0"
+    },
+    {
+      "keyword": "veg stew",
+      "mentions": 8,
+      "id": "ASpFE_3Nd1E"
+    },
+    {
+      "keyword": "mutton stew",
+      "mentions": 6,
+      "id": "ESQZH-73A1U"
+    },
+    {
+      "keyword": "idiyappam",
+      "mentions": 7,
+      "id": "DK1oKHMnx-8"
+    },
+    {
+      "keyword": "tandoori chicken",
+      "mentions": 9,
+      "id": "MSvGdWobLVc"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21odlQwSmljMHhhWlZSV1dVRjNUVWMxU0haeVEwRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOmhvT0Jic0xaZVRWWUF3TUc1SHZyQ0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "40 minutes ago",
+      "iso_date": "2026-10-30T07:13:11Z",
+      "iso_date_of_last_edit": "2026-10-30T07:13:11Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odlQwSmljMHhhWlZSV1dVRjNUVWMxU0haeVEwRRAB",
+      "user": {
+        "name": "Shyam Gopal",
+        "link": "https://www.google.com/maps/contrib/104032915137388136714?hl=en",
+        "contributor_id": "104032915137388136714",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX6ZPcl8jvwoa-7NYBGG-n4s7Xe8mqryWG6xqetSg7cmSqLkU13Eg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 242,
+        "photos": 107
+      },
+      "snippet": "We found this place on recommendations next to the Decathalon outlet on the airport road. Their vegetarian buffet breakfast was very good and delicious . A non vegetarian option of fish and chicken curry is also\nAvailable . At the price offered this is a great deal .",
+      "extracted_snippet": {
+        "original": "We found this place on recommendations next to the Decathalon outlet on the airport road. Their vegetarian buffet breakfast was very good and delicious . A non vegetarian option of fish and chicken curry is also\nAvailable . At the price offered this is a great deal ."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Vegetarian menu or section",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free street parking",
+        "parking": "Clean and well laid out . With a snack counter serving the boiler tea and Kerala savouries"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twclZYSldUekowU2toNGJIUklhM2wyY3pBNVdIYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOkprVXJWTzJ0Skh4bHRIa3l2czA5WHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 hours ago",
+      "iso_date": "2026-10-30T03:47:56Z",
+      "iso_date_of_last_edit": "2026-10-30T03:47:56Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twclZYSldUekowU2toNGJIUklhM2wyY3pBNVdIYxAB",
+      "user": {
+        "name": "Manøj",
+        "link": "https://www.google.com/maps/contrib/104861171610229866718?hl=en",
+        "contributor_id": "104861171610229866718",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUDjkpbCQauSPKun6UXSaYdYstgH6UXu3A8gDLy1cbH8cwrgRGe=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 5
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tvd1EyUnRXblo1ZVZSdk5tSlZSWE5mY0ZaWVMyYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOkowQ2RtWnZ5eVRvNmJVRXNfcFZYS2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-29T06:29:09Z",
+      "iso_date_of_last_edit": "2026-10-29T06:29:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvd1EyUnRXblo1ZVZSdk5tSlZSWE5mY0ZaWVMyYxAB",
+      "user": {
+        "name": "Ipsita Mukherjee",
+        "link": "https://www.google.com/maps/contrib/115135132307034055370?hl=en",
+        "contributor_id": "115135132307034055370",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXnVaE9nmof9X4ZKCCDGG5UZhw6UvdQIWc4TowNNL1QKVb9Da8=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 75
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCMWRqUTVVazlqYkZnMGJpMWpOVlpKZG5sMVpIYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOjB1djQ5Uk9jbFg0bi1jNVZJdnl1ZHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T17:04:52Z",
+      "iso_date_of_last_edit": "2026-10-28T17:04:52Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMWRqUTVVazlqYkZnMGJpMWpOVlpKZG5sMVpIYxAB",
+      "user": {
+        "name": "Narasanna Kumbar",
+        "link": "https://www.google.com/maps/contrib/105914709165350186799?hl=en",
+        "contributor_id": "105914709165350186799",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUZb0Q0lD-uXOjWewnsdoxGmK8IPnAej8uu-v2PA9jqSGXXxl0Q=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Chicken tandoori is very good testy..",
+      "extracted_snippet": {
+        "original": "Chicken tandoori is very good testy.."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOTFZGbFBTUzB6T1hKalRtNDJTMFIxYlZZMU4xRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOlNLVFlPSS0zOXJjTm42S0R1bVY1N1E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-28T06:44:04Z",
+      "iso_date_of_last_edit": "2026-10-28T06:44:04Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTFZGbFBTUzB6T1hKalRtNDJTMFIxYlZZMU4xRRAB",
+      "user": {
+        "name": "Madan S",
+        "link": "https://www.google.com/maps/contrib/106345525364299824160?hl=en",
+        "contributor_id": "106345525364299824160",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJQeAu-x78YbGV05bdissvM378ZSJyLID_aCB52IGEw4QJvIzPL=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 13,
+        "photos": 0
+      },
+      "likes": 0
+    }
+  ]
+}

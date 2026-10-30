@@ -1,0 +1,186 @@
+{
+  "search_metadata": {
+    "id": "6ae44cd1fc9248b05210e534",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4W3SMnDiByXjHUI7Kjd4cOWS_hvw7FJEn7kP6Trd-14/6ae44cd1fc9248b05210e534.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4W3SMnDiByXjHUI7Kjd4cOWS_hvw7FJEn7kP6Trd-14/6ae44cd1fc9248b05210e534.md",
+    "created_at": "2026-10-30 07:52:49 UTC",
+    "processed_at": "2026-10-30 07:52:49 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae190663f1db5b:0x29670e7908cd74f7!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/4W3SMnDiByXjHUI7Kjd4cOWS_hvw7FJEn7kP6Trd-14/6ae44cd1fc9248b05210e534.html",
+    "prettify_html_file": "https://serpapi.com/searches/4W3SMnDiByXjHUI7Kjd4cOWS_hvw7FJEn7kP6Trd-14/6ae44cd1fc9248b05210e534.prettify",
+    "total_time_taken": 6.87
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae190663f1db5b:0x29670e7908cd74f7",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "ANANTH ANDHRA STYLE FAMILY RESTAURANT",
+    "address": "Bus Stop, Bagalur Cross, Yelahanka, Bengaluru, Karnataka 560064, India",
+    "rating": 4.6,
+    "reviews": 151,
+    "type": "Family restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "biryani",
+      "mentions": 31,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "andhra style food",
+      "mentions": 11,
+      "id": "Ps6z-SZpWGw"
+    },
+    {
+      "keyword": "chicken majestic",
+      "mentions": 4,
+      "id": "PC62txUhr1Q"
+    },
+    {
+      "keyword": "ulavacharu briyani",
+      "mentions": 3,
+      "id": "Co_mdgVr9ms"
+    },
+    {
+      "keyword": "apola fish",
+      "mentions": 3,
+      "id": "CMhY4VjIeKE"
+    },
+    {
+      "keyword": "hyderabad chicken dum biryani",
+      "mentions": 3,
+      "id": "XIy4XUOpp2c"
+    },
+    {
+      "keyword": "gongura chicken",
+      "mentions": 2,
+      "id": "CJqxkUqxq1E"
+    },
+    {
+      "keyword": "thali",
+      "mentions": 4,
+      "id": "MQVCXTkmcuc"
+    },
+    {
+      "keyword": "rambo chicken briyani",
+      "mentions": 2,
+      "id": "XCt4FEMLO0k"
+    },
+    {
+      "keyword": "abudabi chicken",
+      "mentions": 2,
+      "id": "XA-w1VUJr0E"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OS2IwOW9UbFE0VnpnMFdIVktielpaVld0VVVHYxAB!2m1!1s0x0:0x29670e7908cd74f7!3m1!1s2@1:CAIQACodChtycF9oOmNKb09oTlQ4Vzg0WHVKbzZZVWtUUGc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T12:35:55Z",
+      "iso_date_of_last_edit": "2026-10-28T12:35:55Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OS2IwOW9UbFE0VnpnMFdIVktielpaVld0VVVHYxAB",
+      "user": {
+        "name": "Sanjiv Pillai",
+        "link": "https://www.google.com/maps/contrib/114498931567805011752?hl=en",
+        "contributor_id": "114498931567805011752",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU5dfDueRF3oDpejxF-VoaABw7s7b6LOXMBTUUh6U1qnm5UW2A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 73
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CYVJtTnNRbXRrYmt0RVZHSmxWVVU0Vmtka1gwRRAB!2m1!1s0x0:0x29670e7908cd74f7!3m1!1s2@1:CAIQACodChtycF9oOnBaRmNsQmtkbktEVGJlVUU4VkdkX0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-07T19:16:42Z",
+      "iso_date_of_last_edit": "2026-10-07T19:16:42Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CYVJtTnNRbXRrYmt0RVZHSmxWVVU0Vmtka1gwRRAB",
+      "user": {
+        "name": "Kailash Jain",
+        "link": "https://www.google.com/maps/contrib/102201165507175645220?hl=en",
+        "contributor_id": "102201165507175645220",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUsxcyFo9rXbhquEmSD1TEfTP7vVv9c07-tLPxgk0WTVurOcQc=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSU2RFVnRTakoxZURSS1oyUldibDlPYVZWSlRYYxAB!2m1!1s0x0:0x29670e7908cd74f7!3m1!1s2@1:CAIQACodChtycF9oOjRSdEVtSjJ1eDRKZ2RWbl9OaVVJTXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-03T00:21:40Z",
+      "iso_date_of_last_edit": "2026-10-03T00:21:40Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSU2RFVnRTakoxZURSS1oyUldibDlPYVZWSlRYYxAB",
+      "user": {
+        "name": "Jignesh Jat",
+        "link": "https://www.google.com/maps/contrib/112642035121310882835?hl=en",
+        "contributor_id": "112642035121310882835",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWKVtJ0dTKnIDs-n9yiRkuEXjhLi_zL3U9fiDf1EsQ13BfnDHw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 80
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSaVp6bFdaRFIzUm5WaFRUSjZUMjlOVFhZd2NVRRAB!2m1!1s0x0:0x29670e7908cd74f7!3m1!1s2@1:CAIQACodChtycF9oOlRiZzlWZDR3RnVhTTJ6T29NTXYwcUE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-10-01T03:28:40Z",
+      "iso_date_of_last_edit": "2026-10-01T03:28:40Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSaVp6bFdaRFIzUm5WaFRUSjZUMjlOVFhZd2NVRRAB",
+      "user": {
+        "name": "abhi Ps",
+        "link": "https://www.google.com/maps/contrib/100309735201356510285?hl=en",
+        "contributor_id": "100309735201356510285",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXAJVZY3eDnpvIJ9RHaRByAmv6iKQ3ny7pwM3xvJecn1lqAEUAr=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 10,
+        "photos": 24
+      },
+      "details": {
+        "food": 5,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ab2N6bDBhbUpLTjBVMVkxZE1iV1ZJTURrd1JFRRAB!2m1!1s0x0:0x29670e7908cd74f7!3m1!1s2@1:CAIQACodChtycF9oOnZoczl0amJKN0U1Y1dMbWVIMDkwREE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-24T21:16:04Z",
+      "iso_date_of_last_edit": "2026-09-24T21:16:04Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ab2N6bDBhbUpLTjBVMVkxZE1iV1ZJTURrd1JFRRAB",
+      "user": {
+        "name": "Viraj D'Souza",
+        "link": "https://www.google.com/maps/contrib/107784491920639303372?hl=en",
+        "contributor_id": "107784491920639303372",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUtvcSziVz6enugsMD_LX4sLI71p6SZWkvD1SVMQgMStP3ulJs=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 67
+      },
+      "likes": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "search_metadata": {
+    "id": "6ae44d25607e1db3b039a8a2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QYz-JaV8SflJ5mikFCqpQsyQPrwVAHuQXh2u13d1QXY/6ae44d25607e1db3b039a8a2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/QYz-JaV8SflJ5mikFCqpQsyQPrwVAHuQXh2u13d1QXY/6ae44d25607e1db3b039a8a2.md",
+    "created_at": "2026-10-30 07:54:13 UTC",
+    "processed_at": "2026-10-30 07:54:13 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/QYz-JaV8SflJ5mikFCqpQsyQPrwVAHuQXh2u13d1QXY/6ae44d25607e1db3b039a8a2.html",
+    "prettify_html_file": "https://serpapi.com/searches/QYz-JaV8SflJ5mikFCqpQsyQPrwVAHuQXh2u13d1QXY/6ae44d25607e1db3b039a8a2.prettify",
+    "total_time_taken": 6.29
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Kings Family Restaurant",
+    "address": "NH7 Bypass Road, near HP Petrol Pump, Agalagurki, Chokkahalli, Karnataka 562103, India",
+    "rating": 4.4,
+    "reviews": 170,
+    "type": "Dhaba"
+  },
+  "topics": [
+    {
+      "keyword": "butter naan",
+      "mentions": 3,
+      "id": "QyYIX27TD-0"
+    },
+    {
+      "keyword": "raita",
+      "mentions": 2,
+      "id": "IYsMbSomB2s"
+    },
+    {
+      "keyword": "tandoori",
+      "mentions": 2,
+      "id": "HQQHf3pzd1Y"
+    },
+    {
+      "keyword": "north indian food",
+      "mentions": 2,
+      "id": "KU6D_TolXnc"
+    },
+    {
+      "keyword": "responsive staff",
+      "mentions": 2,
+      "id": "AeVHtBXsgDg"
+    },
+    {
+      "keyword": "friendly nature",
+      "mentions": 4,
+      "id": "CuRXFBZG5Pc"
+    },
+    {
+      "keyword": "friendly owner",
+      "mentions": 2,
+      "id": "BMXH9I7oyIA"
+    },
+    {
+      "keyword": "ambience",
+      "mentions": 22,
+      "id": "JGvrBjVCxMw"
+    },
+    {
+      "keyword": "presentation",
+      "mentions": 2,
+      "id": "jBPtpCS0QCw"
+    },
+    {
+      "keyword": "fresh food",
+      "mentions": 2,
+      "id": "DPyThL0oDHU"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25jNVEyaERUa1pxY2pSSGFVdGhRVXQwU0VKVk1FRRAB!2m1!1s0x0:0x37d618e0212c1fde!3m1!1s2@1:CAIQACodChtycF9oOnc5Q2hDTkZqcjRHaUthQUt0SEJVMEE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-10-02T06:33:03Z",
+      "iso_date_of_last_edit": "2026-10-02T06:33:03Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jNVEyaERUa1pxY2pSSGFVdGhRVXQwU0VKVk1FRRAB",
+      "user": {
+        "name": "raghavendra yaraddi",
+        "link": "https://www.google.com/maps/contrib/115795346348042574651?hl=en",
+        "contributor_id": "115795346348042574651",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI_Qq0I3t3odNmmBWv5ZlOCpBoUdY9cFtrNjPvFlRbDXPTd9g=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "details": {
+        "food": 2,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25RNVh6TnljVUl5TWtWb1drdFJXbVkwZEdaV1kyYxAB!2m1!1s0x0:0x37d618e0212c1fde!3m1!1s2@1:CAIQACodChtycF9oOnQ5XzNycUIyMkVoWktRWmY0dGZWY2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-10-01T09:18:37Z",
+      "iso_date_of_last_edit": "2026-10-01T09:18:37Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNVh6TnljVUl5TWtWb1drdFJXbVkwZEdaV1kyYxAB",
+      "user": {
+        "name": "Muniraju p v Muniraju p v",
+        "link": "https://www.google.com/maps/contrib/105446822866707541622?hl=en",
+        "contributor_id": "105446822866707541622",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIILB_90pxTHVpdni8gTzDA-DpXYpOO1k3kE2WbeYqq-PsRzw=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Super 🥰",
+      "extracted_snippet": {
+        "original": "Super 🥰"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tscWRXSTBRVGhIWVhsQ1MyVk5WbE5wVVhCWlRYYxAB!2m1!1s0x0:0x37d618e0212c1fde!3m1!1s2@1:CAIQACodChtycF9oOklqdWI0QThHYXlCS2VNVlNpUXBZTXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-29T08:24:38Z",
+      "iso_date_of_last_edit": "2026-09-29T08:24:38Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscWRXSTBRVGhIWVhsQ1MyVk5WbE5wVVhCWlRYYxAB",
+      "user": {
+        "name": "Adarsh Prasanth",
+        "link": "https://www.google.com/maps/contrib/114762821802353087535?hl=en",
+        "contributor_id": "114762821802353087535",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX-AVVzQuV013vreqP65zhZl50Uws5Ofl6aC6migqEL5hWLnm7u=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21VelZtTllUVzFHWnpKa2JUSkNjMEpsV0ZKUk5uYxAB!2m1!1s0x0:0x37d618e0212c1fde!3m1!1s2@1:CAIQACodChtycF9oOmUzVmNYTW1GZzJkbTJCc0JlWFJRNnc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T16:20:48Z",
+      "iso_date_of_last_edit": "2026-09-26T16:20:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VelZtTllUVzFHWnpKa2JUSkNjMEpsV0ZKUk5uYxAB",
+      "user": {
+        "name": "Kavya Pavan",
+        "link": "https://www.google.com/maps/contrib/113056688360644834096?hl=en",
+        "contributor_id": "113056688360644834096",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJdF3Q1OooTO7ntrTCnlF5rNNI3qeDz-bHPJ7deuKuNhHJZmg=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WcWREQXlRa1pYWVhKc01WbHpXbXBqY1c1TGVGRRAB!2m1!1s0x0:0x37d618e0212c1fde!3m1!1s2@1:CAIQACodChtycF9oOmVqdDAyQkZXYXJsMVlzWmpjcW5LeFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T16:20:00Z",
+      "iso_date_of_last_edit": "2026-09-26T16:20:00Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WcWREQXlRa1pYWVhKc01WbHpXbXBqY1c1TGVGRRAB",
+      "user": {
+        "name": "Pavansarathi 456",
+        "link": "https://www.google.com/maps/contrib/107017934501610435757?hl=en",
+        "contributor_id": "107017934501610435757",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJGPDRshYJMXzWdI-PHNnp9ZMQmHsG8-M8ZHtktS3niFFge_g=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 3
+      },
+      "likes": 0
+    }
+  ]
+}

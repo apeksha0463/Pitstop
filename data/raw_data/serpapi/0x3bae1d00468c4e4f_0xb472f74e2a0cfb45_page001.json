@@ -1,0 +1,207 @@
+{
+  "search_metadata": {
+    "id": "6ae44d0cfde812e4d0c9204a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jcOZi45OKVJGnUoqts8dNXrJEeEw_qt1mQmJPloaZCo/6ae44d0cfde812e4d0c9204a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jcOZi45OKVJGnUoqts8dNXrJEeEw_qt1mQmJPloaZCo/6ae44d0cfde812e4d0c9204a.md",
+    "created_at": "2026-10-30 07:53:48 UTC",
+    "processed_at": "2026-10-30 07:53:48 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1d00468c4e4f:0xb472f74e2a0cfb45!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/jcOZi45OKVJGnUoqts8dNXrJEeEw_qt1mQmJPloaZCo/6ae44d0cfde812e4d0c9204a.html",
+    "prettify_html_file": "https://serpapi.com/searches/jcOZi45OKVJGnUoqts8dNXrJEeEw_qt1mQmJPloaZCo/6ae44d0cfde812e4d0c9204a.prettify",
+    "total_time_taken": 1.36
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1d00468c4e4f:0xb472f74e2a0cfb45",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Cafe Iftar Restaurant",
+    "address": "Tippu Circle highway, Devanahalli, Hire Amanikere, Karnataka 562110, India",
+    "rating": 4.5,
+    "reviews": 753,
+    "type": "Seafood restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "appam",
+      "mentions": 13,
+      "id": "Tc_Y7mCjYM0"
+    },
+    {
+      "keyword": "fish mango curry",
+      "mentions": 8,
+      "id": "hogQ_6tVvbo"
+    },
+    {
+      "keyword": "prawns ghee roast",
+      "mentions": 7,
+      "id": "BJToO6lzpwY"
+    },
+    {
+      "keyword": "mandi",
+      "mentions": 10,
+      "id": "JR2gOrEdyDc"
+    },
+    {
+      "keyword": "tawa fish fry",
+      "mentions": 3,
+      "id": "gMjUXf3LbTs"
+    },
+    {
+      "keyword": "malabar biryani",
+      "mentions": 3,
+      "id": "Jk8g3jxbWpg"
+    },
+    {
+      "keyword": "chutta masala bbq fish",
+      "mentions": 2,
+      "id": "sJ7Yfz_3cis"
+    },
+    {
+      "keyword": "appam with fish mango curry",
+      "mentions": 2,
+      "id": "hkB4OsVSfLo"
+    },
+    {
+      "keyword": "iftar",
+      "mentions": 4,
+      "id": "Aa7aQCqGGXM"
+    },
+    {
+      "keyword": "ghee rice",
+      "mentions": 2,
+      "id": "LoYhHTMpb_M"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21zM1ZUTnRiR0kxUnpWM1FWVlVUMDFoV1hkS1VYYxAB!2m1!1s0x0:0xb472f74e2a0cfb45!3m1!1s2@1:CAIQACodChtycF9oOms3VTNtbGI1RzV3QVVUT01hWXdKUXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "14 hours ago",
+      "iso_date": "2026-10-29T16:57:37Z",
+      "iso_date_of_last_edit": "2026-10-29T16:57:37Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zM1ZUTnRiR0kxUnpWM1FWVlVUMDFoV1hkS1VYYxAB",
+      "user": {
+        "name": "Ram Kumar",
+        "link": "https://www.google.com/maps/contrib/103295543477737615177?hl=en",
+        "contributor_id": "103295543477737615177",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL9DZHYGNK-lA12AtJyA514iIDxKsxc6f88UOUhpoynfXqYXf0=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 14,
+        "photos": 41
+      },
+      "snippet": "Ramkrishna Good service",
+      "extracted_snippet": {
+        "original": "Ramkrishna Good service"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWR1drNHhhemxITUhoZlIwNU1lbDlxU2podU1GRRAB!2m1!1s0x0:0xb472f74e2a0cfb45!3m1!1s2@1:CAIQACodChtycF9oOjVGWk4xazlHMHhfR05Mel9qSjhuMFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "15 hours ago",
+      "iso_date": "2026-10-29T16:46:45Z",
+      "iso_date_of_last_edit": "2026-10-29T16:46:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR1drNHhhemxITUhoZlIwNU1lbDlxU2podU1GRRAB",
+      "user": {
+        "name": "mazhar pasha",
+        "link": "https://www.google.com/maps/contrib/115303883012658382852?hl=en",
+        "contributor_id": "115303883012658382852",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIAnnK2syIJyUqOmfsDWE6b6tPFPE4a7kevW15jbxS2GWGtEEU=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5NWNXOUlkV2R3UVVwUk1rWTJOMHB5V0dSUVdYYxAB!2m1!1s0x0:0xb472f74e2a0cfb45!3m1!1s2@1:CAIQACodChtycF9oOk95cW9IdWdwQUpRMkY2N0pyWGRQWXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "18 hours ago",
+      "iso_date": "2026-10-29T13:10:58Z",
+      "iso_date_of_last_edit": "2026-10-29T13:10:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NWNXOUlkV2R3UVVwUk1rWTJOMHB5V0dSUVdYYxAB",
+      "user": {
+        "name": "Mohammed Waseem Bin Nasir",
+        "link": "https://www.google.com/maps/contrib/106096261632734915205?hl=en",
+        "contributor_id": "106096261632734915205",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVEZ_h6e3pu5m15f4Ey1uCZGDaR13G3wk35eQtpGDDwd8Id9dLOLA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 12,
+        "photos": 23
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25JM1kydDVTblZIV0U1TWVqWlZhMkZaWHkxMWJsRRAB!2m1!1s0x0:0xb472f74e2a0cfb45!3m1!1s2@1:CAIQACodChtycF9oOnI3Y2t5SnVHWE5MejZVa2FZXy11blE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "20 hours ago",
+      "iso_date": "2026-10-29T11:28:52Z",
+      "iso_date_of_last_edit": "2026-10-29T11:28:52Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JM1kydDVTblZIV0U1TWVqWlZhMkZaWHkxMWJsRRAB",
+      "user": {
+        "name": "Sumit Kapoor",
+        "link": "https://www.google.com/maps/contrib/111084788812999131921?hl=en",
+        "contributor_id": "111084788812999131921",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUU1gNLouQjfj3Zm9klw0nM7mJV4MULs9JH6Y51dPaLh1Egb9c=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkWGNYUmZOVEZrVm1jeWN6RlhPV1pwVkVKdGFGRRAB!2m1!1s0x0:0xb472f74e2a0cfb45!3m1!1s2@1:CAIQACodChtycF9oOjdXcXRfNTFkVmcyczFXOWZpVEJtaFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "23 hours ago",
+      "iso_date": "2026-10-29T08:32:10Z",
+      "iso_date_of_last_edit": "2026-10-29T08:32:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWGNYUmZOVEZrVm1jeWN6RlhPV1pwVkVKdGFGRRAB",
+      "user": {
+        "name": "YASHU COOKIE",
+        "link": "https://www.google.com/maps/contrib/100182003903952158077?hl=en",
+        "contributor_id": "100182003903952158077",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXrG4npGy5EA-TtZQrVfzrQLjmi6W4Cjbf0cHUoj4MKTa3DyD_i=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Good",
+      "extracted_snippet": {
+        "original": "Good"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    }
+  ]
+}

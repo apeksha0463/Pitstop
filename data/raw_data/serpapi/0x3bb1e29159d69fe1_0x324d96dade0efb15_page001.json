@@ -1,0 +1,242 @@
+{
+  "search_metadata": {
+    "id": "6ae44d1ba33d2b3428992110",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5uY9lYCbP5ILpWqRQuBCcfD38e82Qlp700wWR1bpOSI/6ae44d1ba33d2b3428992110.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5uY9lYCbP5ILpWqRQuBCcfD38e82Qlp700wWR1bpOSI/6ae44d1ba33d2b3428992110.md",
+    "created_at": "2026-10-30 07:54:03 UTC",
+    "processed_at": "2026-10-30 07:54:03 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e29159d69fe1:0x324d96dade0efb15!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/5uY9lYCbP5ILpWqRQuBCcfD38e82Qlp700wWR1bpOSI/6ae44d1ba33d2b3428992110.html",
+    "prettify_html_file": "https://serpapi.com/searches/5uY9lYCbP5ILpWqRQuBCcfD38e82Qlp700wWR1bpOSI/6ae44d1ba33d2b3428992110.prettify",
+    "total_time_taken": 0.72
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e29159d69fe1:0x324d96dade0efb15",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "NH7 Refuel Restaurant",
+    "address": "Hyderabad - Bengaluru Hwy, Devanahalli, Devanahalli Town, Karnataka 562110, India",
+    "rating": 3.9,
+    "reviews": 4644,
+    "type": "Punjabi restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "sarson ka saag",
+      "mentions": 30,
+      "id": "hzIdcqESKjM"
+    },
+    {
+      "keyword": "live music",
+      "mentions": 78,
+      "id": "bdOKu_b9hgo"
+    },
+    {
+      "keyword": "makki di roti",
+      "mentions": 26,
+      "id": "JT2wbnIrO3s"
+    },
+    {
+      "keyword": "lassi",
+      "mentions": 86,
+      "id": "ZwPRfxd1Ig8"
+    },
+    {
+      "keyword": "outdoor seating",
+      "mentions": 5,
+      "id": "AEmHqxr-_tg"
+    },
+    {
+      "keyword": "patiala lassi",
+      "mentions": 14,
+      "id": "aDnI_0L2eo4"
+    },
+    {
+      "keyword": "highway restaurant",
+      "mentions": 97,
+      "id": "Donqtxs789M"
+    },
+    {
+      "keyword": "Honey Chilli Potato",
+      "mentions": 12,
+      "id": "IhaQ6_ClaGY"
+    },
+    {
+      "keyword": "amritsari kulcha",
+      "mentions": 10,
+      "id": "GQ1R-1ZMvsg"
+    },
+    {
+      "keyword": "paratha",
+      "mentions": 19,
+      "id": "ARwxzeokYAk"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oUlZHdElOM2x3Y1daNFgwSlpXREJ4UlRNMFFVRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOmhRVGtIN3lwcWZ4X0JZWDBxRTM0QUE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T17:43:41Z",
+      "iso_date_of_last_edit": "2026-10-27T17:43:41Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUlZHdElOM2x3Y1daNFgwSlpXREJ4UlRNMFFVRRAB",
+      "user": {
+        "name": "M I K",
+        "link": "https://www.google.com/maps/contrib/112287004030764550562?hl=en",
+        "contributor_id": "112287004030764550562",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKR_lL0fGbeeTSa_4YS3I6LZJaDVSk5gQkgBVzUwfcB5PSJvw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 157,
+        "photos": 35
+      },
+      "snippet": "Overall average, service is poor. On the roof full of mosquito.",
+      "extracted_snippet": {
+        "original": "Overall average, service is poor. On the roof full of mosquito."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 3,
+        "service": 2,
+        "atmosphere": 2
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OWVEzY3ROWFJTVWpOT2FFaEthRmg0VEdOak0xRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOmNYQ3ctNXRSUjNOaEhKaFh4TGNjM1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T15:26:02Z",
+      "iso_date_of_last_edit": "2026-10-27T15:26:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWVEzY3ROWFJTVWpOT2FFaEthRmg0VEdOak0xRRAB",
+      "user": {
+        "name": "Makeover-by- Yashaswini",
+        "link": "https://www.google.com/maps/contrib/117646144389052429209?hl=en",
+        "contributor_id": "117646144389052429209",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUno2UuRbY7f-2xcbxgM6pQVsM8Yj4DTAMsbBnzaJzL2HRzXHuk=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 3
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 days ago",
+        "iso_date": "2026-10-27T17:11:27Z",
+        "iso_date_of_last_edit": "2026-10-27T17:11:27Z",
+        "snippet": "Hi Makeover-by,\n\nWe truly appreciate you taking the time to rate us. It's wonderful to know you enjoyed your visit to NH7 Refuel Restaurant here in Devanahalli. We'd love to serve you our authentic Punjabi flavours again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "extracted_snippet": {
+          "original": "Hi Makeover-by,\n\nWe truly appreciate you taking the time to rate us. It's wonderful to know you enjoyed your visit to NH7 Refuel Restaurant here in Devanahalli. We'd love to serve you our authentic Punjabi flavours again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tac05UbDJhRkppWjNwZk1URTRiVkJpWnpOdWVYYxAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOkZsNTl2aFJiZ3pfMTE4bVBiZzNueXc%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T16:03:02Z",
+      "iso_date_of_last_edit": "2026-10-24T16:03:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tac05UbDJhRkppWjNwZk1URTRiVkJpWnpOdWVYYxAB",
+      "user": {
+        "name": "Dr.Basawaraj Ireddy",
+        "link": "https://www.google.com/maps/contrib/103292787961291232352?hl=en",
+        "contributor_id": "103292787961291232352",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXvCQVxEiDmUxaIm4bkKan92ZRyxEhMt9dliIQ_wmtybM2tKCRs=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Very poor service.",
+      "extracted_snippet": {
+        "original": "Very poor service."
+      },
+      "details": {
+        "food": 3,
+        "service": 1,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tacVMxQXRjSE56Vm1WWldrUjVPVEl0UVV0Vk1uYxAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOkZqS1AtcHNzVmVZWkR5OTItQUtVMnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-24T07:30:40Z",
+      "iso_date_of_last_edit": "2026-10-24T07:30:40Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacVMxQXRjSE56Vm1WWldrUjVPVEl0UVV0Vk1uYxAB",
+      "user": {
+        "name": "Govind Singh",
+        "link": "https://www.google.com/maps/contrib/111452166597950691123?hl=en",
+        "contributor_id": "111452166597950691123",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXb3SLpwfXnsV8ZiYaIy79iN_bjujoTJzSjwcunB8op_UxqOtw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 117
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 days ago",
+        "iso_date": "2026-10-24T09:11:24Z",
+        "iso_date_of_last_edit": "2026-10-24T09:11:24Z",
+        "snippet": "Hi Govind,\n\nThank you for the five-star rating. We're glad you chose to visit us at NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We hope to see you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "extracted_snippet": {
+          "original": "Hi Govind,\n\nThank you for the five-star rating. We're glad you chose to visit us at NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We hope to see you again soon.\n\nWarm regards,\nTeam NH7 Refuel Restaurant"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wUGVqYzJSVU5sZERoSmRqRXhabTF3YmtWV1EwRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOnpPejc2RUNldDhJdjExZm1wbkVWQ0E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "6 days ago",
+      "iso_date": "2026-10-23T17:46:32Z",
+      "iso_date_of_last_edit": "2026-10-23T17:46:32Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUGVqYzJSVU5sZERoSmRqRXhabTF3YmtWV1EwRRAB",
+      "user": {
+        "name": "Andrei Albesteanu",
+        "link": "https://www.google.com/maps/contrib/117244849672676759028?hl=en",
+        "contributor_id": "117244849672676759028",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUCqKBMmH_mWDmpj8cr4nzoEqS8lJnV8h7ziXq42SdSaHA1l2kQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 9,
+        "photos": 26
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,000–1,200",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "recommended_dishes": "Mixed"
+      },
+      "likes": 0,
+      "response": {
+        "date": "6 days ago",
+        "iso_date": "2026-10-23T18:51:18Z",
+        "iso_date_of_last_edit": "2026-10-23T18:51:18Z",
+        "snippet": "Hi Andrei,\n\nThank you for rating us. We're happy you visited NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We look forward to serving you our authentic Punjabi dishes next time you're in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant",
+        "extracted_snippet": {
+          "original": "Hi Andrei,\n\nThank you for rating us. We're happy you visited NH7 Refuel Restaurant on the Hyderabad-Bengaluru Highway in Devanahalli. We look forward to serving you our authentic Punjabi dishes next time you're in the area.\n\nWarm regards,\nTeam NH7 Refuel Restaurant"
+        }
+      }
+    }
+  ]
+}

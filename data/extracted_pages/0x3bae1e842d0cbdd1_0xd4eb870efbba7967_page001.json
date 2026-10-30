@@ -1,0 +1,80 @@
+{
+  "data_id": "0x3bae1e842d0cbdd1:0xd4eb870efbba7967",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Shivaji Restaurant",
+    "place_type": "Non vegetarian restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NGEzUTVOblJ2U3pSaU5VSTJTbEE0ZWxBNFUwRRAB",
+      "author": "vivek sharma",
+      "rating": 4.0,
+      "date": "6 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVFJESmpWVkJ1VVVkeGNXNXlZM2R5U21sSmJrRRAB",
+      "author": "nevin samson",
+      "rating": 1.0,
+      "date": "7 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CYVZIbDVVbkprTjNBME9XSXdVRVppTjBVNGFsRRAB",
+      "author": "Dushey Huli",
+      "rating": 1.0,
+      "date": "8 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRVVWcE1WalpmY2tWNFluUkpaM0pvYlhaRmFVRRAB",
+      "author": "Ravi Suma Ravi Suma",
+      "rating": 5.0,
+      "date": "10 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRlgwRlpXSGRyVVZadVIyTlZaMWswVG1WMmRYYxAB",
+      "author": "Akhil Darsh",
+      "rating": 4.0,
+      "date": "11 months ago",
+      "images": []
+    }
+  ]
+}

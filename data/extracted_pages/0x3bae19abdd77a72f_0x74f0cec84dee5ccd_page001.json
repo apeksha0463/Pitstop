@@ -1,0 +1,79 @@
+{
+  "data_id": "0x3bae19abdd77a72f:0x74f0cec84dee5ccd",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Kanhaji",
+    "place_type": "North Indian restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSc2NIQlVabkJVVW1kSWJGVk9MWE5NYW01M2RsRRAB",
+      "author": "Aadi Kar",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRVFVOUdhbFZvWm13emNHaEplbU5OZUhWUldFRRAB",
+      "author": "Rishabh Sequeira",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMWNsbzRlRmRIZVRkb1IwTmpRMlZrUzB4blprRRAB",
+      "author": "Rakesh Kumar",
+      "rating": 1.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMFZGZDROazVuVm1SM1UySjBjV0prYVhrdFNXYxAB",
+      "author": "Manish Kumar",
+      "rating": 1.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSVE5rdEVjalprYm14Tk1FUk5TazV3ZFZCQmNXYxAB",
+      "author": "Megha R SHETTY",
+      "rating": 2.0,
+      "date": "a month ago",
+      "images": []
+    }
+  ]
+}

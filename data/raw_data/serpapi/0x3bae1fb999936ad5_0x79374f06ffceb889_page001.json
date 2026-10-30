@@ -1,0 +1,230 @@
+{
+  "search_metadata": {
+    "id": "6ae44d06eb6ec5ad2fe4fef5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bfPKd1OKt-SZBlMN31vNLveZlCZ-T9jQFGT5a5IRWaI/6ae44d06eb6ec5ad2fe4fef5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/bfPKd1OKt-SZBlMN31vNLveZlCZ-T9jQFGT5a5IRWaI/6ae44d06eb6ec5ad2fe4fef5.md",
+    "created_at": "2026-10-30 07:53:42 UTC",
+    "processed_at": "2026-10-30 07:53:42 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1fb999936ad5:0x79374f06ffceb889!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/bfPKd1OKt-SZBlMN31vNLveZlCZ-T9jQFGT5a5IRWaI/6ae44d06eb6ec5ad2fe4fef5.html",
+    "prettify_html_file": "https://serpapi.com/searches/bfPKd1OKt-SZBlMN31vNLveZlCZ-T9jQFGT5a5IRWaI/6ae44d06eb6ec5ad2fe4fef5.prettify",
+    "total_time_taken": 0.53
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1fb999936ad5:0x79374f06ffceb889",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Celestial Multicuisine Restaurant",
+    "address": "37, Gate, Down Town Park, Airport Road, near to Airport toll Kempegowda International, Sadahalli, Bengaluru, Karnataka 562110, India",
+    "rating": 4.9,
+    "reviews": 164,
+    "type": "Southeast Asian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "polite staff",
+      "mentions": 4,
+      "id": "B30PdHtYgDQ"
+    },
+    {
+      "keyword": "hospitality",
+      "mentions": 13,
+      "id": "FHdFkJbU8aY"
+    },
+    {
+      "keyword": "ambience",
+      "mentions": 5,
+      "id": "JGvrBjVCxMw"
+    },
+    {
+      "keyword": "cleanliness",
+      "mentions": 3,
+      "id": "WtXhzhVYpO4"
+    },
+    {
+      "keyword": "selection",
+      "mentions": 5,
+      "id": "pFKLQT3kxCo"
+    },
+    {
+      "keyword": "food quality",
+      "mentions": 2,
+      "id": "ANy51bJICSk"
+    },
+    {
+      "keyword": "location",
+      "mentions": 3,
+      "id": "KlvowLLM6cQ"
+    },
+    {
+      "keyword": "team",
+      "mentions": 6,
+      "id": "BTpMWXkFlKs"
+    },
+    {
+      "keyword": "hotel",
+      "mentions": 11,
+      "id": "BxJLqVMc8eY"
+    },
+    {
+      "keyword": "food",
+      "mentions": 13,
+      "id": "BFzIY7owYWU"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsTmJuQTVXa0ZGUVZKNkxWSlBWa05ZZFMxd09XYxAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOklNbnA5WkFFQVJ6LVJPVkNYdS1wOWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "21 hours ago",
+      "iso_date": "2026-10-29T10:09:40Z",
+      "iso_date_of_last_edit": "2026-10-29T10:09:40Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdERUOuFh8tNuu0Dunll98ECCZWUe-YG-ZwQ-n8TPlbm4DpI5ob9LG8GAm0d2ax0zgYyPpmYASpun6h7i6c_e49c_4VOJ6y5KLLruTX6idxIS2q3-m52EGXVGM94dRxCax8GnnI9Sm3Gn7g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfM_5eCCI9S_CuEy_L9BI76mUalTn4eGGbRj2k9dHBLpxwed3mlGY5uaRlf18-sM5YPM5jH_CsXjX5WMkKBvIaCckp-X0kcCwlM-1EaRm1z8-L8P_824AJZSH01MiDEjYwtwz_jYS_pATxO=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe93CVUwUiKRqRS21AZv_ZDAj7FV9xvdwIbh0SEUlwuN5vawIgRXuX0s1RvYzvxFKYkeKPRUlGNWZbbqu--0IVeKQ6Q_QjUlgu5Cfks-taa1bkWaMDZMvbRIaLEKsNfwYRUmR-o5Ceo5kzU=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTmJuQTVXa0ZGUVZKNkxWSlBWa05ZZFMxd09XYxAB",
+      "user": {
+        "name": "suneetha sequeira",
+        "link": "https://www.google.com/maps/contrib/102251033918545534562?hl=en",
+        "contributor_id": "102251033918545534562",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIn9tLD077f0gwjyE0j6_gYQeyXdXbX-y1YIYuZ6LV33PlzYg=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 9
+      },
+      "snippet": "Was there with my friends from office, during office hours.  Had requested for quick service.  Away from the usual menus of rotis and rice.  The food was exceptional.  So wasnthe service.  Thank you Tina.",
+      "extracted_snippet": {
+        "original": "Was there with my friends from office, during office hours.  Had requested for quick service.  Away from the usual menus of rotis and rice.  The food was exceptional.  So wasnthe service.  Thank you Tina."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twMmVrdFhiSEZKTFRCS1FUWlpkMjFtUzBOR1NtYxAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOkp2ektXbHFJLTBKQTZZd21mS0NGSmc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T10:03:34Z",
+      "iso_date_of_last_edit": "2026-10-27T10:03:34Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMmVrdFhiSEZKTFRCS1FUWlpkMjFtUzBOR1NtYxAB",
+      "user": {
+        "name": "Charu Purohit",
+        "link": "https://www.google.com/maps/contrib/103522344622022087321?hl=en",
+        "contributor_id": "103522344622022087321",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX2Q2kKP5Xk1dD55y9M-6kIeP5UOSamAIyP4yyGrk3583yH5qI=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 61
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s4elUwRjFWVzlQVmxwMVdFRkdZbXRHWWs1UGRtYxAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOk8zU0F1VW9PVlp1WEFGYmtGYk5Pdmc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T13:04:33Z",
+      "iso_date_of_last_edit": "2026-10-26T13:04:33Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4elUwRjFWVzlQVmxwMVdFRkdZbXRHWWs1UGRtYxAB",
+      "user": {
+        "name": "Uplift Mindset with Naomi Dent",
+        "link": "https://www.google.com/maps/contrib/110175212711757097482?hl=en",
+        "contributor_id": "110175212711757097482",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWe0tVMxwojfQn8nqTWbZkM5lSjYYE-P6jATGFZyPl-x7l0kUkz=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 0
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "1 person, 2 people, 3-4 people, 5-8 people",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKbWJFVktZV0V4YzBRMU1HcDFYemQwYTJKbU5VRRAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOkJmbEVKYWExc0Q1MGp1Xzd0a2JmNUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T12:55:36Z",
+      "iso_date_of_last_edit": "2026-10-26T12:55:36Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbWJFVktZV0V4YzBRMU1HcDFYemQwYTJKbU5VRRAB",
+      "user": {
+        "name": "Mohammed Zahoor",
+        "link": "https://www.google.com/maps/contrib/110265685307227740223?hl=en",
+        "contributor_id": "110265685307227740223",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUx0QWKplxJSO6lXS2nkMocmb3Eb8rITrOPKzYv9rtQcCeEZkI=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Excellent service, food was amazing",
+      "extracted_snippet": {
+        "original": "Excellent service, food was amazing"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "5-8 people",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1UWVGVkhRWEZJTjBFeVpXZ3lkM2QwV0hSUVdGRRAB!2m1!1s0x0:0x79374f06ffceb889!3m1!1s2@1:CAIQACodChtycF9oOk5QeFVHQXFIN0EyZWgyd3d0WHRQWFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T03:07:10Z",
+      "iso_date_of_last_edit": "2026-10-25T03:07:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UWVGVkhRWEZJTjBFeVpXZ3lkM2QwV0hSUVdGRRAB",
+      "user": {
+        "name": "Aquib Khan",
+        "link": "https://www.google.com/maps/contrib/103295433224568946770?hl=en",
+        "contributor_id": "103295433224568946770",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXOJtXDP0kWhDSOBC-psyVTCJuM1owOj2098Axt42hzo-O71AXqAA=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Great service!",
+      "extracted_snippet": {
+        "original": "Great service!"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "group_size": "1 person",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    }
+  ]
+}

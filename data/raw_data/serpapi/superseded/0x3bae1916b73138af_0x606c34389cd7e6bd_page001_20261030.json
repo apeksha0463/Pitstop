@@ -1,0 +1,217 @@
+{
+  "search_metadata": {
+    "id": "6ae44ce2391b38d5369445b7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WVwRlY3YrYzDP3puypXgwvV_G-cyFpVXO8BjIdzOHKA/6ae44ce2391b38d5369445b7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/WVwRlY3YrYzDP3puypXgwvV_G-cyFpVXO8BjIdzOHKA/6ae44ce2391b38d5369445b7.md",
+    "created_at": "2026-10-30 07:53:06 UTC",
+    "processed_at": "2026-10-30 07:53:06 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1916b73138af:0x606c34389cd7e6bd!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/WVwRlY3YrYzDP3puypXgwvV_G-cyFpVXO8BjIdzOHKA/6ae44ce2391b38d5369445b7.html",
+    "prettify_html_file": "https://serpapi.com/searches/WVwRlY3YrYzDP3puypXgwvV_G-cyFpVXO8BjIdzOHKA/6ae44ce2391b38d5369445b7.prettify",
+    "total_time_taken": 5.6
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1916b73138af:0x606c34389cd7e6bd",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Andhra Vindu Multicuisine Family Restaurant",
+    "address": "183/2, above Corporation Bank, Priyanka Layout, Kattigenahalli, Bagalur, Mainroad, Bengaluru, Karnataka 560064, India",
+    "rating": 4,
+    "reviews": 4038,
+    "type": "Andhra restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "hyderabadi biryani",
+      "mentions": 15,
+      "id": "Kg1B_WJ1Z9M"
+    },
+    {
+      "keyword": "nellore chepala pulusu",
+      "mentions": 10,
+      "id": "Cod4rUW1-s8"
+    },
+    {
+      "keyword": "prawns",
+      "mentions": 20,
+      "id": "AofUPi1L5y4"
+    },
+    {
+      "keyword": "andra style",
+      "mentions": 5,
+      "id": "rWCz2A4QVQ4"
+    },
+    {
+      "keyword": "gongura chicken biryani",
+      "mentions": 5,
+      "id": "GA640UK5q_E"
+    },
+    {
+      "keyword": "golden fried prawns",
+      "mentions": 4,
+      "id": "BMAgA_lZ5xM"
+    },
+    {
+      "keyword": "andra chilly chicken",
+      "mentions": 3,
+      "id": "HQJxe0cBp84"
+    },
+    {
+      "keyword": "andhra vindu",
+      "mentions": 3,
+      "id": "K8vB-GJ93m8"
+    },
+    {
+      "keyword": "chicken bhojanam",
+      "mentions": 2,
+      "id": "LL-glW4ZK8U"
+    },
+    {
+      "keyword": "mutton soup",
+      "mentions": 3,
+      "id": "wSxYEub0M9U"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Wa2JGcDRkMGQwUkhaclJYSktTRGN5WmtNM05GRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOnVkbFp4d0d0RHZrRXJKSDcyZkM3NFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "8 hours ago",
+      "iso_date": "2026-10-29T23:01:24Z",
+      "iso_date_of_last_edit": "2026-10-29T23:01:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wa2JGcDRkMGQwUkhaclJYSktTRGN5WmtNM05GRRAB",
+      "user": {
+        "name": "Sanjiv Arora",
+        "link": "https://www.google.com/maps/contrib/101686117288155037021?hl=en",
+        "contributor_id": "101686117288155037021",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWIvyANqs0f6CdHnbdM403z4eL3fedZzvuav1lbBaAEvJbHTe8=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 14
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WVlYzcFJUREZOV2xaUWFEbHdXVWRQZWtaNFJsRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOmVVV3pRTDFNWlZQaDlwWUdPekZ4RlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T00:39:41Z",
+      "iso_date_of_last_edit": "2026-10-27T00:39:41Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVlYzcFJUREZOV2xaUWFEbHdXVWRQZWtaNFJsRRAB",
+      "user": {
+        "name": "Selvendiran R",
+        "link": "https://www.google.com/maps/contrib/114867223068797761873?hl=en",
+        "contributor_id": "114867223068797761873",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX4uQnEcORtnwivQoqIHFietzrQGqgv1FhKR7uzUXZJQG-DWUA_=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21zMGNYYzBlVzg1VEdSVlRGbzBWMDh3V21KYVNYYxAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOms0cXc0eW85TGRVTFo0V08wWmJaSXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T15:55:01Z",
+      "iso_date_of_last_edit": "2026-10-26T15:55:01Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMGNYYzBlVzg1VEdSVlRGbzBWMDh3V21KYVNYYxAB",
+      "user": {
+        "name": "Ripu Singh",
+        "link": "https://www.google.com/maps/contrib/100136763509384535106?hl=en",
+        "contributor_id": "100136763509384535106",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUaNwixyEtAHee48sXSyHMyfOW-yep25m9CO632wr-QJLgiqHF0cw=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Had a wonderful dining experience at Andhra vindu  Restaurant. The food was authentic and full of flavors. Special thanks to Aamir for his warm hospitality and attentive service. He made sure everything was perfect. Highly recommended!",
+      "extracted_snippet": {
+        "original": "Had a wonderful dining experience at Andhra vindu  Restaurant. The food was authentic and full of flavors. Special thanks to Aamir for his warm hospitality and attentive service. He made sure everything was perfect. Highly recommended!"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGSmJrb3hNbEpaUjBwUFZFRlFZalZJVm14R1lrRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOjFJbkoxMlJZR0pPVEFQYjVIVmxGYkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T12:19:16Z",
+      "iso_date_of_last_edit": "2026-10-22T12:19:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSmJrb3hNbEpaUjBwUFZFRlFZalZJVm14R1lrRRAB",
+      "user": {
+        "name": "Anushka Suryanshi",
+        "link": "https://www.google.com/maps/contrib/104787479607360024760?hl=en",
+        "contributor_id": "104787479607360024760",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXjNXI1e0RJnPiuskZNBJntc32KyqAMwnnbNz2mBrTqRD0S2tqM=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 1
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4,
+        "noise_level": "Moderate noise",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGU1RYWldaRFp0VTNOd1lrSjBTRTFDV1d0SmFsRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOjFSTXZWZDZtU3NwYkJ0SE1CWWtJalE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-22T02:41:56Z",
+      "iso_date_of_last_edit": "2026-10-22T02:41:56Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGU1RYWldaRFp0VTNOd1lrSjBTRTFDV1d0SmFsRRAB",
+      "user": {
+        "name": "s.naveen kumar",
+        "link": "https://www.google.com/maps/contrib/100923551951005196080?hl=en",
+        "contributor_id": "100923551951005196080",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXFhJw9cN9mvxxYyFJqsPDClsf8V5afMY0ybbfl4_CCAo1OMUwA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 24,
+        "photos": 196
+      },
+      "snippet": "Worst Restaurant giving stalled food chicken with frozen bheemavaram chicken was completely bad smell , returned and then 2nd time given fully salty ,and not even care abt customers,Asked water and waited for 20 minutes instead of hot water normal water kettle was given and many items not even properly cooked , special biriyani av was worst",
+      "extracted_snippet": {
+        "original": "Worst Restaurant giving stalled food chicken with frozen bheemavaram chicken was completely bad smell , returned and then 2nd time given fully salty ,and not even care abt customers,Asked water and waited for 20 minutes instead of hot water normal water kettle was given and many items not even properly cooked , special biriyani av was worst"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "price_per_person": "₹1,000–1,200",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "recommended_dishes": "Tandoori Chicken, Chicken Tandoori, Chicken 65",
+        "parking_options": "Free street parking"
+      },
+      "likes": 0
+    }
+  ]
+}

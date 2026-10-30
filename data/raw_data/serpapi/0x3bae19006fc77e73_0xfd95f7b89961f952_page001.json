@@ -1,0 +1,244 @@
+{
+  "search_metadata": {
+    "id": "6ae44cc70a766747ab129615",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XVKwVVEh65istnxdwHrIvx-Crre42unNxaM_x3_DZRM/6ae44cc70a766747ab129615.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XVKwVVEh65istnxdwHrIvx-Crre42unNxaM_x3_DZRM/6ae44cc70a766747ab129615.md",
+    "created_at": "2026-10-30 07:52:39 UTC",
+    "processed_at": "2026-10-30 07:52:39 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19006fc77e73:0xfd95f7b89961f952!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/XVKwVVEh65istnxdwHrIvx-Crre42unNxaM_x3_DZRM/6ae44cc70a766747ab129615.html",
+    "prettify_html_file": "https://serpapi.com/searches/XVKwVVEh65istnxdwHrIvx-Crre42unNxaM_x3_DZRM/6ae44cc70a766747ab129615.prettify",
+    "total_time_taken": 0.8
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19006fc77e73:0xfd95f7b89961f952",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Udupi Sambrama",
+    "address": "No 64/153, kogilu AIRPORT ROAD, Kurlappa Layout, signal, Yelahanka, Bengaluru, Karnataka 560064, India",
+    "rating": 4.5,
+    "reviews": 368,
+    "type": "Vegetarian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "masala puri",
+      "mentions": 3,
+      "id": "ogyt_bfmeok"
+    },
+    {
+      "keyword": "masala dosa",
+      "mentions": 6,
+      "id": "gRqo30Mwcms"
+    },
+    {
+      "keyword": "chutney",
+      "mentions": 2,
+      "id": "YD3JP_Zmbk8"
+    },
+    {
+      "keyword": "roti curry",
+      "mentions": 2,
+      "id": "EC5xfSoFL9k"
+    },
+    {
+      "keyword": "nagaraja",
+      "mentions": 4,
+      "id": "Ss8KuAEQb0s"
+    },
+    {
+      "keyword": "super coffee",
+      "mentions": 3,
+      "id": "D-Uy-9JaCtw"
+    },
+    {
+      "keyword": "fresh food",
+      "mentions": 2,
+      "id": "DPyThL0oDHU"
+    },
+    {
+      "keyword": "nagraj",
+      "mentions": 7,
+      "id": "bk02PIEQWns"
+    },
+    {
+      "keyword": "sugar",
+      "mentions": 3,
+      "id": "JySsQ_l7IHA"
+    },
+    {
+      "keyword": "coffee",
+      "mentions": 4,
+      "id": "Dv_I4_PcKW0"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214aVkwaFNTVFZJYlVSdFRGaEVTbmhuVFU5VWRsRRAB!2m1!1s0x0:0xfd95f7b89961f952!3m1!1s2@1:CAIQACodChtycF9oOmxiY0hSSTVIbURtTFhESnhnTU9UdlE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "21 hours ago",
+      "iso_date": "2026-10-29T09:56:55Z",
+      "iso_date_of_last_edit": "2026-10-29T09:56:55Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aVkwaFNTVFZJYlVSdFRGaEVTbmhuVFU5VWRsRRAB",
+      "user": {
+        "name": "Prachi Sharma",
+        "link": "https://www.google.com/maps/contrib/113293694638073264698?hl=en",
+        "contributor_id": "113293694638073264698",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUhvERu-BR5w1xqUjh2PtwtMZIWoUTXGVYbO46oU_YHPK6lsyX-=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 0
+      },
+      "snippet": "Never visit this restaurant again The pomegranate juice was absolutely disgusting as they served it with the peel and added way too much sugar The quantity was also very less The idli and sambar tasted terrible and the service quality was extremely poor Overall a completely disappointing experience with bad food poor service and pathetic quality Definitely not recommended",
+      "extracted_snippet": {
+        "original": "Never visit this restaurant again The pomegranate juice was absolutely disgusting as they served it with the peel and added way too much sugar The quantity was also very less The idli and sambar tasted terrible and the service quality was extremely poor Overall a completely disappointing experience with bad food poor service and pathetic quality Definitely not recommended"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "wait_time": "Up to 10 min"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSdWRuSkxSbDlSYm1FeGVEQTBiMVJXWkhaU1owRRAB!2m1!1s0x0:0xfd95f7b89961f952!3m1!1s2@1:CAIQACodChtycF9oOkRudnJLRl9RbmExeDA0b1RWZHZSZ0E%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T03:23:43Z",
+      "iso_date_of_last_edit": "2026-10-27T03:23:43Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdWRuSkxSbDlSYm1FeGVEQTBiMVJXWkhaU1owRRAB",
+      "user": {
+        "name": "Arjun Bandi",
+        "link": "https://www.google.com/maps/contrib/115146800018819363292?hl=en",
+        "contributor_id": "115146800018819363292",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU42gopAC3HKIz0izTMxyUbPE95ALSw7wlUy4fXM7_FMkYvyBAX=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 42,
+        "photos": 1
+      },
+      "snippet": "Very bad food",
+      "extracted_snippet": {
+        "original": "Very bad food"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSWk1YUjRiblJNVmpGcVdFMUNhRWRIZVRKeGFrRRAB!2m1!1s0x0:0xfd95f7b89961f952!3m1!1s2@1:CAIQACodChtycF9oOkRZMXR4bnRMVjFqWE1CaEdHeTJxakE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T12:45:45Z",
+      "iso_date_of_last_edit": "2026-10-21T12:45:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWk1YUjRiblJNVmpGcVdFMUNhRWRIZVRKeGFrRRAB",
+      "user": {
+        "name": "Gurudeep Rao",
+        "link": "https://www.google.com/maps/contrib/103570271438346756194?hl=en",
+        "contributor_id": "103570271438346756194",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUcL7sV_WZE1gkqHyRLjgLUMQbELXTF5B67TK5PZbXiNH7Jza9Q=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 52,
+        "photos": 33
+      },
+      "snippet": "Food was awful\nDo not ever order biryani gobi manchuri  or any other North Indian or Chinese food items\nYou cannot even touch that food\nWorst taste worst food\nSkip this restaurant please",
+      "extracted_snippet": {
+        "original": "Food was awful\nDo not ever order biryani gobi manchuri  or any other North Indian or Chinese food items\nYou cannot even touch that food\nWorst taste worst food\nSkip this restaurant please"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 2,
+        "reservation": "Reservations not required",
+        "group_size": "2 people",
+        "recommendation_for_vegetarians": "Not sure",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Not sure"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwcFZVVnJNR2xZVVdoc2JVZFBibk01VmxNeE0zYxAB!2m1!1s0x0:0xfd95f7b89961f952!3m1!1s2@1:CAIQACodChtycF9oOlppVUVrMGlYUWhsbUdPbnM5VlMxM3c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T15:28:24Z",
+      "iso_date_of_last_edit": "2026-10-19T15:28:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcFZVVnJNR2xZVVdoc2JVZFBibk01VmxNeE0zYxAB",
+      "user": {
+        "name": "Plvi",
+        "link": "https://www.google.com/maps/contrib/101465958618822378215?hl=en",
+        "contributor_id": "101465958618822378215",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLE4FYth_8Jy3L-jT97Q5eSEtrYLOsHMttNCvD0HoAYMsHkrQ=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "A Udupi hotel that doesn't have South Indian meals. Sambrama indeed.",
+      "extracted_snippet": {
+        "original": "A Udupi hotel that doesn't have South Indian meals. Sambrama indeed."
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WMVlWcExiSFpPZUV0aVlpMTNTME13YVZkMmFtYxAB!2m1!1s0x0:0xfd95f7b89961f952!3m1!1s2@1:CAIQACodChtycF9oOnV1YVpLbHZOeEtiYi13S0MwaVd2amc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T05:32:22Z",
+      "iso_date_of_last_edit": "2026-10-10T05:32:22Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc2If3pamzsQD2W6wUCslrJHHOnPrUX1KVOJD5Nz3-5dnPSIlZ6XjinIp-0nGn52kE8s9Qhmc3s7xR4RZQPVMSVqIq08VFcTBPIebJSZKIyNGuwV_yOTPk4hgegruDBvHURIJEL6pnbr1A=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMVlWcExiSFpPZUV0aVlpMTNTME13YVZkMmFtYxAB",
+      "user": {
+        "name": "Shrasti Rajput",
+        "link": "https://www.google.com/maps/contrib/110719956972715400141?hl=en",
+        "contributor_id": "110719956972715400141",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL9mLDlcedVbNQr9_eU5-gXolh91VZqh86kl1I91ugwO5UdF6Y=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 1
+      },
+      "snippet": "It was good experience",
+      "extracted_snippet": {
+        "original": "It was good experience"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "No",
+        "dietary_restrictions": "No",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "No",
+        "kid_friendliness": "Yes",
+        "wheelchair_accessibility": "Yes"
+      },
+      "likes": 0
+    }
+  ]
+}

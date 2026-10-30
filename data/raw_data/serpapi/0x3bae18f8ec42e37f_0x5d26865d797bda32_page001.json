@@ -1,0 +1,191 @@
+{
+  "search_metadata": {
+    "id": "6ae44ccae3567ad0c6a491e1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vRi-YdAuo4AjRlCpqzZ0-UXY0TtDrIajdLBU-eitLL4/6ae44ccae3567ad0c6a491e1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vRi-YdAuo4AjRlCpqzZ0-UXY0TtDrIajdLBU-eitLL4/6ae44ccae3567ad0c6a491e1.md",
+    "created_at": "2026-10-30 07:52:42 UTC",
+    "processed_at": "2026-10-30 07:52:42 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae18f8ec42e37f:0x5d26865d797bda32!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/vRi-YdAuo4AjRlCpqzZ0-UXY0TtDrIajdLBU-eitLL4/6ae44ccae3567ad0c6a491e1.html",
+    "prettify_html_file": "https://serpapi.com/searches/vRi-YdAuo4AjRlCpqzZ0-UXY0TtDrIajdLBU-eitLL4/6ae44ccae3567ad0c6a491e1.prettify",
+    "total_time_taken": 2.13
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae18f8ec42e37f:0x5d26865d797bda32",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Gokul Veg Yelahanka",
+    "address": "Kogilu Cross Kempegowda International Airport Road, Yelahanka, Bengaluru, Karnataka 560064, India",
+    "rating": 3.9,
+    "reviews": 3405,
+    "type": "Family restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "vegetarian food",
+      "mentions": 105,
+      "id": "AYzLkadofQA"
+    },
+    {
+      "keyword": "vada",
+      "mentions": 22,
+      "id": "A8vA_gNj5wc"
+    },
+    {
+      "keyword": "idly",
+      "mentions": 6,
+      "id": "RytCSTkF3-8"
+    },
+    {
+      "keyword": "north indian food",
+      "mentions": 27,
+      "id": "KU6D_TolXnc"
+    },
+    {
+      "keyword": "south indian food",
+      "mentions": 24,
+      "id": "Jk-Caz57Xj4"
+    },
+    {
+      "keyword": "masala dosa",
+      "mentions": 6,
+      "id": "gRqo30Mwcms"
+    },
+    {
+      "keyword": "paneer curry",
+      "mentions": 4,
+      "id": "WixRnejUOJk"
+    },
+    {
+      "keyword": "mushroom ghee roast",
+      "mentions": 3,
+      "id": "QSQwG6f1L3c"
+    },
+    {
+      "keyword": "dal kichidi",
+      "mentions": 3,
+      "id": "QC3Yrxqo_yM"
+    },
+    {
+      "keyword": "jain food",
+      "mentions": 4,
+      "id": "BV-7ASk4e6U"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOcVVHa3lUa2RXUzNOdVRrTkdTMmhvY1dRM1QxRRAB!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CAIQACodChtycF9oOjNqUGkyTkdWS3NuTkNGS2hocWQ3T1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "10 hours ago",
+      "iso_date": "2026-10-29T21:02:36Z",
+      "iso_date_of_last_edit": "2026-10-29T21:02:36Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcVVHa3lUa2RXUzNOdVRrTkdTMmhvY1dRM1QxRRAB",
+      "user": {
+        "name": "Lokesh lucky",
+        "link": "https://www.google.com/maps/contrib/102865059790564844707?hl=en",
+        "contributor_id": "102865059790564844707",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUSCxbAhoDQWYDXdvVOD7RhXK9LMpX93W7rWzEbhvy1AXtdty6i8A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 15,
+        "photos": 30
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGMGVuVnFjVWsxTWxVd1YxWXhVVmt0YW5obVJrRRAB!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CAIQACodChtycF9oOlF0enVqcUk1MlUwV1YxUVktanhmRkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T01:33:21Z",
+      "iso_date_of_last_edit": "2026-10-27T01:33:21Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMGVuVnFjVWsxTWxVd1YxWXhVVmt0YW5obVJrRRAB",
+      "user": {
+        "name": "Vimal Singh",
+        "link": "https://www.google.com/maps/contrib/115199526996050311225?hl=en",
+        "contributor_id": "115199526996050311225",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVZGOB2x5pJlR8UFE0hPSknpS4KmK8bkhxmJdDpKANeFbciUdQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 10,
+        "photos": 172
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKMGVUVXRZVUpqWDFSMFNYRXhRVTFGTVhJNGVYYxAB!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CAIQACodChtycF9oOlJ0eTUtYUJjX1R0SXExQU1FMXI4eXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T18:43:26Z",
+      "iso_date_of_last_edit": "2026-10-18T18:43:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKMGVUVXRZVUpqWDFSMFNYRXhRVTFGTVhJNGVYYxAB",
+      "user": {
+        "name": "vivek gupta",
+        "link": "https://www.google.com/maps/contrib/102345107007387911219?hl=en",
+        "contributor_id": "102345107007387911219",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXzxr1ZEs885_uDLEM3OqG8VM-dPb_wSZB0BKnMe6BLHQYwQwrH=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 22,
+        "photos": 7
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sV1JpMU1XRmhDWW5KUU5taHdiMmRSVEhaU2VrRRAB!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CAIQACodChtycF9oOnlWRi1MWFhCYnJQNmhwb2dRTHZSekE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-16T17:25:35Z",
+      "iso_date_of_last_edit": "2026-10-16T17:25:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sV1JpMU1XRmhDWW5KUU5taHdiMmRSVEhaU2VrRRAB",
+      "user": {
+        "name": "VenkataKiran Pothuri",
+        "link": "https://www.google.com/maps/contrib/117500433157992077048?hl=en",
+        "contributor_id": "117500433157992077048",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLAQ0cT-m4UUbwZxPychnIzhY40GSKh6ZgV4mbgZcQr3tXkE3c=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 46,
+        "photos": 2
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tvME1IcEdXWFo2ZEhOM2REWXRZbEY0VUVGNlpGRRAB!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CAIQACodChtycF9oOko0MHpGWXZ6dHN3dDYtYlF4UEF6ZFE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-14T10:52:53Z",
+      "iso_date_of_last_edit": "2026-10-14T10:52:53Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvME1IcEdXWFo2ZEhOM2REWXRZbEY0VUVGNlpGRRAB",
+      "user": {
+        "name": "Abdul Karim",
+        "link": "https://www.google.com/maps/contrib/105992314074862150063?hl=en",
+        "contributor_id": "105992314074862150063",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJCuyH__IrSirVxK_J3vp8g9NJYJIHqUiy21RgS0fwNuGnveA=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "food": 2,
+        "service": 2,
+        "atmosphere": 3
+      },
+      "likes": 0
+    }
+  ]
+}

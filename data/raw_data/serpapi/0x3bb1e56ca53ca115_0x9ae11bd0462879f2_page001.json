@@ -1,0 +1,229 @@
+{
+  "search_metadata": {
+    "id": "6ae44d2ed6c089f2fd347cad",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0U4ENiLCWgf3yohoa0_NEcXE3XL68LsI8B3P4mPviPw/6ae44d2ed6c089f2fd347cad.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0U4ENiLCWgf3yohoa0_NEcXE3XL68LsI8B3P4mPviPw/6ae44d2ed6c089f2fd347cad.md",
+    "created_at": "2026-10-30 07:54:22 UTC",
+    "processed_at": "2026-10-30 07:54:22 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e56ca53ca115:0x9ae11bd0462879f2!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/0U4ENiLCWgf3yohoa0_NEcXE3XL68LsI8B3P4mPviPw/6ae44d2ed6c089f2fd347cad.html",
+    "prettify_html_file": "https://serpapi.com/searches/0U4ENiLCWgf3yohoa0_NEcXE3XL68LsI8B3P4mPviPw/6ae44d2ed6c089f2fd347cad.prettify",
+    "total_time_taken": 0.75
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e56ca53ca115:0x9ae11bd0462879f2",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Barun Nati Style Family Restaurant",
+    "address": "BB Rd, Chikkaballapur, Karnataka 562103, India",
+    "rating": 4,
+    "reviews": 116,
+    "type": "Family restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "mutton biriyani",
+      "mentions": 11,
+      "id": "MT0hXK5zIxk"
+    },
+    {
+      "keyword": "chicken kabab",
+      "mentions": 5,
+      "id": "UDPQNV2Jq8U"
+    },
+    {
+      "keyword": "biryani",
+      "mentions": 9,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "dal fry",
+      "mentions": 2,
+      "id": "B9pwzY2pbSs"
+    },
+    {
+      "keyword": "nati style",
+      "mentions": 2,
+      "id": "ATyM_UoeXE8"
+    },
+    {
+      "keyword": "dhaba",
+      "mentions": 2,
+      "id": "F8um1kNod8M"
+    },
+    {
+      "keyword": "kebab",
+      "mentions": 10,
+      "id": "Fm-IajV7uec"
+    },
+    {
+      "keyword": "plants",
+      "mentions": 2,
+      "id": "SAVJlPynQGw"
+    },
+    {
+      "keyword": "homemade food",
+      "mentions": 2,
+      "id": "Hc6VHbo5fmU"
+    },
+    {
+      "keyword": "quantity",
+      "mentions": 6,
+      "id": "DC_1x7MBCAk"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sdk9YTTBObFJLTFdSTlJqSnFOVVpvTjFwTU1sRRAB!2m1!1s0x0:0x9ae11bd0462879f2!3m1!1s2@1:CAIQACodChtycF9oOmlvOXM0NlRKLWRNRjJqNUZoN1pMMlE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T15:32:00Z",
+      "iso_date_of_last_edit": "2026-10-28T15:32:00Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdk9YTTBObFJLTFdSTlJqSnFOVVpvTjFwTU1sRRAB",
+      "user": {
+        "name": "poola eswar",
+        "link": "https://www.google.com/maps/contrib/113833006091898347609?hl=en",
+        "contributor_id": "113833006091898347609",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXWJbOXBQHqlxMUXiENxrbBJD8Q00_dWoeCzofELDpv-RkuZvvJ0Q=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "food": 1,
+        "service": 2,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VOTzA5Y0dkNTYzRC1nRRAB!2m1!1s0x0:0x9ae11bd0462879f2!3m1!1s2@1:CIHM0ogKENO09cGd563D-gE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited 5 days ago",
+      "iso_date": "2025-05-16T15:31:57Z",
+      "iso_date_of_last_edit": "2026-10-24T08:44:19Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VOTzA5Y0dkNTYzRC1nRRAB",
+      "user": {
+        "name": "Shahid Empire",
+        "link": "https://www.google.com/maps/contrib/112423671225749170632?hl=en",
+        "contributor_id": "112423671225749170632",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVNKqNS_Fq8J_170Ts7521nq9IAxzWyYuqQfPruemNDudNBn-63KQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 29
+      },
+      "snippet": "Delicious food and ambience of restaurant is excellent ♥️",
+      "extracted_snippet": {
+        "original": "Delicious food and ambience of restaurant is excellent ♥️"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGRFgxSjBOREpLYkVvNVZHOWxPVzltUkhGbFduYxAB!2m1!1s0x0:0x9ae11bd0462879f2!3m1!1s2@1:CAIQACodChtycF9oOlFDX1J0NDJKbEo5VG9lOW9mRHFlWnc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-09-30T15:16:44Z",
+      "iso_date_of_last_edit": "2026-09-30T15:16:44Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLepVMTfnf-ng0mSov3Vdi0awSInnt3OQOnv950q8cIa5e8g5Jr6VHbB35x5dz_Xe-5GBnYtbAZlqW95Jk-Glifzfhi0ZLGEb1tuxSjDl6X96Ll9dj9RlmcL-qFJrBA52X9ZB0bjFG1N5Mac=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRFgxSjBOREpLYkVvNVZHOWxPVzltUkhGbFduYxAB",
+      "user": {
+        "name": "chandra shekar",
+        "link": "https://www.google.com/maps/contrib/113058252251082797678?hl=en",
+        "contributor_id": "113058252251082797678",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUKCdf8-IbIhPoQme1PumUaDB06ypH5b7dW6MDJcQyFjrnWuHAe=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 50,
+        "photos": 44
+      },
+      "snippet": "Worst biryani i ever eat. Worst worst worst... Don't eat anything in this hotel",
+      "extracted_snippet": {
+        "original": "Worst biryani i ever eat. Worst worst worst... Don't eat anything in this hotel"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKWGVVMUJSbTB0ZW5OR1JrUjVlVmR0TkdNM1drRRAB!2m1!1s0x0:0x9ae11bd0462879f2!3m1!1s2@1:CAIQACodChtycF9oOkJXeU1BRm0tenNGRkR5eVdtNGM3WkE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T17:37:37Z",
+      "iso_date_of_last_edit": "2026-09-13T17:37:37Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWGVVMUJSbTB0ZW5OR1JrUjVlVmR0TkdNM1drRRAB",
+      "user": {
+        "name": "Jayaprathap S",
+        "link": "https://www.google.com/maps/contrib/114092842541346399302?hl=en",
+        "contributor_id": "114092842541346399302",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKi6vfQDPFB7wjf6Emvjz_aA_jswkoalJf8nbePXA23x1YwQbgq=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Too much of rate , billing extra amount he's asking 60 rupees extra ,very bad hotel",
+      "extracted_snippet": {
+        "original": "Too much of rate , billing extra amount he's asking 60 rupees extra ,very bad hotel"
+      },
+      "details": {
+        "food": 2,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaQmRqRTRkM1o2YkVKTGRuSk1TVWszWDB0cmJrRRAB!2m1!1s0x0:0x9ae11bd0462879f2!3m1!1s2@1:CAIQACodChtycF9oOlZBdjE4d3Z6bEJLdnJMSUk3X0trbkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-13T12:46:39Z",
+      "iso_date_of_last_edit": "2026-08-13T12:46:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQmRqRTRkM1o2YkVKTGRuSk1TVWszWDB0cmJrRRAB",
+      "user": {
+        "name": "Nagendraprasad K N",
+        "link": "https://www.google.com/maps/contrib/112761309760567174000?hl=en",
+        "contributor_id": "112761309760567174000",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUCDRATpdW-Ffl8_c8Mo51RZGXubryRl49oqIufmj-ClNj5VJk=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 61,
+        "photos": 30
+      },
+      "snippet": "Taste was good with affordable price.",
+      "extracted_snippet": {
+        "original": "Taste was good with affordable price."
+      },
+      "details": {
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "2 people, 3-4 people, 5-8 people",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    }
+  ]
+}

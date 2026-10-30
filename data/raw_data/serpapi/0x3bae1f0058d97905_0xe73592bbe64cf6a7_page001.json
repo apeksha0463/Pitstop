@@ -1,0 +1,212 @@
+{
+  "search_metadata": {
+    "id": "6ae44d08a208021472b7d7ff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FgrsOV6Mvw5C4vCDX23MhBhu-APHZF8iAyolHDV5wGs/6ae44d08a208021472b7d7ff.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FgrsOV6Mvw5C4vCDX23MhBhu-APHZF8iAyolHDV5wGs/6ae44d08a208021472b7d7ff.md",
+    "created_at": "2026-10-30 07:53:44 UTC",
+    "processed_at": "2026-10-30 07:53:44 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1f0058d97905:0xe73592bbe64cf6a7!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/FgrsOV6Mvw5C4vCDX23MhBhu-APHZF8iAyolHDV5wGs/6ae44d08a208021472b7d7ff.html",
+    "prettify_html_file": "https://serpapi.com/searches/FgrsOV6Mvw5C4vCDX23MhBhu-APHZF8iAyolHDV5wGs/6ae44d08a208021472b7d7ff.prettify",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1f0058d97905:0xe73592bbe64cf6a7",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "SWAMY VAIBHAVA",
+    "address": "Sadahalli, Karnataka 562110, India",
+    "rating": 4.2,
+    "reviews": 107,
+    "type": "Family restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "south indian food",
+      "mentions": 3,
+      "id": "Jk-Caz57Xj4"
+    },
+    {
+      "keyword": "fast working",
+      "mentions": 2,
+      "id": "FfeMkAnpiSo"
+    },
+    {
+      "keyword": "super food",
+      "mentions": 3,
+      "id": "DMyr97Y6_NE"
+    },
+    {
+      "keyword": "cleanliness",
+      "mentions": 3,
+      "id": "WtXhzhVYpO4"
+    },
+    {
+      "keyword": "food quality",
+      "mentions": 2,
+      "id": "ANy51bJICSk"
+    },
+    {
+      "keyword": "food",
+      "mentions": 12,
+      "id": "BFzIY7owYWU"
+    },
+    {
+      "keyword": "hotel",
+      "mentions": 3,
+      "id": "BxJLqVMc8eY"
+    },
+    {
+      "keyword": "puri",
+      "mentions": 3,
+      "id": "Cg1o9EBm6u0"
+    },
+    {
+      "keyword": "indian food",
+      "mentions": 2,
+      "id": "C96F8fhnXm8"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sdUxURlJhek5xVVZSS01WQTNiMUJZYWkxdE5uYxAB!2m1!1s0x0:0xe73592bbe64cf6a7!3m1!1s2@1:CAIQACodChtycF9oOmluLTFRazNqUVRKMVA3b1BYai1tNnc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T11:44:04Z",
+      "iso_date_of_last_edit": "2026-10-18T11:44:04Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdUxURlJhek5xVVZSS01WQTNiMUJZYWkxdE5uYxAB",
+      "user": {
+        "name": "vijayeendra kumsi",
+        "link": "https://www.google.com/maps/contrib/100469050299397043704?hl=en",
+        "contributor_id": "100469050299397043704",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVOPCczgKOSKFD0Mher1rrOywJ7D1ELzdEmdFvC-ze5Z57JCD1B=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 13,
+        "photos": 4
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GbFJIWmtVR1pqTkdKblFuRTJRM1p3VVc4elRtYxAB!2m1!1s0x0:0xe73592bbe64cf6a7!3m1!1s2@1:CAIQACodChtycF9oOmFlRHZkUGZjNGJnQnE2Q3ZwUW8zTmc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-17T05:54:54Z",
+      "iso_date_of_last_edit": "2026-10-17T05:54:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbFJIWmtVR1pqTkdKblFuRTJRM1p3VVc4elRtYxAB",
+      "user": {
+        "name": "CTRL A AUTOMATION AND FABRICATION",
+        "link": "https://www.google.com/maps/contrib/111030372032427891477?hl=en",
+        "contributor_id": "111030372032427891477",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW5DBsNX7-ODoyuMEXVgAfvuKOi_Uir9IlkHd1x7fEweYesx3sH=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 149,
+        "photos": 11
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWNGJtOXNObU53Y2xoamNWWnRUMjFPYVhaeFZFRRAB!2m1!1s0x0:0xe73592bbe64cf6a7!3m1!1s2@1:CAIQACodChtycF9oOjV4bm9sNmNwclhjcVZtT21OaXZxVEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-30T02:05:02Z",
+      "iso_date_of_last_edit": "2026-09-30T02:05:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNGJtOXNObU53Y2xoamNWWnRUMjFPYVhaeFZFRRAB",
+      "user": {
+        "name": "Suresh Bishnoi",
+        "link": "https://www.google.com/maps/contrib/110808142415649431570?hl=en",
+        "contributor_id": "110808142415649431570",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKY-pO4t3WVsgoVVj5T8L0s-83qtHb7r9GOlVO4Rr64Xr270w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 63,
+        "photos": 64
+      },
+      "snippet": "Super",
+      "extracted_snippet": {
+        "original": "Super"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "3-4 people"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OdmRVbFVlbWw0WTJjd1QzQkJZMko0VlhGNlRtYxAB!2m1!1s0x0:0xe73592bbe64cf6a7!3m1!1s2@1:CAIQACodChtycF9oOmNvdUlUeml4Y2cwT3BBY2J4VXF6Tmc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-29T12:52:49Z",
+      "iso_date_of_last_edit": "2026-09-29T12:52:49Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdmRVbFVlbWw0WTJjd1QzQkJZMko0VlhGNlRtYxAB",
+      "user": {
+        "name": "Hemanthhemu05 Hemanthhemu05",
+        "link": "https://www.google.com/maps/contrib/107693506269165310187?hl=en",
+        "contributor_id": "107693506269165310187",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXlz5YPFhgZO6gUkAFpBuwsYBMTwWSfCWAYsAE2ejoyAsk2TEwV=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 22,
+        "photos": 0
+      },
+      "snippet": "Good 👍",
+      "extracted_snippet": {
+        "original": "Good 👍"
+      },
+      "details": {
+        "food": 3,
+        "service": 3,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CRVozbGtjSGgxUlVOaE0zbzFSMDUzTXpkck5YYxAB!2m1!1s0x0:0xe73592bbe64cf6a7!3m1!1s2@1:CAIQACodChtycF9oOnBEZ3lkcHh1RUNhM3o1R053MzdrNXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-11T17:58:58Z",
+      "iso_date_of_last_edit": "2026-09-11T17:58:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRVozbGtjSGgxUlVOaE0zbzFSMDUzTXpkck5YYxAB",
+      "user": {
+        "name": "Murali G",
+        "link": "https://www.google.com/maps/contrib/117125343784244861859?hl=en",
+        "contributor_id": "117125343784244861859",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIuZ1-2MYSOnz-D8VffaijcSGHqeaoKXYzfilwJf5f7VKD1tA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 14,
+        "photos": 25
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    }
+  ]
+}

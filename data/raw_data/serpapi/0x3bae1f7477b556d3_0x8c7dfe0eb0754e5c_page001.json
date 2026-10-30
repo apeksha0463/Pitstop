@@ -1,0 +1,227 @@
+{
+  "search_metadata": {
+    "id": "6ae44cf58d42f8a8c2577d9d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9qpMAFuHNo0gF-1vgmjdJS7BSeeb3cmbWqvxoPdxI3Y/6ae44cf58d42f8a8c2577d9d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/9qpMAFuHNo0gF-1vgmjdJS7BSeeb3cmbWqvxoPdxI3Y/6ae44cf58d42f8a8c2577d9d.md",
+    "created_at": "2026-10-30 07:53:25 UTC",
+    "processed_at": "2026-10-30 07:53:26 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1f7477b556d3:0x8c7dfe0eb0754e5c!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/9qpMAFuHNo0gF-1vgmjdJS7BSeeb3cmbWqvxoPdxI3Y/6ae44cf58d42f8a8c2577d9d.html",
+    "prettify_html_file": "https://serpapi.com/searches/9qpMAFuHNo0gF-1vgmjdJS7BSeeb3cmbWqvxoPdxI3Y/6ae44cf58d42f8a8c2577d9d.prettify",
+    "total_time_taken": 0.69
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1f7477b556d3:0x8c7dfe0eb0754e5c",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Beijing Bites - Chikkajalla",
+    "address": "No 11/1, 2nd Floor New Airport Road Kadiganahalli Village Bellery Road, North, above Third Wave Coffee, Chikkajala, Bengaluru, Karnataka 562157, India",
+    "rating": 4.5,
+    "reviews": 526,
+    "type": "Chinese restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "momos",
+      "mentions": 10,
+      "id": "AR6Mj_IWYHc"
+    },
+    {
+      "keyword": "chicken lollipop",
+      "mentions": 5,
+      "id": "EAPQQVGjo9U"
+    },
+    {
+      "keyword": "hakka noodles",
+      "mentions": 4,
+      "id": "g1xIm0CRNVY"
+    },
+    {
+      "keyword": "dragon chopsuey",
+      "mentions": 4,
+      "id": "AJZASoiZ73s"
+    },
+    {
+      "keyword": "lemon basil chicken",
+      "mentions": 3,
+      "id": "OAdJVU_TR4U"
+    },
+    {
+      "keyword": "manchow soup",
+      "mentions": 3,
+      "id": "pji4WrNzeFM"
+    },
+    {
+      "keyword": "chilli garlic rice",
+      "mentions": 3,
+      "id": "SA_pCRKxezU"
+    },
+    {
+      "keyword": "kind staff",
+      "mentions": 17,
+      "id": "DukFdBtQwOY"
+    },
+    {
+      "keyword": "authentic chinese food",
+      "mentions": 3,
+      "id": "NsyBF6awe9U"
+    },
+    {
+      "keyword": "stale food",
+      "mentions": 2,
+      "id": "BfzBZf8YEGU"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xVeVZETkRkVk5uTlVGVldWSjZibGxNWWpsMldWRRAB!2m1!1s0x0:0x8c7dfe0eb0754e5c!3m1!1s2@1:CAIQACodChtycF9oOlUyVDNDdVNnNUFVWVJ6bllMYjl2WVE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited 5 hours ago",
+      "iso_date": "2026-10-06T17:16:59Z",
+      "iso_date_of_last_edit": "2026-10-30T02:31:35Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLepLF1LrdMGVW2PSeDdvyOnLEb3jv9DHX12adEyBWyhlY8amZxNWbAPke6x3flp0xhMSwJiw2hIfGBx-rw8YM9JAIIWg5zg-_d8g8RJfG6fvjqTJ5MTgxGWKlddxt-jQ2IY7ewn-Cfm8qXe=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLedKyRBJGovKO3LamKHPjAqpDTqtceQ4kc6-j1p4u-SXCG5XTel0NNl0Vo_ncZsGhZVPXIOIqwSXC6OrEa9yTnNsd3FebSx9h6N_DuwcXpgruG7jn75FXK-5cymwtC4XferZBbhkgqV9nx8=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeVZETkRkVk5uTlVGVldWSjZibGxNWWpsMldWRRAB",
+      "user": {
+        "name": "Pramod Lorenzo",
+        "link": "https://www.google.com/maps/contrib/107603477544069486521?hl=en",
+        "contributor_id": "107603477544069486521",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWRUMDit7zKnooXUhqITphwQf81U2CDABssuEsitLAHw3pFJVmK1A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 23,
+        "photos": 134
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "noise_level": "Very quiet",
+        "group_size": "2 people, 3-4 people, 5-8 people, Suitable for all group sizes",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Vegetarian menu or section, Clearly labeled vegetarian dishes",
+        "parking_space": "Plenty of parking",
+        "wheelchair_accessibility": "No\nNot accessible in wheelchair"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaWU5teEdUa2xHTkhvNFpWQmZiWFZIU0ZCcVRXYxAB!2m1!1s0x0:0x8c7dfe0eb0754e5c!3m1!1s2@1:CAIQACodChtycF9oOlZYNmxGTklGNHo4ZVBfbXVHSFBqTWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T12:46:11Z",
+      "iso_date_of_last_edit": "2026-10-27T12:46:11Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWU5teEdUa2xHTkhvNFpWQmZiWFZIU0ZCcVRXYxAB",
+      "user": {
+        "name": "Ram Venkataraman",
+        "link": "https://www.google.com/maps/contrib/109719533048259156479?hl=en",
+        "contributor_id": "109719533048259156479",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWKY8jYxqYS7r_oG9LK-PGHQN84ezt0uLTpClRDrJxREN1IDLM=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20wNFNYTllhVkJsZFRabmRrZ3RWVkEyZUZJeldXYxAB!2m1!1s0x0:0x8c7dfe0eb0754e5c!3m1!1s2@1:CAIQACodChtycF9oOm04SXNYaVBldTZndkgtVVA2eFIzWWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T10:48:51Z",
+      "iso_date_of_last_edit": "2026-10-24T10:48:51Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wNFNYTllhVkJsZFRabmRrZ3RWVkEyZUZJeldXYxAB",
+      "user": {
+        "name": "Bharath Bist",
+        "link": "https://www.google.com/maps/contrib/103031687326465522476?hl=en",
+        "contributor_id": "103031687326465522476",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWVNV3AzTzJYdZ7OBbN2Zh_94_evuODYxYr-Mnb_B4PvkNTlU4=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 4
+      },
+      "snippet": "Very good service",
+      "extracted_snippet": {
+        "original": "Very good service"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,800–2,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "wait_time": "Up to 10 min"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oMlRqUllVelJVYmpOUVoyeDZXSEZYZUhoRlJGRRAB!2m1!1s0x0:0x8c7dfe0eb0754e5c!3m1!1s2@1:CAIQACodChtycF9oOnh2TjRYUzRUbjNQZ2x6WHFXeHhFRFE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T12:51:47Z",
+      "iso_date_of_last_edit": "2026-10-20T12:51:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oMlRqUllVelJVYmpOUVoyeDZXSEZYZUhoRlJGRRAB",
+      "user": {
+        "name": "Mithun M",
+        "link": "https://www.google.com/maps/contrib/104937364044993318930?hl=en",
+        "contributor_id": "104937364044993318930",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIV5SnSb3VWx9rZchfZBceYGX93xciVZl7WF-7L6xKbCJajSw=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 0
+      },
+      "snippet": "WORST STAFF BEHAVIOUR.\nThe restaurant wasn’t maintained well enough, customer service is extremely bad and staff were too rude and least bothered",
+      "extracted_snippet": {
+        "original": "WORST STAFF BEHAVIOUR.\nThe restaurant wasn’t maintained well enough, customer service is extremely bad and staff were too rude and least bothered"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT213ME9GUmFXSGhyT0VoS2QyNHpWM2RHWjFsaVIxRRAB!2m1!1s0x0:0x8c7dfe0eb0754e5c!3m1!1s2@1:CAIQACodChtycF9oOmw0OFRaWHhrOEhKd24zV3dGZ1liR1E%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T12:50:10Z",
+      "iso_date_of_last_edit": "2026-10-20T12:50:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213ME9GUmFXSGhyT0VoS2QyNHpWM2RHWjFsaVIxRRAB",
+      "user": {
+        "name": "Vaishnavi Lokesh",
+        "link": "https://www.google.com/maps/contrib/100969262734130296777?hl=en",
+        "contributor_id": "100969262734130296777",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWBiBFbMzvwAa89txZi_k31AZeGda4aMaVXKCasZOedHpriKVafng=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 1
+      },
+      "snippet": "The cleanliness is worst\nThe waiter is too bad and food worst .\nThey are soo rude and mannerless\nIt’s too bad think before you visit\nWorst experience ever had",
+      "extracted_snippet": {
+        "original": "The cleanliness is worst\nThe waiter is too bad and food worst .\nThey are soo rude and mannerless\nIt’s too bad think before you visit\nWorst experience ever had"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    }
+  ]
+}

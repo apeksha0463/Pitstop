@@ -1,0 +1,217 @@
+{
+  "search_metadata": {
+    "id": "6ae44cbb35db2b8847fe7dbf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/EWZWd9pKG3499jwWJrfZgPM_KaFPuXjejMbilhsv54Y/6ae44cbb35db2b8847fe7dbf.json",
+    "markdown_endpoint": "https://serpapi.com/searches/EWZWd9pKG3499jwWJrfZgPM_KaFPuXjejMbilhsv54Y/6ae44cbb35db2b8847fe7dbf.md",
+    "created_at": "2026-10-30 07:52:27 UTC",
+    "processed_at": "2026-10-30 07:52:27 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1972883c93a5:0x346e917a45e2026d!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/EWZWd9pKG3499jwWJrfZgPM_KaFPuXjejMbilhsv54Y/6ae44cbb35db2b8847fe7dbf.html",
+    "prettify_html_file": "https://serpapi.com/searches/EWZWd9pKG3499jwWJrfZgPM_KaFPuXjejMbilhsv54Y/6ae44cbb35db2b8847fe7dbf.prettify",
+    "total_time_taken": 0.31
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1972883c93a5:0x346e917a45e2026d",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Global Dhaba - Now NIDO",
+    "address": "Bellary Rd, adjacent to Attide Hotel, Jakkur aerodrome, Yashoda Nagar, Yelahanka, Bengaluru, Karnataka 560065, India",
+    "rating": 4.2,
+    "reviews": 819,
+    "type": "Pub"
+  },
+  "topics": [
+    {
+      "keyword": "biryani",
+      "mentions": 28,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "mocktails",
+      "mentions": 11,
+      "id": "JX7Ik_i1cMQ"
+    },
+    {
+      "keyword": "live music",
+      "mentions": 5,
+      "id": "bdOKu_b9hgo"
+    },
+    {
+      "keyword": "italian food",
+      "mentions": 35,
+      "id": "DO2zVZouX8Q"
+    },
+    {
+      "keyword": "kebabs",
+      "mentions": 15,
+      "id": "Eg8A7VaquYY"
+    },
+    {
+      "keyword": "outdoor seating",
+      "mentions": 6,
+      "id": "AEmHqxr-_tg"
+    },
+    {
+      "keyword": "paneer tikka",
+      "mentions": 5,
+      "id": "OwBZLeinYpo"
+    },
+    {
+      "keyword": "sushi",
+      "mentions": 20,
+      "id": "AVNsejk8Zyc"
+    },
+    {
+      "keyword": "paneer pasanda",
+      "mentions": 4,
+      "id": "SgkRjeCwYos"
+    },
+    {
+      "keyword": "pineapple halwa",
+      "mentions": 4,
+      "id": "qkNJGclRfM8"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pjd2NIVmZOVlJ4TlRNNVRUZFFabTlQTVVkUE1sRRAB!2m1!1s0x0:0x346e917a45e2026d!3m1!1s2@1:CAIQACodChtycF9oOjcwcHVfNVRxNTM5TTdQZm9PMUdPMlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-25T00:21:45Z",
+      "iso_date_of_last_edit": "2026-10-25T00:21:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjd2NIVmZOVlJ4TlRNNVRUZFFabTlQTVVkUE1sRRAB",
+      "user": {
+        "name": "Arvind Shukla",
+        "link": "https://www.google.com/maps/contrib/114528679836974914991?hl=en",
+        "contributor_id": "114528679836974914991",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVsx_Dka65lq0WMKAZmnENLAaEtbEnmfGy31M51JoY4E0Kkw0E=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 148
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twSWNYaGlMVVpvYmtOV1YxVkxjSFJDWkZwNFpIYxAB!2m1!1s0x0:0x346e917a45e2026d!3m1!1s2@1:CAIQACodChtycF9oOkpIcXhiLUZobkNWV1VLcHRCZFp4ZHc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T14:13:17Z",
+      "iso_date_of_last_edit": "2026-10-12T14:13:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twSWNYaGlMVVpvYmtOV1YxVkxjSFJDWkZwNFpIYxAB",
+      "user": {
+        "name": "Nethravathi",
+        "link": "https://www.google.com/maps/contrib/100620509946015526137?hl=en",
+        "contributor_id": "100620509946015526137",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK7CdmzQJ3Br9TiggfqYzI2KE8nRtQC9TNoWCY6-YMnP2BbtiO2=s120-c-rp-mo-br100",
+        "reviews": 8,
+        "photos": 0
+      },
+      "snippet": "Ambience is really good!!\nLakshmikanth was a humble person who served with so much care.\nHighly recommended for a peaceful evening!!",
+      "extracted_snippet": {
+        "original": "Ambience is really good!!\nLakshmikanth was a humble person who served with so much care.\nHighly recommended for a peaceful evening!!"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0dmJGSjFlV0UxVkc5SlFtRnVXRUZVUVc1Vk9IYxAB!2m1!1s0x0:0x346e917a45e2026d!3m1!1s2@1:CAIQACodChtycF9oOktvbFJ1eWE1VG9JQmFuWEFUQW5VOHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-20T15:29:53Z",
+      "iso_date_of_last_edit": "2026-09-20T16:13:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dmJGSjFlV0UxVkc5SlFtRnVXRUZVUVc1Vk9IYxAB",
+      "user": {
+        "name": "pavan desai",
+        "link": "https://www.google.com/maps/contrib/105824141254578526332?hl=en",
+        "contributor_id": "105824141254578526332",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV2f9n4CGvCYDBCnvrMhziwO8S_WGzVRH8BDYUGjofjnmgjj-o=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 26,
+        "photos": 10
+      },
+      "snippet": "Excellent food,  vibe, music & Quick service",
+      "extracted_snippet": {
+        "original": "Excellent food,  vibe, music & Quick service"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sVmFtaDNPUzA0VkVneFUzSkVSVTVoT0ZaSGFtYxAB!2m1!1s0x0:0x346e917a45e2026d!3m1!1s2@1:CAIQACodChtycF9oOnlVamh3OS04VEgxU3JERU5hOFZHamc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T05:43:24Z",
+      "iso_date_of_last_edit": "2026-09-13T05:43:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVmFtaDNPUzA0VkVneFUzSkVSVTVoT0ZaSGFtYxAB",
+      "user": {
+        "name": "arun arya",
+        "link": "https://www.google.com/maps/contrib/103490531806658675673?hl=en",
+        "contributor_id": "103490531806658675673",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL91SMg-3GgzUi9JshNBcTgGUckQ4Lyz3XkKnFUehgEE7macw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 17,
+        "photos": 0
+      },
+      "snippet": "Nice place with decent atmosphere for family gathering. Starters and main course meet all the expectations. Thank you Mr. Arif and Ms. Suchi for the outstanding management and service.",
+      "extracted_snippet": {
+        "original": "Nice place with decent atmosphere for family gathering. Starters and main course meet all the expectations. Thank you Mr. Arif and Ms. Suchi for the outstanding management and service."
+      },
+      "details": {
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "reservation": "Reservation required",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Large vegetarian selection",
+        "vegetarian_options": "Crispy corn Paneer tikka dal tadka noodles and mix veg."
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oMlZrWXplbVJwTjNCRU1uazVSVTVQYm5KRVVuYxAB!2m1!1s0x0:0x346e917a45e2026d!3m1!1s2@1:CAIQACodChtycF9oOnh2VkYzemRpN3BEMnk5RU5PbnJEUnc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-09T07:23:39Z",
+      "iso_date_of_last_edit": "2026-09-09T07:23:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oMlZrWXplbVJwTjNCRU1uazVSVTVQYm5KRVVuYxAB",
+      "user": {
+        "name": "SIVAKUMAR.V",
+        "link": "https://www.google.com/maps/contrib/106236851348834840180?hl=en",
+        "contributor_id": "106236851348834840180",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUhaXpjt47JTBDtv3RuyPl1_Sbqyo6ZenrIgAZ7E_jST9pg4FM=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 8,
+        "photos": 0
+      },
+      "snippet": "Food is not great and little bit costlier",
+      "extracted_snippet": {
+        "original": "Food is not great and little bit costlier"
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    }
+  ]
+}

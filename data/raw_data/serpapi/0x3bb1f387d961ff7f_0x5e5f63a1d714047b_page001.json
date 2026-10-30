@@ -1,0 +1,232 @@
+{
+  "search_metadata": {
+    "id": "6ae44d3f9b2151b9800b7567",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MR5S3YFngfz6Cck8XWuFDF_nMY3B0XUqZWDH5mRvDYo/6ae44d3f9b2151b9800b7567.json",
+    "markdown_endpoint": "https://serpapi.com/searches/MR5S3YFngfz6Cck8XWuFDF_nMY3B0XUqZWDH5mRvDYo/6ae44d3f9b2151b9800b7567.md",
+    "created_at": "2026-10-30 07:54:39 UTC",
+    "processed_at": "2026-10-30 07:54:39 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f387d961ff7f:0x5e5f63a1d714047b!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/MR5S3YFngfz6Cck8XWuFDF_nMY3B0XUqZWDH5mRvDYo/6ae44d3f9b2151b9800b7567.html",
+    "prettify_html_file": "https://serpapi.com/searches/MR5S3YFngfz6Cck8XWuFDF_nMY3B0XUqZWDH5mRvDYo/6ae44d3f9b2151b9800b7567.prettify",
+    "total_time_taken": 0.66
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f387d961ff7f:0x5e5f63a1d714047b",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Big Bay India | Highway Pitstop",
+    "address": "Sy no. 458, Yelagalahalli Village, Hobli, Mandikal, Peresandra, Karnataka 562104, India",
+    "rating": 4.4,
+    "reviews": 2907,
+    "type": "Food court"
+  },
+  "topics": [
+    {
+      "keyword": "haldirams",
+      "mentions": 57,
+      "id": "aUFILGFA13c"
+    },
+    {
+      "keyword": "clean washrooms",
+      "mentions": 121,
+      "id": "WmGDpqLu7Ow"
+    },
+    {
+      "keyword": "burger king",
+      "mentions": 60,
+      "id": "FogKjzRrLbY"
+    },
+    {
+      "keyword": "baskin robbins",
+      "mentions": 27,
+      "id": "FmGYQzd7D8U"
+    },
+    {
+      "keyword": "starbucks",
+      "mentions": 95,
+      "id": "BPgK-_teQcQ"
+    },
+    {
+      "keyword": "gopizza",
+      "mentions": 20,
+      "id": "ANgJyfP0I-c"
+    },
+    {
+      "keyword": "kritunga",
+      "mentions": 18,
+      "id": "AJXNJKx7KWs"
+    },
+    {
+      "keyword": "ev charging",
+      "mentions": 21,
+      "id": "LsIKlluEqYE"
+    },
+    {
+      "keyword": "kfc",
+      "mentions": 53,
+      "id": "FJ7YMxwrOfY"
+    },
+    {
+      "keyword": "cleanliness",
+      "mentions": 68,
+      "id": "WtXhzhVYpO4"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210a1MxZEhOVlZWTkRnMWVWVnBTRU0zTmxoaFZIYxAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOmtkS1dHNVVVNDg1eVVpSEM3NlhhVHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "20 hours ago",
+      "iso_date": "2026-10-29T11:08:50Z",
+      "iso_date_of_last_edit": "2026-10-29T11:08:50Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210a1MxZEhOVlZWTkRnMWVWVnBTRU0zTmxoaFZIYxAB",
+      "user": {
+        "name": "Johnson BJ",
+        "link": "https://www.google.com/maps/contrib/117078625488989865547?hl=en",
+        "contributor_id": "117078625488989865547",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJKeBSrHfKGYCw08Eriuj_6-Emo9ltyuv6R0qDf4kGAXOKuJG4=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 27,
+        "photos": 63
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGT2EwTXlUWE4xYkRNNWJrbHdlall5YlhFNE5HYxAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOlFOa0MyTXN1bDM5bklwejYybXE4NGc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T08:32:37Z",
+      "iso_date_of_last_edit": "2026-10-28T08:32:37Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGT2EwTXlUWE4xYkRNNWJrbHdlall5YlhFNE5HYxAB",
+      "user": {
+        "name": "Shaad Nayyar",
+        "link": "https://www.google.com/maps/contrib/114835948322184266402?hl=en",
+        "contributor_id": "114835948322184266402",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocICOpgTsBbSu6HURGGdpL6TS_eQztnBWNIqHsYPaMbvCJYSuA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 70,
+        "photos": 39
+      },
+      "snippet": "IVTC is the only South Indian restaurant at Big Bay, but unfortunately, the food quality is extremely disappointing. I tried the idli, dosa, and vada, and everything was bad, including the chutney and sambar. Even the tea was horrible.\n\nBig Bay management should seriously reconsider having IVTC as its only South Indian food outlet and replace it with a better restaurant that can serve authentic, tasty South Indian food. Customers deserve much better quality and a more satisfying dining experience.",
+      "extracted_snippet": {
+        "original": "IVTC is the only South Indian restaurant at Big Bay, but unfortunately, the food quality is extremely disappointing. I tried the idli, dosa, and vada, and everything was bad, including the chutney and sambar. Even the tea was horrible.\n\nBig Bay management should seriously reconsider having IVTC as its only South Indian food outlet and replace it with a better restaurant that can serve authentic, tasty South Indian food. Customers deserve much better quality and a more satisfying dining experience."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VPU2ZzZkN6dkllZFB3EAE!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEOSfsfCzvIedPw%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited a day ago",
+      "iso_date": "2025-05-12T03:57:49Z",
+      "iso_date_of_last_edit": "2026-10-28T08:30:31Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VPU2ZzZkN6dkllZFB3EAE",
+      "user": {
+        "name": "Soumen DasGupta",
+        "link": "https://www.google.com/maps/contrib/113904675021339201455?hl=en",
+        "contributor_id": "113904675021339201455",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUzvtqU-2ZnM2kq6eUa8WX2PpJmIZ4Xo4tgAswHOxGqgRr_el5s=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 70,
+        "photos": 777
+      },
+      "snippet": "Hands down one of the best highway pitstops along NH 44! Big Bay is massive, clean, and ridiculously well-thought-out. Having so many food options under one roof makes it super convenient when everyone in the car wants something different.\n​What really stands out are the ultra-clean, air-conditioned restrooms and the ample parking space. Whether you're pulling over for a quick coffee break, lunch with family, or charging your EV, this place covers all the bases. The kids' area and fuel station right on-site make it a seamless one-stop pause before hitting the road again. A must-visit stop on the Bengaluru–Hyderabad route!",
+      "extracted_snippet": {
+        "original": "Hands down one of the best highway pitstops along NH 44! Big Bay is massive, clean, and ridiculously well-thought-out. Having so many food options under one roof makes it super convenient when everyone in the car wants something different.\n​What really stands out are the ultra-clean, air-conditioned restrooms and the ample parking space. Whether you're pulling over for a quick coffee break, lunch with family, or charging your EV, this place covers all the bases. The kids' area and fuel station right on-site make it a seamless one-stop pause before hitting the road again. A must-visit stop on the Bengaluru–Hyderabad route!"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-05-12T04:09:24Z",
+        "iso_date_of_last_edit": "2025-05-12T04:09:24Z",
+        "snippet": "Thank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time. Your support means a lot to us, and it's a testament to our commitment to providing exceptional service. We look forward to serving you again soon.\n\nThank you\nTeam Big Bay",
+        "extracted_snippet": {
+          "original": "Thank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time. Your support means a lot to us, and it's a testament to our commitment to providing exceptional service. We look forward to serving you again soon.\n\nThank you\nTeam Big Bay"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaclNGUnNSbk5WTjJZeFVHOW5aVEp5WnkxRVdFRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOlZrSFRsRnNVN2YxUG9nZTJyZy1EWEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-27T04:35:56Z",
+      "iso_date_of_last_edit": "2026-10-27T04:35:56Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaclNGUnNSbk5WTjJZeFVHOW5aVEp5WnkxRVdFRRAB",
+      "user": {
+        "name": "Ramsy VU3XHZ (RAMSY)",
+        "link": "https://www.google.com/maps/contrib/106298962339476806697?hl=en",
+        "contributor_id": "106298962339476806697",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU8DYuyMSrPzOHEbcGBUr4y6mnpm9Iisz4Cq5VDcfWXhWsgoMP3=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 37,
+        "photos": 12
+      },
+      "snippet": "Great place, Haldirams restaurant is shut operations",
+      "extracted_snippet": {
+        "original": "Great place, Haldirams restaurant is shut operations"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKd1lrTkpWRk5JWmtoTVNXOHhhQzFNYlZKT2RFRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOlJwYkNJVFNIZkhMSW8xaC1MbVJOdEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T10:08:07Z",
+      "iso_date_of_last_edit": "2026-10-26T10:08:07Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKd1lrTkpWRk5JWmtoTVNXOHhhQzFNYlZKT2RFRRAB",
+      "user": {
+        "name": "mokshanth reddy devireddy",
+        "link": "https://www.google.com/maps/contrib/113413154863936791892?hl=en",
+        "contributor_id": "113413154863936791892",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUjMbdrv0e5-JaBX0FygQTzJonPgSmOxExAI0TUqfo9Pa_W9eg=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 6
+      },
+      "details": {
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0
+    }
+  ]
+}

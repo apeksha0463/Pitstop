@@ -1,0 +1,81 @@
+{
+  "data_id": "0x3bae197c7ce97a4b:0x250d4a877cdc8f24",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "Nasi and Mee - Yelahanka",
+    "place_type": "Southeast Asian restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "response",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SaVRFZ3lXR3gwUW5sUVlWRjJkM0UyVTNkRFJsRRAB",
+      "author": "Jaya Bharath",
+      "rating": 5.0,
+      "date": "a week ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xeFowUTRTRzk0Y0Mwd1J6WmtjMlJDYTJKNWRsRRAB",
+      "author": "Leo",
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRWNsbEVjbU5rVlhkaE9GSm5lV3REVkZsVVFWRRAB",
+      "author": "SOUMYARANJAN SATAPATHY",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUE5ta3pURU4yWHkxVWRHVkpVUzB0VXpGS2FuYxAB",
+      "author": "Adarsha A S",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGU2VHb3dUV1JxUkc5QmQxOTZOekYzV0doT2VrRRAB",
+      "author": "Mukesh Kottaram",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    }
+  ]
+}

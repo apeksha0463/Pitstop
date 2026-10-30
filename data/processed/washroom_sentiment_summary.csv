@@ -1,0 +1,48 @@
+restaurant,data_id,washroom_reviews,positive,neutral,negative,mean_sentiment_score,share_negative,recent_reviews,recent_mean_sentiment_score,needs_review,latest_mention_date,low_data
+NEKTR,0x3bae19cda2f74b29:0x52801f4a0d16f2cf,0,0,0,0,,,0,,0,,True
+The Food Factory,0x3bae19cd83892495:0xc4ee26c182749dfe,5,2,2,1,0.244,0.2,2,-0.497,0,2025-10-06T14:25:54Z,False
+Global Dhaba (Now NIDO),0x3bae1972883c93a5:0x346e917a45e2026d,1,0,1,0,-0.003,0.0,0,,0,2024-04-08T02:06:43Z,True
+9th Mile Dhaba,0x3bae185a451f1a95:0xbb8f21195855c1f6,1,0,0,1,-0.989,1.0,0,,0,2023-05-28T12:00:06Z,True
+Food Planks,0x3bae19542b663c05:0x88b58d30d2de9f91,4,3,0,1,0.497,0.25,1,-0.993,0,2026-07-12T09:00:53Z,True
+Kapoor's Cafe,0x3bae199ebb434785:0x925928a22e4df686,4,0,0,4,-0.964,1.0,4,-0.964,0,2026-08-23T16:12:22Z,True
+Nasi and Mee,0x3bae197c7ce97a4b:0x250d4a877cdc8f24,1,1,0,0,0.893,0.0,0,,0,2024-02-23T08:57:59Z,True
+Udupi Sambrama,0x3bae19006fc77e73:0xfd95f7b89961f952,0,0,0,0,,,0,,0,,True
+Gokul Veg,0x3bae18f8ec42e37f:0x5d26865d797bda32,4,2,1,1,0.25,0.25,0,,0,2019-11-03T16:33:52Z,True
+Kanhaji,0x3bae19abdd77a72f:0x74f0cec84dee5ccd,2,1,1,0,0.498,0.0,1,-0.001,0,2025-06-21T03:37:41Z,True
+Ananth Andhra Style Family Restaurant,0x3bae190663f1db5b:0x29670e7908cd74f7,0,0,0,0,,,0,,0,,True
+Dine Spot Restaurant,0x3bae1917369a56ed:0x82c7dc569c4fe63f,1,0,0,1,-0.978,1.0,0,,0,2019-05-05T09:01:16Z,True
+Thamaq Restaurant,0x3bae197d9384cd9d:0x11226b272c6be0b2,5,1,0,4,-0.551,0.8,2,-0.99,0,2026-08-21T14:04:48Z,False
+Panchami Garden,0x3bae196f3efabe1d:0x787bbf94a8ef0dde,3,1,0,2,-0.318,0.667,0,,0,2023-08-18T14:02:33Z,True
+Andhra Vindu,0x3bae1916b73138af:0x606c34389cd7e6bd,0,0,0,0,,,0,,0,,True
+Adyar Ananda Bhavan (A2B),0x3bae1ecd0a5c0543:0xd4b712c05a110e71,53,11,11,31,-0.352,0.585,19,-0.569,3,2026-10-22T01:59:27Z,False
+Light House Family Restaurant,0x3bae1f028ffa149b:0x4848588589cb9493,0,0,0,0,,,0,,0,,True
+Liquid Sky Family Fine Dine & Bar,0x3bae1f00671f5ff9:0x9527fccf27b2f187,0,0,0,0,,,0,,0,,True
+Bee One Family Restaurant,0x3bae1fcd0ceaa3a3:0x920c3e619894eb14,0,0,0,0,,,0,,0,,True
+Beijing Bites,0x3bae1f7477b556d3:0x8c7dfe0eb0754e5c,1,0,0,1,-0.995,1.0,1,-0.995,0,2026-02-08T18:26:32Z,True
+Itihaas Restaurant,0x3bae1ebf50072b75:0x444bc75f4a582a0a,13,1,5,7,-0.472,0.538,8,-0.244,1,2026-10-14T11:22:33Z,False
+Acre Bengaluru (Bar & Kitchen),0x3bae1fb4350494a7:0xe439478d17ad2e1a,15,1,6,8,-0.466,0.533,7,-0.713,0,2026-10-23T15:53:20Z,False
+Shivaji Restaurant,0x3bae1e842d0cbdd1:0xd4eb870efbba7967,0,0,0,0,,,0,,0,,True
+Seasons Restaurant,0x3bae1e86941cd0db:0x5d472c182c9721f3,7,1,0,6,-0.678,0.857,3,-0.985,0,2026-08-24T17:53:23Z,False
+Cinnamon Restaurant,0x3bae1f8c15fece47:0x92e69992bab29c56,0,0,0,0,,,0,,0,,True
+Celestial Multicuisine Restaurant,0x3bae1fb999936ad5:0x79374f06ffceb889,0,0,0,0,,,0,,0,,True
+Swamy Vaibhava,0x3bae1f0058d97905:0xe73592bbe64cf6a7,0,0,0,0,,,0,,0,,True
+Cafe Iftar,0x3bae1d00468c4e4f:0xb472f74e2a0cfb45,0,0,0,0,,,0,,0,,True
+Dhaba On The Highway,0x3bae1d3f2f5b9811:0xf49561b63d6d7d65,0,0,0,0,,,0,,0,,True
+Clay Bistro,0x3bae1d6611382485:0xd2f76e5fd6d82382,0,0,0,0,,,0,,0,,True
+Nandagokula AC Veg Restaurant,0x3bb1e390a5514f65:0x3b8f2ca25b4423de,20,7,6,7,-0.005,0.35,5,-0.336,2,2026-06-04T03:22:14Z,False
+Devanahalli Gowdru Restaurant,0x3bb1e397f793c70f:0x60862294e68b1a37,10,0,2,8,-0.733,0.8,4,-0.954,0,2026-04-14T08:09:05Z,False
+NH7 Refuel Restaurant,0x3bb1e29159d69fe1:0x324d96dade0efb15,15,5,2,8,-0.196,0.533,2,0.498,0,2026-07-14T17:54:13Z,False
+Aaradhya Grand,0x3bb1e3ae98bda1eb:0x8370cc11593217b3,10,7,2,1,0.545,0.1,10,0.545,1,2026-10-28T02:47:55Z,False
+Empire Restaurant Devanahalli,0x3bb1e3f2fe781a35:0xa978b861803d2fbb,13,10,1,2,0.635,0.154,9,0.553,1,2026-08-26T16:53:34Z,False
+Adyar Ananda Bhavan (A2B) Devanahalli,0x3bb1e371772cff9f:0x4eb6f86a41629776,14,5,2,7,-0.268,0.5,11,-0.526,2,2026-10-18T03:43:51Z,False
+Koteshwaram,0x3bb1e30070aee50f:0x4b5fdf769acaf73f,33,26,4,3,0.686,0.091,33,0.686,0,2026-10-26T16:05:48Z,False
+Kings Family Restaurant,0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde,3,1,0,2,-0.332,0.667,3,-0.332,0,2026-07-11T19:26:02Z,True
+Barun Nati Style Family Restaurant,0x3bb1e56ca53ca115:0x9ae11bd0462879f2,0,0,0,0,,,0,,0,,True
+Hotel Nammura Bharjari Baadoota,0x3bb1ef7b3a68cf11:0x346e2f8b991ea805,1,0,0,1,-0.994,1.0,1,-0.994,0,2025-06-02T06:53:11Z,True
+BMK Biryani Junction,0x3bb1f1110c2b23ab:0x69175de9332ae531,2,2,0,0,0.979,0.0,1,0.975,0,2025-06-22T09:18:49Z,True
+Samara's Veg Chikkaballapur,0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb,10,9,1,0,0.945,0.0,10,0.945,1,2026-10-28T02:44:10Z,False
+Hotel Pranav Veg,0x3bb1e520cfaa728b:0x45550c587033f0ac,45,22,12,11,0.216,0.244,7,0.136,3,2026-10-26T06:39:03Z,False
+IVTC,0x3bb1f3b47678b4ad:0x7ea45b9283828a19,1,1,0,0,0.997,0.0,1,0.997,0,2026-10-24T09:08:12Z,True
+Big Bay India Highway Pitstop (food court),0x3bb1f387d961ff7f:0x5e5f63a1d714047b,75,68,3,4,0.842,0.053,50,0.894,2,2026-10-17T03:27:49Z,False
+Empire Restaurant (inside Big Bay),0x3bb1f35e46db6f73:0x6ba914581ed1edcf,0,0,0,0,,,0,,0,,True
+Shubham Restaurant,0x3bb1f35231de3245:0x2317d9c04322686c,0,0,0,0,,,0,,0,,True

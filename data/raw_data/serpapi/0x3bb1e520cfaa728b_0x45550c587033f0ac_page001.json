@@ -1,0 +1,211 @@
+{
+  "search_metadata": {
+    "id": "6ae44d398bed6d4a1b6d7f49",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OqUW7WMA-qikQ-QEXPszNAHMaen-aTRGe2Osw1uLNvo/6ae44d398bed6d4a1b6d7f49.json",
+    "markdown_endpoint": "https://serpapi.com/searches/OqUW7WMA-qikQ-QEXPszNAHMaen-aTRGe2Osw1uLNvo/6ae44d398bed6d4a1b6d7f49.md",
+    "created_at": "2026-10-30 07:54:33 UTC",
+    "processed_at": "2026-10-30 07:54:33 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e520cfaa728b:0x45550c587033f0ac!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/OqUW7WMA-qikQ-QEXPszNAHMaen-aTRGe2Osw1uLNvo/6ae44d398bed6d4a1b6d7f49.html",
+    "prettify_html_file": "https://serpapi.com/searches/OqUW7WMA-qikQ-QEXPszNAHMaen-aTRGe2Osw1uLNvo/6ae44d398bed6d4a1b6d7f49.prettify",
+    "total_time_taken": 0.37
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e520cfaa728b:0x45550c587033f0ac",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Hotel Pranav Veg",
+    "address": "kera facing lake, NH 44, near inaminchina halli cross/ gate, opp. to amani poorna sagara, Chikkaballapur, Ballagere, Karnataka 562101, India",
+    "rating": 3.9,
+    "reviews": 11078,
+    "type": "South Indian restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "andhra style food",
+      "mentions": 64,
+      "id": "Ps6z-SZpWGw"
+    },
+    {
+      "keyword": "pongal",
+      "mentions": 17,
+      "id": "DhRpIeI1erc"
+    },
+    {
+      "keyword": "lake view",
+      "mentions": 6,
+      "id": "Sgvy_KX8_L4"
+    },
+    {
+      "keyword": "bonda soup",
+      "mentions": 16,
+      "id": "A28synCYIfE"
+    },
+    {
+      "keyword": "idli vada",
+      "mentions": 12,
+      "id": "Cw0A2XJl68c"
+    },
+    {
+      "keyword": "tiffins",
+      "mentions": 19,
+      "id": "ES_OVblnWCM"
+    },
+    {
+      "keyword": "idly sambar",
+      "mentions": 7,
+      "id": "Bz80aHgJ1_c"
+    },
+    {
+      "keyword": "chapati",
+      "mentions": 12,
+      "id": "ABrBLHotfM8"
+    },
+    {
+      "keyword": "clean washrooms",
+      "mentions": 22,
+      "id": "WmGDpqLu7Ow"
+    },
+    {
+      "keyword": "gobi manchurian",
+      "mentions": 7,
+      "id": "Ihwl2zJ9-vc"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21od1VsSm9OamhQV0dkbVZtazJiMVYzY0RWaGRIYxAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CAIQACodChtycF9oOmhwUlJoNjhPWGdmVmk2b1V3cDVhdHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T08:04:47Z",
+      "iso_date_of_last_edit": "2026-10-28T08:04:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21od1VsSm9OamhQV0dkbVZtazJiMVYzY0RWaGRIYxAB",
+      "user": {
+        "name": "Naresh Kumar",
+        "link": "https://www.google.com/maps/contrib/100167927158595842619?hl=en",
+        "contributor_id": "100167927158595842619",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXUJKCQpICP_dex1X9KpOuIID1El6COHTVgLEaffTr8Fjcb5TZfzw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 20,
+        "photos": 146
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poMFUyMXRXVlpRYWt0MVNsRm1ZMFpRZFU4eVVrRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CAIQACodChtycF9oOjh0U21tWVZQakt1SlFmY0ZQdU8yUkE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T12:10:50Z",
+      "iso_date_of_last_edit": "2026-10-27T12:10:50Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMFUyMXRXVlpRYWt0MVNsRm1ZMFpRZFU4eVVrRRAB",
+      "user": {
+        "name": "Datta Mahesh",
+        "link": "https://www.google.com/maps/contrib/113025305527597722601?hl=en",
+        "contributor_id": "113025305527597722601",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocImbhjy787buxVaidZiFg6ela7BS0ToFbFmHFI5droLD14umg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 17,
+        "photos": 12
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toWFRFbEphSGs0VXpKbGQweERhVm80UjNseFdIYxAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CAIQACodChtycF9oOkhXTElJaHk4UzJld0xDaVo4R3lxWHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-26T06:39:03Z",
+      "iso_date_of_last_edit": "2026-10-26T06:39:03Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toWFRFbEphSGs0VXpKbGQweERhVm80UjNseFdIYxAB",
+      "user": {
+        "name": "gantasala rakesh",
+        "link": "https://www.google.com/maps/contrib/110007957743102540697?hl=en",
+        "contributor_id": "110007957743102540697",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUVYJHUJWPUW-QtlqHuRFUHvgWeaa4ra9HKhVK8-c0cM7EBvZYLaw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 21,
+        "photos": 0
+      },
+      "snippet": "Best hotel in National Highway\nFood Taste is good\nWell maintained Hotel.\nWashrooms are ok ok.",
+      "extracted_snippet": {
+        "original": "Best hotel in National Highway\nFood Taste is good\nWell maintained Hotel.\nWashrooms are ok ok."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 5,
+        "group_size": "3-4 people, 5-8 people",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_space": "Plenty of parking"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxTWFIRXhaemxTV2tGS2JEaERSQzFvWmtaU1UyYxAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CAIQACodChtycF9oOk1MaHExZzlSWkFKbDhDRC1oZkZSU2c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-26T06:09:21Z",
+      "iso_date_of_last_edit": "2026-10-26T06:09:21Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTWFIRXhaemxTV2tGS2JEaERSQzFvWmtaU1UyYxAB",
+      "user": {
+        "name": "Kalyani Ramana",
+        "link": "https://www.google.com/maps/contrib/108244778652288588420?hl=en",
+        "contributor_id": "108244778652288588420",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU948yjduunUgmnqOf6OSiYikA43j3zFrGGg8Ozscnaj3F5zr8HBQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 141
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wM01XWnhOVGhTWnpCV1RtbFZYM2MxYzJKUFFuYxAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CAIQACodChtycF9oOnp3MWZxNThSZzBWTmlVX3c1c2JPQnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T18:38:43Z",
+      "iso_date_of_last_edit": "2026-10-24T18:38:43Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wM01XWnhOVGhTWnpCV1RtbFZYM2MxYzJKUFFuYxAB",
+      "user": {
+        "name": "Niharika reddy",
+        "link": "https://www.google.com/maps/contrib/100051987609262102040?hl=en",
+        "contributor_id": "100051987609262102040",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX0twSwo2_sr1Ul2_hwk3JH_JHUelDnbawmimVW7xJRR_twx5qUJQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 25,
+        "photos": 18
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    }
+  ]
+}

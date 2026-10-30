@@ -1,0 +1,90 @@
+{
+  "data_id": "0x3bb1f1110c2b23ab:0x69175de9332ae531",
+  "page": 1,
+  "review_filter": null,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "topics"
+    ],
+    "place_title": "BMK Biryani Junction",
+    "place_type": "Family restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWc05HVk5Sa3hqT0RJeVJFcDRhMVJJVkdwcFlYYxAB",
+      "author": "Shashikiran CS",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWmJGOW1iRmc0ZGt4bFZqaDRTM3B2YldnNE1GRRAB",
+      "author": "Abhi Shek",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vM01VTm1XVWRWZEhaWVFYUkllV3RqWlVGUlRWRRAB",
+      "author": "Bharath R",
+      "rating": 5.0,
+      "date": "6 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNGJFVkdOV1ZQV2twbVl6QjBWR3BRYkZsTU5tYxAB",
+      "author": "Bhavan Nv",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer7chpRykGjbX0K7_qEqCW0qQMx0FW0RGvgNvdUu4_xX_K2ho_3a_ZdtDRieMeiVcY0DL4ZwM5fOoDNQpLHKAdU6SaWNrzGGD01BvpuAK4-tkMZfqM2-CDTNtZZWuEGasfJ0aqkqZh56hj=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5elpucHpVbnBtWms1Nk1qbEhWREJZWDJONldXYxAB",
+      "author": "Laxmi Prasad",
+      "rating": 3.0,
+      "date": "2 weeks ago",
+      "images": []
+    }
+  ]
+}
