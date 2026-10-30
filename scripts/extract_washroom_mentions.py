@@ -9,13 +9,15 @@ toilet, bathroom, loo, lavatory, wash room, rest room, WC, urinal or a hand
 wash area (case-insensitive, whole words, common misspellings included).
 Only the washroom sentences are kept as ``washroom_snippet``, so the rest of
 the review (usually about the food) cannot skew a later sentiment score.
+Each washroom-related review is one row (and counts once), even when it talks
+about the washroom in several places: those passages are joined with " … ".
 
 Reads:
   - data/raw_data/restaurants_route_above_3.5.csv   restaurant list (data_id)
   - data/output/washroom/*.json                     filtered (washroom) collection
   - data/output/*.json                              any other collected reviews
 Writes:
-  - data/processed/washroom_mentions.csv  one row per mention
+  - data/processed/washroom_mentions.csv  one row per washroom-related review
   - data/processed/washroom_summary.csv   one row per restaurant
 
 Usage (from the repository root):
@@ -49,12 +51,12 @@ DEFAULT_CSV: Path = utils.RAW_DATA_DIR / "restaurants_route_above_3.5.csv"
 
 MENTION_COLUMNS = [
     "mention_id", "restaurant", "data_id", "review_id", "review_date", "iso_date",
-    "star_rating", "washroom_snippet", "full_review_text", "review_link",
+    "star_rating", "washroom_snippet", "passage_count", "full_review_text", "review_link",
 ]
 SUMMARY_COLUMNS = [
-    "restaurant", "data_id", "reviews_collected", "washroom_related_reviews",
-    "washroom_mentions", "latest_mention_date",
+    "restaurant", "data_id", "reviews_collected", "washroom_related_reviews", "latest_mention_date",
 ]
+PASSAGE_JOINER = " … "
 
 # ---------------------------------------------------------------------------
 # Keyword matching
@@ -92,9 +94,16 @@ def is_washroom_related(text: Optional[str]) -> bool:
 # Snippet extraction
 # ---------------------------------------------------------------------------
 
-# Sentence ends: . ! ? (also runs like "!!!" or "..."), dot runs with no space after
-# them ("food was cold...washroom dirty") and line breaks
-_SENTENCE_SPLIT = re.compile(r"(?<=[.!?])\s+|(?<=\.\.)(?=\w)|\s*\n+\s*")
+# Sentence ends: . ! ? … (also runs like "!!!", "..." or "…."), also before a closing
+# bracket (".) Next"), dot runs or "…" with no space after them ("food was
+# cold...washroom dirty"), a stop glued to the next capitalised word ("taste .Dosa
+# was raw", but not initials like "W.C") and line breaks
+_SENTENCE_SPLIT = re.compile(
+    r"(?<=[.!?…])\s+|(?<=[.!?…]\))\s+|(?<=[.…]{2})(?=\w)|(?<=…)(?=\w)|(?<=[^A-Z][.!?])(?=[A-Z](?!\.))|\s*\n+\s*"
+)
+# A short washroom sentence that only introduces what follows ("Parking/Restroom:", "And the restrooms?")
+_LEAD_IN = re.compile(r"[:?]$")
+MAX_LEAD_IN = 40
 # Clause breaks used to trim a long sentence that also covers other things
 _CLAUSE_SPLIT = re.compile(r"\s*[,;:]\s+|\s+(?=(?:but|however|though|whereas)\b)", re.IGNORECASE)
 # A short follow-on sentence that carries on about the washroom ("Washroom is upstairs. It was dirty.")
@@ -154,6 +163,9 @@ def extract_washroom_snippets(text: Optional[str]) -> list[str]:
     for sentence in sentences:
         if is_washroom_related(sentence):
             current.append(_trim_long_sentence(sentence) if len(sentence) > LONG_SENTENCE else sentence)
+        elif (current and _LEAD_IN.search(current[-1]) and len(current[-1]) <= MAX_LEAD_IN
+              and len(sentence) <= MAX_CONTINUATION):
+            current.append(sentence)
         elif current and _CONTINUATION.match(sentence) and len(sentence) <= MAX_CONTINUATION:
             current.append(sentence)
         elif current:
@@ -213,39 +225,40 @@ def collected_reviews(output_dirs: Optional[list[Path]] = None) -> dict[str, lis
 # ---------------------------------------------------------------------------
 
 def build_rows(restaurants: list[dict], reviews_by_id: dict[str, list[dict]]) -> tuple[list[dict], list[dict]]:
-    """``(mention_rows, summary_rows)`` for *restaurants*, newest mentions first per restaurant."""
+    """
+    ``(mention_rows, summary_rows)`` for *restaurants*, newest first per restaurant.
+
+    One mention row per washroom-related review, so ``washroom_related_reviews``
+    equals the restaurant's number of mention rows.
+    """
     mentions: list[dict] = []
     summary: list[dict] = []
     for r in restaurants:
         reviews = reviews_by_id.get(r["data_id"], [])
-        related = 0
         rows: list[dict] = []
         for review in sorted(reviews, key=lambda x: x.get("iso_date") or "", reverse=True):
             snippets = extract_washroom_snippets(review.get("text"))
             if not snippets:
                 continue
-            related += 1
-            review_key = review.get("review_id") or short_hash(make_review_fingerprint(review))
-            for n, snippet in enumerate(snippets, 1):
-                rows.append({
-                    "mention_id":       f"{review_key}-{n}",
-                    "restaurant":       r["restaurant"],
-                    "data_id":          r["data_id"],
-                    "review_id":        review.get("review_id") or "",
-                    "review_date":      review.get("date") or "",
-                    "iso_date":         review.get("iso_date") or "",
-                    "star_rating":      review.get("rating") if review.get("rating") is not None else "",
-                    "washroom_snippet": snippet,
-                    "full_review_text": _plain(review.get("text") or ""),
-                    "review_link":      review.get("review_link") or "",
-                })
+            rows.append({
+                "mention_id":       review.get("review_id") or short_hash(make_review_fingerprint(review)),
+                "restaurant":       r["restaurant"],
+                "data_id":          r["data_id"],
+                "review_id":        review.get("review_id") or "",
+                "review_date":      review.get("date") or "",
+                "iso_date":         review.get("iso_date") or "",
+                "star_rating":      review.get("rating") if review.get("rating") is not None else "",
+                "washroom_snippet": PASSAGE_JOINER.join(snippets),
+                "passage_count":    len(snippets),
+                "full_review_text": _plain(review.get("text") or ""),
+                "review_link":      review.get("review_link") or "",
+            })
         mentions.extend(rows)
         summary.append({
             "restaurant":               r["restaurant"],
             "data_id":                  r["data_id"],
             "reviews_collected":        len(reviews),
-            "washroom_related_reviews": related,
-            "washroom_mentions":        len(rows),
+            "washroom_related_reviews": len(rows),
             "latest_mention_date":      max((m["iso_date"] for m in rows), default=""),
         })
     return mentions, summary
@@ -279,7 +292,6 @@ def main(argv: Optional[list[str]] = None) -> int:
     print(f"Restaurants                : {len(restaurants)}")
     print(f"Reviews collected          : {sum(s['reviews_collected'] for s in summary)}")
     print(f"Washroom-related reviews   : {sum(s['washroom_related_reviews'] for s in summary)}")
-    print(f"Washroom mentions          : {len(mentions)}")
     print(f"Restaurants with no reviews: {sum(1 for s in summary if not s['reviews_collected'])}")
     print(f"Mentions CSV               : {to_project_relative(mentions_path)}")
     print(f"Summary CSV                : {to_project_relative(summary_path)}")

@@ -410,6 +410,12 @@ python scripts/collect_washroom_reviews.py --max-credits 50
   fetching, also saved in `data/output/washroom/collection_summary.json`.
 - An API error on one search is recorded and the run moves on. The search is
   retried on the next run.
+- **Coverage limit:** Google's in-review search (`query`) returns only a
+  subset of the matching reviews, with no further pages. For Big Bay, the 98
+  newest unfiltered reviews held 57 washroom reviews, but the four searches
+  together returned 22. A restaurant with 0 washroom reviews may simply be
+  under-covered, so treat the counts as a lower bound. Only fetching the
+  unfiltered reviews and matching them locally gives full coverage.
 
 ### Step 3: extract washroom mentions (`extract_washroom_mentions.py`, 0 credits)
 
@@ -435,7 +441,12 @@ Only the washroom passage of a related review is kept:
 - Sentences containing a washroom word become the snippet.
 - A short follow-on sentence about it is kept with it, as in
   "Washroom is upstairs. It was dirty."
-- Separate passages become separate mentions.
+- A lead-in such as "Parking/Restroom:" or "And the restrooms?" keeps the
+  sentence after it.
+- Sentences also end at `…` and at a stop glued to the next word
+  ("taste .Dosa was raw"), so food talk is not pulled in.
+- A review with several separate washroom passages is still one row: the
+  passages are joined with ` … ` and `passage_count` says how many there are.
 - Long run-on sentences are trimmed to the washroom clause.
 - Google's "(Original)" text after a translation is dropped.
 
@@ -443,8 +454,8 @@ Snippets are single-line plain text, ready to send to a sentiment API.
 
 | File | One row per | Columns |
 |---|---|---|
-| `data/processed/washroom_mentions.csv` | mention | `mention_id` (`<review_id>-<n>`), `restaurant`, `data_id`, `review_id`, `review_date`, `iso_date`, `star_rating`, `washroom_snippet`, `full_review_text`, `review_link` |
-| `data/processed/washroom_summary.csv` | restaurant (all CSV rows) | `restaurant`, `data_id`, `reviews_collected`, `washroom_related_reviews`, `washroom_mentions`, `latest_mention_date` |
+| `data/processed/washroom_mentions.csv` | washroom-related review (each counted once) | `mention_id` (the `review_id`), `restaurant`, `data_id`, `review_id`, `review_date`, `iso_date`, `star_rating`, `washroom_snippet` (separate washroom passages of one review joined with ` … `), `passage_count`, `full_review_text`, `review_link` |
+| `data/processed/washroom_summary.csv` | restaurant (all CSV rows) | `restaurant`, `data_id`, `reviews_collected`, `washroom_related_reviews` (= its rows in `washroom_mentions.csv`), `latest_mention_date` |
 
 Both CSVs are UTF-8 (no BOM). `reviews_collected` counts every collected
 review for the restaurant, including the unfiltered ones.

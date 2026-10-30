@@ -377,6 +377,43 @@ class TestSnippetExtraction(unittest.TestCase):
         text = "Too expensive and food is worst then street food taste...washroom is not clean.."
         self.assertEqual(mentions.extract_washroom_snippets(text), ["washroom is not clean.."])
 
+    def test_ellipsis_character_ends_a_sentence(self):
+        text = "Food taste is out of the world…cleaning and hygiene in restroom was great"
+        self.assertEqual(mentions.extract_washroom_snippets(text),
+                         ["cleaning and hygiene in restroom was great"])
+        text = "Just stopped by for dinner… staff uses washroom to do video calls…food was pathetic"
+        self.assertEqual(mentions.extract_washroom_snippets(text), ["staff uses washroom to do video calls…"])
+
+    def test_stop_glued_to_next_sentence_ends_it(self):
+        text = "Dosa was not cooked properly .Coming to hygiene the wash rooms were dirty.Service was slow"
+        self.assertEqual(mentions.extract_washroom_snippets(text),
+                         ["Coming to hygiene the wash rooms were dirty."])
+        text = "Enough parking facility.Must say Washroom is also clean.I can't say anything about the food"
+        self.assertEqual(mentions.extract_washroom_snippets(text), ["Must say Washroom is also clean."])
+
+    def test_ellipsis_followed_by_dot_and_closing_bracket_end_a_sentence(self):
+        text = "menu n place immersive food pathetic….staff uses washroom for calls…."
+        self.assertEqual(mentions.extract_washroom_snippets(text), ["staff uses washroom for calls…."])
+        text = "Washroom is clean ( rare on the NH .) Outside there is a mini garden."
+        self.assertEqual(mentions.extract_washroom_snippets(text), ["Washroom is clean ( rare on the NH .)"])
+
+    def test_long_question_does_not_take_the_next_sentence(self):
+        text = ("Who would want to go next to a smelly toilet after a meal to wash their hands? "
+                "To the management, the food was cold.")
+        self.assertEqual(mentions.extract_washroom_snippets(text),
+                         ["Who would want to go next to a smelly toilet after a meal to wash their hands?"])
+
+    def test_initials_do_not_split(self):
+        self.assertEqual(mentions.extract_washroom_snippets("Food good. The W.C was dirty."),
+                         ["The W.C was dirty."])
+
+    def test_lead_in_sentence_takes_the_next_one(self):
+        text = "Great food.\nParking/Restroom:\nHuge parking, restrooms kept clean.\nStaff polite."
+        self.assertEqual(mentions.extract_washroom_snippets(text),
+                         ["Parking/Restroom: Huge parking, restrooms kept clean."])
+        text = "Lots of shops. And the restrooms? Spotless. Coffee was cold."
+        self.assertEqual(mentions.extract_washroom_snippets(text), ["And the restrooms? Spotless."])
+
     def test_food_clauses_dropped_from_medium_sentence(self):
         text = ("A good place to have food with family & friends far from the city crowd (at least till now), "
                 "focused on North Indian food, nice hygienic with clean washroom.")
@@ -420,9 +457,11 @@ class TestMentionOutputs(_TempProject):
         with open(_utils.PROCESSED_DIR / "washroom_mentions.csv", encoding="utf-8", newline="") as fh:
             rows = list(csv.DictReader(fh))
         self.assertEqual(list(rows[0]), mentions.MENTION_COLUMNS)
+        # One row per review: r1's two separate washroom passages are joined, not counted twice
         self.assertEqual([r["washroom_snippet"] for r in rows],
-                         ["Clean restrooms.", "Washroom dirty.", "Toilet had no water."])
-        self.assertEqual([r["mention_id"] for r in rows], ["r3-1", "r1-1", "r1-2"])
+                         ["Clean restrooms.", "Washroom dirty. … Toilet had no water."])
+        self.assertEqual([r["mention_id"] for r in rows], ["r3", "r1"])
+        self.assertEqual([r["passage_count"] for r in rows], ["1", "2"])
         self.assertEqual(rows[1]["star_rating"], "2")
         self.assertEqual(rows[1]["restaurant"], "Test Dhaba")
 
@@ -430,7 +469,6 @@ class TestMentionOutputs(_TempProject):
             summary = {r["data_id"]: r for r in csv.DictReader(fh)}
         self.assertEqual(summary[DATA_ID]["reviews_collected"], "3")
         self.assertEqual(summary[DATA_ID]["washroom_related_reviews"], "2")
-        self.assertEqual(summary[DATA_ID]["washroom_mentions"], "3")
         self.assertEqual(summary[DATA_ID]["latest_mention_date"], "2026-10-01T00:00:00Z")
         self.assertEqual(summary[OTHER_ID]["reviews_collected"], "0")
         self.assertEqual(summary[OTHER_ID]["latest_mention_date"], "")
