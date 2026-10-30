@@ -566,12 +566,12 @@ class TestRepositoryLayout(unittest.TestCase):
             self.skipTest("git repository not available")
         return subprocess.run(["git", *args], cwd=utils.PROJECT_ROOT, capture_output=True, text=True)
 
-    def test_tracked_root_contains_only_three_directories(self):
+    def test_tracked_root_contains_only_three_directories_and_readme(self):
         out = self._git("ls-files").stdout.splitlines()
         top_level = {line.split("/", 1)[0] for line in out if line}
         if not top_level:
             self.skipTest("no tracked files")
-        self.assertLessEqual(top_level, {"scripts", "data", "sources"})
+        self.assertLessEqual(top_level, {"scripts", "data", "sources", "README.md"})
 
     def test_sources_env_is_ignored(self):
         res = self._git("check-ignore", "-q", "sources/.env")
