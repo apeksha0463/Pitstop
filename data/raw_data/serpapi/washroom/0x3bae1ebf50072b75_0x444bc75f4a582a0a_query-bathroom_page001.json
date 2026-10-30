@@ -1,0 +1,78 @@
+{
+  "search_metadata": {
+    "id": "6ae30f225c50d101c1ec3ad3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0_dS6PKTU2Yl41nbSKHEa7eT4dn0uNJ093IdKZ3ah08/6ae30f225c50d101c1ec3ad3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0_dS6PKTU2Yl41nbSKHEa7eT4dn0uNJ093IdKZ3ah08/6ae30f225c50d101c1ec3ad3.md",
+    "created_at": "2026-10-29 09:17:22 UTC",
+    "processed_at": "2026-10-29 09:17:22 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1ebf50072b75:0x444bc75f4a582a0a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/0_dS6PKTU2Yl41nbSKHEa7eT4dn0uNJ093IdKZ3ah08/6ae30f225c50d101c1ec3ad3.html",
+    "prettify_html_file": "https://serpapi.com/searches/0_dS6PKTU2Yl41nbSKHEa7eT4dn0uNJ093IdKZ3ah08/6ae30f225c50d101c1ec3ad3.prettify",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1ebf50072b75:0x444bc75f4a582a0a",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSQlQzRTNVbVZZVkd0R2JWWnphak5SU2pWblYzYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOjRBT3E3UmVYVGtGbVZzajNRSjVnV3c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-06T07:45:10Z",
+      "iso_date_of_last_edit": "2025-10-06T08:05:01Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSQlQzRTNVbVZZVkd0R2JWWnphak5SU2pWblYzYxAB",
+      "user": {
+        "name": "Jeevan jayakumar",
+        "link": "https://www.google.com/maps/contrib/104847864274646105964?hl=en",
+        "contributor_id": "104847864274646105964",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVnUj299YHnYvkCf7DvUMJbxrPkRIqeadQCO6YXFudxO1DkpI5U=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 26,
+        "photos": 7
+      },
+      "snippet": "Good meals and pothi choru\nDont go for biriyani\nHygiene is ok\nBathroom is indian and very very dirty\nAnd the supplier lady will be forcing you for review",
+      "extracted_snippet": {
+        "original": "Good meals and pothi choru\nDont go for biriyani\nHygiene is ok\nBathroom is indian and very very dirty\nAnd the supplier lady will be forcing you for review"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 2
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURJc3F2NS1RRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgIDIsqv5-QE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "7 years ago",
+      "iso_date": "2018-12-29T17:23:03Z",
+      "iso_date_of_last_edit": "2018-12-29T17:23:03Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJc3F2NS1RRRAB",
+      "user": {
+        "name": "HIMADRI M",
+        "link": "https://www.google.com/maps/contrib/106279012303252763050?hl=en",
+        "contributor_id": "106279012303252763050",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUdVAyp-jAQBpr6Yai1N9kuP9Dw8k_NzPOMzO3FEYXCWIwN6gF0Pw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 321,
+        "photos": 3458
+      },
+      "snippet": "It was worse experience, in terms of food and service too. I exploring so many restaurants but this the first time I had bad experience in this restaurant. Food quality is too bad and even services.\n\nBathroom was not clear properly.",
+      "extracted_snippet": {
+        "original": "It was worse experience, in terms of food and service too. I exploring so many restaurants but this the first time I had bad experience in this restaurant. Food quality is too bad and even services.\n\nBathroom was not clear properly."
+      },
+      "likes": 0
+    }
+  ]
+}

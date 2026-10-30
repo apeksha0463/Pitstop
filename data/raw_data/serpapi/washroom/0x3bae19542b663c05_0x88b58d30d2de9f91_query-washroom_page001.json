@@ -1,0 +1,137 @@
+{
+  "search_metadata": {
+    "id": "6ae30de9d18169d9eed22072",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RLMM6Io3Kt7PrevqvS1kz67I00i_2Jj6Z-p0Ri0qYrE/6ae30de9d18169d9eed22072.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RLMM6Io3Kt7PrevqvS1kz67I00i_2Jj6Z-p0Ri0qYrE/6ae30de9d18169d9eed22072.md",
+    "created_at": "2026-10-29 09:12:09 UTC",
+    "processed_at": "2026-10-29 09:12:09 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19542b663c05:0x88b58d30d2de9f91!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/RLMM6Io3Kt7PrevqvS1kz67I00i_2Jj6Z-p0Ri0qYrE/6ae30de9d18169d9eed22072.html",
+    "prettify_html_file": "https://serpapi.com/searches/RLMM6Io3Kt7PrevqvS1kz67I00i_2Jj6Z-p0Ri0qYrE/6ae30de9d18169d9eed22072.prettify",
+    "total_time_taken": 0.22
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19542b663c05:0x88b58d30d2de9f91",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGM01qWlBZMXBsUmxSMWIxOTVWWFExTmpsaWJrRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CAIQACodChtycF9oOkF3MjZPY1plRlR1b195VXQ1NjlibkE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-12T09:00:53Z",
+      "iso_date_of_last_edit": "2026-07-12T09:00:53Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGM01qWlBZMXBsUmxSMWIxOTVWWFExTmpsaWJrRRAB",
+      "user": {
+        "name": "Venod V",
+        "link": "https://www.google.com/maps/contrib/117026177830554552960?hl=en",
+        "contributor_id": "117026177830554552960",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUxqofa9HEHoJj1elEARUzLktpxkCovGIcpfTcnkayzvq2NAMtY=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 11,
+        "photos": 19
+      },
+      "snippet": "The food Veg and Non Veg was good.\nThe Steward Mr. Dinesh was very humble and provided excellent service.\nThe ambience was also good.\nOnly observation was the poor maintenance of hand wash area and the washroom. If a little bit of extra care on the higiene will make the place worth for families to spend some good time 💕",
+      "extracted_snippet": {
+        "original": "The food Veg and Non Veg was good.\nThe Steward Mr. Dinesh was very humble and provided excellent service.\nThe ambience was also good.\nOnly observation was the poor maintenance of hand wash area and the washroom. If a little bit of extra care on the higiene will make the place worth for families to spend some good time 💕"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,000–1,200",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 4,
+        "group_size": "9+ people",
+        "wait_time": "No wait"
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 months ago",
+        "iso_date": "2026-07-17T13:52:07Z",
+        "iso_date_of_last_edit": "2026-07-17T13:52:07Z",
+        "snippet": "Thank you, Venod V., for your detailed and thoughtful feedback. 😊 We're delighted that you enjoyed both our Veg and Non-Veg dishes and that Mr. Dinesh made your visit special with his warm service. We truly appreciate you highlighting the hygiene concerns as well. Your suggestions are valuable, and we'll work on improving the handwash and washroom areas to provide a better experience for every guest. We look forward to welcoming you and your family back to Food Planks soon! ❤️🍽️",
+        "extracted_snippet": {
+          "original": "Thank you, Venod V., for your detailed and thoughtful feedback. 😊 We're delighted that you enjoyed both our Veg and Non-Veg dishes and that Mr. Dinesh made your visit special with his warm service. We truly appreciate you highlighting the hygiene concerns as well. Your suggestions are valuable, and we'll work on improving the handwash and washroom areas to provide a better experience for every guest. We look forward to welcoming you and your family back to Food Planks soon! ❤️🍽️"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3bGRDNEp3EAE!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CIHM0ogKEICAgIC7ldC4Jw%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-17T14:01:18Z",
+      "iso_date_of_last_edit": "2024-08-17T14:02:07Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3bGRDNEp3EAE",
+      "user": {
+        "name": "Vimal Kumar",
+        "link": "https://www.google.com/maps/contrib/111170039305139922840?hl=en",
+        "contributor_id": "111170039305139922840",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV5k6wMT0Peh-r6jogNAm--GsiMnI9icEV1fhursWXLL0QPrQAY=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Ambience is beautiful, service is excellent, food is very good...\nSpecial thanks and wonderful service by Aman, Kripan and Rohit... A place that can be visited family and friends, they understood what customers service means for us, they cared for us and this means I will keep coming with my corporate friends and family. This place should feel proud of having such people to serve n take care of people so that they keep coming each time\n\nWe all liked the washroom hygeine and this is kudos to Management",
+      "extracted_snippet": {
+        "original": "Ambience is beautiful, service is excellent, food is very good...\nSpecial thanks and wonderful service by Aman, Kripan and Rohit... A place that can be visited family and friends, they understood what customers service means for us, they cared for us and this means I will keep coming with my corporate friends and family. This place should feel proud of having such people to serve n take care of people so that they keep coming each time\n\nWe all liked the washroom hygeine and this is kudos to Management"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Brunch",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-08-28T11:31:55Z",
+        "iso_date_of_last_edit": "2024-08-28T11:31:55Z",
+        "snippet": "Hi Vimal Kumar\n\n\nThank you for taking the time to share your experience at Food Planks. We\"re thrilled to hear that you enjoyed our food & service. At Food Planks, we take pride in creating a warm and inviting ambiance. Our cozy lighting, comfortable seating, and tasteful decor provide the perfect backdrop for a memorable dining experience. Whether you’re celebrating a special occasion or simply enjoying a meal with friends, our atmosphere is designed to enhance your visit. We hope to see you again soon! 😊🍽️\n\nBest Regards,\nFood Planks",
+        "extracted_snippet": {
+          "original": "Hi Vimal Kumar\n\n\nThank you for taking the time to share your experience at Food Planks. We\"re thrilled to hear that you enjoyed our food & service. At Food Planks, we take pride in creating a warm and inviting ambiance. Our cozy lighting, comfortable seating, and tasteful decor provide the perfect backdrop for a memorable dining experience. Whether you’re celebrating a special occasion or simply enjoying a meal with friends, our atmosphere is designed to enhance your visit. We hope to see you again soon! 😊🍽️\n\nBest Regards,\nFood Planks"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaOEltcm53RRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CIHM0ogKEICAgICZ8ImrnwE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-09-02T20:21:04Z",
+      "iso_date_of_last_edit": "2023-09-02T20:21:04Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaOEltcm53RRAB",
+      "user": {
+        "name": "Dr. Ananth Narayan",
+        "link": "https://www.google.com/maps/contrib/106547966231780307816?hl=en",
+        "contributor_id": "106547966231780307816",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVBo_1i0b4grxxQQLMDiRl_R-Nn8NYeqAPUGEi7EQiWa1xV5maS=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "A decent dining place . Good ambiance . Nice food . Clean washroom . But do check your bill especially when in big groups and when you have ordered varieties . You might end up paying for more dishes than you have ordered .",
+      "extracted_snippet": {
+        "original": "A decent dining place . Good ambiance . Nice food . Clean washroom . But do check your bill especially when in big groups and when you have ordered varieties . You might end up paying for more dishes than you have ordered ."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,800–2,000",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "data_id": "0x3bae19cd83892495:0xc4ee26c182749dfe",
+  "page": 1,
+  "review_filter": "query:washroom",
+  "has_next_page": false,
+  "reviews_on_page": 3,
+  "new_reviews": 3,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 3,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQ2JuZ3RWMGhQVEdaRmNqVkRjRU5vY2tOYVVXYxAB",
+      "author": "Sindhu",
+      "rating": 1.0,
+      "date": "a year ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cHBtQ3N3RRAB",
+      "author": "Devamrutha S",
+      "rating": 1.0,
+      "date": "a year ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2bG8zdFRBEAE",
+      "author": "ashwin kumar",
+      "rating": 5.0,
+      "date": "Edited 3 years ago",
+      "images": []
+    }
+  ]
+}

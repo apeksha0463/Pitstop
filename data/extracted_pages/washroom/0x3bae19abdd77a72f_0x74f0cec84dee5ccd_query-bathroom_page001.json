@@ -1,0 +1,52 @@
+{
+  "data_id": "0x3bae19abdd77a72f:0x74f0cec84dee5ccd",
+  "page": 1,
+  "review_filter": "query:bathroom",
+  "has_next_page": false,
+  "reviews_on_page": 1,
+  "new_reviews": 1,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 1,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMVJXcExZM1ZHZEdaa01HbHVjVVpKVHpOc1gzYxAB",
+      "author": "Sanjay Singh",
+      "rating": 1.0,
+      "date": "a year ago",
+      "images": []
+    }
+  ]
+}

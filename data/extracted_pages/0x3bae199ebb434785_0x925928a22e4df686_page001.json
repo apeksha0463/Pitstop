@@ -1,0 +1,117 @@
+{
+  "data_id": "0x3bae199ebb434785:0x925928a22e4df686",
+  "page": 1,
+  "has_next_page": true,
+  "reviews_on_page": 10,
+  "new_reviews": 10,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "serpapi_pagination",
+      "topics"
+    ],
+    "place_title": "Kapoor's Cafe - Yelahanka",
+    "place_type": "Punjabi restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 10,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": true,
+    "has_next_page_token": true,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWmVIZFplV1YwYWpBMlpXOTRMWEJGWldSUWRHYxAB",
+      "author": "Arjun Chaudhary",
+      "rating": 4.0,
+      "date": "13 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twa2NpMUNNRlZMY1hRMFFtVlhjVlpIU1dzMk1YYxAB",
+      "author": "Namitha Chandana",
+      "rating": 5.0,
+      "date": "23 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVFNucFpWRUV5VWtKVVVFUlZXRkpRYm1wTFIwRRAB",
+      "author": "Deepanshu Bisht",
+      "rating": 3.0,
+      "date": "a day ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMlZ6WTFkbE0zUlhSUGRrNUphV3AyYUhKbFgwRRAB",
+      "author": "betakunta purushotham",
+      "rating": 3.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RGRIVkZYMWh3VG5KVmRWWldYMU0yY0ZNd2MxRRAB",
+      "author": "Akshay Kumar",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaemVUazVkMFppVWxCTGRHcDROVlJDWWxFdGIwRRAB",
+      "author": "Nilesh Kant",
+      "rating": 4.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQmRHUnllRkJuUXpnMWNHWTNNR3BvY1RkTlIzYxAB",
+      "author": "subhash kulkarni",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213M1dYcFhaREV4UzFkeFZYTmlVMDAxUm1sblFsRRAB",
+      "author": "Kevin Ruben",
+      "rating": 5.0,
+      "date": "Edited 3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKME1qTkRRelpaYTJsM2RFZEhjVlJpTFdFMFRFRRAB",
+      "author": "Sanjana B",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSmFqZFJZV2hNYkMxTE9HUjBUa2R0VWtOcFZWRRAB",
+      "author": "Ram Charan K",
+      "rating": 4.0,
+      "date": "3 days ago",
+      "images": []
+    }
+  ]
+}

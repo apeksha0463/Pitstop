@@ -1,0 +1,114 @@
+{
+  "search_metadata": {
+    "id": "6ae30fd32070371abdaa70f1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RIsYulDWG2FyXihK5xKeCNDTjDVh5Nk3BPsy3sMQEd0/6ae30fd32070371abdaa70f1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RIsYulDWG2FyXihK5xKeCNDTjDVh5Nk3BPsy3sMQEd0/6ae30fd32070371abdaa70f1.md",
+    "created_at": "2026-10-29 09:20:19 UTC",
+    "processed_at": "2026-10-29 09:20:19 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e371772cff9f:0x4eb6f86a41629776!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/RIsYulDWG2FyXihK5xKeCNDTjDVh5Nk3BPsy3sMQEd0/6ae30fd32070371abdaa70f1.html",
+    "prettify_html_file": "https://serpapi.com/searches/RIsYulDWG2FyXihK5xKeCNDTjDVh5Nk3BPsy3sMQEd0/6ae30fd32070371abdaa70f1.prettify",
+    "total_time_taken": 0.17
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e371772cff9f:0x4eb6f86a41629776",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUbnNtVU9nEAE!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEICAgICTnsmUOg%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited 4 months ago",
+      "iso_date": "2024-05-15T05:11:19Z",
+      "iso_date_of_last_edit": "2026-06-08T07:21:20Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdMGNgerW5r_XhhWw7ubiy9LqWSFkFPkKhKjDUP5G25b_qLnjqfjXHKn4SO7aP_NOanxCYcIMl6bWhAAxTd0F9Zw2LZnLmBFDavfoBMeWSiy2yQHOm6UWJ8Nol3Ma4YpiKJLJQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcNedJdfnzptL26LjeN9JUsqEIc_pb1B2Z_wg9uXDu6aA5XfsKjrQr0_ycIJgih7FVjDZq-iEJzPdzbDUHv8elAH9khrNP-HbLIFHCtd1grVnsp6Snr2AvNegVlZttwtrsGlm44SJfvpWBm=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUbnNtVU9nEAE",
+      "user": {
+        "name": "Sona Suzanne",
+        "link": "https://www.google.com/maps/contrib/117273584322534557134?hl=en",
+        "contributor_id": "117273584322534557134",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUEXSsOCD1Ln7eX8ELl_573KxiS5erLXL3vxgvIfzJnLDL5T244-g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 773,
+        "photos": 4902
+      },
+      "snippet": "A2B is undoubtedly one of the preferred breakfast stops for many. The airport road one was neat and bathrooms were ok. Food was at par. Service needs to be handled better. The lady cleaning the bathroom was pretty rude saying don't wash hands in the restroom area. I told her to speak a bit more politely as I wasnot aware that the tap is leaking.",
+      "extracted_snippet": {
+        "original": "A2B is undoubtedly one of the preferred breakfast stops for many. The airport road one was neat and bathrooms were ok. Food was at par. Service needs to be handled better. The lady cleaning the bathroom was pretty rude saying don't wash hands in the restroom area. I told her to speak a bit more politely as I wasnot aware that the tap is leaking."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "group_size": "3-4 people",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "All veg restaurant",
+        "parking_space": "Somewhat difficult to find parking",
+        "parking_options": "Free street parking",
+        "parking": "The restaurant,  for the capacity that it runs with, doesn't have sufficient parking space. The security guard was a bit rude to all of us... esp bikers. I don't understand why bikers are discriminated against while a car with a single person gets better respect. What we eat and pay mostly is the same i believe. It was a let down.",
+        "kid_friendliness": "It's an ok place to bring kids if they like South Indian breakfast",
+        "wheelchair_accessibility": "A bit tough for a wheelchair...there is a flight of stairs at the entrance."
+      },
+      "likes": 1,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-05-15T08:10:01Z",
+        "iso_date_of_last_edit": "2024-05-15T08:10:01Z",
+        "snippet": "Dear Sona Suzanne,\n\nThank you for sharing your experience at our restaurant. We're delighted to hear that A2B is your preferred breakfast spot. We appreciate your feedback about the wait time for your food, and we apologize for the inconvenience. We understand the importance of prompt service, and we'll address this issue with our team to ensure a more efficient and enjoyable dining experience for you and our other guests. We hope to have the opportunity to welcome you back soon!\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Sona Suzanne,\n\nThank you for sharing your experience at our restaurant. We're delighted to hear that A2B is your preferred breakfast spot. We appreciate your feedback about the wait time for your food, and we apologize for the inconvenience. We understand the importance of prompt service, and we'll address this issue with our team to ensure a more efficient and enjoyable dining experience for you and our other guests. We hope to have the opportunity to welcome you back soon!\n\nThanks \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OT2IzVmZkblZSVWxkM2NXOXlhVE13UWxKTVowRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOnNOb3VfdnVRUld3cW9yaTMwQlJMZ0E%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-28T01:18:26Z",
+      "iso_date_of_last_edit": "2026-01-28T01:18:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT2IzVmZkblZSVWxkM2NXOXlhVE13UWxKTVowRRAB",
+      "user": {
+        "name": "karthik Krishna Murthy",
+        "link": "https://www.google.com/maps/contrib/116323177907190655612?hl=en",
+        "contributor_id": "116323177907190655612",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKxwtrdLG5BG3a3YBpDzmiEgeMJQKhCV5nQiuZw_Xs-6lZltw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 78,
+        "photos": 26
+      },
+      "snippet": "Worst service. There was no one to take order. We had to search and call him. Service as well very worst, got vada and chutney came after vada was over.\nRestroom are not clean.\nDo not recommend",
+      "extracted_snippet": {
+        "original": "Worst service. There was no one to take order. We had to search and call him. Service as well very worst, got vada and chutney came after vada was over.\nRestroom are not clean.\nDo not recommend"
+      },
+      "details": {
+        "food": 3,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0,
+      "response": {
+        "date": "9 months ago",
+        "iso_date": "2026-01-28T01:58:48Z",
+        "iso_date_of_last_edit": "2026-01-28T01:58:48Z",
+        "snippet": "Dear karthik Krishna Murthy,\n\nWe are truly sorry to hear about your disappointing experience at our restaurant. Your feedback about the service and cleanliness is concerning, and we apologize for the inconvenience caused. We will address these issues with our staff to ensure that such instances do not occur in the future. We appreciate you bringing this to our attention and thank you for your feedback.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear karthik Krishna Murthy,\n\nWe are truly sorry to hear about your disappointing experience at our restaurant. Your feedback about the service and cleanliness is concerning, and we apologize for the inconvenience caused. We will address these issues with our staff to ensure that such instances do not occur in the future. We appreciate you bringing this to our attention and thank you for your feedback.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    }
+  ]
+}

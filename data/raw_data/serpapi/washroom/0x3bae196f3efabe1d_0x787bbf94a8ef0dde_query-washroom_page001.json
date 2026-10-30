@@ -1,0 +1,86 @@
+{
+  "search_metadata": {
+    "id": "6ae30e526771800f91e09dde",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/X5iygeXhVGfQr5cnV_sdFBE8A5RDuZyMfKir2P4uDfE/6ae30e526771800f91e09dde.json",
+    "markdown_endpoint": "https://serpapi.com/searches/X5iygeXhVGfQr5cnV_sdFBE8A5RDuZyMfKir2P4uDfE/6ae30e526771800f91e09dde.md",
+    "created_at": "2026-10-29 09:13:54 UTC",
+    "processed_at": "2026-10-29 09:13:54 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae196f3efabe1d:0x787bbf94a8ef0dde!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/X5iygeXhVGfQr5cnV_sdFBE8A5RDuZyMfKir2P4uDfE/6ae30e526771800f91e09dde.html",
+    "prettify_html_file": "https://serpapi.com/searches/X5iygeXhVGfQr5cnV_sdFBE8A5RDuZyMfKir2P4uDfE/6ae30e526771800f91e09dde.prettify",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae196f3efabe1d:0x787bbf94a8ef0dde",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwd3FDaml3RRAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CIHM0ogKEICAgIDpwqCjiwE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-08-18T14:02:33Z",
+      "iso_date_of_last_edit": "2023-08-18T14:03:25Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf45-61-qd7g4Q8zI0zGR3Uk3HtQOQrT0pl7cSY6QVOaPit-QS9Edpzzzz6wLziKWyIi1MU4c9suV0iN_RWoX6RGAh3AYYuQS_3OEsst0cFYlPtklyFU4f-sPCbR67RH3E4GGaS=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdSW8Ac9ptr9bOE5-GjmK4ukUeSXd7gi7KQuRw_r9ZjDylHAdf-x4Q0XnYOXefqWJR1BdGA0eacbu4P5NbGQSf90T0ih8q1hzQd7991pRgR_5ZxUvHR4Ek0a29-VJkxEXos33eygA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc-w-TnuAhw0sz7ImH4pp7dLJ1fBpfgn-6ddQqpqisEpTj6xTvxPF38-1RdYV9iyGrTG3vKQxc2Wmq3vPeRKtvD674dYfnhR80CDC5lmUUjNw3UMvhBgNISJJEWyfIf7-uMGo9k=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwd3FDaml3RRAB",
+      "user": {
+        "name": "Dream Destination",
+        "link": "https://www.google.com/maps/contrib/112730634634160606183?hl=en",
+        "contributor_id": "112730634634160606183",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWFUHZhK7TCpkXHdsDbWjh_Sf9rAw1bo7NiI8Yb3YHszEX1nnxx=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 408,
+        "photos": 1469
+      },
+      "snippet": "Veg food great,service good,clean, washroom clean.evening time full of people. Prices affordable.",
+      "extracted_snippet": {
+        "original": "Veg food great,service good,clean, washroom clean.evening time full of people. Prices affordable."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "recommended_dishes": "Masala Dosa",
+        "wheelchair_accessibility": "Wheelchair not possible"
+      },
+      "likes": 1
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURDaU02RVBBEAE!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CIHM0ogKEICAgIDCiM6EPA%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "6 years ago",
+      "iso_date": "2020-09-12T15:26:37Z",
+      "iso_date_of_last_edit": "2020-09-12T15:26:37Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDaU02RVBBEAE",
+      "user": {
+        "name": "GANESH mahar",
+        "link": "https://www.google.com/maps/contrib/116617470272254112517?hl=en",
+        "contributor_id": "116617470272254112517",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocItETnskOYIo3yUanNtAvAbzu436WqIpZIH9xQ_QybgqPLUgw=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 2
+      },
+      "snippet": "Restaurant is ok due, variety and good taste.\nHowever hygiene regarding washroom etc r low,needs much more improvement.\nMany customers visit.\nGood service",
+      "extracted_snippet": {
+        "original": "Restaurant is ok due, variety and good taste.\nHowever hygiene regarding washroom etc r low,needs much more improvement.\nMany customers visit.\nGood service"
+      },
+      "likes": 0
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "credits_used": 186,
+  "budget": 228,
+  "stop_reason": null,
+  "max_pages_per_search": 3,
+  "restaurants": [
+    {
+      "restaurant": "NEKTR",
+      "data_id": "0x3bae19cda2f74b29:0x52801f4a0d16f2cf",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "The Food Factory",
+      "data_id": "0x3bae19cd83892495:0xc4ee26c182749dfe",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 5
+    },
+    {
+      "restaurant": "Global Dhaba (Now NIDO)",
+      "data_id": "0x3bae1972883c93a5:0x346e917a45e2026d",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 1
+    },
+    {
+      "restaurant": "9th Mile Dhaba",
+      "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 1
+    },
+    {
+      "restaurant": "Food Planks",
+      "data_id": "0x3bae19542b663c05:0x88b58d30d2de9f91",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 4
+    },
+    {
+      "restaurant": "Kapoor's Cafe",
+      "data_id": "0x3bae199ebb434785:0x925928a22e4df686",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 4
+    },
+    {
+      "restaurant": "Nasi and Mee",
+      "data_id": "0x3bae197c7ce97a4b:0x250d4a877cdc8f24",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 1
+    },
+    {
+      "restaurant": "Udupi Sambrama",
+      "data_id": "0x3bae19006fc77e73:0xfd95f7b89961f952",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Gokul Veg",
+      "data_id": "0x3bae18f8ec42e37f:0x5d26865d797bda32",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 4
+    },
+    {
+      "restaurant": "Kanhaji",
+      "data_id": "0x3bae19abdd77a72f:0x74f0cec84dee5ccd",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 2
+    },
+    {
+      "restaurant": "Ananth Andhra Style Family Restaurant",
+      "data_id": "0x3bae190663f1db5b:0x29670e7908cd74f7",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Dine Spot Restaurant",
+      "data_id": "0x3bae1917369a56ed:0x82c7dc569c4fe63f",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 1
+    },
+    {
+      "restaurant": "Thamaq Restaurant",
+      "data_id": "0x3bae197d9384cd9d:0x11226b272c6be0b2",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 5
+    },
+    {
+      "restaurant": "Panchami Garden",
+      "data_id": "0x3bae196f3efabe1d:0x787bbf94a8ef0dde",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 3
+    },
+    {
+      "restaurant": "Andhra Vindu",
+      "data_id": "0x3bae1916b73138af:0x606c34389cd7e6bd",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Adyar Ananda Bhavan (A2B)",
+      "data_id": "0x3bae1ecd0a5c0543:0xd4b712c05a110e71",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 53
+    },
+    {
+      "restaurant": "Light House Family Restaurant",
+      "data_id": "0x3bae1f028ffa149b:0x4848588589cb9493",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Liquid Sky Family Fine Dine & Bar",
+      "data_id": "0x3bae1f00671f5ff9:0x9527fccf27b2f187",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Bee One Family Restaurant",
+      "data_id": "0x3bae1fcd0ceaa3a3:0x920c3e619894eb14",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Beijing Bites",
+      "data_id": "0x3bae1f7477b556d3:0x8c7dfe0eb0754e5c",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 1
+    },
+    {
+      "restaurant": "Itihaas Restaurant",
+      "data_id": "0x3bae1ebf50072b75:0x444bc75f4a582a0a",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 12
+    },
+    {
+      "restaurant": "Acre Bengaluru (Bar & Kitchen)",
+      "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 14
+    },
+    {
+      "restaurant": "Shivaji Restaurant",
+      "data_id": "0x3bae1e842d0cbdd1:0xd4eb870efbba7967",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Seasons Restaurant",
+      "data_id": "0x3bae1e86941cd0db:0x5d472c182c9721f3",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 7
+    },
+    {
+      "restaurant": "Cinnamon Restaurant",
+      "data_id": "0x3bae1f8c15fece47:0x92e69992bab29c56",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Celestial Multicuisine Restaurant",
+      "data_id": "0x3bae1fb999936ad5:0x79374f06ffceb889",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Swamy Vaibhava",
+      "data_id": "0x3bae1f0058d97905:0xe73592bbe64cf6a7",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Cafe Iftar",
+      "data_id": "0x3bae1d00468c4e4f:0xb472f74e2a0cfb45",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Dhaba On The Highway",
+      "data_id": "0x3bae1d3f2f5b9811:0xf49561b63d6d7d65",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Clay Bistro",
+      "data_id": "0x3bae1d6611382485:0xd2f76e5fd6d82382",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Nandagokula AC Veg Restaurant",
+      "data_id": "0x3bb1e390a5514f65:0x3b8f2ca25b4423de",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 18
+    },
+    {
+      "restaurant": "Devanahalli Gowdru Restaurant",
+      "data_id": "0x3bb1e397f793c70f:0x60862294e68b1a37",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 10
+    },
+    {
+      "restaurant": "NH7 Refuel Restaurant",
+      "data_id": "0x3bb1e29159d69fe1:0x324d96dade0efb15",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 15
+    },
+    {
+      "restaurant": "Aaradhya Grand",
+      "data_id": "0x3bb1e3ae98bda1eb:0x8370cc11593217b3",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 9
+    },
+    {
+      "restaurant": "Empire Restaurant Devanahalli",
+      "data_id": "0x3bb1e3f2fe781a35:0xa978b861803d2fbb",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 10
+    },
+    {
+      "restaurant": "Adyar Ananda Bhavan (A2B) Devanahalli",
+      "data_id": "0x3bb1e371772cff9f:0x4eb6f86a41629776",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 14
+    },
+    {
+      "restaurant": "Koteshwaram",
+      "data_id": "0x3bb1e30070aee50f:0x4b5fdf769acaf73f",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 29
+    },
+    {
+      "restaurant": "Kings Family Restaurant",
+      "data_id": "0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 1
+    },
+    {
+      "restaurant": "Barun Nati Style Family Restaurant",
+      "data_id": "0x3bb1e56ca53ca115:0x9ae11bd0462879f2",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Hotel Nammura Bharjari Baadoota",
+      "data_id": "0x3bb1ef7b3a68cf11:0x346e2f8b991ea805",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 1
+    },
+    {
+      "restaurant": "BMK Biryani Junction",
+      "data_id": "0x3bb1f1110c2b23ab:0x69175de9332ae531",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 2
+    },
+    {
+      "restaurant": "Samara's Veg Chikkaballapur",
+      "data_id": "0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 7
+    },
+    {
+      "restaurant": "Hotel Pranav Veg",
+      "data_id": "0x3bb1e520cfaa728b:0x45550c587033f0ac",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 43
+    },
+    {
+      "restaurant": "IVTC",
+      "data_id": "0x3bb1f3b47678b4ad:0x7ea45b9283828a19",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 1
+    },
+    {
+      "restaurant": "Big Bay India Highway Pitstop (food court)",
+      "data_id": "0x3bb1f387d961ff7f:0x5e5f63a1d714047b",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 22
+    },
+    {
+      "restaurant": "Empire Restaurant (inside Big Bay)",
+      "data_id": "0x3bb1f35e46db6f73:0x6ba914581ed1edcf",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    },
+    {
+      "restaurant": "Shubham Restaurant",
+      "data_id": "0x3bb1f35231de3245:0x2317d9c04322686c",
+      "searches": [
+        "query:washroom",
+        "query:restroom",
+        "query:toilet",
+        "query:bathroom"
+      ],
+      "status": "complete",
+      "reviews_collected": 0
+    }
+  ],
+  "saved_at": "2026-10-29T14:53:00"
+}

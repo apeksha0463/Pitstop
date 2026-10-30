@@ -1,0 +1,367 @@
+{
+  "search_metadata": {
+    "id": "6ae2e5cf0c3a0847c0a67534",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CIUuLyxEWJXmkhYsorABBk2HD8R4pU94y24OKyYewuA/6ae2e5cf0c3a0847c0a67534.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CIUuLyxEWJXmkhYsorABBk2HD8R4pU94y24OKyYewuA/6ae2e5cf0c3a0847c0a67534.md",
+    "created_at": "2026-10-29 06:21:03 UTC",
+    "processed_at": "2026-10-29 06:21:03 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1917369a56ed:0x82c7dc569c4fe63f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/CIUuLyxEWJXmkhYsorABBk2HD8R4pU94y24OKyYewuA/6ae2e5cf0c3a0847c0a67534.html",
+    "prettify_html_file": "https://serpapi.com/searches/CIUuLyxEWJXmkhYsorABBk2HD8R4pU94y24OKyYewuA/6ae2e5cf0c3a0847c0a67534.prettify",
+    "total_time_taken": 3.55
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1917369a56ed:0x82c7dc569c4fe63f",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Dine Spot Restaurant",
+    "address": "Shop No: 177, 4JC8+CXJ, Bagalur Main Rd, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka 560064, India",
+    "rating": 3.9,
+    "reviews": 6408,
+    "type": "Kerala restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "malabar biriyani",
+      "mentions": 33,
+      "id": "Jk8g3jxbWpg"
+    },
+    {
+      "keyword": "shawarma",
+      "mentions": 73,
+      "id": "NGskbtlrJ48"
+    },
+    {
+      "keyword": "hyderabadi biryani",
+      "mentions": 15,
+      "id": "Kg1B_WJ1Z9M"
+    },
+    {
+      "keyword": "cockroach in food",
+      "mentions": 5,
+      "id": "Eo706_AZqWk"
+    },
+    {
+      "keyword": "roti",
+      "mentions": 6,
+      "id": "ATzxRGgqYW8"
+    },
+    {
+      "keyword": "north indian food",
+      "mentions": 13,
+      "id": "KU6D_TolXnc"
+    },
+    {
+      "keyword": "grill chicken",
+      "mentions": 11,
+      "id": "GJ5xNUm5o5U"
+    },
+    {
+      "keyword": "veg thali",
+      "mentions": 3,
+      "id": "GQVbnetsfAE"
+    },
+    {
+      "keyword": "falooda",
+      "mentions": 3,
+      "id": "hs3ImVnCdW8"
+    },
+    {
+      "keyword": "prawn biryani",
+      "mentions": 2,
+      "id": "BIdkNC1LJyo"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21JeGJWbGpUVEJ0WVMweU9WRjBTV3RCU0dKc01sRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOmIxbVljTTBtYS0yOVF0SWtBSGJsMlE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "20 hours ago",
+      "iso_date": "2026-10-28T09:30:20Z",
+      "iso_date_of_last_edit": "2026-10-28T09:30:20Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeGJWbGpUVEJ0WVMweU9WRjBTV3RCU0dKc01sRRAB",
+      "user": {
+        "name": "vinay kumar",
+        "link": "https://www.google.com/maps/contrib/114034215924221808624?hl=en",
+        "contributor_id": "114034215924221808624",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJRZSMn6T7NOG9fXVa0oAgjKorwv6uoL8sqMwjJW1pLtTQmKLCo=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 12,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xselpsbHpUREJZYm5GVWQxRlplbE5ZUzBOelowRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOllzZllzTDBYbnFUd1FZelNYS0NzZ0E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-27T08:42:13Z",
+      "iso_date_of_last_edit": "2026-10-27T08:42:13Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xselpsbHpUREJZYm5GVWQxRlplbE5ZUzBOelowRRAB",
+      "user": {
+        "name": "Suhas acharya",
+        "link": "https://www.google.com/maps/contrib/103727228866872893234?hl=en",
+        "contributor_id": "103727228866872893234",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUIVF76SMMMm0GY19llDUsVsDYsAP1gprMQr5kTKia0TVNfno5Y=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 21,
+        "photos": 24
+      },
+      "snippet": "Best spot to eat mandi I have tried all falours highly recommended peri peri mandi but I didn't like the rice quality. it was little raw maybe the would have given different type rice",
+      "extracted_snippet": {
+        "original": "Best spot to eat mandi I have tried all falours highly recommended peri peri mandi but I didn't like the rice quality. it was little raw maybe the would have given different type rice"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 4,
+        "group_size": "3-4 people"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSaFJrOXJUbWhWY0VoYWFWVkJTbXhLYUVwQk5sRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOkRhRk9rTmhVcEhaaVVBSmxKaEpBNlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-27T02:37:12Z",
+      "iso_date_of_last_edit": "2026-10-27T02:37:12Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaFJrOXJUbWhWY0VoYWFWVkJTbXhLYUVwQk5sRRAB",
+      "user": {
+        "name": "ayyappan r",
+        "link": "https://www.google.com/maps/contrib/105609438922482091091?hl=en",
+        "contributor_id": "105609438922482091091",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWpfcqzQ9jPn10ZZY93mPgDQ7zaUiT7bOH_xBKmYx-lnO0KNkG5TA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 34,
+        "photos": 30
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "Suitable for all group sizes"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkNk16aEpXV0Y1U0RkMlQxVTJVRzR3YURCak5XYxAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOjd6MzhJWWF5SDd2T1U2UG4waDBjNWc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T02:17:46Z",
+      "iso_date_of_last_edit": "2026-10-26T02:17:46Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkNk16aEpXV0Y1U0RkMlQxVTJVRzR3YURCak5XYxAB",
+      "user": {
+        "name": "Manavalan Sankarappan",
+        "link": "https://www.google.com/maps/contrib/116628901649221379084?hl=en",
+        "contributor_id": "116628901649221379084",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX4NiqNTZeudvSh9jo6U8HG5exc06uhVSW1lu_ngAFDSqjE5NXnBw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 13,
+        "photos": 11
+      },
+      "snippet": "Food was good. And budget wise ok.",
+      "extracted_snippet": {
+        "original": "Food was good. And budget wise ok."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "group_size": "1 person"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poa2RUaGpXRlpoYWpoS2VtMU9hbEJYUlVSYVdWRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOjhkdThjWFZhajhKem1OalBXRURaWVE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-25T19:34:54Z",
+      "iso_date_of_last_edit": "2026-10-25T19:34:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poa2RUaGpXRlpoYWpoS2VtMU9hbEJYUlVSYVdWRRAB",
+      "user": {
+        "name": "Diya shajil Diya",
+        "link": "https://www.google.com/maps/contrib/103887618963466813244?hl=en",
+        "contributor_id": "103887618963466813244",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXfKoMa7T0EOJJQerw0WBsAO9_oj7cnzdBwYFySU40cJ3SmuDOu=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21Gd2NrOVNMWFpUUlVkaWEzRXlTbVpFUVVoWGIxRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOmFwck9SLXZTRUdia3EySmZEQUhXb1E%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-24T15:59:41Z",
+      "iso_date_of_last_edit": "2026-10-24T15:59:41Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gd2NrOVNMWFpUUlVkaWEzRXlTbVpFUVVoWGIxRRAB",
+      "user": {
+        "name": "rohit soni",
+        "link": "https://www.google.com/maps/contrib/105752306379191491625?hl=en",
+        "contributor_id": "105752306379191491625",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXsXYI8j1aJmeQK7lNPNPLr3mf6Nrf-q-tZ3q5BmTXdjeOPMRA=s120-c-rp-mo-br100",
+        "reviews": 9,
+        "photos": 6
+      },
+      "snippet": "Extremely Bad Service,like it's extremely bad. The worst ever in this area. Even a simple restaurant has 10 times better service. If I had the option to have my last meal and this was the only restaurant open. I would not have that meal here.",
+      "extracted_snippet": {
+        "original": "Extremely Bad Service,like it's extremely bad. The worst ever in this area. Even a simple restaurant has 10 times better service. If I had the option to have my last meal and this was the only restaurant open. I would not have that meal here."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,000–1,200",
+        "food": 2,
+        "service": 1,
+        "atmosphere": 1,
+        "group_size": "3-4 people"
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKNGRtVjVZV3RqUldONVpGOXBjblV4ZWpWa05XYxAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOjJ4dmV5YWtjRWN5ZF9pcnUxejVkNWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-24T15:22:20Z",
+      "iso_date_of_last_edit": "2026-10-24T15:22:20Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNGRtVjVZV3RqUldONVpGOXBjblV4ZWpWa05XYxAB",
+      "user": {
+        "name": "Sangeetha",
+        "link": "https://www.google.com/maps/contrib/111214097671512244100?hl=en",
+        "contributor_id": "111214097671512244100",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLdsZpeiLSQC3AMfAZXBM-mqBmknBObXMbXsFqDBdagnpPrEA=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "I brought one chicken biriyani frm here through zomato. It was 179 rs. Only one small piece chicken is they've given. In rice no masala also. Very disappointed",
+      "extracted_snippet": {
+        "original": "I brought one chicken biriyani frm here through zomato. It was 179 rs. Only one small piece chicken is they've given. In rice no masala also. Very disappointed"
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKYWNrUlNabk40VFY5U09XNW9WSGhEUVhneVNHYxAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOlJackRSZnN4TV9SOW5oVHhDQXgySGc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-23T15:06:24Z",
+      "iso_date_of_last_edit": "2026-10-23T15:06:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKYWNrUlNabk40VFY5U09XNW9WSGhEUVhneVNHYxAB",
+      "user": {
+        "name": "Paul Jacob",
+        "link": "https://www.google.com/maps/contrib/116779358059573130535?hl=en",
+        "contributor_id": "116779358059573130535",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUP1dbNnFDjVoBEQCLniJGTtmOY4qC37qOeS8yDfYXEhOcaA1y9SA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 62,
+        "photos": 82
+      },
+      "snippet": "Poor food",
+      "extracted_snippet": {
+        "original": "Poor food"
+      },
+      "details": {
+        "order_type": "Delivery",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 3,
+        "atmosphere": 3,
+        "group_size": "2 people"
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kVVIwNXNPRUYzYldoTlFXdFRObDlHZG1FellYYxAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOmdUR05sOEF3bWhNQWtTNl9GdmEzYXc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T09:22:01Z",
+      "iso_date_of_last_edit": "2026-10-21T09:22:01Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVVIwNXNPRUYzYldoTlFXdFRObDlHZG1FellYYxAB",
+      "user": {
+        "name": "Jayashree Poojari",
+        "link": "https://www.google.com/maps/contrib/114955167670183438586?hl=en",
+        "contributor_id": "114955167670183438586",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWIYtohHpsPzMqujhgrCVGQmbgJWJaOju2k8AeFoY-9LdyvYro8=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 26,
+        "photos": 4
+      },
+      "details": {
+        "order_type": "Take out",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 4,
+        "seating_type": "Indoor dining area",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Large vegetarian selection",
+        "parking_space": "Not sure",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxTVVVUjZkVEJGYWpoVFYzRjFVM2RWZGpaa1ozYxAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOi1MUUR6dTBFajhTV3F1U3dVdjZkZ3c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-20T18:23:10Z",
+      "iso_date_of_last_edit": "2026-10-20T18:23:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTVVVUjZkVEJGYWpoVFYzRjFVM2RWZGpaa1ozYxAB",
+      "user": {
+        "name": "Diptanu Rudra Paul",
+        "link": "https://www.google.com/maps/contrib/104955979414894526303?hl=en",
+        "contributor_id": "104955979414894526303",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVPq2E3k4mCZCXHwNs_GerGw769w0xMI_HyVs1J0yUMvLUDxhz_cQ=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 1
+      },
+      "snippet": "Honestly, this was one of the worst Butter Paneer Masalas I've ever had. It was genuinely disgusting. Instead of a rich, creamy gravy, the entire dish literally just smelled and tasted like an overwhelming amount of raw onions. The onion flavor completely overpowered the paneer and ruined the entire meal. Save your money and order from somewhere else-this was completely inedible.",
+      "extracted_snippet": {
+        "original": "Honestly, this was one of the worst Butter Paneer Masalas I've ever had. It was genuinely disgusting. Instead of a rich, creamy gravy, the entire dish literally just smelled and tasted like an overwhelming amount of raw onions. The onion flavor completely overpowered the paneer and ruined the entire meal. Save your money and order from somewhere else-this was completely inedible."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400"
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x3bae1917369a56ed%3A0x82c7dc569c4fe63f&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F6lcmna__EhCIU2HFwuVvfA0pR9cAAAAAGgf_Al6lcmnaGAAiAA%3A10&sort_by=newestFirst",
+    "next_page_token": "Ci8IARInCgoAP72F6lcmna__EhCIU2HFwuVvfA0pR9cAAAAAGgf_Al6lcmnaGAAiAA:10"
+  }
+}

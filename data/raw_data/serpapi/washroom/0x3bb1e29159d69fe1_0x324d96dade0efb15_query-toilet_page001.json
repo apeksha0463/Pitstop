@@ -1,0 +1,173 @@
+{
+  "search_metadata": {
+    "id": "6ae30fae93d35d347215da09",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-PGawnLXXrNzPacM9WC9cPHPW2yteL6jtvLcDW5zkhw/6ae30fae93d35d347215da09.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-PGawnLXXrNzPacM9WC9cPHPW2yteL6jtvLcDW5zkhw/6ae30fae93d35d347215da09.md",
+    "created_at": "2026-10-29 09:19:42 UTC",
+    "processed_at": "2026-10-29 09:19:42 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e29159d69fe1:0x324d96dade0efb15!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/-PGawnLXXrNzPacM9WC9cPHPW2yteL6jtvLcDW5zkhw/6ae30fae93d35d347215da09.html",
+    "prettify_html_file": "https://serpapi.com/searches/-PGawnLXXrNzPacM9WC9cPHPW2yteL6jtvLcDW5zkhw/6ae30fae93d35d347215da09.prettify",
+    "total_time_taken": 0.36
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e29159d69fe1:0x324d96dade0efb15",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREeEpQRmZBEAE!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDDxJPFfA%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-04-05T18:27:46Z",
+      "iso_date_of_last_edit": "2024-04-05T18:27:46Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcbDSGTsNqz6CGRH7N_81A9vNHz0fzGN9I6EGelvTYjOpi-XrT4x7m3XmJz6493x3AKpqBvOBeNLMFbUnuof2nYgwYUG7hsdVOhE9VbrWCweHWUDS5aDFr7t-_BtvQWZxFxZwv-=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfBWSYxW-BtkGSSOGeNDKy9KBt9OyTpB1RV_Mrr-OxirSkaQh6T7RSBOxxS_APWFMASEJR8U5nTRh7Q3BAXCmcShlMQEmTNPtKm8E-1W9IFrsoFMu-cEwMPxKFnBKjtpHAkkGf0NA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfJvawf1IiDdZldtPeSDwil7dWhR74e0TpXnrkRgyDHTst0bP89BB1szZ1_bgWYAYXsMNLnTKATYJinT1VbTKgP3PHTr5SATu4YZ7oGTtiVgu0ht9sr4QMujNKJIs9M4humcuur=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcjFeacWYjBN6wIAUV5NCqTQImOgGQrjPSHVFZIpvKDuBM2zv9n_KAIle4fYx2s3h0e7cpNqczynXiPNVWZgkGC9j0aNqhSYPpeLJnkAB9xTCxZWqXlwjiqlCUTA2ZeY50SBEx78g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLecbVw8ZfFR6jBAPx9ceuMDcS2Lk30z_30hOAdCR4ZWJ46emG8FMJYOl4LTHxWQ7e4tRytn6fib0L9PYaGBMvlcy33mzrUAMFJtOXgx1ipl6Wm5Ovk8atDrfgBdVPSnXCPfnLTO=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeMrIfQbUCgj6hW9k93MLHDnkziYZUOmkxdg19M8evYL5Tymx_maTOjRywIl4Z1TO3UsRM9ct19IeWttrk1TokpqXMj1yQukd0PxRppHfTyBZBcP0sJmys1oA_GtcyksP7hLZ1vkg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeNyeP81AB598ZKRW7RQEk-Zg9FT5i-vwct3oLnGay660ZVsdv1yzqnqjK6yR0X1xIBTweBF2eA4HzFoLNk5nNC2kQ55gWsyHG71cK4dr5FB6S2znn6K510vmtS8OazGmj7WVg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeWQ8gKQdEZdR2NKiHKZDlkBIPOnrVoTS76uy7CWSNEhnZspR6c75H3WAS05oSG6hP2wUJoXHWwnDSn7L9s4hQtpx0uMcfUku-ifVmI_97MwK8HnlD5X923W3Q1Qxo5RA_DdG7G6Q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLewYsxaMr6IUuAJCiFc1YoEqmcClJd-hkNXGP4IB0w11ly985v586w5dAtdtEZ-P2A2QXON1IcG3aaqFw58DY9YTMcI4VvIfR9Xe_Io2Zxmnn1YK6VXpliZYrg-L35uN5F9DOqNzA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfwhv9Z-mmObksaz5ryzQ8y23jCojFFDRVSxmKKqnUFRMb0inMMq6MDd9WUUgRSJzpSge8Cd2ixmYZ2fdqdchDN4EctR99IqwVmzqS6_jGa6oDe7_fyzizL_JkEVTR6AVnk-7Ks=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREeEpQRmZBEAE",
+      "user": {
+        "name": "Soumen Bhattacharjee",
+        "link": "https://www.google.com/maps/contrib/103817809477165755343?hl=en",
+        "contributor_id": "103817809477165755343",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUKhwp_mVu65vCHdLinDIr-r8-B9y-gixZaOmK265OSuB4oTtHe=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 178,
+        "photos": 1048
+      },
+      "snippet": "If you are going towards nandi hills, you should try this place. Specially the evening ambience is really good.\n\nAmbience - I will give 5/5. It has a very good ambience specially in evening seating on the terrace.\n\nFood variety - They have lot of options to choose from. 5/5\n\nFood tastes -Taste for some items are really good and few are not good. Fish tikka is good. 4/5\n\nService - Service was bit slow but not bad. 4/5\n\nPrice - I will rate 5/5. Decent pricing.\n\nIt's a good place to go with friends or family. Toilet is not well maintained. Smell very bad.\n\nHappy dining foodie.\n\nFollow on\nInstagram: healthy_techguy",
+      "extracted_snippet": {
+        "original": "If you are going towards nandi hills, you should try this place. Specially the evening ambience is really good.\n\nAmbience - I will give 5/5. It has a very good ambience specially in evening seating on the terrace.\n\nFood variety - They have lot of options to choose from. 5/5\n\nFood tastes -Taste for some items are really good and few are not good. Fish tikka is good. 4/5\n\nService - Service was bit slow but not bad. 4/5\n\nPrice - I will rate 5/5. Decent pricing.\n\nIt's a good place to go with friends or family. Toilet is not well maintained. Smell very bad.\n\nHappy dining foodie.\n\nFollow on\nInstagram: healthy_techguy"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 5,
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Large vegetarian selection",
+        "vegetarian_options": "They have lot of vegetarian options.",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "They have amole of parking space.",
+        "wheelchair_accessibility": "Not wheelchair accessible entrance,"
+      },
+      "likes": 1,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-04-10T10:00:33Z",
+        "iso_date_of_last_edit": "2024-04-10T10:00:33Z",
+        "snippet": "We're overjoyed to hear you had enjoyed our food. Can't wait to have you back!",
+        "extracted_snippet": {
+          "original": "We're overjoyed to hear you had enjoyed our food. Can't wait to have you back!"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwcGJ2bi13RRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgICppbvn-wE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-08-07T11:25:45Z",
+      "iso_date_of_last_edit": "2023-08-07T11:25:45Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfVeXXGDm5JBqkPjZvOR9AIr8LpzkV8wZvTeioZPebwAINxDY7xWDDVzON7b-5BTEVzN4uEN8aFl_Iv4K9H4L7buMqamk2dXcQn-wXz_5PjubI43qqE1TIgt2_F08Y3lLTS58Y=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLecaeczXu1_SctBrpztKtk9eEteFOEjEcSA0F3CYzRgeOAKrOxRw83dfpRQTfV-cOSuAVMUyjUWDkpAMHq8DLLx-jt7KvOaFQ8YIk9ymYMBWNTc_-1Ey-oIaXUew5pNm9-46nTQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc61DnYsyaLyxoZ5GdeCtIOT5-QUbiiR-hVMcshxkecIWT7GhQKLl3cOdy8bZH7xp-bzJ9itK5gyXNVtf0tBPCh8hykphR6xNBrixQgvRj6fTcC40609r78fX9ae4spG_bBl1TtTA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcBHjgQ_7YEcid13uQhFSf5kYXygTQeUnAPXkM3A86-V2LV-2HNcID6uxd6LydJG4LBVtFxYLihL6E722rJ3UVUKPCO4LT4rc7pgfM5xKMESfDQ8FW6vpJrUg37bsgJtMwmTeNq=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcRd6pFJx2VzDwLwNEVg_3ZKeMxWIWJUGFs-15hMZf3qgA5L1lBRCRKE5eUChFMsbxCrOduo00QfLudhGLy_GEhw8-47lMXFHht_lvSUxmeSd0VKGRnvxwOrY--WSTufRa4c7fndg=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcGJ2bi13RRAB",
+      "user": {
+        "name": "葉又嘉",
+        "link": "https://www.google.com/maps/contrib/114471927158883736572?hl=en",
+        "contributor_id": "114471927158883736572",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLNh4pyuDTbfps_vWbisPgF9VYsEwr0zClpJPdjDhmNHlDexSBP=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 44,
+        "photos": 101
+      },
+      "snippet": "I went on the trip from south Bangalore to Nandi hills. On our way back from Nandi hill, this restaurant caught our attention. It’s next to the highway. So we stopped for Food before heading back to Bangalore around 4:30pm.\n\nThe food was really nice! We ordered butter Chicken and garlic Naan! With lime soda.\nThe food was really awesome. The atmosphere was nice! Gives an American country bar vibe! Great place for family/ friends gathering! 👍🏻👍🏻👍🏻\nHowever the  cleanness needs to improve 😅.\nI can understand that people will need to use the toilet since is next to the highway. So the usage of the toilet will be more frequent here. There are flies flying around specially near to the toilet/ kitchen entrance. There are food crumbs on the floor near the entrance. And while I was sitting at my table, there were a lot of mosquitoes biting me that we have to finish my meal fast to get out of the restaurant.\nHopefully the owner can schedule the toilet cleaning more frequently.\n\nDespite the cleanness needs to improve. I still recommend this place because of the great food and friendly staff!!!!!",
+      "extracted_snippet": {
+        "original": "I went on the trip from south Bangalore to Nandi hills. On our way back from Nandi hill, this restaurant caught our attention. It’s next to the highway. So we stopped for Food before heading back to Bangalore around 4:30pm.\n\nThe food was really nice! We ordered butter Chicken and garlic Naan! With lime soda.\nThe food was really awesome. The atmosphere was nice! Gives an American country bar vibe! Great place for family/ friends gathering! 👍🏻👍🏻👍🏻\nHowever the  cleanness needs to improve 😅.\nI can understand that people will need to use the toilet since is next to the highway. So the usage of the toilet will be more frequent here. There are flies flying around specially near to the toilet/ kitchen entrance. There are food crumbs on the floor near the entrance. And while I was sitting at my table, there were a lot of mosquitoes biting me that we have to finish my meal fast to get out of the restaurant.\nHopefully the owner can schedule the toilet cleaning more frequently.\n\nDespite the cleanness needs to improve. I still recommend this place because of the great food and friendly staff!!!!!"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 1,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2023-08-16T09:24:43Z",
+        "iso_date_of_last_edit": "2023-08-16T09:24:43Z",
+        "snippet": "Dear guest,\n\nWe appreciate your feedback and are constantly striving to serve you better. We would love to host you again with better service\n\nFor more updates, stay tuned on our social media handles.\n\nThanks and regards,\nNH7 refuel.",
+        "extracted_snippet": {
+          "original": "Dear guest,\n\nWe appreciate your feedback and are constantly striving to serve you better. We would love to host you again with better service\n\nFor more updates, stay tuned on our social media handles.\n\nThanks and regards,\nNH7 refuel."
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURoMy1Ya1Z3EAE!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDh3-XkVw%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-03-21T15:19:12Z",
+      "iso_date_of_last_edit": "2023-03-21T15:19:12Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMy1Ya1Z3EAE",
+      "user": {
+        "name": "Dr Shambu Dinesh",
+        "link": "https://www.google.com/maps/contrib/109124137265541408554?hl=en",
+        "contributor_id": "109124137265541408554",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUL_dIGDC2peazPlEbHDxd6tUMIzPog5SdVybsCa-jjMq6MM-TQKA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 239,
+        "photos": 1039
+      },
+      "snippet": "Good customer service\nGood ambience\nGood toilet facilities\nBut the food is not up to that price.. it's ok that's all",
+      "extracted_snippet": {
+        "original": "Good customer service\nGood ambience\nGood toilet facilities\nBut the food is not up to that price.. it's ok that's all"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2023-04-11T15:10:19Z",
+        "iso_date_of_last_edit": "2023-04-11T15:10:19Z",
+        "snippet": "Dear guest,\n\nWe appreciate your feedback and are constantly striving to serve you delicious food. We cannot wait to host you again.\n\nFor more updates, stay tuned on our social media handles.\n\nThanks and regards,\nNH7 refuel.",
+        "extracted_snippet": {
+          "original": "Dear guest,\n\nWe appreciate your feedback and are constantly striving to serve you delicious food. We cannot wait to host you again.\n\nFor more updates, stay tuned on our social media handles.\n\nThanks and regards,\nNH7 refuel."
+        }
+      }
+    }
+  ]
+}

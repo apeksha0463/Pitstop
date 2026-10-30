@@ -1,0 +1,319 @@
+{
+  "search_metadata": {
+    "id": "6ae2e25d6aded6eb88b084a4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dxLdzQ8EnFe2YFoQ8EI0NlDyZvSZH5TaDPOyeG2S58Y/6ae2e25d6aded6eb88b084a4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/dxLdzQ8EnFe2YFoQ8EI0NlDyZvSZH5TaDPOyeG2S58Y/6ae2e25d6aded6eb88b084a4.md",
+    "created_at": "2026-10-29 06:06:21 UTC",
+    "processed_at": "2026-10-29 06:06:21 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0x0:0x925928a22e4df686!8m2!3d0!4d0!16s?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/dxLdzQ8EnFe2YFoQ8EI0NlDyZvSZH5TaDPOyeG2S58Y/6ae2e25d6aded6eb88b084a4.html",
+    "prettify_html_file": "https://serpapi.com/searches/dxLdzQ8EnFe2YFoQ8EI0NlDyZvSZH5TaDPOyeG2S58Y/6ae2e25d6aded6eb88b084a4.prettify",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "data_cid": "10545504679491401350",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "place_results": {
+    "title": "Kapoor's Cafe - Yelahanka",
+    "place_id": "ChIJhUdDu54ZrjsRhvZNLqIoWZI",
+    "data_id": "0x3bae199ebb434785:0x925928a22e4df686",
+    "data_cid": "10545504679491401350",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae199ebb434785%3A0x925928a22e4df686&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae199ebb434785%3A0x925928a22e4df686&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 13.094018199999999,
+      "longitude": 77.5940255
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhUdDu54ZrjsRhvZNLqIoWZI",
+    "provider_id": "/g/11ksb11tsm",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8qgLguEjuCwnrmJR2BoLXUy12IFxyLkulFEYqiYGWCCBPbJVs8Hx7JhO8IhTt_ZYs5mCXMU3VYM1VjA-RYa1fNGePrUy4VS1u9Ek-xz8cVpwVESF6BtyilrwCYFAWK72NO51F=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/50KGPXicHcTbDsEwAADQL6qtcxuJh61ZMXMJVupFaKZll9JLtvlB3-BvJM7D-X6EMU89dpxCdDtcSl5kVmeKycpklekwWTpcXbQGTDtBEOZlcvNfPOE2elhUV6qMt14ok2PaQm-OmzbJbYEj-rrT6QGhcHONifZnzTAWa38u9uZ8orpfouMy7RK6hOQRgC29wNtqmm1U2vbIDtpRlIPm7TPyrEm0w4PQtPdC1Yji4LAYeqt1H-JJDV3XBeI_A9UPnSdETA",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 216
+      },
+      {
+        "stars": 2,
+        "amount": 106
+      },
+      {
+        "stars": 3,
+        "amount": 210
+      },
+      {
+        "stars": 4,
+        "amount": 1134
+      },
+      {
+        "stars": 5,
+        "amount": 5302
+      }
+    ],
+    "rating": 4.6,
+    "reviews": 6968,
+    "type": [
+      "Punjabi restaurant"
+    ],
+    "reservation": {
+      "link": "https://www.district.in/dining/bangalore/kapoors-cafe-yelahanka-bangalore?utm_source=rwg&dineIn-st=%7Bavailability_slot_start_seconds%7D&ctx_covers=%7Bresources_party_size%7D&rwg_token=ALcMQYabOUVPOFBE7cmF-TIGXyruFZoabZQ5q5GOTrYxydqC83Pqi9bJazPHlqqDlf29b60Kze5r8vXBNxOQEBrx4BfRA3to2Sfw2TpExP3TXSd4XWXUtY4%3D",
+      "source": "district.in"
+    },
+    "order_online_link": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFrc2IxMXRzbRgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=XeLiarmVJPq9ruEP7pe2-Qo&ei=XeLiarmVJPq9ruEP7pe2-Qo&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "address": "3rd Floor, BB Rd, opp. to The Galleria Mall, above Malabar Gold, Ambedkar Colony, Yelahanka New Town, Bengaluru, Karnataka 560064, India",
+    "country": "India",
+    "website": "https://me-qr.com/Ihrnm4uf",
+    "phone": "+91 86952 12345",
+    "open_state": "Open · Closes 12 AM",
+    "plus_code": "3HVV+JJ Bengaluru, Karnataka, India",
+    "hours": [
+      {
+        "thursday": "11 AM–12 AM"
+      },
+      {
+        "friday": "11 AM–11 PM"
+      },
+      {
+        "saturday": "9:30 AM–11 PM"
+      },
+      {
+        "sunday": "9:30 AM–11 PM (Karnataka Rajyotsava might affect these hours)"
+      },
+      {
+        "monday": "11 AM–11 PM"
+      },
+      {
+        "tuesday": "11 AM–11 PM"
+      },
+      {
+        "wednesday": "11 AM–11 PM"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0x3bae199ebb434785%3A0x925928a22e4df686&engine=google_maps_posts",
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Fantastic service and homely atmosphere with authentic food served by mr Nikhil\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIe_bYKDH2DlUbfwTeWHhgIbccG_nC87zFc_u-CsCWdS927EQ=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"We love this restaurant - food, ambience, valet parking, veg, pricing\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUnJAktAeHsiZrz1BTr3uFMXQTA9vbcU7ZhS-qm0yZWmGWSniEKzA=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"We tried Paneer Cheese Sticks and Crispy Cheesy Corn as starters.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVodm2diUdjwsgK8a2Bqofqiijk_Vo7uVqhl0mv2K7cA_bSVcHe=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Ajay Arora",
+          "rating": 3,
+          "contributor_id": "110877444230446986570",
+          "user_review_count": 812,
+          "user_photo_count": 3722,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVGPJS6fZL_5m5PbDEWKjcPu9okT1nrXsbUidymGD50IeIJ_vvb=s120-c-rp-mo-ba12-br100",
+          "description": "Here for a weekend lunch. It's on the rooftop and has a non-ac and AC seating and a party hall. We wanted to sit inside but they said AC was not working so we managed outside which seemed better. Nice seating arrangement just like all of the outlets with vibrant colors. We tried a few a Thali's , paneer pakoda and veg seekh kebab. The starters were food and so were the lassi and buttermilk. In the Thali , we found uncooked potatoes in Aloo sabzis. Chole, dal and paneer were all great. Service was ok, had to call the staff a couple of times. Service charge was added to the bill, when I requested them to remove it considering its optional and the saga with the AC, they refused saying it's automated billing and they can't exclude it which was just an excuse. There is also paan available for purchase and we opted for banarasi paan they gave us paan leaves that were almost grey as if they had dried or were not fresh, when we questioned them they said that's how banaras paan looks, considering I've been to banaras a few times and eaten banarasi paan a number of times, I can tell that was not true. Overall a one time visit.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aRk9HOVRUbVZWWDBZNFEweHNZbXBqT0VjMVRVRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOmZFOG9TTmVVX0Y4Q0xsYmpjOEc1TUE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1brUimxBlNkZ2LFfP6ytFuRkW22NmR_DzD36oTMYKE1P_O1W1EUZYzuP3sUWPcyC7X-RDu-4dXrf1VrJw0Lmfvz6RGHOwk5a3_hZjELqL3J8ALpN6jymE5hvFpzI8qrvpaMqJFGr_xXu3=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeap_-QtJtt-msI9kjdCCyOsuu1tQiktULIGVjumC6t6sHfA3b6pnckN8s7BWkfux6FOMcQngX0gW1GGFL1MrKlFQ22BtgSd9JGeFzf-iju-9ElD7nXR37wMqW5oSvKF5kg4aJzunzD8AE=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeblUBQLw9J_XqhuIXCAsH-9asCvKA3nQ8xC8O0wFHdcpUe-bH4PE17-igj8qBpdt1688KNS-1NZ6VLgDZAmeHnxvJBr2xweu21Au6SwBX4yX5MT8UR-efT1aF1LXI_pOiwscCwP4QNb34N=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0ZBFPrjhy57WfrWxD0tlDpEiURIKBgsKiUV_He-rtxI7-DracGuBIGWU3phix5gI7pagluUg86-yaQzp1CWE8kyL8cl8RYklQCner-CZwT0oGimwt87HpOElTig1AhqSsr9T1IW_4YETC=k-no"
+            }
+          ],
+          "date": "7 months ago",
+          "date_iso8601": "2026-03-09T13:54:52+00:00"
+        },
+        {
+          "username": "Shivani Om Aggarwal",
+          "rating": 4,
+          "contributor_id": "116795178134910624720",
+          "user_review_count": 54,
+          "user_photo_count": 39,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVM0i-R93P_CQ55yHrz9TXgBmjADshXOrtVE5TDy3dQhPtlALDK=s120-c-rp-mo-ba12-br100",
+          "description": "I visited this place with my family and absolutely loved it. It brought back some memories of how we used to eat loaded parathas in our child in Punjab. The curd, parathas and even the green chutney was completely like it is prepared in Punjab side. The Gobhi paratha and the Aaloo paratha were both very delicious and well cooked.  The spiced cold drink was also very nice. Chole was so delicious as well. The quantity should be increased though. We even tried their paan corner and the person served us fresh mitha paan.\n\nThe one thing that I missed with the parathas was a well made punjabi achaar. If that would have been served along, I would rated the place 5 star. Will like to visit the place again some day.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xVdFN6Tm9RbTVrVERCdE9FRTJOMDlJUmsxSVpYYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOlUtSzNoQm5kTDBtOEE2N09IRk1IZXc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0wyCtCPpppL-MvVWjAPsiwhexiMgPbcr0KIAQ-Cc0LN8A8Ghy24hnZdsc43Yi9Z6UNn1VaiY2zUfKYaG4K_ZQnFuvhSHmqTb_rDmMZy5fxD9-pXPrUxV1pcfJ5a_wFEmIUPJvPi5oobqN=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0yo_VnZ0kyJVCUnLlUWmwq1T3XcGBZGfpyimzp2iVCmNHjfC2tdOWhU70-WkAfYwyPtQFZ7JWnJzNmWuJYUtXbjMHrFemhTnNvraLUwneLirJq1vumO6t1Mntw2bmcC8UiA9q0jlWmqF3=k-no"
+            }
+          ],
+          "date": "a month ago",
+          "date_iso8601": "2026-09-02T14:50:06+00:00"
+        },
+        {
+          "username": "Sunayan Bhattacharjee",
+          "rating": 5,
+          "contributor_id": "107294471312635716921",
+          "user_review_count": 346,
+          "user_photo_count": 3903,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXCp8nAn3xkptMjFuwYttJbwpPhk8nY7DqGbtRcspvreOol4dI=s120-c-rp-mo-ba12-br100",
+          "description": "As diehard foodies, my partner and I are quite aware of the good restaurants in and around Bengaluru. We had been hearing a lot about the different outlets of ‘Kapoor’s Café.’ In fact, we spotted the Yelahanka outlet just opposite to ‘The Galleria Mall’ on quite a few occasions. That and the fact that many acquaintances have spoken well of the eatery inspired us to visit the Yelahanka outlet yesterday (Saturday – March 14, 2026). One look at the restaurant and we were quite impressed with the décor. The way different kinds of posters were hung showed that quite a bit of thoughts was put into the making of the café. Anyway, both of us went for the Thali options. While my partner ordered the ‘Matar Paneer Combo,’ I went ahead with the more experimental ‘Palak Paneer Combo.’ Alongside, we also ordered two (2) glasses of ‘Lassi Gur Wali’ and a bottle of the eatery’s own brand of drinking water. All the items on the two thalis were excellent. What impressed us the most was the ‘Lassi Gur Wali.’ It was nothing short of being magical. The taste was absolutely authentic. I could have had it anywhere in Punjab as well. Subject to the shortage of LPG Gas Cylinders, the thalis took a bit of time to arrive. Else, everything was simply spot on. The bill amount was also not that high. Overall, it was a very satisfactory experience for both of us. In the future, we would like to visit the other outlets of the eatery. Cheers!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5aFlXYzBUMTlXVlZCdFlqaFJaakZvYTFGUFVuYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOk9hYWc0T19WVVBtYjhRZjFoa1FPUnc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5VffD7nXPUfGRVXP--f9EYZ-qHTxffpQjIMJh0m2H57z3RFEVBmA0sw4BBnzV1HP0HmEbhdKZnUTHxjii3t_xfkkMM-JVShIQp2gTxdDjtEtLNR9Rx5Ymr0Bh0ztvmR7Rbbv2kjho7YaY=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzqKQx3i0PJoz1xS-FS8ZZ01yhil2ZcLGN7gd7wrM29ow3mxAsCzVNddKjaJjHG8wrzQhe-J_-XslvIXW4sd5KWF7p7oJ2wioSk5ovJ3Zh7QpnSaNJhsOtc8GvZo7O_lG3TL4VmnLK6E8=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhbM-oCrM6f2yRRTfeumnPUgflU2Z7XLKk-QgIcf81XBL7MIgnrlKKKACgov56pdjXjkIjTHxQMlCJvd9wMFwVqcxk2dHZpMwJsxr1zCkqosdwGggNh-MPm3myH0WXZ3H-xJ4g9-Me-N0q=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBqcaC--5JLc8OdqlHvDpkCN3QQhCjzSmY_WBIdPDWvzzKpq_PWXa7UrcD5q1BXkI2AyzdDijlpe0nAidJngi-BatYPIPxCmQLnSAWhkpvO8llFloYZYv8H-_P9rVeDIlwskjHOqpukKrw=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRiSxlVKdDkEJE8xuzqHtcTs_MXvxa88NBYsS9hg26_kAfl4ZA-AH8At90qLP_qHz0MYL9H-E4MnSN5mIuRC8053zZb3QMOa2z4aQZryA17FobEf_8orPSivtvbV2XXy8xWeyF29Xz-IaB=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF9ZLnm1YA4Vt6KVBdar7zPmk_SyiSSe3Jc4dsNbV6nLfklKtBmEtt-XReXdEyLfznFSkKP58ehe6YYSncxYnvY3I6MMWKR1VMFGvKtQY7tD6h_6FJaYKDnmVEGFDCgl-L6kZ5751eyeE=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLca3T0ZcCBHsJQNml-yEybtiWrYTurT98eqRgTuPjJdBH2U7NuPKfUqEfTTmxRqm1tgDyPhBv6DsIvy3sEXF7jK2ld-d5TD0fCKiAlqmyuyZbnJ-QiOYbgN-Gz9uLg0q1139zL9Hga7_cNI=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9o7QP0PtJxRjXmxUX9RBtEwmuPEETJIZ_3bMhi7WHrmJRCeKzPLothUd1fy0EVna9Ld7SdI-7-8LOdixGGazPuAh3lS2biipm8KMDfFg7ZoxgMUIqnVGCAsydUtoOnV58Fr1v4w6IbTXe=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3f3XhZMu2lrjtz0XHEGcsW1rdNjSt5fBrMv6X9TquDbmIWbd9hX_H8UoUPi-y67hpnrXL7m_Tht1cVKwiRDqHzlnk2dIneNH5O7UZ0VmY1dVstYwxbEF8z0wooLB9ikSocpXGgVGqEfEz=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3ps45DVNX-m_wPwTu0Ryn3SNJb6N9Wy3ZaWTskXywHaES-F5ui4zNujQzTMgZ2bt0jUdYt_nOpYHviHmbRITOlXZgbiO-8IQpU3JIElZ5fy7Iimh87QyA3EPYSZSqDOT3WZqV=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOx969KS2gze3J7mNudfGgpyejE-MxHSHyENweG1Hkt7pyrWp4h7x3gEC-akz2JZq09csi5qhpDR9fZyC936Yx9wmk5YrD5vsoaiyLtmMux4hF14QJyd_WXjngH3GBRlv-lSUcjgFVVW5x=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfMlSPkartpZ43OsNnVz_izbNXGit3ZxqkO_dR77SxQJakzi4DrGzhgzCyHGl6FKSSuZOnAMU_EJv0sSN_ndoMJeo3qhTcNwe7MeE1NvW4rXXgtl_UEBD2Z0YJqQKHynHYJRvsij8DDsVm=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdf5r9dlDLw3aodOhzDPh8CtVyDhXT9Kap6PAq70gcujkug_p42U3OkITFN3RbQcd8BYAXP4jx6nM6LrPLpULFBJWWrU6NCgl5uLh71JhWRshPPPNKJOurUXY2QiI3G-pBeBfhMAoBQ-4uQ=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ1rDjHo16rSxfqSAbvbgQ_eQUGMvZFos_pC_XJI3K2-zMR5BiTbanG4lk7T8NwBjJDs9XGiuWYJzlQ-PIn8By4Ulrxz2vdAYF1_L9jlpW-Q-doX9s-FW5nerAzCCu8tid0sT9J5CwbTU=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQCc1Qkzz-ynJ2-3WIChVbphDOju0bfK7Yp8LwKdkX5v5bo1Wr4XfPG7QLcADyIb441UPptOdpsn13_MThp20j0ZKRUNDSdw4jXCamyZgxnL76jbvD0CGMDn8F0jXYrU56t4AxytM7I4M=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3mpA_PXRULGP8Y4xvdn8K-iMO3JLVs_E6hZQRn_gmjgb48TGaJWku0nAasxDDG34WwXoHELq_9LbDGIqPXvikHOR0kARg4tuMCeI62DMqdDlyHZwIjmKbyfImK27dxnzUy6HxfaMgEgeI=k-no"
+            }
+          ],
+          "date": "7 months ago",
+          "date_iso8601": "2026-03-15T18:20:02+00:00"
+        },
+        {
+          "username": "Anand Kelaginamani",
+          "rating": 1,
+          "contributor_id": "108395201480067955674",
+          "user_review_count": 7,
+          "user_photo_count": 4,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWidl-tLlHu5-lvyqVyMetiQqfPAH4cYtei1FjkV84ffkwlYlka=s120-c-rp-mo-br100",
+          "description": "The food was pathetic. Paneer was hard as rubber. All the veggies were super oily and full of masala that would spoil your stomach. Starters were super oily & spicy. Worst food that I have ever had. Regret going here",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kMlNWcGFNbUp3ZUVvMk9IcEpjblZwVEVsNlJrRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOmd2SVpaMmJweEo2OHpJcnVpTEl6RkE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLensW2GIQ-pxvsc7v41D52GqcXpS3014KnpBkHHgnUeX1JzNQ0OM5JOpfGqFBBWdthCMo119rHQ_nworVrzgRkIGJiiYQm-Vifs8ZdU_0C4FrVhR8dP8vm8g2k490B5BSbkFP89CtT0AP0f=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnBvEpqZo-g5vXfORINgzm_F5MfBnqRtaR9kHBusb5CvfhEbg31XxBVn1DZOKt1XCPbRgg4hDVGM3zUc0W7S4V9ODxvNBD899o3LLMzfqxKCyxk60vaWtVUu7bAPCjvxtdQYsrD2k2i04=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLmvWXL7WfX4cABTP43GfvdmkByoY6fKzy207YhDzykZwCwjqZdYt27LMuPNgdMEJUw6WG-hp_WYIWWVUxd7ACSEow_CA77r2DXLSeCBKVFN6Vt67U_VIs13dzGg90bhzY3A4XD23EKmE=k-no"
+            }
+          ],
+          "date": "2 months ago",
+          "date_iso8601": "2026-08-25T16:56:12+00:00"
+        },
+        {
+          "username": "Sang The Traveller",
+          "rating": 5,
+          "contributor_id": "106936246550197350292",
+          "user_review_count": 549,
+          "user_photo_count": 3205,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVzXxvn9I4W77XaUHmmjZmzed0nXuU1MbbCYIIn5tdCQTakSpdAtg=s120-c-rp-mo-ba12-br100",
+          "description": "Went with colleague for having dinner. Its 14th franchise of the restaurant chain.\n\nEarlier we had the food at Jayanagar Branch.\n\nPros:\nIts on the main road\n4th floor of the building\nAmbience is cool\nIt has 2 partition i.e. one is for AC & one is non AC\nAmple of seating arrangement\nStaff are good\nFood is really tasty\nDesserts are good\n\nOverall I has good experience would love to come again.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2preVNIUnhNV1ozVGtkeGF6VTFjMWRNY1RZeE9FRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOjkySHRxMWZ3TkdxazU1c1dMcTYxOEE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLev-gX-3zF7C6XgI4Ziz-42Mia3oLcn5vOgLXvuZZr2tMFOiPx-Aa9fRBgWeiZmf-Ok9ySFAwq01imPJdHyGRbhswKRq9CpY9_uKq2q60Rc5SYqchnY3k1t0bFugl_AHQMjG3--7xYo0hg=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZnZvhfSPcETdv1FcCrM1Qf8O8SzaGzvcLIpGcP8a16_Nxt-Xl8ZMCPXA-HY5x4OhZZdZuhV_qDO_Nygv4MlVTw_hsayoMn5hvmwQDNnXaj4rtC9Yg4GSVV2T2imDM44Ebg4kv9o_qF6kK=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKITPura-7fzLb5j7UhMqvmZk54NkSPmvGyHTVO2PTimxif9FadydkOPU4em3qyo-8UUmh8YwRU8FjVq2iWpf_V-8xkMVLlqvp9fWE1Fzjs2ApJoTXUrITvm2097B9JGzstIqZUCQTrJhr=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6n0r6if5AbEzkemt0mjDATS0wYyvTd0pZlArCG5nt5twMH_PbvXDtCLYhKvW0kR0Ek2SNaZeuLgkb8Lu5zWpW-DWepl1hdnPgerwR0WURKJdG6bUGJM6zrw7GJSWJteaklDm1DYqs3oxj=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKBwCoAvQjN1sE_xfMwetY7_hfRfYUCY1_P4z_zIcgi7PEf0rTSb62gzeGD2yucIZ6rZmqJI_AoF4K-QB2j8Xtr2KI-YLxWQBYiBXW92_3gN8oa92PceAVQF3cbr6uiQBMmIRvgz3ZtoNW=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRBPYKRgdemR2g143yFrpwJUEjznStWXTgRL_92T7ODZbbHmLTPHRcm5I9Glry3f5pHWAOiq_uZm9jKgrx3Q--NN3RDDusiejlbOmyHKZz3wAngBLPH1E9H0zuE_edidt27rGXMCrbUdaT=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0PqNs297VYj-Sf02PYRJlpHNnaMZzRHd2fOj_mvqDKFb_G4RawOBtlLOEbjvwmNGCHvv_oKDX2JaDgLVMiqmPA_TBkMVoQg5lAlXRrx0rvfxP7tiAHQ9SZXUG5NrdpndI_T8_eSSXT71E=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMAPG72TzYYFRDN1VtvsY-rkPj6GvI-YzAV1e-kxFFNLLSRXyEXtGDfrgFiyrzuwqi3bmP9J7992tfg42eeJZ037PkaOGAE_bBhIlOVlyWJSa6xqAbcOLBNAPJef2rXwS7WRHxicZNvZI6=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy6KxHCKCwi6v3u6dxK0WMHqPgwZEm6ufmRVVI0E1DEtlQh5tvvRN8zt-_HiP5ycAWwzDGylwdq3g-chTyzsWqH7oUkH2mBmxFyCUI6bqJfA6lrbzcUYWVe8mcLkSqyH1akGLWVR0NGf7K=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcChsEgm4MT3AyTgvcMMhw62eFUe31Fo005xFjwtt0FBqUt_5d5_i9iqMxBm3cmVOtwjJUTQMitTLGAd-WuAyJs090jqlpUweZL4pLGzBcao3nv7CD9jhj5r85b7Jkg8r6-O5lF7IekUirA=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXtRt6Yq-8oDIFoSGqjeniJoFgoiQtupZaAw4UPxDXqnLh-Ig2WCjYoWo-TccXu5W0qJ8kxLl4carJE87UwbeKPQp2opxPZKMNPoNM9wSBn7Ef5ImYtl2qeiyt8_FsaTYIj-Kx1XbhSrE=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdEQJa9ICqHBfRFI_TKnYAaMB_vLgnZXkzGCo9s-ujth85wocaFXSbBkngzK-o0pBA8SglMExyBhT17_WenZdjd8sEMmmv2Ncv6-YOYUQyhDpdByT6hnew7MVEy1_GySr2mP6d28SAUzOe=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLepIZ6cZk3DgLoC-Fi3nw6PZTPeOzo4Y1ugvphPy_d8ZAoaeAXZF71YuLkkok7qgzuZ6s8cPSPTPwWJSbr3PrZfXR3NlEFs4S2iwKgAJ4iwPXuRG06VBjLGMLHx2WLsdIgNToO8uNY8_kGz=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-M0V0w7eyRkjNqBNZmXzSpOUZV12zFXRDf9GzJHasEUkqumyNcgBNB-PVgyDkA0489EYjvMZk_AMjgo-eFV98_TWZ9bu7DUO-h6hU2IeMK-yKFYvSRL_0vFK4O59DUTNkpOzccfUZiBzK=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLchZrXJ4ro79wSMlQCWtP--Nd8uzrt3JP8IbghWnsF_DAGHZ0TNXCgZ0xpiXOhN0Z7FpG68_YXcs1B9kmgp0-q2gRMVpuUcdiS2JSiI_Kmnvpmvv2c-OEoKufEkgYk3o49YhVrvwNdChBU=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLclWjphWkq-36Aw95RDbZhFScEjXvRzdHrI28nckEGSslOQXO9z07W0Xg9GpkSqLlckXB5ZmP8rIF_MQ599bUQ9LOuW3JUfrDuzR5Vh9M-hNC3xl6ArBfsBoZEDf70xC9-GvN5MTm6AIxs6=k-no"
+            }
+          ],
+          "date": "6 months ago",
+          "date_iso8601": "2026-04-10T13:44:31+00:00"
+        }
+      ]
+    }
+  }
+}

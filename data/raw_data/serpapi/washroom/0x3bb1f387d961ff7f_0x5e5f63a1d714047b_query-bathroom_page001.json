@@ -1,0 +1,158 @@
+{
+  "search_metadata": {
+    "id": "6ae3104d0c3a0881cb5c7f42",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/k1IgX54Yh0zMtpQUXOTHMnbdZMmsQlfA3vYKQwbmLk0/6ae3104d0c3a0881cb5c7f42.json",
+    "markdown_endpoint": "https://serpapi.com/searches/k1IgX54Yh0zMtpQUXOTHMnbdZMmsQlfA3vYKQwbmLk0/6ae3104d0c3a0881cb5c7f42.md",
+    "created_at": "2026-10-29 09:22:21 UTC",
+    "processed_at": "2026-10-29 09:22:21 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f387d961ff7f:0x5e5f63a1d714047b!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/k1IgX54Yh0zMtpQUXOTHMnbdZMmsQlfA3vYKQwbmLk0/6ae3104d0c3a0881cb5c7f42.html",
+    "prettify_html_file": "https://serpapi.com/searches/k1IgX54Yh0zMtpQUXOTHMnbdZMmsQlfA3vYKQwbmLk0/6ae3104d0c3a0881cb5c7f42.prettify",
+    "total_time_taken": 5.26
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f387d961ff7f:0x5e5f63a1d714047b",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oNGNGY3hNUzB4WjJacU5VWTRiazVLYzNjNU9WRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOmh4cFcxMS0xZ2ZqNUY4bk5Kc3c5OVE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-16T10:40:10Z",
+      "iso_date_of_last_edit": "2026-05-16T10:40:10Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcdZiPuKy7AkaVtgLKV9rWwEH6UTUXZZX5xmaCBMZ6e4rU-C3899CHS4g_cMn1CTAFcNWFzkcUXJXWkBCuhH9cyu-bMRhoWEKPEHa7oX8YV4-OrXV_4caZ8koCRp770k0_SW7dSgA23HzZD=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe6Utp3U3IYNWW2Xv8bn5wtssXd14LgSJb-Vy0Of1XlQlVJSiDzIpCFDjYNPSzW5p1b7Fpfb1ujN4rs79NWGzSxcXt_5pIkxTMl_lD5aB4abBPdreqY7iYSi58eA0DLlPgAdCy5smZyUn0Y=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeoknWv2qhqSSA2ieUCJiHd8qCTzQ-oiwBV-06MFAzWqtA47vrgkvGitDg0jL9vUVN-LxbEGjMzHsEWDD_zgebDMFhokREBdMVpNheQOa7CE6SbPXr5oZ1DdvrLpldI-9YEPO3_ul4GK_k=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcBJAiMIzLC-rcVMgIJ_tNAnPRmdwctTmUkY3HjJU2wZkBMISM257hUjBzfLCALesqV7DqbtZHmKmcYIUNnK-qv1sZ_Osacfsr4e2l3kWlpvL_pBY3dyRYoToGK1xsWAesMGtiUl8XUn37V=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNGNGY3hNUzB4WjJacU5VWTRiazVLYzNjNU9WRRAB",
+      "user": {
+        "name": "Sirohi-The City of GOD",
+        "link": "https://www.google.com/maps/contrib/111393914234667536726?hl=en",
+        "contributor_id": "111393914234667536726",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUt2sxIbGv-9CFmpUmtJJB1wf3BpskCcYnPJzzLIAqtpY7Sfdce=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 113,
+        "photos": 786
+      },
+      "snippet": "It is a good rest stop, if you are coming to or fro from Bangalore. Here you can have multiple outlets from different brands.\nGood stop for freshnup, bathroom etc.\nBecause it's difficult to find other stop on this highway",
+      "extracted_snippet": {
+        "original": "It is a good rest stop, if you are coming to or fro from Bangalore. Here you can have multiple outlets from different brands.\nGood stop for freshnup, bathroom etc.\nBecause it's difficult to find other stop on this highway"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,200–1,400",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 4,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Vegetarian menu or section",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sdWQyVTNhbEZRYkdGUlRFYzRlWFZyWWkxR1ozYxAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOnlud2U3alFQbGFRTEc4eXVrYi1GZ3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-27T04:53:39Z",
+      "iso_date_of_last_edit": "2026-04-27T04:53:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdWQyVTNhbEZRYkdGUlRFYzRlWFZyWWkxR1ozYxAB",
+      "user": {
+        "name": "Rajeev Ranjan",
+        "link": "https://www.google.com/maps/contrib/115449638833615845966?hl=en",
+        "contributor_id": "115449638833615845966",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLCz62WXq3lXBeIStpiBycJbi5q9sXwzCnZ2RzdIr7xhRzfyw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 30,
+        "photos": 8
+      },
+      "snippet": "Nice place for stop over during highway travels. Clean bathroom and very comfortable special for women traveller's.",
+      "extracted_snippet": {
+        "original": "Nice place for stop over during highway travels. Clean bathroom and very comfortable special for women traveller's."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOUmRqaHdaR1JxTTNoSWVGSnFjWFJYTFhveWRWRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOjNRdjhwZGRqM3hIeFJqcXRXLXoydVE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-27T12:04:17Z",
+      "iso_date_of_last_edit": "2025-12-27T12:04:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUmRqaHdaR1JxTTNoSWVGSnFjWFJYTFhveWRWRRAB",
+      "user": {
+        "name": "reena khanna",
+        "link": "https://www.google.com/maps/contrib/109138262500721605045?hl=en",
+        "contributor_id": "109138262500721605045",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVEBklEeFHl_YPWx_0ang4Aro-Rzdgh8KQPWnCMXJv1vaJKhqJx7Q=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 15,
+        "photos": 1
+      },
+      "snippet": "My experience at Big Bay, Haldiram, and Baskin Robbins was extremely disappointing and unacceptable. The overall hygiene, cleanliness, and food quality were shockingly poor.\n\nThe dining area was not clean — tables were sticky, floors looked badly maintained, and the food service area appeared unhygienic and unorganised. Utensils did not look properly cleaned, raising serious concerns about food safety.\n\nThe bathroom was dirty and poorly maintained, which further reflected the complete lack of hygiene standards in this place.\n\nThe food at Big Bay and Haldiram was bland, tasteless, and poorly prepared, with no freshness or flavour. For the prices charged, this level of food quality is simply not acceptable.\n\nThe experience at Baskin Robbins was equally bad. There was no air conditioning, making the outlet uncomfortable, and the ice cream tasted stale, which is extremely concerning for a brand known for desserts.\n\nOverall, this visit was a complete letdown. Unless immediate improvements are made in cleanliness, hygiene, maintenance, and food quality, I would strongly recommend avoiding this place.",
+      "extracted_snippet": {
+        "original": "My experience at Big Bay, Haldiram, and Baskin Robbins was extremely disappointing and unacceptable. The overall hygiene, cleanliness, and food quality were shockingly poor.\n\nThe dining area was not clean — tables were sticky, floors looked badly maintained, and the food service area appeared unhygienic and unorganised. Utensils did not look properly cleaned, raising serious concerns about food safety.\n\nThe bathroom was dirty and poorly maintained, which further reflected the complete lack of hygiene standards in this place.\n\nThe food at Big Bay and Haldiram was bland, tasteless, and poorly prepared, with no freshness or flavour. For the prices charged, this level of food quality is simply not acceptable.\n\nThe experience at Baskin Robbins was equally bad. There was no air conditioning, making the outlet uncomfortable, and the ice cream tasted stale, which is extremely concerning for a brand known for desserts.\n\nOverall, this visit was a complete letdown. Unless immediate improvements are made in cleanliness, hygiene, maintenance, and food quality, I would strongly recommend avoiding this place."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,000–1,200",
+        "noise_level": "Very loud, hard to hear",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOck9FNVFkRzFDYVZwb1dsWnJhV2RUT1ROemRFRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOlNrOE5QdG1CaVpoWlZraWdTOTNzdEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-21T06:54:46Z",
+      "iso_date_of_last_edit": "2025-11-21T06:54:46Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOck9FNVFkRzFDYVZwb1dsWnJhV2RUT1ROemRFRRAB",
+      "user": {
+        "name": "Alexander Sullivan",
+        "link": "https://www.google.com/maps/contrib/101189397700095081503?hl=en",
+        "contributor_id": "101189397700095081503",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocII44P1FUUMuLYrkmiPXd7AZkfNHgaQ5CDL3J0yjNk-q66vuw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 89,
+        "photos": 18
+      },
+      "snippet": "Nice place to stop. Very clean bathroom",
+      "extracted_snippet": {
+        "original": "Nice place to stop. Very clean bathroom"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    }
+  ]
+}

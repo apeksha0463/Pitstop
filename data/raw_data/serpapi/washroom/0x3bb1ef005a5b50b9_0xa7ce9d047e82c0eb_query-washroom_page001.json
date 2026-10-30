@@ -1,0 +1,257 @@
+{
+  "search_metadata": {
+    "id": "6ae3101714718bc3a3c19253",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CDqs9dSvsxb0olwjqld003uRAbnhD_CSWA54_lVN1as/6ae3101714718bc3a3c19253.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CDqs9dSvsxb0olwjqld003uRAbnhD_CSWA54_lVN1as/6ae3101714718bc3a3c19253.md",
+    "created_at": "2026-10-29 09:21:27 UTC",
+    "processed_at": "2026-10-29 09:21:27 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/CDqs9dSvsxb0olwjqld003uRAbnhD_CSWA54_lVN1as/6ae3101714718bc3a3c19253.html",
+    "prettify_html_file": "https://serpapi.com/searches/CDqs9dSvsxb0olwjqld003uRAbnhD_CSWA54_lVN1as/6ae3101714718bc3a3c19253.prettify",
+    "total_time_taken": 0.26
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kUFpHSm1UbFpYVW1GUWEydDJURUV3TUU1clZIYxAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOmdPZGJmTlZXUmFQa2t2TEEwME5rVHc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-09T15:49:42Z",
+      "iso_date_of_last_edit": "2026-10-09T15:49:42Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUFpHSm1UbFpYVW1GUWEydDJURUV3TUU1clZIYxAB",
+      "user": {
+        "name": "marutiraj madiwal",
+        "link": "https://www.google.com/maps/contrib/108829473760408948758?hl=en",
+        "contributor_id": "108829473760408948758",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ-pPtsCvIguCV1wz4IoZvXZkaDDDRQYEwBmnbQ-89rCrzYyg=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 1
+      },
+      "snippet": "Staff and service was very good, There is a children play area and a pond in the centre and washroom was extremely hygienic. Rare to find in any hotels. Food was good. Only downside is prices are little bit high",
+      "extracted_snippet": {
+        "original": "Staff and service was very good, There is a children play area and a pond in the centre and washroom was extremely hygienic. Rare to find in any hotels. Food was good. Only downside is prices are little bit high"
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 weeks ago",
+        "iso_date": "2026-10-10T00:53:27Z",
+        "iso_date_of_last_edit": "2026-10-10T00:53:27Z",
+        "snippet": "Thank you for your valuable feedback! 😊 We’re glad you enjoyed our food, appreciated the excellent service, and liked our children’s play area, beautiful pond, and hygienic washrooms. Your appreciation means a lot to our team. We also value your feedback regarding our pricing and will certainly keep it in mind. We look forward to welcoming you and your family back for another wonderful experience! 🙏✨",
+        "extracted_snippet": {
+          "original": "Thank you for your valuable feedback! 😊 We’re glad you enjoyed our food, appreciated the excellent service, and liked our children’s play area, beautiful pond, and hygienic washrooms. Your appreciation means a lot to our team. We also value your feedback regarding our pricing and will certainly keep it in mind. We look forward to welcoming you and your family back for another wonderful experience! 🙏✨"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kRFZteDBZVXhqTUVwUlUxWjFibU5xUlhBeVgyYxAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOndDVmx0YUxjMEpRU1Z1bmNqRXAyX2c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-04T17:21:13Z",
+      "iso_date_of_last_edit": "2026-10-04T17:21:13Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRFZteDBZVXhqTUVwUlUxWjFibU5xUlhBeVgyYxAB",
+      "user": {
+        "name": "Aniket Kumar",
+        "link": "https://www.google.com/maps/contrib/109978661221924372472?hl=en",
+        "contributor_id": "109978661221924372472",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJvEcpsJepE-5XcvlCPD8wiUNJ1oUGOlwHpdeTnuDx8EgQ0fT0=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 3
+      },
+      "snippet": "Good place. Good food. Good Service. Visited twice in a row and Aug & Oct 2026 with friends, had breakfast , food taste is good. Special shoutout for tasty tea. Clean washroom, Nice atmosphere with kids play area.",
+      "extracted_snippet": {
+        "original": "Good place. Good food. Good Service. Visited twice in a row and Aug & Oct 2026 with friends, had breakfast , food taste is good. Special shoutout for tasty tea. Clean washroom, Nice atmosphere with kids play area."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1,800–2,000",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "wait_time": "Up to 10 min",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 weeks ago",
+        "iso_date": "2026-10-05T01:34:33Z",
+        "iso_date_of_last_edit": "2026-10-05T01:34:33Z",
+        "snippet": "Thank you so much for your wonderful review! 😊 We’re delighted to know you visited us twice and enjoyed our breakfast, especially our tea! 🍵 It’s great to hear that you appreciated the clean washroom, pleasant atmosphere, and kids’ play area as well.\n\nYour kind words and ratings mean a lot to our entire team. We look forward to welcoming you, your friends, and family again soon! ❤️",
+        "extracted_snippet": {
+          "original": "Thank you so much for your wonderful review! 😊 We’re delighted to know you visited us twice and enjoyed our breakfast, especially our tea! 🍵 It’s great to hear that you appreciated the clean washroom, pleasant atmosphere, and kids’ play area as well.\n\nYour kind words and ratings mean a lot to our entire team. We look forward to welcoming you, your friends, and family again soon! ❤️"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSWlVuRTVPR2x6ZWtaWmVGbHVabkpoT1ZRMlJuYxAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOkRZUnE5OGlzekZZeFluZnJhOVQ2Rnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T03:33:05Z",
+      "iso_date_of_last_edit": "2026-09-26T03:33:05Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWlVuRTVPR2x6ZWtaWmVGbHVabkpoT1ZRMlJuYxAB",
+      "user": {
+        "name": "Nithin S",
+        "link": "https://www.google.com/maps/contrib/115211910717481650764?hl=en",
+        "contributor_id": "115211910717481650764",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVYc4XJ45qSK2NxqtIqI4yndu-qnBePDIQfAGkQjBNXz5kpm6oE=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 8
+      },
+      "snippet": "We had a good breakfast in Samara’s and taste was amazing and we have a kids play area and washroom are clean and hygienic also there is shopping stall overall experience is satisfied",
+      "extracted_snippet": {
+        "original": "We had a good breakfast in Samara’s and taste was amazing and we have a kids play area and washroom are clean and hygienic also there is shopping stall overall experience is satisfied"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1,000–1,200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a month ago",
+        "iso_date": "2026-09-27T00:51:12Z",
+        "iso_date_of_last_edit": "2026-09-27T00:51:12Z",
+        "snippet": "Thank you so much for your wonderful 5-star review! ⭐⭐⭐⭐⭐ We’re delighted to hear that you enjoyed your breakfast at Samara’s and loved the taste of our food. It’s great to know that you appreciated our clean and hygienic washrooms, kids’ play area, and shopping stalls as well.\n\nWe’re thrilled that you had an overall satisfying experience with us. We look forward to welcoming you and your family again soon! 😊",
+        "extracted_snippet": {
+          "original": "Thank you so much for your wonderful 5-star review! ⭐⭐⭐⭐⭐ We’re delighted to hear that you enjoyed your breakfast at Samara’s and loved the taste of our food. It’s great to know that you appreciated our clean and hygienic washrooms, kids’ play area, and shopping stalls as well.\n\nWe’re thrilled that you had an overall satisfying experience with us. We look forward to welcoming you and your family again soon! 😊"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xjNFduVm9NbXROUzFSdk5HMUNZVlZIVjE5d0xYYxAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOlc4WnVoMmtNS1RvNG1CYVVHV19wLXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited a month ago",
+      "iso_date": "2026-09-13T03:50:04Z",
+      "iso_date_of_last_edit": "2026-09-14T12:06:19Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdFCrsQENmKd2NlC_rwZ1-lNSWl_fS2ZYh9XAsmW-5LAVDX3K7FLSIutc6F-YtCNs4CaBUemiZ8RN-e1PHdePTINRWsOg9jzYahxwimO8B3xjCAzb4CesTJ04mgrJN4RMl8J8EwMRDd5Js6=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcitmLCkDg6iuFNXWmSA4Sn73NNKV8P0tRWWTjyizXKaxsgejumRFN_RDhvq9F8Rf4_5AS6kpaZAU5bOTXW5wDjtqb3rGTOUEfIGOCZ9BVkjp97IGxP8EpjiG1Xpwso4ykiFcUdfHi6nNgQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfQ0oegAbEnQizpGpvOhaXi7Ekk_ImWnsPmYPmjpGBQbuvHT3A2V4gw9htk0KYzX-A2hLbjSgvplZIH13yvEL_CL8PvHajMDARaDPZeG3ZAvJ-Y31yTEOJdT1YjNtrX8a94xNAk-yo4omtN=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfAtZNvVLwlKoCxiSbZBVF87aNxVwOZPIuhSQ-PaQ6ySlxb1OSyWmGG4d1VXn23-0igdvd1F9r_NTqkSaruX9Zyc_UD1xMCR_sLDHWJfq3b80NGIKomlC9btm4N2xjUcni-HzbpKmCVFE49=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdFncivwZiDgMRtKMiI68tyIG7aHkR2p8gASMDYnui0oqq_vAemJ9mCu4j10xp0hJh1zqhJdyuDudMZimOdOeHsOqE6I8T0AZ-4w87zPfv2FrfegKbdFvqpernx7iDw6B0NxvgMVe91jhMy=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfS-I6urpcVT7VtxtFHeePD1DwHfYYpUzT40KcwpKQj1uvCjzwXsRqp_KcusS3tzVjjAGg8CpdPB3bgw2xsJo5TbwNZi7imi6HorvPmTG0JMeSo0-YvDJ7VNg3FCKIMwNKLbbaJBj4ihik=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfHqW1qYHpMBUCmsFhXT6Pj0K902EuvKDXaJkNgigJXavEQP90etEKuNLr8QOJaQ9URY-up5pC5GjVKWsERyEzkWpvltdnPiw_PLzkhLxJKGN0Gilwn5i63XD1WUEF2fOBIUCYMnjTa8TLv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeXwwaH3dCdbgp-pzCocqnNUvDPFCE0Mvr0DU5avnhV7VlLq4qM75CAiubPDCcQLuMgFFJt5lnbwLcrVOrkx_UOAUsNAJu_Lp7ESK6EQm4no1JOUiM7uQl1lU7ppShhwhgaFjeMX2upaf3S=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfAbY49sQRs8XzoBP_7NE7ksKE8i4sOJz_sADYwdol9mWvW9eC0wk9h7zmWZ5gTh_3dVPmL-Z5UhCOKRIXoYCw_-I6CqzGt7vCuaZzqjFW5wqzxu6VQsa1dVj0j4ZWUqz-_kvrC2rGB194T=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLea0HtMSeJ3nmCAM6WWJfvGUHUVm_BVTcn8CflThmrHHmEENaJK8-qeCt7ifepnjFqnJt_vE06neTTgFZvt7zDipTeedOJqb3vB2li_yvEnMx12bi5ANvsq8Egl31r90b9v_fc9VV0RsjM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLet2u6IAOiINS8Fib29t5ibwkYg5xBTT8IutePF_Oi7nA2Gm3PbHqQS3n1csdZ0YcD49yfpJ7XyOTTkodLnu1GZ3Kg7V-x_myGAjM6893w1dlO9HKhYFcIJi5evdPkF23B4sISnKoRne0i8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfqInY4T6LQfGhOuGxh3Wdh3NkZ3rTM4pb7cDniTXrIesE3YGJbro3tEf99Rhg2kkdlKUcuNQLR95MBj8kYb1KqXOhUEt3EePCX5Ri7DLYS6sg32DFsJbNAD5bOeDb5jNQeoYHStTLq61Gs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd1m8u1llW3jtghtJrWfcDUTpmU4DpEJ5nSL09BGaURV7VoqwyGapo27-LtynqRF9wN9vb8f5SmUh0YvDVDir8hCFyfEpXka2qN9TQtguwJKewuIvb1u5wVrUvGGXEIytpxiIWS8btoNvwP=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfWogPr0BICWhIn3XGS0qym6wwMFmcROtPdUuOOLDRfDo0nXft715gwkTbcCB81aIkHsPjmCdFdHYQ5NujoUA33dnp04pju0wfekputAuDNmSFyYWyvJIObEzaYicG6mJ94S9xRlHIdlGc=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdYx9BUN56zeEkr59s5V7-hVpo3h_-W4RdRemVDR1q2NQjbaPbWoNJLs5quLYc-KtWG7auilBztjg6u1TcoIGrkL8KTJRlewpDkjWi7qCGqDDAbj_IthCXAMOMyb8pwCPFq-hyHavTP9lPI=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdheoBZY4_tefZZUWjvHScwrDXgRWkXiinVrSZGt7FzhAzQYypX_b0XhayWzFsCWLH_MaB3USgx-obG-AHAZF8o3OeQshOMAAZQIzPmyjRJOoCNkWMJtfXvEtDFYKiCvzFZudR-49Yb9ThY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfpDLXxT6oXKhSoOhfj3EwlrQ9-VaPSX98Fyc67QlkcjTq70PPq893DGLTaKKljrm45aT2gFrd9GwNMI8iqBPZsT4A6YwhloC2-XXxhUJtPlSUrvwwwALM-volYa6CXcU6rMqAaInE_cWeQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdB5DDpmiS6iLRgbG2iulILI6SXT17aatdO7t9OvTNMWCk52qb706jwrV7CBH_7wRf2lb2KEo_g5FJ_XWsPNr3uuDq99oj10K04KLLDcpZz3Fr0JeRmZTLXyfwIK1UXlTXktcp4G9phhqZs=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNFduVm9NbXROUzFSdk5HMUNZVlZIVjE5d0xYYxAB",
+      "user": {
+        "name": "Kirtika",
+        "link": "https://www.google.com/maps/contrib/104887754628437254936?hl=en",
+        "contributor_id": "104887754628437254936",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIfFl4BrEotTJsS4917Z8NufIgl7nBOqpM09fbEe6eXMfvBdk5m=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 44,
+        "photos": 192
+      },
+      "snippet": "We went to this Samara Veg especially for breakfast at the Chikkaballapur branch. We had previously visited their other outlet, around 40 km further ahead, and had an amazing experience, so we decided to drive from Bengaluru to try this one as well. Thankfully, this branch did not disappoint either!\n\nI really appreciated the thoughtful little touches here — mint lemon water, a wheelchair ramp, a mini washbasin for kids in the washroom, and a kids’ play area. These may seem like small things, but they make the place feel much more welcoming and family-friendly.\n\nThe food was tasty and lived up to our expectations. We ordered Pongal, masala dosa, rava idli, kesari bath, tea, and jaggery coffee. The Pongal was different from what is usually served at their other outlet, but in a refreshing and delicious way. The masala dosa was slightly cold, but still tasty. Rava idli was good, and the kesari bath was absolutely delicious. The tea was a little too sweet for my liking, but otherwise tasted good.\n\nThe jaggery coffee was a nice addition. It had a good coffee flavour without being overly sweet, so the sweetness didn’t overpower the coffee.\n\nThe washrooms were clean, and the overall place was hygienic, well-maintained, and thoughtfully designed. The only area that could be improved is the service speed. Placing the order and sometimes having to repeat it can get a little frustrating. However, once the order is placed correctly, the food is served quite quickly.\n\nOverall, it was definitely worth the drive from Bengaluru. A nice place for a family breakfast, with good food, clean surroundings, and some thoughtful touches that make the experience better. Would happily visit again!\n\nIf you want, I can also make this **shorter and more punchy for a Google review**, while keeping the same points.",
+      "extracted_snippet": {
+        "original": "We went to this Samara Veg especially for breakfast at the Chikkaballapur branch. We had previously visited their other outlet, around 40 km further ahead, and had an amazing experience, so we decided to drive from Bengaluru to try this one as well. Thankfully, this branch did not disappoint either!\n\nI really appreciated the thoughtful little touches here — mint lemon water, a wheelchair ramp, a mini washbasin for kids in the washroom, and a kids’ play area. These may seem like small things, but they make the place feel much more welcoming and family-friendly.\n\nThe food was tasty and lived up to our expectations. We ordered Pongal, masala dosa, rava idli, kesari bath, tea, and jaggery coffee. The Pongal was different from what is usually served at their other outlet, but in a refreshing and delicious way. The masala dosa was slightly cold, but still tasty. Rava idli was good, and the kesari bath was absolutely delicious. The tea was a little too sweet for my liking, but otherwise tasted good.\n\nThe jaggery coffee was a nice addition. It had a good coffee flavour without being overly sweet, so the sweetness didn’t overpower the coffee.\n\nThe washrooms were clean, and the overall place was hygienic, well-maintained, and thoughtfully designed. The only area that could be improved is the service speed. Placing the order and sometimes having to repeat it can get a little frustrating. However, once the order is placed correctly, the food is served quite quickly.\n\nOverall, it was definitely worth the drive from Bengaluru. A nice place for a family breakfast, with good food, clean surroundings, and some thoughtful touches that make the experience better. Would happily visit again!\n\nIf you want, I can also make this **shorter and more punchy for a Google review**, while keeping the same points."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 3,
+        "atmosphere": 5,
+        "noise_level": "Loud, but you can still talk",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a month ago",
+        "iso_date": "2026-09-17T00:57:35Z",
+        "iso_date_of_last_edit": "2026-09-17T00:57:35Z",
+        "snippet": "Thank you so much for taking the time to share such a detailed review. We’re delighted to know that your drive from Bengaluru to our Chikkaballapur branch was worth it and that you enjoyed the food, especially the Pongal, Kesari Bath, and Jaggery Coffee.\n\nWe’re also happy that you appreciated the family-friendly facilities, cleanliness, hygiene, and thoughtful touches throughout the restaurant. Your feedback regarding the masala dosa being slightly cold and the service speed and order repetition is genuinely valuable. We’ll certainly share this with our team and work on improving these areas.\n\nThank you once again for your kind words and constructive feedback. We’re glad you had an overall enjoyable experience, and we look forward to welcoming you and your family again soon!",
+        "extracted_snippet": {
+          "original": "Thank you so much for taking the time to share such a detailed review. We’re delighted to know that your drive from Bengaluru to our Chikkaballapur branch was worth it and that you enjoyed the food, especially the Pongal, Kesari Bath, and Jaggery Coffee.\n\nWe’re also happy that you appreciated the family-friendly facilities, cleanliness, hygiene, and thoughtful touches throughout the restaurant. Your feedback regarding the masala dosa being slightly cold and the service speed and order repetition is genuinely valuable. We’ll certainly share this with our team and work on improving these areas.\n\nThank you once again for your kind words and constructive feedback. We’re glad you had an overall enjoyable experience, and we look forward to welcoming you and your family again soon!"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCTVFVUjZPRkp6TldGRlRrMDNWVWRuVWpGeU5VRRAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOlBMQUR6OFJzNWFFTk03VUdnUjFyNUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-02T13:48:02Z",
+      "iso_date_of_last_edit": "2026-08-02T13:48:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTVFVUjZPRkp6TldGRlRrMDNWVWRuVWpGeU5VRRAB",
+      "user": {
+        "name": "Vishal Goadbole",
+        "link": "https://www.google.com/maps/contrib/112058185037299692613?hl=en",
+        "contributor_id": "112058185037299692613",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKFT7E-kC9P0m60CFPP2Xfd0NiZ0UCCQMSBFLGF4G8BWV8lWw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 8,
+        "photos": 0
+      },
+      "snippet": "Very good food, good parking space, good washroom facilities.\nAs it is new, looked like a little short staffed, wait times could be better.",
+      "extracted_snippet": {
+        "original": "Very good food, good parking space, good washroom facilities.\nAs it is new, looked like a little short staffed, wait times could be better."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "kid_friendliness": "Small play area",
+        "wheelchair_accessibility": "Yes"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 months ago",
+        "iso_date": "2026-08-03T01:04:10Z",
+        "iso_date_of_last_edit": "2026-08-03T01:04:10Z",
+        "snippet": "Thank you for sharing your valuable feedback! We're delighted to hear that you enjoyed our food, parking facilities, and washroom amenities. We truly appreciate your understanding as we continue to grow and improve. Your feedback about the wait times is noted, and we're working on making our service faster and more efficient. We look forward to welcoming you again and providing an even better experience on your next visit!",
+        "extracted_snippet": {
+          "original": "Thank you for sharing your valuable feedback! We're delighted to hear that you enjoyed our food, parking facilities, and washroom amenities. We truly appreciate your understanding as we continue to grow and improve. Your feedback about the wait times is noted, and we're working on making our service faster and more efficient. We look forward to welcoming you again and providing an even better experience on your next visit!"
+        }
+      }
+    }
+  ]
+}

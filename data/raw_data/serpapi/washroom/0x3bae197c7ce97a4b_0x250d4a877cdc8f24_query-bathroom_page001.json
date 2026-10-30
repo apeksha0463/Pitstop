@@ -1,0 +1,61 @@
+{
+  "search_metadata": {
+    "id": "6ae30e0a6c6254cd370f7181",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FpqdnCgPBsZMtfL3KbqzvbxeLL164aU7y7bp1f-qJIo/6ae30e0a6c6254cd370f7181.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FpqdnCgPBsZMtfL3KbqzvbxeLL164aU7y7bp1f-qJIo/6ae30e0a6c6254cd370f7181.md",
+    "created_at": "2026-10-29 09:12:42 UTC",
+    "processed_at": "2026-10-29 09:12:42 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae197c7ce97a4b:0x250d4a877cdc8f24!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/FpqdnCgPBsZMtfL3KbqzvbxeLL164aU7y7bp1f-qJIo/6ae30e0a6c6254cd370f7181.html",
+    "prettify_html_file": "https://serpapi.com/searches/FpqdnCgPBsZMtfL3KbqzvbxeLL164aU7y7bp1f-qJIo/6ae30e0a6c6254cd370f7181.prettify",
+    "total_time_taken": 0.41
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae197c7ce97a4b:0x250d4a877cdc8f24",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkNXZYV0ZnEAE!2m1!1s0x0:0x250d4a877cdc8f24!3m1!1s2@1:CIHM0ogKEICAgIDd5vXWFg%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-02-23T08:57:59Z",
+      "iso_date_of_last_edit": "2024-02-23T08:58:53Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNXZYV0ZnEAE",
+      "user": {
+        "name": "Veena Krishnakumar",
+        "link": "https://www.google.com/maps/contrib/116446039799505655863?hl=en",
+        "contributor_id": "116446039799505655863",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVyytnR_H1_LIOP8tHnKaFwnjKDZl6HpwCP-u1oHoGNKdfxH3KP=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "We love Nasi and Me for the amazing sushi and dim sims. Assistant supervisor, Balaram was especially nice to us. The only request is to have a clean accessible bathroom for us customers within their premise. It is very inconvenient to run outside and down a floor for a bathroom.",
+      "extracted_snippet": {
+        "original": "We love Nasi and Me for the amazing sushi and dim sims. Assistant supervisor, Balaram was especially nice to us. The only request is to have a clean accessible bathroom for us customers within their premise. It is very inconvenient to run outside and down a floor for a bathroom."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹2,000+"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-03-02T13:38:41Z",
+        "iso_date_of_last_edit": "2024-03-02T13:38:41Z",
+        "snippet": "Hello, Veena, \n\nThank you for your kind words and your feedback! We're thrilled to hear that you love the sushi and dim sum at Nasi and Mee, and we truly appreciate your support. We're pleased to hear that Balaram provided you with excellent service during your visit. \n\nRegarding your feedback about the bathroom, we apologise for any inconvenience you experienced. Unfortunately, the mall is set up such a way, which prevents us from having a washroom inside the restaurant premises. \n\nWe hope to have the opportunity to welcome you back soon for another enjoyable dining experience at Nasi and Mee.\n\nCheers, \nTeam Nasi and Mee\n\n\n",
+        "extracted_snippet": {
+          "original": "Hello, Veena, \n\nThank you for your kind words and your feedback! We're thrilled to hear that you love the sushi and dim sum at Nasi and Mee, and we truly appreciate your support. We're pleased to hear that Balaram provided you with excellent service during your visit. \n\nRegarding your feedback about the bathroom, we apologise for any inconvenience you experienced. Unfortunately, the mall is set up such a way, which prevents us from having a washroom inside the restaurant premises. \n\nWe hope to have the opportunity to welcome you back soon for another enjoyable dining experience at Nasi and Mee.\n\nCheers, \nTeam Nasi and Mee\n\n\n"
+        }
+      }
+    }
+  ]
+}

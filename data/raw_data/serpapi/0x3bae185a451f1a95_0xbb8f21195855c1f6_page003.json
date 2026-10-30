@@ -1,0 +1,650 @@
+{
+  "search_metadata": {
+    "id": "6ae2d1d56a1f112dc6f4c433",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/seFrqilfvdsBT8x7uxTF-xVdFFrmEFk1P0Eu7PmxoTs/6ae2d1d56a1f112dc6f4c433.json",
+    "markdown_endpoint": "https://serpapi.com/searches/seFrqilfvdsBT8x7uxTF-xVdFFrmEFk1P0Eu7PmxoTs/6ae2d1d56a1f112dc6f4c433.md",
+    "created_at": "2026-10-29 04:55:49 UTC",
+    "processed_at": "2026-10-29 04:55:49 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae185a451f1a95:0xbb8f21195855c1f6!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/seFrqilfvdsBT8x7uxTF-xVdFFrmEFk1P0Eu7PmxoTs/6ae2d1d56a1f112dc6f4c433.html",
+    "prettify_html_file": "https://serpapi.com/searches/seFrqilfvdsBT8x7uxTF-xVdFFrmEFk1P0Eu7PmxoTs/6ae2d1d56a1f112dc6f4c433.prettify",
+    "total_time_taken": 0.95
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+    "hl": "en",
+    "next_page_token": "CjEIARIpCgoAP72GD2mpyw__EhCy8zXR3iDtEiMRcREAAAAAGgn92PgCYPaanLAYACIA:30",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5aU5VSTJURGhmTFhGWVkyMVlPRGhzYW1jeU5WRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOl9iNUI2TDhfLXFYY21YODhsamcyNVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-26T08:53:25Z",
+      "iso_date_of_last_edit": "2026-06-26T08:53:25Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5aU5VSTJURGhmTFhGWVkyMVlPRGhzYW1jeU5WRRAB",
+      "user": {
+        "name": "Sonali Gupta",
+        "link": "https://www.google.com/maps/contrib/114557688994286080820?hl=en",
+        "contributor_id": "114557688994286080820",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVXeO6z-H19SLS_CPDw3wPn5RwVq37oJbfby6gg8AliMW5FUDsbOA=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 3
+      },
+      "snippet": "Loved the food and sevice provided by Ms Arsita",
+      "extracted_snippet": {
+        "original": "Loved the food and sevice provided by Ms Arsita"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,800–2,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSaU1URmphbkowYWtSU1pVbE5NRFJLTjFGM2IwRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkRiMTFjanJ0akRSZUlNMDRKN1F3b0E%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-17T17:48:29Z",
+      "iso_date_of_last_edit": "2026-06-17T17:48:29Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaU1URmphbkowYWtSU1pVbE5NRFJLTjFGM2IwRRAB",
+      "user": {
+        "name": "Lovin Babu",
+        "link": "https://www.google.com/maps/contrib/103875943267364314556?hl=en",
+        "contributor_id": "103875943267364314556",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU7J8Nn6f727UJfA049hTz9vGD5G-nz-0XrsBz5k0ipB_PQ6hpl=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 121,
+        "photos": 14
+      },
+      "snippet": "Very expensive. Not worth the money",
+      "extracted_snippet": {
+        "original": "Very expensive. Not worth the money"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 2,
+        "service": 2,
+        "atmosphere": 4,
+        "reservation": "Reservations recommended",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sWVZVbFRUM3BPTTB0RVV6WTBSa0pvUmpORmIzYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmlYVUlTT3pOM0tEUzY0RkJoRjNFb3c%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "Edited 4 months ago",
+      "iso_date": "2026-06-11T11:29:12Z",
+      "iso_date_of_last_edit": "2026-06-16T14:22:29Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sWVZVbFRUM3BPTTB0RVV6WTBSa0pvUmpORmIzYxAB",
+      "user": {
+        "name": "Sudha Ashok",
+        "link": "https://www.google.com/maps/contrib/115198521662119488242?hl=en",
+        "contributor_id": "115198521662119488242",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUzAXg0gQjZbXQdMiP0kKn_o8HAk70mDObS6K8leOWQsQobCCP-jA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 78,
+        "photos": 60
+      },
+      "snippet": "Good place  to hang around with natural atmosphere around. The Royal orchid hotel is very congested. Food is ok type. The front desk staff are ok. But staff who manage the crowd are inexperienced. Going there once in a way is ok. But I saw some reconstruction going on. They seem to be developing it. Let's wait & watch. They are now mostly dependent on big companies to get their clients I suppose.",
+      "extracted_snippet": {
+        "original": "Good place  to hang around with natural atmosphere around. The Royal orchid hotel is very congested. Food is ok type. The front desk staff are ok. But staff who manage the crowd are inexperienced. Going there once in a way is ok. But I saw some reconstruction going on. They seem to be developing it. Let's wait & watch. They are now mostly dependent on big companies to get their clients I suppose."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹2,000+",
+        "food": 2,
+        "service": 2,
+        "atmosphere": 3,
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area",
+        "recommendation_for_vegetarians": "Not sure",
+        "vegetarian_offerings": "Vegetarian menu or section",
+        "vegetarian_options": "Arrangement was not good. Food was not tasty.Survice wasn't very good.",
+        "dietary_restrictions": "Labeling of food was not proper.",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Not very close to the cental city area.",
+        "wheelchair_accessibility": "Not sure"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25vMVNDMUdkVU5hTlZrMWNFNHhhMGxWUW0xb05GRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOno1SC1GdUNaNVk1cE4xa0lVQm1oNFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-11T17:23:07Z",
+      "iso_date_of_last_edit": "2026-06-11T17:23:07Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMVNDMUdkVU5hTlZrMWNFNHhhMGxWUW0xb05GRRAB",
+      "user": {
+        "name": "SSP mgr",
+        "link": "https://www.google.com/maps/contrib/106020649434808116787?hl=en",
+        "contributor_id": "106020649434808116787",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJz3KLZrD6TWAWyV1YjYc0OOpPvRtNullkXTQNYFHsvxaNfKw=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Service was very good, Ms. Sanju did very good and caring service.",
+      "extracted_snippet": {
+        "original": "Service was very good, Ms. Sanju did very good and caring service."
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oU1kwNTVTMkZNUkZCYWFIQmtWekZzUlVKNk5uYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOnhSY055S2FMRFBaaHBkVzFsRUJ6Nnc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-07T17:16:52Z",
+      "iso_date_of_last_edit": "2026-06-07T17:16:52Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oU1kwNTVTMkZNUkZCYWFIQmtWekZzUlVKNk5uYxAB",
+      "user": {
+        "name": "mohit ritolia",
+        "link": "https://www.google.com/maps/contrib/110777558788055556571?hl=en",
+        "contributor_id": "110777558788055556571",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVH3lQie9r_-3-WArGzeor_FmumZ7t1wFAG1NLuS5qirhV5zLNTDg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 82,
+        "photos": 788
+      },
+      "snippet": "The dhaba is inside Royal Orchid Resort. While it's an open space, the atmosphere isn't very inviting.\n\nThe food was alright, nothing special, similar to what you'd find elsewhere. 🤷‍♀️\n\nHowever, the staff were attentive and provided good hospitality. ✨🍽️",
+      "extracted_snippet": {
+        "original": "The dhaba is inside Royal Orchid Resort. While it's an open space, the atmosphere isn't very inviting.\n\nThe food was alright, nothing special, similar to what you'd find elsewhere. 🤷‍♀️\n\nHowever, the staff were attentive and provided good hospitality. ✨🍽️"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹600–800",
+        "reservation": "Reservations not required",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking"
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oWGQyOUJkV3huVm10S2MxSnVVMWhGY1ZOTmIwRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOnhXd29BdWxnVmtKc1JuU1hFcVNNb0E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-01T03:33:10Z",
+      "iso_date_of_last_edit": "2026-06-01T03:33:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWGQyOUJkV3huVm10S2MxSnVVMWhGY1ZOTmIwRRAB",
+      "user": {
+        "name": "Pushpa V",
+        "link": "https://www.google.com/maps/contrib/104973215879360820089?hl=en",
+        "contributor_id": "104973215879360820089",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJmotGcbt0PIZ2a_8AlvpmiStvbpU4hh7x_agmYcvhnUIIB9g=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 5
+      },
+      "snippet": "The Food was good. Service and ambiance are okay. They should improve their mocktails. Drinks are not upto the mark",
+      "extracted_snippet": {
+        "original": "The Food was good. Service and ambiance are okay. They should improve their mocktails. Drinks are not upto the mark"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹600–800",
+        "food": 3,
+        "service": 5,
+        "atmosphere": 4,
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Large vegetarian selection",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sc2RFVjViVFY1WW1NNVp6ZFpka2xQZEhKTVFVRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOnlsdEV5bTV5YmM5ZzdZdklPdHJMQUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-05-30T15:37:13Z",
+      "iso_date_of_last_edit": "2026-05-30T15:37:13Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sc2RFVjViVFY1WW1NNVp6ZFpka2xQZEhKTVFVRRAB",
+      "user": {
+        "name": "Arun Alex P",
+        "link": "https://www.google.com/maps/contrib/110978854918502933119?hl=en",
+        "contributor_id": "110978854918502933119",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ9e13JCL_1ajZ4B31qRDUak3tdIvU7YXF99LZHGA6Fkr3Cxw=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "The food was good and the service of Asrita ,Sabitri and Suraj was very nice",
+      "extracted_snippet": {
+        "original": "The food was good and the service of Asrita ,Sabitri and Suraj was very nice"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GUE9GcFdXa2RxZFVSSGIzbHpiak5LWlU5bWJuYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmFPOFpWWkdqdURHb3lzbjNKZU9mbnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-05-30T08:32:00Z",
+      "iso_date_of_last_edit": "2026-05-30T08:32:00Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUE9GcFdXa2RxZFVSSGIzbHpiak5LWlU5bWJuYxAB",
+      "user": {
+        "name": "Poorvika Putrevu",
+        "link": "https://www.google.com/maps/contrib/110100293889760349161?hl=en",
+        "contributor_id": "110100293889760349161",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVHpUhmtUOIFzLNdYoc3j-4sJYvefU1M_-Z4TQNAr9aEEAExaQ8=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Food, ambience and service was excellent.\nEspecially Ms.Sanju ma'am looked after everybody well.",
+      "extracted_snippet": {
+        "original": "Food, ambience and service was excellent.\nEspecially Ms.Sanju ma'am looked after everybody well."
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5cVYwNWlPSGhJUW5sdU5reHlPV0ZaYnkxclZVRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOk9qV05iOHhIQnluNkxyOWFZby1rVUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-05-29T16:44:04Z",
+      "iso_date_of_last_edit": "2026-05-29T16:44:04Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cVYwNWlPSGhJUW5sdU5reHlPV0ZaYnkxclZVRRAB",
+      "user": {
+        "name": "Jeslyn George",
+        "link": "https://www.google.com/maps/contrib/103084926349822627067?hl=en",
+        "contributor_id": "103084926349822627067",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU8P4Zcl2JZ-V8DpYBQjLIF05yF0vMg7Xvk55tLaN6CkYgl6Fk2=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 1
+      },
+      "snippet": "Wonderful food and great service by Asrita. Very efficient and calm service. Thank you",
+      "extracted_snippet": {
+        "original": "Wonderful food and great service by Asrita. Very efficient and calm service. Thank you"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tvNFkwdFJNMHcyTkc1T2FGWnFPSEIzZWtGQlluYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOko4Y0tRM0w2NG5OaFZqOHB3ekFBYnc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-25T02:01:51Z",
+      "iso_date_of_last_edit": "2026-05-25T02:01:51Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNFkwdFJNMHcyTkc1T2FGWnFPSEIzZWtGQlluYxAB",
+      "user": {
+        "name": "nagaraj sanikerematada",
+        "link": "https://www.google.com/maps/contrib/115159049794154276734?hl=en",
+        "contributor_id": "115159049794154276734",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ79jei5lcUJ9NqHBS0qyVzYQaJtFIBmFJwU8vbqip6zaH1AQ=s120-c-rp-mo-br100",
+        "reviews": 8,
+        "photos": 0
+      },
+      "snippet": "Worst food pathetic service dead slow very very very poor service if you go and sit for order nobody will come after 1 hr also and after order we will wait for another 1hr to get the food and they are charging huge charges for food very bad",
+      "extracted_snippet": {
+        "original": "Worst food pathetic service dead slow very very very poor service if you go and sit for order nobody will come after 1 hr also and after order we will wait for another 1hr to get the food and they are charging huge charges for food very bad"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21jNFRtWkRaVXRhZHpNME5qSldSMDlZUTJGU1JWRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmc4TmZDZUtadzM0NjJWR09YQ2FSRVE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-22T09:58:55Z",
+      "iso_date_of_last_edit": "2026-05-22T09:59:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNFRtWkRaVXRhZHpNME5qSldSMDlZUTJGU1JWRRAB",
+      "user": {
+        "name": "Sahana Aital",
+        "link": "https://www.google.com/maps/contrib/109951890102337084359?hl=en",
+        "contributor_id": "109951890102337084359",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKadfbfKYB0w5kOmUzFnmG8GauuftmUDXJGHvm626scEf0Z1A=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 1
+      },
+      "snippet": "A good experience. The ambience was really good. The vegetarian options were fair and tasted good. Staff were patient. However the food was on the expensive side including the water bottle. Overall liked the experience and food. Good luck",
+      "extracted_snippet": {
+        "original": "A good experience. The ambience was really good. The vegetarian options were fair and tasted good. Staff were patient. However the food was on the expensive side including the water bottle. Overall liked the experience and food. Good luck"
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKZlNFdHJOMHBPV0hKb1MwMTRia3RuTWxaM1NtYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkJfSEtrN0pOWHJoS014bktnMlZ3Smc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-19T16:35:09Z",
+      "iso_date_of_last_edit": "2026-05-19T16:35:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKZlNFdHJOMHBPV0hKb1MwMTRia3RuTWxaM1NtYxAB",
+      "user": {
+        "name": "SANKET HARSUR",
+        "link": "https://www.google.com/maps/contrib/111756134996988731716?hl=en",
+        "contributor_id": "111756134996988731716",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLSGBwmGQ8KP--ieGtPApUgwWuZTX85JR5xgKyl5-Zy7vtHcA=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Had a good experience. Service was good by Sanju",
+      "extracted_snippet": {
+        "original": "Had a good experience. Service was good by Sanju"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205cVN6aFdhVTAxTjIxM1h6Rk5UMVJ4VTFGdFUxRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOm9qSzhWaU01N213XzFNT1RxU1FtU1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-17T17:17:53Z",
+      "iso_date_of_last_edit": "2026-05-17T17:17:53Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cVN6aFdhVTAxTjIxM1h6Rk5UMVJ4VTFGdFUxRRAB",
+      "user": {
+        "name": "Aditya Kshetrapal",
+        "link": "https://www.google.com/maps/contrib/108954246847433501480?hl=en",
+        "contributor_id": "108954246847433501480",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXayxfwx7RqBIMbfV4kKFilxNTDXrza--DsynXcNWKwoXKftJuyzw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 13,
+        "photos": 16
+      },
+      "snippet": "Excellent service food. Thank you Priya and Suraj for a fabulous evening.",
+      "extracted_snippet": {
+        "original": "Excellent service food. Thank you Priya and Suraj for a fabulous evening."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,200–1,400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwcVpVWnBjMDFYUWpoa1RUTkpWbTFXUjB4WmNsRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOlpqZUZpc01XQjhkTTNJVm1WR0xZclE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-17T05:20:58Z",
+      "iso_date_of_last_edit": "2026-05-17T05:20:58Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcykOvs53WqEJyDr7ghO_HA-W1fkEyhbtPNXdTXNCV7-toNDjEHGHkTEb8WOWKvgb4emjU2mL2OPABANuPqxRr4rUEe2C5entz5PHxCXJdlP-N0nPi6XFT6bo0K-p_crRvcmSPfPYe1lgSP=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfWg0V-dfa8uOLKNeLCESR07Z_qCO2bllqEUovKbs23s5kUZcA3PVpD5sLYLufIpS9Qbf6dEAeSDlL_5pXwggjU3jHyHMQ4ZP_srLz0u6zZ3EIOgpksJzKSkReiyEBPAKgwNZtLkXFEB31o=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcVpVWnBjMDFYUWpoa1RUTkpWbTFXUjB4WmNsRRAB",
+      "user": {
+        "name": "GIRISH JOSHI",
+        "link": "https://www.google.com/maps/contrib/113152583470203594935?hl=en",
+        "contributor_id": "113152583470203594935",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJtnJYBKXKFbH_YfDBsobETg8DQuG18N7dSX7vwETPjPJzBQw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 149,
+        "photos": 152
+      },
+      "snippet": "The 9th Mile Dhaba is a part of Royal Orchids Hotel. The dhaba is under a temporary canopy. Tables are spaced correctly. The staff is cordial. I am a Vegetarian, I found the menu a restrictive. Starters were good, Dahi ke Tikki was excellent, however Paneer aam ki Nikki was not great. Dal Makhani was superb. Cocktails need an improvement in taste. Live music improved the experience. Per person the cost worked out to be Rs 1500, according to my perception this is a bit on the higher side for the ambience, the food platter, quantitiy and the taste. I would rate this overall as satisfactory!",
+      "extracted_snippet": {
+        "original": "The 9th Mile Dhaba is a part of Royal Orchids Hotel. The dhaba is under a temporary canopy. Tables are spaced correctly. The staff is cordial. I am a Vegetarian, I found the menu a restrictive. Starters were good, Dahi ke Tikki was excellent, however Paneer aam ki Nikki was not great. Dal Makhani was superb. Cocktails need an improvement in taste. Live music improved the experience. Per person the cost worked out to be Rs 1500, according to my perception this is a bit on the higher side for the ambience, the food platter, quantitiy and the taste. I would rate this overall as satisfactory!"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,400–1,600",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 3,
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes",
+        "vegetarian_options": "Vegetarian options are limited",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5MGJHb3plWEJxZUdWemJXMU9hMHd6YURKTVJuYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOk90bGozeXBqeGVzbW1Oa0wzaDJMRnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-16T15:39:59Z",
+      "iso_date_of_last_edit": "2026-05-16T15:39:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MGJHb3plWEJxZUdWemJXMU9hMHd6YURKTVJuYxAB",
+      "user": {
+        "name": "divya joshi",
+        "link": "https://www.google.com/maps/contrib/107521974081381556081?hl=en",
+        "contributor_id": "107521974081381556081",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL3asB06V1lpKHd4KuqQmEscEmCuVQggFjPu4T4yROoDFaTVQ=s120-c-rp-mo-br100",
+        "reviews": 9,
+        "photos": 0
+      },
+      "snippet": "Asrita  biswajit and suraj gave a good service with amazing food. Very palatable, suitable for everyone.",
+      "extracted_snippet": {
+        "original": "Asrita  biswajit and suraj gave a good service with amazing food. Very palatable, suitable for everyone."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "reservation": "Reservations recommended",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOZlptbERkM2gwTFd0WU1tUTFUazlOWDFWeWQyYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOlNfZmlDd3h0LWtYMmQ1Tk9NX1Vyd2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-16T09:40:05Z",
+      "iso_date_of_last_edit": "2026-05-16T09:40:05Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOZlptbERkM2gwTFd0WU1tUTFUazlOWDFWeWQyYxAB",
+      "user": {
+        "name": "Jey Ganesh",
+        "link": "https://www.google.com/maps/contrib/102267848147109337802?hl=en",
+        "contributor_id": "102267848147109337802",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLQYkT4Jpfkr3x-pPsF6KCA90bnIoG6yWg9lnPZy3U8lt3QGw=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 0
+      },
+      "snippet": "Me along with my family had a great time at this restaurant. Food really tastes good. The services provided by Asrita was more than satisfactory. Overall experience was very nice. Keep up the good work.",
+      "extracted_snippet": {
+        "original": "Me along with my family had a great time at this restaurant. Food really tastes good. The services provided by Asrita was more than satisfactory. Overall experience was very nice. Keep up the good work."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 17,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s4MFVrdERkREJNTkMxWmRGOW5XbXB1TlhsT1FYYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOk80UktDdDBMNC1ZdF9nWmpuNXlOQXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-15T16:14:41Z",
+      "iso_date_of_last_edit": "2026-05-15T16:14:41Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MFVrdERkREJNTkMxWmRGOW5XbXB1TlhsT1FYYxAB",
+      "user": {
+        "name": "Aamina Firdous",
+        "link": "https://www.google.com/maps/contrib/106831591516847881593?hl=en",
+        "contributor_id": "106831591516847881593",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJF28W01rCq1XjfAMCxMlChnzXGwThOJYfcgYHQicPiQ4eXlnbv=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Asrita biswajit and Suraj. Very tasty veg food and courteous service by staff. Really enjoyed the experience",
+      "extracted_snippet": {
+        "original": "Asrita biswajit and Suraj. Very tasty veg food and courteous service by staff. Really enjoyed the experience"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 18,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kwMlVUUldYMloxWDBwMVQxbEZVbVJZZUdSbU5GRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOi02UTRWX2Z1X0p1T1lFUmRYeGRmNFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-15T09:28:39Z",
+      "iso_date_of_last_edit": "2026-05-15T09:28:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMlVUUldYMloxWDBwMVQxbEZVbVJZZUdSbU5GRRAB",
+      "user": {
+        "name": "Sangeetha R 010",
+        "link": "https://www.google.com/maps/contrib/117103019216389663546?hl=en",
+        "contributor_id": "117103019216389663546",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUJikfhayJw9Fg5oxcNpXVtaMIh0MNJcJccTxh-wZJV-XMTnIVb=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Excellent food service by Asrita.. 😄",
+      "extracted_snippet": {
+        "original": "Excellent food service by Asrita.. 😄"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 19,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poRGEySlRkelo0ZW10TWRuSlNSMHhhUVVkQldXYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjhDa2JTdzZ4emtMdnJSR0xaQUdBWWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-14T16:55:25Z",
+      "iso_date_of_last_edit": "2026-05-14T16:55:25Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRGEySlRkelo0ZW10TWRuSlNSMHhhUVVkQldXYxAB",
+      "user": {
+        "name": "Nithya A",
+        "link": "https://www.google.com/maps/contrib/113186461247395634172?hl=en",
+        "contributor_id": "113186461247395634172",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLkaOjdy6zZN2ezX22gKXOEFbhdu1YN1Recotr5Uqrj8I8U0A=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "The service was good , we were attended by ms. Asrita and Biswasjit. Asrita specifically  suggested the best from the restaurant and ensured that we spend good time at the restaurant.",
+      "extracted_snippet": {
+        "original": "The service was good , we were attended by ms. Asrita and Biswasjit. Asrita specifically  suggested the best from the restaurant and ensured that we spend good time at the restaurant."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "reservation": "Reservations not required",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 20,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSRFJIWkRVbEYzU2tSeGFqUjBjR2xQVmtORVlrRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkRDRHZDUlF3SkRxajR0cGlPVkNEYkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-13T16:59:14Z",
+      "iso_date_of_last_edit": "2026-05-13T16:59:14Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRFJIWkRVbEYzU2tSeGFqUjBjR2xQVmtORVlrRRAB",
+      "user": {
+        "name": "Abhishek Bhui",
+        "link": "https://www.google.com/maps/contrib/108824919996248228987?hl=en",
+        "contributor_id": "108824919996248228987",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKHa45WiDJJGH7ljJ2jaa2QlGsSzAOeF1cHjyls4atTV7G1gwHm=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Food and service was really good. Asrita was really a good host and served us well. Thanks for the service.",
+      "extracted_snippet": {
+        "original": "Food and service was really good. Asrita was really a good host and served us well. Thanks for the service."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x3bae185a451f1a95%3A0xbb8f21195855c1f6&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP72GHduMKw__EhBr7GHvz9S04Y_bSBMAAAAAGgn92qACYd24wrAYACIA%3A50&num=20&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72GHduMKw__EhBr7GHvz9S04Y_bSBMAAAAAGgn92qACYd24wrAYACIA:50"
+  }
+}

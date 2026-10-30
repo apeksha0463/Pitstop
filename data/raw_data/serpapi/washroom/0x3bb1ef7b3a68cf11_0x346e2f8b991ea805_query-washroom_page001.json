@@ -1,0 +1,52 @@
+{
+  "search_metadata": {
+    "id": "6ae30fffe65cad30857df57f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YpF15alcJBnU1xRjzOv8yV4mmxx1iKrW3Vt_FjnP07M/6ae30fffe65cad30857df57f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YpF15alcJBnU1xRjzOv8yV4mmxx1iKrW3Vt_FjnP07M/6ae30fffe65cad30857df57f.md",
+    "created_at": "2026-10-29 09:21:04 UTC",
+    "processed_at": "2026-10-29 09:21:04 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1ef7b3a68cf11:0x346e2f8b991ea805!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/YpF15alcJBnU1xRjzOv8yV4mmxx1iKrW3Vt_FjnP07M/6ae30fffe65cad30857df57f.html",
+    "prettify_html_file": "https://serpapi.com/searches/YpF15alcJBnU1xRjzOv8yV4mmxx1iKrW3Vt_FjnP07M/6ae30fffe65cad30857df57f.prettify",
+    "total_time_taken": 0.17
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1ef7b3a68cf11:0x346e2f8b991ea805",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VQQ216TmFuMjhhSXNRRRAB!2m1!1s0x0:0x346e2f8b991ea805!3m1!1s2@1:CIHM0ogKEPCmzNan28aIsQE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-02T06:53:11Z",
+      "iso_date_of_last_edit": "2025-06-02T06:53:11Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VQQ216TmFuMjhhSXNRRRAB",
+      "user": {
+        "name": "Salomi Rachel",
+        "link": "https://www.google.com/maps/contrib/115299930425157814687?hl=en",
+        "contributor_id": "115299930425157814687",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI_jmkiSO04_BBEV-ZmIcTrKy9nFqMj4ducg1TwRqc1Gg1sJA=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Washroom are not cleaned, someone has used because of no proper water facility they have not flushed and the hotel is not bothered to maintain cleanliness.\nThe handwash basin is dirty and no water also for washing hands.",
+      "extracted_snippet": {
+        "original": "Washroom are not cleaned, someone has used because of no proper water facility they have not flushed and the hotel is not bothered to maintain cleanliness.\nThe handwash basin is dirty and no water also for washing hands."
+      },
+      "details": {
+        "atmosphere": 1,
+        "noise_level": "Moderate noise",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    }
+  ]
+}

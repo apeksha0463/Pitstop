@@ -1,0 +1,504 @@
+{
+  "search_metadata": {
+    "id": "6ae31022a9fcce4b0541aa49",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BgAQyEBuMP35xvLVmhKkl9M1Wzn7eQlAMkpzGdeJGYs/6ae31022a9fcce4b0541aa49.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BgAQyEBuMP35xvLVmhKkl9M1Wzn7eQlAMkpzGdeJGYs/6ae31022a9fcce4b0541aa49.md",
+    "created_at": "2026-10-29 09:21:38 UTC",
+    "processed_at": "2026-10-29 09:21:38 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e520cfaa728b:0x45550c587033f0ac!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/BgAQyEBuMP35xvLVmhKkl9M1Wzn7eQlAMkpzGdeJGYs/6ae31022a9fcce4b0541aa49.html",
+    "prettify_html_file": "https://serpapi.com/searches/BgAQyEBuMP35xvLVmhKkl9M1Wzn7eQlAMkpzGdeJGYs/6ae31022a9fcce4b0541aa49.prettify",
+    "total_time_taken": 1.5
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e520cfaa728b:0x45550c587033f0ac",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25FM2FYSkVSWFJVUjBOa05XaEVTMkp6VmpGRlRrRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CAIQACodChtycF9oOnE3aXJERXRUR0NkNWhES2JzVjFFTkE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-22T02:55:13Z",
+      "iso_date_of_last_edit": "2026-08-22T02:55:13Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FM2FYSkVSWFJVUjBOa05XaEVTMkp6VmpGRlRrRRAB",
+      "user": {
+        "name": "Vipin Babu",
+        "link": "https://www.google.com/maps/contrib/116315903733540731379?hl=en",
+        "contributor_id": "116315903733540731379",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUGiyUQ77a4-ibdOXY52ymMYx0D_5WaUOkOPt8Bpow9XNdGYbL_Zg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 8,
+        "photos": 3
+      },
+      "snippet": "Bad quality food and rate is very High, washroom not maintained properly",
+      "extracted_snippet": {
+        "original": "Bad quality food and rate is very High, washroom not maintained properly"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "noise_level": "Loud, but you can still talk",
+        "group_size": "3-4 people"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCcWZHa0h3EAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDBqfGkHw%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited 4 months ago",
+      "iso_date": "2023-01-23T03:40:23Z",
+      "iso_date_of_last_edit": "2026-05-31T02:29:27Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeM4jlqkoxdP0wPOY4yzPcEYRZrXMNUMS-Er6yZ8CwRwQpS6vOnemqVSh7jbaZsqEzffhQxaifMy06Ro39jcGoJlqaF5MKOqr59udBBxJMZ_dFWw0-US0Hs1MGOxdsTfa8LvDvdQZ0rcspt=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf5T4L_2wsO8E8LYtiPHVSTwt4oo-2wUu6dr4b6bJ0Nk58trXh0rWJCjGq-thjuiOPX8JDphzd7MReuPXHjW6gCqLNPBrpLOIhahZIoSwK1a0o6hti8FHE-bnM0wV3UKT1kmiYQ95dnHx8_=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcWZHa0h3EAE",
+      "user": {
+        "name": "CP",
+        "link": "https://www.google.com/maps/contrib/108006398537848999580?hl=en",
+        "contributor_id": "108006398537848999580",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW_5zWdkOXOGgeIHhDnrHVhCQ22RTC8_5z3HPJ5bQY4I28v4IA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 368,
+        "photos": 1817
+      },
+      "snippet": "Tried the south India meal and it had decent taste. Delicious and pocket friendly option. Have good parking space and clean washroom . Eatery have self service option too. EV charging is available",
+      "extracted_snippet": {
+        "original": "Tried the south India meal and it had decent taste. Delicious and pocket friendly option. Have good parking space and clean washroom . Eatery have self service option too. EV charging is available"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pORVpXWmZkak5OWTFkWFRtaHhkV281VEdaSGFGRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CAIQACodChtycF9oOjNEZWZfdjNNY1dXTmhxdWo5TGZHaFE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-28T09:40:11Z",
+      "iso_date_of_last_edit": "2025-12-28T09:40:11Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pORVpXWmZkak5OWTFkWFRtaHhkV281VEdaSGFGRRAB",
+      "user": {
+        "name": "abhishek sinha",
+        "link": "https://www.google.com/maps/contrib/102040891383737430769?hl=en",
+        "contributor_id": "102040891383737430769",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWlf7H7Y1_ZFjqCtJN3_44ZRMQjVBwk3x1IMg3W1huC6b-TdLYJ5Q=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 75,
+        "photos": 108
+      },
+      "snippet": "Hotel is fully vegetarian. It serves good indian veg options. You can try it if you are returning back from isha foundation or Gudibande Fort/ Lake.\nHandwash hygiene needs work. Not sure if the hotel has a seperate washroom. Just saw the handwash section which was not well maintained",
+      "extracted_snippet": {
+        "original": "Hotel is fully vegetarian. It serves good indian veg options. You can try it if you are returning back from isha foundation or Gudibande Fort/ Lake.\nHandwash hygiene needs work. Not sure if the hotel has a seperate washroom. Just saw the handwash section which was not well maintained"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "group_size": "3-4 people",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN2ckpMZExBEAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICvrJLdLA%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-08T17:35:43Z",
+      "iso_date_of_last_edit": "2024-12-08T17:35:43Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2ckpMZExBEAE",
+      "user": {
+        "name": "Apoorva Khadri",
+        "link": "https://www.google.com/maps/contrib/114056573536376949321?hl=en",
+        "contributor_id": "114056573536376949321",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVLm69-DCU9ClAvhfu2hl7umZq93uxm0hnjrtCu_KFiduSe7gKN=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 47,
+        "photos": 48
+      },
+      "snippet": "We had stopped for a short break, wish they had chats, but their mushroom pepper dry was delicious, nice coffee and some good shops around, the washroom was hygienic and they have decent parking space.",
+      "extracted_snippet": {
+        "original": "We had stopped for a short break, wish they had chats, but their mushroom pepper dry was delicious, nice coffee and some good shops around, the washroom was hygienic and they have decent parking space."
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyNTZITGVBEAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDr56HLeA%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-20T23:40:14Z",
+      "iso_date_of_last_edit": "2024-07-20T23:40:14Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyNTZITGVBEAE",
+      "user": {
+        "name": "Akshay Hebbar",
+        "link": "https://www.google.com/maps/contrib/100253771441799807002?hl=en",
+        "contributor_id": "100253771441799807002",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKPpZa0N_TvDjogMFtWUiF_cGPmIS-f5gT4ag9ezfZ_SZ7WoA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 31,
+        "photos": 2
+      },
+      "snippet": "South Indian restaurant serving vegetarian food. Andhra style. Ample of space for sitting. Quick service. Washroom is okay. Good space for car parking.",
+      "extracted_snippet": {
+        "original": "South Indian restaurant serving vegetarian food. Andhra style. Ample of space for sitting. Quick service. Washroom is okay. Good space for car parking."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1–200",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "recommended_dishes": "Idli Sambar",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "All south and north indian vegetarian dishes included. Thali is good but only avaipable with chapatis.",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Good space in front of the restaurant."
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMxdWFXc05REAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIC1uaWsNQ%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 years ago",
+      "iso_date": "2024-01-01T12:01:29Z",
+      "iso_date_of_last_edit": "2024-01-01T12:02:16Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxdWFXc05REAE",
+      "user": {
+        "name": "Gayatri Bongarala",
+        "link": "https://www.google.com/maps/contrib/111885418291707499832?hl=en",
+        "contributor_id": "111885418291707499832",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVZT3JvcEm-SlVL0-BhXubX-rVbYQVoT79RK5wLknuXul7eNpXt=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 397,
+        "photos": 1693
+      },
+      "snippet": "I went to use the washroom, leaky bidet is observed and the washroom is ok not bad.",
+      "extracted_snippet": {
+        "original": "I went to use the washroom, leaky bidet is observed and the washroom is ok not bad."
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwZ1BmWHJRRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICpgPfXrQE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-07-26T10:46:18Z",
+      "iso_date_of_last_edit": "2023-07-26T10:46:18Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdQSM7bDp2E9W_bwNS8LkjsLHPrhMFex4jPXOihg9EHnQO2ZgJGnrX2faX_fue8hWNbcTv5Tqi_nU3qxC5qX4D34t8B3ZirxB0B_Oo3R6iTw9pxOb1ydxtHx3LWVvi7V8qsPzk=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLebmTGUrhFDUc59GS7QYH0PU3ODMTZgLURWegDl3mRuC1k5QhWpJ0236olTjWLmtQcSN5MOycvuZxkk61OCmOd8XJIY29Kz3sj6_JtUpR2MPFVzvckdFx53yiu6diOp6lKC2cY_=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf9Chh2dpIMzOPTXzrHKDRyoKkhTzYUinT-ThRZzrgCaULGZFq4t86UayNIESMfEe0ahsaZBV_NXGg5KX3tXcHW6oLoGXDPWj1nhncwZvtb9oOCP7byNQQxHRyxLuF_-iijTp8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfSYX9frjcI-MoEcY3VR4ZV-Z6biaa-wAqeReh63w1cozc_l1FvLAUWSHG7OrSI780nqIrGWlDjOjxhkRLAuKVXFqrkXl7kdWNzC1PTJ6g-xJKMi0PbsxQhQQdh-FJJzzrJrj4sKQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwZ1BmWHJRRRAB",
+      "user": {
+        "name": "Meheshree Pillay",
+        "link": "https://www.google.com/maps/contrib/111434734941064185062?hl=en",
+        "contributor_id": "111434734941064185062",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXvbEF3Rxbwrox40YX17_iscGkrnXB-2v1et7VztgwAlX7Lgre3=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 139,
+        "photos": 1487
+      },
+      "snippet": "Our server was very helpful and friendly. The food arrived at the table nice and hot, so no delay in service. We had the rotis, paneer butter masala, idli, vada, sambar, coffees. After our long journey we were very hungry but so pleased that Everything tasted great and was very satisfying. Food is affordable and tasty.\nThey take both cash and upi payments.\nThey have a hand wash area inside the restaurant, and a washroom facility outside the building.",
+      "extracted_snippet": {
+        "original": "Our server was very helpful and friendly. The food arrived at the table nice and hot, so no delay in service. We had the rotis, paneer butter masala, idli, vada, sambar, coffees. After our long journey we were very hungry but so pleased that Everything tasted great and was very satisfying. Food is affordable and tasty.\nThey take both cash and upi payments.\nThey have a hand wash area inside the restaurant, and a washroom facility outside the building."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4,
+        "recommended_dishes": "Ghee Masala Dosa",
+        "vegetarian_options": "All the food is vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "There’s a lot of parking spaces. The location is very busy with many cabs and out of town visitors, so It always looks busy and has a safe vibe.",
+        "kid_friendliness": "There were many kids and babies in the restaurant, sitting with their parents and eating."
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKcWRENVJREAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICJqdD5RQ%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-06-30T03:31:08Z",
+      "iso_date_of_last_edit": "2023-06-30T03:31:08Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcWRENVJREAE",
+      "user": {
+        "name": "kare Divija",
+        "link": "https://www.google.com/maps/contrib/103668646792623213137?hl=en",
+        "contributor_id": "103668646792623213137",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWqHYKg7vpfSOw_cwPs6VDgW2UwkxolIuUCWPRImtws83RbZb-IQQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 57,
+        "photos": 37
+      },
+      "snippet": "We had coffee it was delicious. Washroom was neat and clean. Do stop by for a break",
+      "extracted_snippet": {
+        "original": "We had coffee it was delicious. Washroom was neat and clean. Do stop by for a break"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Other",
+        "price_per_person": "₹1–200",
+        "atmosphere": 4,
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSaE92RTB3RRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICRhOvE0wE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-03-25T09:09:02Z",
+      "iso_date_of_last_edit": "2023-03-25T09:09:02Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSaE92RTB3RRAB",
+      "user": {
+        "name": "Mohan Lal",
+        "link": "https://www.google.com/maps/contrib/113847246516478711568?hl=en",
+        "contributor_id": "113847246516478711568",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW1MpIBpHwO6ssT3FP_fu8-5eyKbAtl6nasOOHZBZLgGArX6dAA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 30,
+        "photos": 0
+      },
+      "snippet": "Clean washroom. All good.",
+      "extracted_snippet": {
+        "original": "Clean washroom. All good."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtbV9yNkxBEAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgID-m_r6LA%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2022-12-10T07:34:42Z",
+      "iso_date_of_last_edit": "2022-12-10T07:34:42Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbV9yNkxBEAE",
+      "user": {
+        "name": "shadiya shahsil",
+        "link": "https://www.google.com/maps/contrib/113436811910697309496?hl=en",
+        "contributor_id": "113436811910697309496",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKjsF38mg4hFCgWO-u4RHT8Wn4_H3pweZZ5lGQWywjWw4wmzQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 59,
+        "photos": 27
+      },
+      "snippet": "Nice food and ambience. Well cleaned washroom. I like it",
+      "extracted_snippet": {
+        "original": "Nice food and ambience. Well cleaned washroom. I like it"
+      },
+      "likes": 0
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtcGNiQmV3EAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgID-pcbBew%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2022-12-05T03:09:00Z",
+      "iso_date_of_last_edit": "2022-12-05T03:09:00Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtcGNiQmV3EAE",
+      "user": {
+        "name": "Harsha C M",
+        "link": "https://www.google.com/maps/contrib/103167407474812217802?hl=en",
+        "contributor_id": "103167407474812217802",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKKFSoGhD4U-QoX4NOYOtd6tt_ElUvVT6njQrpJ4p_F8Psq6oz2=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 52,
+        "photos": 53
+      },
+      "snippet": "I visited for breakfast and ordered few items. It took long delay to get them. Idli dosa Vada Chow chow bath were good in taste. Sambar and Chutney taste were not upto the mark. Suppliers are way too lazy. They ask for same order again and again. Hotel and washroom is clean and tidy. Preferred for a quick food while travelling.",
+      "extracted_snippet": {
+        "original": "I visited for breakfast and ordered few items. It took long delay to get them. Idli dosa Vada Chow chow bath were good in taste. Sambar and Chutney taste were not upto the mark. Suppliers are way too lazy. They ask for same order again and again. Hotel and washroom is clean and tidy. Preferred for a quick food while travelling."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 1,
+        "atmosphere": 5,
+        "vegetarian_options": "Idly Vada Sambar Chutney Dosa Chow chow bath tea coffee etc.",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Parking slots are usually available as it's a running traffic."
+      },
+      "likes": 0
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQtMlpXTDJBRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgID-2ZWL2AE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2022-12-04T03:16:30Z",
+      "iso_date_of_last_edit": "2022-12-04T03:16:30Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtMlpXTDJBRRAB",
+      "user": {
+        "name": "J R P",
+        "link": "https://www.google.com/maps/contrib/114674096493060699479?hl=en",
+        "contributor_id": "114674096493060699479",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKV0sQitEd10sSnWttP9Al4DDQQoaBwkVMAv3a2NV9HTmtmRg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 31,
+        "photos": 12
+      },
+      "snippet": "It's a lake wive hotel. Very good atmosphere and good gardening decorated with plants. Parking facility and clean washroom. Food also very good 👍.",
+      "extracted_snippet": {
+        "original": "It's a lake wive hotel. Very good atmosphere and good gardening decorated with plants. Parking facility and clean washroom. Food also very good 👍."
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 1
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURTNDRiTEtnEAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDS44bLKg%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 years ago",
+      "iso_date": "2021-01-07T13:51:13Z",
+      "iso_date_of_last_edit": "2021-01-07T13:52:19Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTNDRiTEtnEAE",
+      "user": {
+        "name": "Tanveer Khan",
+        "link": "https://www.google.com/maps/contrib/106804902132426991722?hl=en",
+        "contributor_id": "106804902132426991722",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWgwHCs1GX8rYR9khpPP6TqwyYQCiPRdyQ8xQKKpNLU-RzL8D6g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 73,
+        "photos": 26
+      },
+      "snippet": "Very good taste and affordable price, also you get all other facilities like clean and sanitized washroom, parking facilities for two and four wheelers.",
+      "extracted_snippet": {
+        "original": "Very good taste and affordable price, also you get all other facilities like clean and sanitized washroom, parking facilities for two and four wheelers."
+      },
+      "likes": 0
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQwaGRuV3dnRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgID0hdnWwgE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "6 years ago",
+      "iso_date": "2019-11-12T13:20:07Z",
+      "iso_date_of_last_edit": "2019-11-12T13:20:07Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwaGRuV3dnRRAB",
+      "user": {
+        "name": "Vishakha Kashikar",
+        "link": "https://www.google.com/maps/contrib/107530069632306595517?hl=en",
+        "contributor_id": "107530069632306595517",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJKBDGDYgdL15SLTS95MDkEuBWPgzwwqeXXL-wtX0AdEZAmxw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 35,
+        "photos": 1
+      },
+      "snippet": "Taste was okay , washroom were clean even on highway hotel .",
+      "extracted_snippet": {
+        "original": "Taste was okay , washroom were clean even on highway hotel ."
+      },
+      "likes": 0
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNVc01lNlZREAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICUsMe6VQ%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "7 years ago",
+      "iso_date": "2019-07-15T05:37:58Z",
+      "iso_date_of_last_edit": "2019-07-15T05:38:35Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVc01lNlZREAE",
+      "user": {
+        "name": "siddarth damani",
+        "link": "https://www.google.com/maps/contrib/113211096327573959503?hl=en",
+        "contributor_id": "113211096327573959503",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKZE7zuc-5bbBXgcaRrjhMujM8Z5mPEMMr3TTC-10XyOwXOzw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 12,
+        "photos": 1
+      },
+      "snippet": "Not so great..washroom very bad",
+      "extracted_snippet": {
+        "original": "Not so great..washroom very bad"
+      },
+      "likes": 0
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNrNzVMOHl3RRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICk75L8ywE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "7 years ago",
+      "iso_date": "2019-06-23T06:54:06Z",
+      "iso_date_of_last_edit": "2019-06-23T06:54:06Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNrNzVMOHl3RRAB",
+      "user": {
+        "name": "Uma Tiwari",
+        "link": "https://www.google.com/maps/contrib/108301058701050858006?hl=en",
+        "contributor_id": "108301058701050858006",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWWG8_nXyhRY7aqp8_X2YWXpkVkLsibkmuwIy-UomZvyZ0VUV6k0w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 187,
+        "photos": 5878
+      },
+      "snippet": "Food was good, service was fast, place was clean, washroom was clean.",
+      "extracted_snippet": {
+        "original": "Food was good, service was fast, place was clean, washroom was clean."
+      },
+      "likes": 0
+    }
+  ]
+}

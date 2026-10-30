@@ -1,0 +1,183 @@
+{
+  "search_metadata": {
+    "id": "6ae2e9a5dd17b10da7d13d8d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UxZaB-J2rIe-v0V8TI9i-8yrVm3TJJQK9hCwg4qwDGA/6ae2e9a5dd17b10da7d13d8d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UxZaB-J2rIe-v0V8TI9i-8yrVm3TJJQK9hCwg4qwDGA/6ae2e9a5dd17b10da7d13d8d.md",
+    "created_at": "2026-10-29 06:37:25 UTC",
+    "processed_at": "2026-10-29 06:37:25 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1f028ffa149b:0x4848588589cb9493!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/UxZaB-J2rIe-v0V8TI9i-8yrVm3TJJQK9hCwg4qwDGA/6ae2e9a5dd17b10da7d13d8d.html",
+    "prettify_html_file": "https://serpapi.com/searches/UxZaB-J2rIe-v0V8TI9i-8yrVm3TJJQK9hCwg4qwDGA/6ae2e9a5dd17b10da7d13d8d.prettify",
+    "total_time_taken": 0.46
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1f028ffa149b:0x4848588589cb9493",
+    "hl": "en",
+    "next_page_token": "CjEIARIpCgoAP72GD_yJLP__EhD3kpqdkHeOY6tR4OkAAAAAGgn92S4CYP_Iks8YACIA:10",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxa2NVTlJlRmhoUjBKbWVIVTFaMFZIVGw5c2NIYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOi1kcUNReFhhR0JmeHU1Z0VHTl9scHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-01T01:01:18Z",
+      "iso_date_of_last_edit": "2026-06-01T01:01:18Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxa2NVTlJlRmhoUjBKbWVIVTFaMFZIVGw5c2NIYxAB",
+      "user": {
+        "name": "Bethsy Shohe",
+        "link": "https://www.google.com/maps/contrib/100197775522537585897?hl=en",
+        "contributor_id": "100197775522537585897",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKNkcf2lBVF9KLbU_BgWetrcBo70do3SZBip6sqg0xVNU78jGA=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxWFNFcG5aM1pzTW5STGNreDJVbFY1VDFCMlgyYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOi1XSEpnZ3ZsMnRLckx2UlV5T1B2X2c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-02T08:35:35Z",
+      "iso_date_of_last_edit": "2026-05-02T08:35:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWFNFcG5aM1pzTW5STGNreDJVbFY1VDFCMlgyYxAB",
+      "user": {
+        "name": "Deepa Siddharthan",
+        "link": "https://www.google.com/maps/contrib/117378373215306566979?hl=en",
+        "contributor_id": "117378373215306566979",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKviURFM4pxWhTVf75mN4tfj33c2wCo7JJ4JBm_EMoDJV1K=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 14,
+        "photos": 0
+      },
+      "snippet": "Biriyani cold\nFood was bad",
+      "extracted_snippet": {
+        "original": "Biriyani cold\nFood was bad"
+      },
+      "details": {
+        "food": 1,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21zd1JrUndNSEpSZFVsUVkzaE9jSFZXTUVGdU0xRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOmswRkRwMHJRdUlQY3hOcHVWMEFuM1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-03T15:19:48Z",
+      "iso_date_of_last_edit": "2026-04-03T15:19:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zd1JrUndNSEpSZFVsUVkzaE9jSFZXTUVGdU0xRRAB",
+      "user": {
+        "name": "Nachikethan Nachi",
+        "link": "https://www.google.com/maps/contrib/113062258299529142238?hl=en",
+        "contributor_id": "113062258299529142238",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLVAonkh3xU9z8_SXJyMktnNM1CVHayKbfHasYdqY625tBW9w=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "I had an excellent experience at this hotel. The service was truly top-notch, with staff going above and beyond to ensure a comfortable stay. The atmosphere is welcoming and perfect for families. I would definitely recommend visiting with your loved ones!",
+      "extracted_snippet": {
+        "original": "I had an excellent experience at this hotel. The service was truly top-notch, with staff going above and beyond to ensure a comfortable stay. The atmosphere is welcoming and perfect for families. I would definitely recommend visiting with your loved ones!"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "6 months ago",
+        "iso_date": "2026-04-04T01:51:46Z",
+        "iso_date_of_last_edit": "2026-04-04T01:51:46Z",
+        "snippet": "Tnq u sir ",
+        "extracted_snippet": {
+          "original": "Tnq u sir ",
+          "translated": "Thank you sir."
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1MlZ6VldaVUozTnpSb2IxUk9hVFowU21GM04zYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOk52VzVWZUJ3NzRob1ROaTZ0SmF3N3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-27T17:04:10Z",
+      "iso_date_of_last_edit": "2026-02-27T17:04:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MlZ6VldaVUozTnpSb2IxUk9hVFowU21GM04zYxAB",
+      "user": {
+        "name": "Dilipamkumar Dilipam",
+        "link": "https://www.google.com/maps/contrib/115193842111705998021?hl=en",
+        "contributor_id": "115193842111705998021",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW2UTUQnkkkxgduSJhLjrL3DpJmPS0MZnDf2TLIHOOFm0sWy2sQ=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 9
+      },
+      "snippet": "It was like a adventure at night time was good emotions feel like good of food tasting extraordinary service also.",
+      "extracted_snippet": {
+        "original": "It was like a adventure at night time was good emotions feel like good of food tasting extraordinary service also."
+      },
+      "details": {
+        "order_type": "Take out",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "7 months ago",
+        "iso_date": "2026-03-12T16:56:10Z",
+        "iso_date_of_last_edit": "2026-03-12T16:56:10Z",
+        "snippet": "Tnq u sir",
+        "extracted_snippet": {
+          "original": "Tnq u sir",
+          "translated": "Thank you sir."
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGWVdYaFFNbGxoTW1reVVWbHhhRW90TlZKR2FtYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOkFYWXhQMllhMmkyUVlxaEotNVJGamc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-25T14:34:45Z",
+      "iso_date_of_last_edit": "2026-02-25T14:34:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWVdYaFFNbGxoTW1reVVWbHhhRW90TlZKR2FtYxAB",
+      "user": {
+        "name": "Juliane Schuler",
+        "link": "https://www.google.com/maps/contrib/116761084996241694395?hl=en",
+        "contributor_id": "116761084996241694395",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIACCV1X6N9KAyBhJDUWpILXc-Gn9f3Z3-_zISjxuz5O-B7CA=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Essen war super, günstig und der Besitzer war extrem freundlich und hat geholfen wo er nur konnte!\nBei uns gab es zwischendurch Stromausfall, er hat sich sofort um Kerzen gekümmert - kann man empfehlen!",
+      "extracted_snippet": {
+        "original": "Essen war super, günstig und der Besitzer war extrem freundlich und hat geholfen wo er nur konnte!\nBei uns gab es zwischendurch Stromausfall, er hat sich sofort um Kerzen gekümmert - kann man empfehlen!",
+        "translated": "The food was great, inexpensive, and the owner was extremely friendly and helpful! We had a power outage, and he immediately provided candles – highly recommended!"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes"
+      },
+      "likes": 0
+    }
+  ]
+}

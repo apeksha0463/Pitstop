@@ -1,0 +1,247 @@
+{
+  "search_metadata": {
+    "id": "6ae30fa84814e54a9269cbd4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d5114CqdPY0yDAKGvrhurru0PZHj_2mkDZevX_jgki4/6ae30fa84814e54a9269cbd4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/d5114CqdPY0yDAKGvrhurru0PZHj_2mkDZevX_jgki4/6ae30fa84814e54a9269cbd4.md",
+    "created_at": "2026-10-29 09:19:36 UTC",
+    "processed_at": "2026-10-29 09:19:36 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e29159d69fe1:0x324d96dade0efb15!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/d5114CqdPY0yDAKGvrhurru0PZHj_2mkDZevX_jgki4/6ae30fa84814e54a9269cbd4.html",
+    "prettify_html_file": "https://serpapi.com/searches/d5114CqdPY0yDAKGvrhurru0PZHj_2mkDZevX_jgki4/6ae30fa84814e54a9269cbd4.prettify",
+    "total_time_taken": 0.46
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e29159d69fe1:0x324d96dade0efb15",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ad1EyRk5SekY1TFZKNFgxODBZMG8xWm5KRFYxRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOmZwQ2FNRzF5LVJ4X180Y0o1ZnJDV1E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-23T11:15:29Z",
+      "iso_date_of_last_edit": "2025-09-23T11:15:29Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfSiiU2F8ejeHFalsgkH7ejKPLzttQO-7JGRH334vKreEqEcYGbkkJsmYuNKapDeFZa8QSGZWrGVwbWGNnZB0lm4UDruyJPcWpMVZS-4VSGoJD2WDLEEqb-ylKv-Bu28_AbVEQ18tU6T_zh=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfL0xa5aQqQX60NXBv-vpOdZeFGi_VGi-PLo0fJ-ntHJSsBUNdRXSy12CrPWVQa3foG3l4ZFquKo3R-l5kR3raMr45m6_t1bwX6iAaw9YPKjMJs_d3Ck33KiZVK_Y1hkoqdQoTQFOVHVCSz=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc7I83AtkcWzOS8_QS7JMu_Lb8pHx77qthM0KPAeedH4gpVOb0bkQeY9KZaxoqy4SpeMsZtUosUGpdugEjAEEjtPDKbvlZYAD_dJ918E3bQG5wgqfD39ceVVm9OnpfwVSdqkJrCBl36L90=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLexL3gYbJ6q6BAbaNFhVXET8oxe5EhhUTgXIGCWWOPT5WM9gSYUUFC_mSCPrRgvsAr3iHp0_4Wi5wwAimO4fXXuG8Q1KeTIx8SWLUfZHsKvTIfQBoKQxwSO8bG95f8rK3mbt9Iz_0Ukj51H=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfhZmXluQvKHdC9E9UMZkJcpZEFGudcHDWnCGJ2nUl47ZC5V4UFptw_gwceOg_Km5LyZ-6iVtijp7R8Soym51O444W3fqNpOx3Ob1retwCjPSUDCj1oYz76M-zCcf9BplwLXsgZHwrVAbq1=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe1Q6G6llKhSETwievryjPYE7rGUjlXOO-h7tnmDidTOm7NFEMYAv6dgXgvYFbAubC3xvGguONeNx4fAJYZmrPYskOZvNnsQpDVF9SSSlNoDRWQ-UpcI_A8hPUA4QLFePKiogVzM3EKF7o=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcjS25hOiGClJ_Ft-9_-La6Hia7fGCbBSfIWz4xjjJ4VgM38h05rTgnUGx2KyLJvSxbk4i2PKXBEoCzjqzDA8CvrKg6awKiqHOpkN5rJzjiNKvv2ZyD5pmWFE2GxVWde0UlIihWyaw4RgYZ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdQlFubQ2mH0dDBsKcdXYiYk50A65UHuxS_qGzg27NvpLvbQnodLAQKXtNTCRPjnlflJhxSvXG2STH3SKQjmiZdVzSXuEWEoC1HPrIVzFh436BPBbmIy2evC-qVOTRg1mfAH2FfCE___s8=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ad1EyRk5SekY1TFZKNFgxODBZMG8xWm5KRFYxRRAB",
+      "user": {
+        "name": "Mita Rani",
+        "link": "https://www.google.com/maps/contrib/112050045302352301384?hl=en",
+        "contributor_id": "112050045302352301384",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUMsmlQWKfxAXC315j2FRfYOK2tvuCAPIPDc674C1wRULPtRVvVyQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 99,
+        "photos": 218
+      },
+      "snippet": "I had dineout here for dinner . Ambiance is too good . Exactly attach to NH so location is too good . enough parking facility.Service is too good .Must say Washroom is also too cleaned and maintained ( why I mentioned because in NH restaurant getting this is luckiest one .) Outside mini garden is there we can get good pictures here and it's calm and cleaned .Staffs are good and mannered here ..Food is good and taste yummy 😋 .I just feel one thing I.e I ordered punjabi kadhi ..taste was too good but very less Pakora only 4 peice where I am paying some 200rs+ otherwise it's good ....Seems Hygeinic also .. Pleasant Decor  .",
+      "extracted_snippet": {
+        "original": "I had dineout here for dinner . Ambiance is too good . Exactly attach to NH so location is too good . enough parking facility.Service is too good .Must say Washroom is also too cleaned and maintained ( why I mentioned because in NH restaurant getting this is luckiest one .) Outside mini garden is there we can get good pictures here and it's calm and cleaned .Staffs are good and mannered here ..Food is good and taste yummy 😋 .I just feel one thing I.e I ordered punjabi kadhi ..taste was too good but very less Pakora only 4 peice where I am paying some 200rs+ otherwise it's good ....Seems Hygeinic also .. Pleasant Decor  ."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "noise_level": "Quiet, easy to talk",
+        "group_size": "5-8 people",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_space": "Plenty of parking",
+        "kid_friendliness": "Yes",
+        "wheelchair_accessibility": "NO"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-09-26T11:12:37Z",
+        "iso_date_of_last_edit": "2025-09-26T11:12:37Z",
+        "snippet": "Thank you for your kind words! We're delighted you enjoyed the food. Hope to see you again soon",
+        "extracted_snippet": {
+          "original": "Thank you for your kind words! We're delighted you enjoyed the food. Hope to see you again soon"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKc016bDBnRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgICJsMzl0gE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-06-19T10:14:38Z",
+      "iso_date_of_last_edit": "2023-06-19T10:14:38Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd6ilZq9KyK-CjQwgFbUsMQ4ZNfn7PCyyCFq10Gz4oKxWAFCYyDsXEHBO0eF9TU4qa6fdtHzJX7rbniHqX5WkhIRnEbxdbg4XOGwswhWjF-cMD1cvUC5JNCxO0axX0dbUPddyjW=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfoeYm6kawL5nheH4Z4fovCmcXRkj8IpIsU4jREhwXd3Ou8Y6xr2vDtqKAebX1rGPUhHYHleiIfbOXaxTNvqCV8OkvieJnIr6-W1uKBPxvNmypuHMsQ2q04RuYEUnY8x7mF-svB=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeb9ZyWyGokhEk3Br4yvyeuCSkSrSGCyBHuDml7REFyHz9KFvslpWDyJRuAoz0FXlnGaIp7hO2C8EXB5J3NpKDslPzvw4ytmDPmxsxm-eLDYzlURhbwTK4vqUbgtr7C6hu6mkFM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfODDoRPgaDXRJHMeH_ktq3bZPSbbYZyKfqa0Yt4PwfaJuM-hfr01GAzyOqD-PghGV7aQdfWrhFz68F2lr8tvP1vNrpDYm6Me0GI5hVvPoApz9sN9SufRVizuvjP3nxqMJGU_IO3A=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcvzLgaRdh8AJVaSCjS_tqglp2B8pVJnE9a3jIiefyXAUp6osaAPnVuN2dTIi2Yk4Rsw5H50A8R4o024abtyBl_CNG_6Judo2u0ha559_W5NpGHOhKaXLt7vL4ccej2drTiDXA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLePgtrNQtYwX__fjTv4JL1txkQ-0G_zenT6MpqLHGyCEojAUJCN_HPNlBvc66SEo-YjeoFyadWJ9JQJu8gp-Hz3RqLaCMkHWJkosBcRHUdBdCIfkOZCiNqOi_EECklVtUf_IZ6s1w=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcca4o2k32lhR0Lb5piVzl1vzXg3-pHDicaPxjajTc1stjd_60RnukOLIWZwS_RDQ2l_H-uRSyhDlnpdclqrVmz9Mk80CIEMvv0f-rDID_3vAs5-IBycdeUat5FO7R_R_og-Jg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfwdPbalF8bXXzJ0RR0psN0aIOzSM9GjLm7OoMcQwp2JwQ_XWSBQa3bHPv8OrqKB0SdaOoyXMZwZJb1Utcrh8um7m8_0PL5dKfPpAKZODL6C5-12MT3-uHi0BUsC1Y4CjPdy2mOrA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcbr3j80ah9KLsRHuRtDg4NXMuKa775qH2g8caJm5a7VUO3aLKy8bzPPNdrXOJI5apMZbA6C5OLNWRqY5cB6V0heBqKBXhUnorxLBI73I3jYVwmiCnEK9rkO9qQnHR2i14RHUs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe1lbTWt0CqxQZG9cllONMziKfYagnetESByaN5lQfnFIqHJ3KobSFhOxuHzyOMbNdXavgAY0t3CvLENTUMafDp8ukFfxW4ZZDtd8ajUwtf9_Ppt-NPGZwvTL-sBK-OO0x5TDuK=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe9ePlJK-ea0u-eBJeeLPwStaMynNrYSR9vvlkHuJb9aUEdhhalNEn1yuZMZLLh8ae9bi448X_4TqezcxFfPr_ItDStaMa5lXDeNCqmdsXWNBxRNVzvhM0LaUFKNroaNiLYjI-s=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdvLchuHYY__Jt_ecR9RFuEKXxY8C-HRgB2TnRL4hKs9l0OarH1VuhkUARK3PFFrhV-yYy4GNsJNNf9rW2-bWZrmY8OjAiqiDF6ILNy0eg8CcwkpDYAaYEXJpS0Q_ZN5o6zmp_Zog=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLen39TegfBo72tyL5eDhsn4pmagJHL8nzJ9uxy1LfiBO73xtFayLiD8Glu7oT6NACDhlqZV1Jw_m137IpPAaOiIxzwWiEcb7_1t_wVvy-tTYsOpGX9XOwDJuQ5226FRULmDhudS=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfjGB-65HmcwLY_xr46gha_KbZ2Is39v1OTQBIdDH9EFkFTF_MaVu5OxDht8n3RQEnwlFv8Po2bp0Hx7nLZgicrFBKZ6vQwrIhb5TfQiKJKeKjLFl0iGhQIgDd5fvXR2dYcgM5mCQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfK46sX_abugy5YW65qZzJsegoLgawmGt-KnGVsOW1ij7Wz-nWTsbU-2oF7UJ5hSquPvrHe-KXvZIdQwKotFKweTkVYu0Hr2LBQyFFWWEuhx6KFA7j1KBWpl-JC8BgAt3iq5CKN=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeHa-C7XfXlqT0hQIe-MWY_79Hk_ud_u55RYLz_lxCuAJaY-oaB_jxDDSjTfwlPimIkKQivojDAysTIXs3KaMJPCtxNCOEIc4qItkFGYL6RMbaRG5GNn46wkzvl09fNgGwxKhf3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdaTH_BoE2EOWpEitDz6BabZMDTNTe9pIIlV4DAEwbGHhamfhsruIQ9s1d8dZMny44JFyDuvv-jUXGQY02nh4oNW0zPjyBASR4UE4naeQY6m2gtOORVWVPjTD-ijcbWixSJHQTd=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLef6hY9Uv-2X8wdPhKt88bH9oyxqnH0bkJfVgFpamY9OcErIvPAi4k44gVhqseWa9YLFtcZFYYrrseQmid7kygut5gTF90rUTrGkIdpYKJKZhhMaL4Gb8sbkk-DaAxBzGzPSjrwoQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf6S78oQ8B3YPGSVrC5RE2MgD1JusQLQbdgcW9dnR2yjBvBR1mif3-bvUSCmLOrIyFBGdS48xvR2loAR0sKL27CEUWMr2JSaOplFIlXYVHlm5r5nh9v9t565ucufMs-6STHiVYJ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfoXksSzN0ZIEOQ6Ud5SjXK_UQ_kUWgL1Z9nYDaNnePFVmNMXZ5CTXk4cABhmPAu-2DIPA1TKds7llVtrEWWqv1XPvok-CXuVlFjCxxD1JvYrkulP5XBKHfqH_viRhPU4_MgvEUtA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdbB5AgU4j8M69p0jrBa6p7dGX9TXMYiZrt9_51IHeMyflqzK_brLOT5HY6uxqXsKlmH2ZXVjwNyKyJRTfeU7l1d5wYZkgpewBwzmy7XK3NgFAFNjNVZ1jg-wiK0vLgIzWzJSAI=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKc016bDBnRRAB",
+      "user": {
+        "name": "VIKASH KUMAR Roy",
+        "link": "https://www.google.com/maps/contrib/109624080037346549985?hl=en",
+        "contributor_id": "109624080037346549985",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUDuDJMLIsLTlsfg-_IRLRvUhwzEGK-zp2WXrmpmBc1u_IK2g4=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 256,
+        "photos": 1152
+      },
+      "snippet": "NH7 Refuel - this is the most popular hotel /dhaba for the road runners who are going towards Airport, Nandi Hills and Adiyogi . People often take a lunch/breakfast/dinner break here and prefer this place.\nThis restaurant offers a wide variety of food items starting from Chinese to kebab and Punjabi dishes. Roti, daal makhani, makke ki roti sarso da saag, Patiala Lassi, Chicken Mutton everything.\nFood were fantastic to taste with less oil as well. The sitting arrangement is good and comfortable and has good inside and outside ambiences as rooftop view.\nStaff behaviour is awesome and very attentive. The washroom facility is good. The place is well decorated and itself worth visiting. This place has plenty of parking and food securitym.\n\nOverall highly recommended.",
+      "extracted_snippet": {
+        "original": "NH7 Refuel - this is the most popular hotel /dhaba for the road runners who are going towards Airport, Nandi Hills and Adiyogi . People often take a lunch/breakfast/dinner break here and prefer this place.\nThis restaurant offers a wide variety of food items starting from Chinese to kebab and Punjabi dishes. Roti, daal makhani, makke ki roti sarso da saag, Patiala Lassi, Chicken Mutton everything.\nFood were fantastic to taste with less oil as well. The sitting arrangement is good and comfortable and has good inside and outside ambiences as rooftop view.\nStaff behaviour is awesome and very attentive. The washroom facility is good. The place is well decorated and itself worth visiting. This place has plenty of parking and food securitym.\n\nOverall highly recommended."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,200–1,400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "vegetarian_options": "Lot of vegetarians dishes are available with great taste",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "They have lot of parking area beside and front side..",
+        "kid_friendliness": "Kids friemdly and they have kept few games as well to play while order is in progress"
+      },
+      "likes": 2
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMycnR2SWZ3EAE!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIC2rtvIfw%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "4 years ago",
+      "iso_date": "2022-04-21T07:31:05Z",
+      "iso_date_of_last_edit": "2022-04-21T07:36:48Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc4arWCAHu9Hq70j53JgOoQt_OQSqrD4awJjGf-MU4LXWgeVxVSxSe8JxvOX10BfV_cJPqHLuB-HZRQdR9xoXm1bU14YkEYzEA0EWb7raXaj3q0eFXr2QQdgdUOBYP93g-7lr6b=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcKSlFZUCaXgXDhP-OiRJasGTcNURzZQ0Znq0S6pTk8q-aN7AAsEe4v9auirO7q-EPzln06a12zxJyHktrHhnUb_g9PgDQzVieJX_1vNaO0YokaDAhCgeakg3c_SlvLLd2xR8M=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf53qCnzaLSc0tTDvjfpgWAxoJkBQm7jiKrxuXN2MZcpzGWYqdomYJz7PdGm7Z66-1A6qQvIyqLe3PYXLInYAceZXXOx-yZqqEvKlzgteU-gQw_laxYdMZSuP51rNSnQoOBFc8e_g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd9L-rf2luqr4yUKIW79gY7iBHTOPbUhlHCMmNMvuZl6tn9spTMxklnhqaBrOLjgOy4wIrOpaNuHiCsy2mBIPUe1a4Km4gFwD-ep8ekiViy3SSzlkav7TMGEswEDc_8TMjiDB_Y=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycnR2SWZ3EAE",
+      "user": {
+        "name": "Dinakar Raj",
+        "link": "https://www.google.com/maps/contrib/106338561635879244414?hl=en",
+        "contributor_id": "106338561635879244414",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWprtHyLAAUj5GdMxL5bSHWWAEgRKTSZlke77VxyYH4tCdmCDL7QQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 734,
+        "photos": 3951
+      },
+      "snippet": "Place looks really impressive from outside because of the design and the lighting .\n\nWe had to wait for more than one hour for a Chicken Fried rice and when it arrived could not find any chicken at all !! For the price of it, it was not worth it !!\nMy friend orderd Chicken Noodles and he complained that he could not find any chicken too  and so  they took it back to add some pieces !!!\n\nAmbience is good and good info and details regarding different NHs..very creative ideas but the service was a big let down!\n\nCan only conclude that this place is basically a glorified Dabba and nothing else. The washroom is just basic and small\n\nHope they improve these issues and  the place will be much more popular.",
+      "extracted_snippet": {
+        "original": "Place looks really impressive from outside because of the design and the lighting .\n\nWe had to wait for more than one hour for a Chicken Fried rice and when it arrived could not find any chicken at all !! For the price of it, it was not worth it !!\nMy friend orderd Chicken Noodles and he complained that he could not find any chicken too  and so  they took it back to add some pieces !!!\n\nAmbience is good and good info and details regarding different NHs..very creative ideas but the service was a big let down!\n\nCan only conclude that this place is basically a glorified Dabba and nothing else. The washroom is just basic and small\n\nHope they improve these issues and  the place will be much more popular."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM2LVBIdml3RRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIC6-PHviwE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "5 years ago",
+      "iso_date": "2021-08-30T15:57:32Z",
+      "iso_date_of_last_edit": "2021-08-30T15:57:32Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2LVBIdml3RRAB",
+      "user": {
+        "name": "Debarati Dasgupta",
+        "link": "https://www.google.com/maps/contrib/103845812712766487265?hl=en",
+        "contributor_id": "103845812712766487265",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUX2VNtfgJYaDzMBbW8AL9LRfGgo8DBxmE6VVFBCnaMrAcn7lt0pQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 90,
+        "photos": 1839
+      },
+      "snippet": "Beautiful space. Clean washroom. Good service.  But food was disappointing. Spices tasted raw in tandoori chicken. How wrong can one get with jeera aloo. One of the potatoes was uncooked.",
+      "extracted_snippet": {
+        "original": "Beautiful space. Clean washroom. Good service.  But food was disappointing. Spices tasted raw in tandoori chicken. How wrong can one get with jeera aloo. One of the potatoes was uncooked."
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURxMWZIWTZ3RRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDq1fHY6wE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 years ago",
+      "iso_date": "2021-07-14T10:51:56Z",
+      "iso_date_of_last_edit": "2021-07-14T10:51:56Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxMWZIWTZ3RRAB",
+      "user": {
+        "name": "Noorulain Saleem",
+        "link": "https://www.google.com/maps/contrib/116796780138956862852?hl=en",
+        "contributor_id": "116796780138956862852",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU2naNpfWEFLcAwQh6AiWkYPUoJqWJlc2xR4LQMfK6hMRgt7Tl0WA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 21,
+        "photos": 0
+      },
+      "snippet": "We visited NH7 refuel in the first week of July 2021. Firstly the place was not clean and the washroom was not in a useable condition. Secondly, chicken we ordered only half plate was marinated and we were given an option to take a different type of chicken which we did. The quality of the food was bad and the bill was incorrect. We were billed for 2 plates instead of 1. There was no use raising it as the person refused to change the bill. We had to pay extra for the food we did not order and received bad quality food. Not motivated to visit this place again.",
+      "extracted_snippet": {
+        "original": "We visited NH7 refuel in the first week of July 2021. Firstly the place was not clean and the washroom was not in a useable condition. Secondly, chicken we ordered only half plate was marinated and we were given an option to take a different type of chicken which we did. The quality of the food was bad and the bill was incorrect. We were billed for 2 plates instead of 1. There was no use raising it as the person refused to change the bill. We had to pay extra for the food we did not order and received bad quality food. Not motivated to visit this place again."
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5OExlRmtnRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgICy8LeFkgE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 years ago",
+      "iso_date": "2021-01-17T09:24:26Z",
+      "iso_date_of_last_edit": "2021-01-17T09:24:26Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5OExlRmtnRRAB",
+      "user": {
+        "name": "Parul Sharma",
+        "link": "https://www.google.com/maps/contrib/105820144376589948500?hl=en",
+        "contributor_id": "105820144376589948500",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIvXjekvfi15TzZ3qmz-TkPPrnIGzSsTxRimEgfhnk5yDm9cg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 23,
+        "photos": 0
+      },
+      "snippet": "Food was decent. Washroom was dirty and place was ok",
+      "extracted_snippet": {
+        "original": "Food was decent. Washroom was dirty and place was ok"
+      },
+      "likes": 0
+    }
+  ]
+}

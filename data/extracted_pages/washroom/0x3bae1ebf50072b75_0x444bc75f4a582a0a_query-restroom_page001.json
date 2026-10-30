@@ -1,0 +1,134 @@
+{
+  "data_id": "0x3bae1ebf50072b75:0x444bc75f4a582a0a",
+  "page": 1,
+  "review_filter": "query:restroom",
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 2,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 1,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVFNtbzBMVUp1WlVWcmVrcFVaVXB4U2tSbk1VRRAB",
+      "author": "asiya khan",
+      "rating": 5.0,
+      "date": "3 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCOvXHBbAWjCnZY4BrYv1WMIcTww3rriTdSybcWrKaBZEwWBwauWXyfwrieVRjH3J9bzP-BwXFAQQnrslv-qkG2WaIFCzvjWxlTwOBUUAPURoyEdkZwT7UQVgNe9o6OsuD_Q8p0YUfCw=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "author": "CINDY DSILVA",
+      "rating": 4.0,
+      "date": "Edited a year ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebmMPx2OWXSG2cbW8lov6LFUQqnEZNFVavTSXrIKLH_1BX3F3wKDG65qkO2IH3DYsrej1WFfyYcvVrwuBa5ubx0n6z_AlvTt8s0RdBQCbzjzbmsT7tgTXE7e2kBrA-_T3B_9zY=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLespdDRRMEk4xMZZPrJknN_6t6UlZg9POEJ-Bx_N7d_Foza6eqJH2yH5CCPybjCOTWFn-zrcVuc47SFNuswOozNdYYn0d5OOq1VTNGaWD2Y4n-pOou16j0dRGs3dSJeSqLNw1LBuQ=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfh_wYxq7EiNyJQIYuCQEkTNudbhL-l3SzESXyDA4S81cxahgVSZa_cb7r5s_4rhrIF7RpysqojSN507k5Y1L5KHVeMplHcPiGfFhdmuTfN2VKTkWqhprL_0RqdFp16NZMGmm8=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeATxBS7oDqMJeYLiMd4nVrFucPFfWkeiZfyhmfijw3g9vHOKnjieBClrGchOgxJIm9ILf8NoCioNWBKzhHrd8dgI6oudQ4E4OYPcCjSPIE_9xcXTmL7vTaXgN6I5mVjinSMLks=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMLqLlzGFN0yL_hqm2HWKDr6vD4xXUFNlAdRVJ0idZADAp3ebLCSVXoeSFmZAYJXxtkAka3l9Qu8DUQ6pk8sE7phMd-H-SQQUZN4P6iFhSK1K2IO2UQVAElrn3jmcf-1KemaOv=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRMmRT0vD8Zn5sSGPAVGlD2daWPeeRaDLpc_yQxmFA2BeYTKPMFuE17Id1iqkrF5esa_wy1SvmcnV75tuVaYKoBJA4hir2VIQqL6TLHMHCd0dlT18xRC8JIpDkpcO_wWOHWiM=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleFBubUNnEAE",
+      "author": "Abhilash S",
+      "rating": 1.0,
+      "date": "4 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldWVDeDdRRRAB",
+      "author": "Kri. Abhilasha",
+      "rating": 2.0,
+      "date": "4 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyck5mN2FnEAE",
+      "author": "Rajdeep Chowdhury",
+      "rating": 4.0,
+      "date": "4 years ago",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bae19abdd77a72f:0x74f0cec84dee5ccd",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFldrQ8Xbe-SjmI7KmF_C7M_dchq5OGXdTxBgd5EvotsqdnHdTbKjjx-YUP0LWDHjnDu3gL1dnAhAUv08CfFAkUADuY5KXXdt4aHezLPEUu8dRrRFcuxY1ukpKhAP26sjNPubVvg=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbzV5TldnEAE",
+      "image_index": 1
+    },
+    {
+      "position": 2,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtxXjnWyVFQIvdd8bSfIEJriCuloI2kUZVvrO2CKJ88M3LFyy7CNZCgxA1WB5I_Qg9ggbHA4gozUfK8z5mAtdIfUtJfmLPfynZaBDMLfSqqVXWrOKGXFhczblHNvjPm3mhngU=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbzV5TldnEAE",
+      "image_index": 2
+    },
+    {
+      "position": 3,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLsCTYWVTVS-kM-Xgmj0Ravll2477yjoFPWNYfuIaR49hoBWycod7BYQMMIw7N1jU2ycFL77epGoIT7JRHA1UOu3E0yRkr31PLD3Nr2eC97bpbcmdaPPAEbo1XHCzZ94fXyFjP=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbzV5TldnEAE",
+      "image_index": 3
+    },
+    {
+      "position": 4,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoNe437QOPZOUg5SKH1dtKeyflJH6Mby5oLTQE_b6rl8LHZvpIUYOf1uVlE6tNIRhuH13JxafKwaxx1_ZD4z66UfTSD8Pm6Epu55JNwaIoxBkp2ra6hy75PoFaOAEwShSIRyEU=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbzV5TldnEAE",
+      "image_index": 4
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMVJXcExZM1ZHZEdaa01HbHVjVVpKVHpOc1gzYxAB",
+      "author": "Sanjay Singh",
+      "author_url": "https://www.google.com/maps/contrib/108712144375075525265?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 18,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-21T03:37:41Z",
+      "iso_date_of_last_edit": "2025-06-21T03:38:30Z",
+      "text": "Food - These guys serve left over food from previous day? How ridiculous is that? Esp idly and vada\n\nService - cash counter is always empty either the guy is is washing vessels or cleaning bathroom\n\nAtmosphere - Doesn't matter as long as the food sucks , no one will care",
+      "text_original_language": "Food - These guys serve left over food from previous day? How ridiculous is that? Esp idly and vada\n\nService - cash counter is always empty either the guy is is washing vessels or cleaning bathroom\n\nAtmosphere - Doesn't matter as long as the food sucks , no one will care",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pRMVJXcExZM1ZHZEdaa01HbHVjVVpKVHpOc1gzYxAB!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CAIQACodChtycF9oOjQ1RWpLY3VGdGZkMGlucUZJTzNsX3c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbzV5TldnEAE",
+      "author": "Gaurav Nagar",
+      "author_url": "https://www.google.com/maps/contrib/105964710340349479572?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 234,
+      "author_photos_count": 513,
+      "rating": 4.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-18T10:43:19Z",
+      "iso_date_of_last_edit": "2022-06-18T10:46:04Z",
+      "text": "A good place to have food with family & friends far from the city crowd ( at least till now), focused on North Indian food, nice hygienic with clean washroom. Had paav bhaji & Masala Dosa with family 👪 it was fresh & reach in teste.\n\nYou might find it a little expensive but still decent.",
+      "text_original_language": "A good place to have food with family & friends far from the city crowd ( at least till now), focused on North Indian food, nice hygienic with clean washroom. Had paav bhaji & Masala Dosa with family 👪 it was fresh & reach in teste.\n\nYou might find it a little expensive but still decent.",
+      "language": null,
+      "translated": false,
+      "likes": 6,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Brunch",
+        "price_per_person": "₹200–400"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNPbzV5TldnEAE!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CIHM0ogKEICAgICOo5yNWg%7C%7C?hl=en",
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFldrQ8Xbe-SjmI7KmF_C7M_dchq5OGXdTxBgd5EvotsqdnHdTbKjjx-YUP0LWDHjnDu3gL1dnAhAUv08CfFAkUADuY5KXXdt4aHezLPEUu8dRrRFcuxY1ukpKhAP26sjNPubVvg=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtxXjnWyVFQIvdd8bSfIEJriCuloI2kUZVvrO2CKJ88M3LFyy7CNZCgxA1WB5I_Qg9ggbHA4gozUfK8z5mAtdIfUtJfmLPfynZaBDMLfSqqVXWrOKGXFhczblHNvjPm3mhngU=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLsCTYWVTVS-kM-Xgmj0Ravll2477yjoFPWNYfuIaR49hoBWycod7BYQMMIw7N1jU2ycFL77epGoIT7JRHA1UOu3E0yRkr31PLD3Nr2eC97bpbcmdaPPAEbo1XHCzZ94fXyFjP=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoNe437QOPZOUg5SKH1dtKeyflJH6Mby5oLTQE_b6rl8LHZvpIUYOf1uVlE6tNIRhuH13JxafKwaxx1_ZD4z66UfTSD8Pm6Epu55JNwaIoxBkp2ra6hy75PoFaOAEwShSIRyEU=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 2,
+    "reviews_with_images": 1,
+    "review_images_found": 4,
+    "unique_review_image_urls": 4,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 2,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Kanhaji",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": null,
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 2,
+  "reviews_with_images": 1,
+  "images_found": 4,
+  "unique_image_urls": 4,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 1,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "reviews",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": null,
+      "reviews_in_response": 1,
+      "reviews_with_images": 0,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": [
+        "date",
+        "details",
+        "extracted_snippet",
+        "iso_date",
+        "iso_date_of_last_edit",
+        "likes",
+        "link",
+        "position",
+        "rating",
+        "review_id",
+        "snippet",
+        "source",
+        "user"
+      ],
+      "first_review_has_images": false,
+      "first_review_image_count": 0,
+      "first_review_image_entry_types": []
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:43:17",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 1,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:08"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:11"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:14"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 1,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:17"
+    }
+  ],
+  "next_page_token": null
+}

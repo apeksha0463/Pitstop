@@ -1,0 +1,13 @@
+{
+  "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+  "sort_by": "newestFirst",
+  "saved_at": "2026-10-29T10:25:54",
+  "pagination_complete": true,
+  "last_next_page_token": null,
+  "pages": [
+    "data/raw_data/serpapi/0x3bae185a451f1a95_0xbb8f21195855c1f6_page001.json",
+    "data/raw_data/serpapi/0x3bae185a451f1a95_0xbb8f21195855c1f6_page002.json",
+    "data/raw_data/serpapi/0x3bae185a451f1a95_0xbb8f21195855c1f6_page003.json",
+    "data/raw_data/serpapi/0x3bae185a451f1a95_0xbb8f21195855c1f6_page004.json"
+  ]
+}

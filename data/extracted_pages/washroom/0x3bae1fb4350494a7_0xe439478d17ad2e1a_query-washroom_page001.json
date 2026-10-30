@@ -1,0 +1,120 @@
+{
+  "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+  "page": 1,
+  "review_filter": "query:washroom",
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 2,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 1,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1lWSlZSV1Z4VjNONWJWcEZYMjlHVVhKTU4xRRAB",
+      "author": "Vivek Soni",
+      "rating": 1.0,
+      "date": "a month ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfizn5YqSvpNbk11u5Ycky6LZdG1g3ev8RSvCl9VeJ0r2X4zcHAOh_g7VIc8bp_pAdKPtg72k4Uuoe_fpnd7Ysb8XCPxV_Lze5FJF2kNX10joH4GiYqy0QSuqBluJoxWDBNmXGY-iqIkHE=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB",
+      "author": "Nikita Sinha",
+      "rating": 3.0,
+      "date": "3 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevvymvUlCNlnjbUpIk7IHO2YN6KpTgIXP-YUn2vv_LA62xSVWkDPxMFK-yvm-sj5YZ6C97qES8QucZJbgDQxfxTrzXK9ECTdS-bsnouPTWQ4rJEOtLZzWHb-IkYJIgq1ZSZcicSvwD8lY=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJCq-EmZwV4zxi3BELe3k5pgz-WGOp9v30w17tBalvXApWuV4Hy3IXqhmtVdJFJ1eAX9FmA32Srd1PZncLKuFFyW6krYF2NOrxLQ2VljAh-2Mjo4oJR2LFNRrNyYkxcv01PKyifnhwUaNU=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTafA2vwCKi1Xiq2McLV6bH3nRjc2cwljRMM1BklJanSWTs3_TnS4AvO6BlRtEL44EYD-fWq6wzNidE5VmZKm3aux12OkujDn1azy92-7Jnxc71HwUIQZeyF-zqGhEU9d4u2VuH36y5R6c=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqIp1_JBZckvNBZLP-bKz0TFKeGlAdg0s2Hxfs3vpdtvURZ6IBZFqQnoE3Pnjfv7wwtY0w5Qgj4TV-ob9yvHZMx4geUAD3S9_k8Ys9binkpXbclFM2fUrasVA-stO_DlVe-PQyGgK61Lwa=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUE9WVk5TVkJ2ZW5SYVRYbFJlRjh4ZUhCU1lYYxAB",
+      "author": "raffath ashreen",
+      "rating": 1.0,
+      "date": "a year ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SlYyVk1VRGRUVkdObmVVSllWMVJOYTJ3MlJGRRAB",
+      "author": "neeraj rao",
+      "rating": 1.0,
+      "date": "a year ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VKUGp1ZFhWbXV5N293RRAB",
+      "author": "vyshak Jayan",
+      "rating": 1.0,
+      "date": "a year ago",
+      "images": []
+    }
+  ]
+}

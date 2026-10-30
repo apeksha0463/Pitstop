@@ -1,0 +1,101 @@
+{
+  "data_id": "0x3bb1e520cfaa728b:0x45550c587033f0ac",
+  "page": 1,
+  "review_filter": "query:restroom",
+  "has_next_page": false,
+  "reviews_on_page": 8,
+  "new_reviews": 8,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 8,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREaHVqUnRBRRAB",
+      "author": "Dr Siddhartha Roy",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaeFptNlNnEAE",
+      "author": "Gayathri Kumar",
+      "rating": 4.0,
+      "date": "Edited 3 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4MTlYTmR3EAE",
+      "author": "Malathi Seshasayee",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCLXRUa1BREAE",
+      "author": "chetan salian",
+      "rating": 5.0,
+      "date": "Edited 3 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzX0pEbzZnRRAB",
+      "author": "Jagannathan Srinivasamurthy",
+      "rating": 3.0,
+      "date": "6 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzeWFqZUR3EAE",
+      "author": "md. rizwan",
+      "rating": 3.0,
+      "date": "6 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwcU15Z3pBRRAB",
+      "author": "Shakeer S",
+      "rating": 3.0,
+      "date": "7 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVbExXVHpBRRAB",
+      "author": "vishesh Kumar",
+      "rating": 4.0,
+      "date": "7 years ago",
+      "images": []
+    }
+  ]
+}

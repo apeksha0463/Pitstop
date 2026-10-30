@@ -1,0 +1,190 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3BuDznNqHwlJCCEkC4FGnFwDkH0BVVzrfLOGt2B7aoKTadj-C8GhwTgv6AVIrq2utqzywGMQ3Y1Ky37qQi2YPwyYTRCRdYts1grAKhRUJ6j_fTRUED0vwRuqrOcZMizgEMmwdd-zBCe0=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Bd1MySlBVVTVuTkVwaE9ETnZXR0psYjJRMGFWRRAB",
+      "image_index": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Bd1MySlBVVTVuTkVwaE9ETnZXR0psYjJRMGFWRRAB",
+      "author": "Chanchal Singh",
+      "author_url": "https://www.google.com/maps/contrib/101244311218976783079?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 243,
+      "author_photos_count": 63,
+      "rating": 3.0,
+      "date": "Edited 9 months ago",
+      "iso_date": "2026-01-10T18:25:07Z",
+      "iso_date_of_last_edit": "2026-01-15T02:18:36Z",
+      "text": "I will be honest here. Its a NO for me.\nI went to to this place seeing so many stars on Google review for this place. But I have to say I was disappointed.\nSitting there I started reading reviews in detail and realized it has got mixed reviews.\nTalking about Ambience, it is not so good as it looks in the pictures. This place needs maintenance now, it's dirty, washroom is bad etc.\n\nFood was ok, nothing so great or nice about it. It was just fine.  Food serving time was average. But they brought starter and main course together.\n\nThe moment they served us the paneer Nilgiris loaded with artificial green color (photo attached), I understood what we gona get.\nI felt Chicken was not so freash.\nFor me it's a NO for the next time.",
+      "text_original_language": "I will be honest here. Its a NO for me.\nI went to to this place seeing so many stars on Google review for this place. But I have to say I was disappointed.\nSitting there I started reading reviews in detail and realized it has got mixed reviews.\nTalking about Ambience, it is not so good as it looks in the pictures. This place needs maintenance now, it's dirty, washroom is bad etc.\n\nFood was ok, nothing so great or nice about it. It was just fine.  Food serving time was average. But they brought starter and main course together.\n\nThe moment they served us the paneer Nilgiris loaded with artificial green color (photo attached), I understood what we gona get.\nI felt Chicken was not so freash.\nFor me it's a NO for the next time.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,000–1,200",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 3,
+        "noise_level": "Quiet, easy to talk",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Bd1MySlBVVTVuTkVwaE9ETnZXR0psYjJRMGFWRRAB!2m1!1s0x0:0x37d618e0212c1fde!3m1!1s2@1:CAIQACodChtycF9oOnAwS2JPUU5nNEphODNvWGJlb2Q0aVE%7C%7C?hl=en",
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3BuDznNqHwlJCCEkC4FGnFwDkH0BVVzrfLOGt2B7aoKTadj-C8GhwTgv6AVIrq2utqzywGMQ3Y1Ky37qQi2YPwyYTRCRdYts1grAKhRUJ6j_fTRUED0vwRuqrOcZMizgEMmwdd-zBCe0=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 1,
+    "reviews_with_images": 1,
+    "review_images_found": 1,
+    "unique_review_image_urls": 1,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 1,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Kings Family Restaurant",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": "No reviews",
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 1,
+  "reviews_with_images": 1,
+  "images_found": 1,
+  "unique_image_urls": 1,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 1,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed_with_no_reviews",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "search_information",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": "No reviews",
+      "reviews_in_response": 0,
+      "reviews_with_images": 0,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": null,
+      "first_review_has_images": false,
+      "first_review_image_count": null,
+      "first_review_image_entry_types": null
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:50:50",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 1,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:50:41"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:50:44"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:50:46"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:50:50"
+    }
+  ],
+  "next_page_token": null
+}

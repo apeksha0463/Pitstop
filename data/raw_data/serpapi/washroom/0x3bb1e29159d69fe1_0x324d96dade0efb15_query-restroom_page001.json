@@ -1,0 +1,193 @@
+{
+  "search_metadata": {
+    "id": "6ae30fab00a7fb265c9b3706",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2gny6Gr47KiyqIiqGVRi37A3_lnyrRCFo25Cp6pil8A/6ae30fab00a7fb265c9b3706.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2gny6Gr47KiyqIiqGVRi37A3_lnyrRCFo25Cp6pil8A/6ae30fab00a7fb265c9b3706.md",
+    "created_at": "2026-10-29 09:19:39 UTC",
+    "processed_at": "2026-10-29 09:19:39 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e29159d69fe1:0x324d96dade0efb15!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/2gny6Gr47KiyqIiqGVRi37A3_lnyrRCFo25Cp6pil8A/6ae30fab00a7fb265c9b3706.html",
+    "prettify_html_file": "https://serpapi.com/searches/2gny6Gr47KiyqIiqGVRi37A3_lnyrRCFo25Cp6pil8A/6ae30fab00a7fb265c9b3706.prettify",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e29159d69fe1:0x324d96dade0efb15",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGS1NraE5RMDVuWnpONmJXMTJiall0VVZKdWNHYxAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CAIQACodChtycF9oOkFKSkhNQ05nZzN6bW12bjYtUVJucGc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-14T17:54:13Z",
+      "iso_date_of_last_edit": "2026-07-14T17:54:13Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeoJRoChj99gkzUNnF1v_RMW_mGA37KcR-lWR7At59gADuRYhLz1J8hIz495qlLjWrmpnH1V1we8uGUAuJF3fetDBAeQqjUk1aAqjKkrAXPMcLNatAsj-RqJWxc5A4WUQqiHf978QTalM9A=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc0n2Cxq2gBsc70S2y5R8UbeSlzm9eCWUGPWp3lO0O0XbPEk9ifFnQCdY0LU7-uxc7yS6QKrl4kyo1YxkUK4B2EJgFbl_HtADl7evpqG0TVGb3wpE3L5UHd8CCrAfvrkD7-GtguG_pSlbeo=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcWGXDs01hu-ZSIwCeTvsdDbm42IpvYi2IFr_8ASGSQ1dBbSSgb7_tacR1F0REhRTDBrLTr6IeO9xPV7x1rJ6fplqDYKHdTxyhLX24YxvnvA6ocZEjjnkweYp9iyzc4A_5N05iqe8mpW9c=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd9Cr0p0-sWt2deGtxUhvDIzLWV9Kd8qY0EdeaYOKj5QOdT1oUa8Ua6f5tSUbst5KpQHOz5dFsQBGg_wJF6Q7T989NbpHgA_RcKkXZYJqaI1RKV5a0IjXsT9RPoPbrvOQqQiBGd7uCqO_g=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGS1NraE5RMDVuWnpONmJXMTJiall0VVZKdWNHYxAB",
+      "user": {
+        "name": "Dr.Chaithanya H K",
+        "link": "https://www.google.com/maps/contrib/118267162484775945445?hl=en",
+        "contributor_id": "118267162484775945445",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXukPPiOQAYg0S59lNJo8L4SSVE7DVY38bGgbxwYu0TyOeKCnIMwA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 124,
+        "photos": 689
+      },
+      "snippet": "One spot where we doesn't miss at Friday nighout to airport bck home.\nTheir parathas are really good and tempting. They serve wide types of parathas, freshly made and served hot with butter, curd and achar.\n\nAll time favorites is paneer paratha.\nThe service is good. But price is quite high, but due to highway it's more.\nThe chaas is also very good and is done according to our needs.\n\nChilling outdoor is best experience at night is really good with ur frnds and family. They do have a restroom, quite neatly maintained.",
+      "extracted_snippet": {
+        "original": "One spot where we doesn't miss at Friday nighout to airport bck home.\nTheir parathas are really good and tempting. They serve wide types of parathas, freshly made and served hot with butter, curd and achar.\n\nAll time favorites is paneer paratha.\nThe service is good. But price is quite high, but due to highway it's more.\nThe chaas is also very good and is done according to our needs.\n\nChilling outdoor is best experience at night is really good with ur frnds and family. They do have a restroom, quite neatly maintained."
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹200–400",
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 months ago",
+        "iso_date": "2026-07-21T13:38:24Z",
+        "iso_date_of_last_edit": "2026-07-21T13:39:24Z",
+        "snippet": "Dr.Chaithanya, thanks for making NH7 Refuel a part of your Friday night outs, glad you enjoy our paneer paratha.",
+        "extracted_snippet": {
+          "original": "Dr.Chaithanya, thanks for making NH7 Refuel a part of your Friday night outs, glad you enjoy our paneer paratha."
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR0N3I2cGxRRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDt7r6plQE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 years ago",
+      "iso_date": "2024-02-04T17:10:46Z",
+      "iso_date_of_last_edit": "2024-02-04T17:10:46Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0N3I2cGxRRRAB",
+      "user": {
+        "name": "Abhiraaj Ray",
+        "link": "https://www.google.com/maps/contrib/101449275709720109214?hl=en",
+        "contributor_id": "101449275709720109214",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI8198en1B-8SlU_ZSFonZEbFMZpx1pceyhhY9Mz72eNrFBHQ=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "This is the worst restaurant anyone could ever be in ,trust me the tables were sticky and gooey the chairs were all torn up the restroom was in a very very bad condition.I can’t say anything about the food it just sucked the Kadhai panner was tasteless and very sweet .I recommend you to not try this restaurant at all",
+      "extracted_snippet": {
+        "original": "This is the worst restaurant anyone could ever be in ,trust me the tables were sticky and gooey the chairs were all torn up the restroom was in a very very bad condition.I can’t say anything about the food it just sucked the Kadhai panner was tasteless and very sweet .I recommend you to not try this restaurant at all"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,400–1,600",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxc2NyYm13RRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIC1scrbmwE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 years ago",
+      "iso_date": "2023-12-31T16:42:43Z",
+      "iso_date_of_last_edit": "2023-12-31T16:46:55Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxc2NyYm13RRAB",
+      "user": {
+        "name": "Priti Singh",
+        "link": "https://www.google.com/maps/contrib/108060025064875570426?hl=en",
+        "contributor_id": "108060025064875570426",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWPH9mulO4raGw52mSLF761UBIVSq2mmOhq018XXkM8SE8v59Z9Gw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 86,
+        "photos": 263
+      },
+      "snippet": "The place is good and the ambiance is also pretty. Roof top option and open space option is there as well. Coming to the food the taste was okay and nice but the worst was the restroom it was not at all clean. If you have such a good place and big at least keep the restroom clean. Too bad for that I have rated the atmosphere 2 stars.",
+      "extracted_snippet": {
+        "original": "The place is good and the ambiance is also pretty. Roof top option and open space option is there as well. Coming to the food the taste was okay and nice but the worst was the restroom it was not at all clean. If you have such a good place and big at least keep the restroom clean. Too bad for that I have rated the atmosphere 2 stars."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹400–600",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 2
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-01-27T17:12:37Z",
+        "iso_date_of_last_edit": "2024-01-27T17:12:37Z",
+        "snippet": "We're truly sorry for the unpleasant experience you had. Your feedback is invaluable to us, and we want to assure you that we're taking this seriously. We'll be looking into the matter promptly and addressing the concerns you've raised. Quality and customer satisfaction are our top priorities, and we appreciate your understanding as we work to resolve this issue. Thank you for bringing this to our attention.",
+        "extracted_snippet": {
+          "original": "We're truly sorry for the unpleasant experience you had. Your feedback is invaluable to us, and we want to assure you that we're taking this seriously. We'll be looking into the matter promptly and addressing the concerns you've raised. Quality and customer satisfaction are our top priorities, and we appreciate your understanding as we work to resolve this issue. Thank you for bringing this to our attention."
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2eUxidTJRRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgID6yLbu2QE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 years ago",
+      "iso_date": "2021-09-19T09:24:31Z",
+      "iso_date_of_last_edit": "2021-09-19T09:24:31Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2eUxidTJRRRAB",
+      "user": {
+        "name": "Ansh Paliwal",
+        "link": "https://www.google.com/maps/contrib/107396398359066455600?hl=en",
+        "contributor_id": "107396398359066455600",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUt1snjkzneCZutzz51FSx5U04x-F0kruF2Dm4a5mJChS97yCN7BA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 42,
+        "photos": 81
+      },
+      "snippet": "A place with good ambience and location, this place has a good range of north indian food with enough parking and seats. Garlic naan is a must, I tried it today and I'm definitely going to order it again the next time. The reason I cut a star is due to slow serving time.\nSafety precautions were okay, the male restroom was clean enough. This place is worth a visit and I'd give 3.5 stars",
+      "extracted_snippet": {
+        "original": "A place with good ambience and location, this place has a good range of north indian food with enough parking and seats. Garlic naan is a must, I tried it today and I'm definitely going to order it again the next time. The reason I cut a star is due to slow serving time.\nSafety precautions were okay, the male restroom was clean enough. This place is worth a visit and I'd give 3.5 stars"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhc3JXc1JREAE!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgICasrWsRQ%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 years ago",
+      "iso_date": "2021-07-27T17:58:34Z",
+      "iso_date_of_last_edit": "2021-07-27T17:59:34Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhc3JXc1JREAE",
+      "user": {
+        "name": "Thirumala Raju (STR)",
+        "link": "https://www.google.com/maps/contrib/101351760686731720513?hl=en",
+        "contributor_id": "101351760686731720513",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV7cH28MLGOZaMVx0GFBpUKrsEY2zhV4Siq1qSf4-wxwaz33drW=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 6
+      },
+      "snippet": "Experience very bad.\nDirty restroom\nSpoiled chicken food items",
+      "extracted_snippet": {
+        "original": "Experience very bad.\nDirty restroom\nSpoiled chicken food items"
+      },
+      "likes": 0
+    }
+  ]
+}

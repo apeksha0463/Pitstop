@@ -1,0 +1,286 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bae196f3efabe1d:0x787bbf94a8ef0dde",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf45-61-qd7g4Q8zI0zGR3Uk3HtQOQrT0pl7cSY6QVOaPit-QS9Edpzzzz6wLziKWyIi1MU4c9suV0iN_RWoX6RGAh3AYYuQS_3OEsst0cFYlPtklyFU4f-sPCbR67RH3E4GGaS=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwd3FDaml3RRAB",
+      "image_index": 1
+    },
+    {
+      "position": 2,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSW8Ac9ptr9bOE5-GjmK4ukUeSXd7gi7KQuRw_r9ZjDylHAdf-x4Q0XnYOXefqWJR1BdGA0eacbu4P5NbGQSf90T0ih8q1hzQd7991pRgR_5ZxUvHR4Ek0a29-VJkxEXos33eygA=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwd3FDaml3RRAB",
+      "image_index": 2
+    },
+    {
+      "position": 3,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-w-TnuAhw0sz7ImH4pp7dLJ1fBpfgn-6ddQqpqisEpTj6xTvxPF38-1RdYV9iyGrTG3vKQxc2Wmq3vPeRKtvD674dYfnhR80CDC5lmUUjNw3UMvhBgNISJJEWyfIf7-uMGo9k=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwd3FDaml3RRAB",
+      "image_index": 3
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUN5anJFeRAB",
+      "author": "Abhishek Dhar",
+      "author_url": "https://www.google.com/maps/contrib/113581918379725338872?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 4.0,
+      "date": "5 years ago",
+      "iso_date": "2021-01-30T08:34:20Z",
+      "iso_date_of_last_edit": "2021-01-30T08:34:20Z",
+      "text": "The food was very good ... especially dosas and pooris. However, the bathroom was not clean.",
+      "text_original_language": "The food was very good ... especially dosas and pooris. However, the bathroom was not clean.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSUN5anJFeRAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CIHM0ogKEICAgICyjrEy%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwd3FDaml3RRAB",
+      "author": "Dream Destination",
+      "author_url": "https://www.google.com/maps/contrib/112730634634160606183?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 408,
+      "author_photos_count": 1469,
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-08-18T14:02:33Z",
+      "iso_date_of_last_edit": "2023-08-18T14:03:25Z",
+      "text": "Veg food great,service good,clean, washroom clean.evening time full of people. Prices affordable.",
+      "text_original_language": "Veg food great,service good,clean, washroom clean.evening time full of people. Prices affordable.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "recommended_dishes": "Masala Dosa",
+        "wheelchair_accessibility": "Wheelchair not possible"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwd3FDaml3RRAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CIHM0ogKEICAgIDpwqCjiwE%7C%7C?hl=en",
+      "images_count": 3,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf45-61-qd7g4Q8zI0zGR3Uk3HtQOQrT0pl7cSY6QVOaPit-QS9Edpzzzz6wLziKWyIi1MU4c9suV0iN_RWoX6RGAh3AYYuQS_3OEsst0cFYlPtklyFU4f-sPCbR67RH3E4GGaS=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSW8Ac9ptr9bOE5-GjmK4ukUeSXd7gi7KQuRw_r9ZjDylHAdf-x4Q0XnYOXefqWJR1BdGA0eacbu4P5NbGQSf90T0ih8q1hzQd7991pRgR_5ZxUvHR4Ek0a29-VJkxEXos33eygA=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-w-TnuAhw0sz7ImH4pp7dLJ1fBpfgn-6ddQqpqisEpTj6xTvxPF38-1RdYV9iyGrTG3vKQxc2Wmq3vPeRKtvD674dYfnhR80CDC5lmUUjNw3UMvhBgNISJJEWyfIf7-uMGo9k=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDaU02RVBBEAE",
+      "author": "GANESH mahar",
+      "author_url": "https://www.google.com/maps/contrib/116617470272254112517?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": 2,
+      "rating": 2.0,
+      "date": "6 years ago",
+      "iso_date": "2020-09-12T15:26:37Z",
+      "iso_date_of_last_edit": "2020-09-12T15:26:37Z",
+      "text": "Restaurant is ok due, variety and good taste.\nHowever hygiene regarding washroom etc r low,needs much more improvement.\nMany customers visit.\nGood service",
+      "text_original_language": "Restaurant is ok due, variety and good taste.\nHowever hygiene regarding washroom etc r low,needs much more improvement.\nMany customers visit.\nGood service",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURDaU02RVBBEAE!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CIHM0ogKEICAgIDCiM6EPA%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 3,
+    "reviews_with_images": 1,
+    "review_images_found": 3,
+    "unique_review_image_urls": 3,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 3,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Panchami Garden",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": null,
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 3,
+  "reviews_with_images": 1,
+  "images_found": 3,
+  "unique_image_urls": 3,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 2,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "reviews",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": null,
+      "reviews_in_response": 1,
+      "reviews_with_images": 0,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": [
+        "date",
+        "extracted_snippet",
+        "iso_date",
+        "iso_date_of_last_edit",
+        "likes",
+        "link",
+        "position",
+        "rating",
+        "review_id",
+        "snippet",
+        "source",
+        "user"
+      ],
+      "first_review_has_images": false,
+      "first_review_image_count": 0,
+      "first_review_image_entry_types": []
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:44:03",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 2,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:55"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:57"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:44:00"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 1,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:44:03"
+    }
+  ],
+  "next_page_token": null
+}

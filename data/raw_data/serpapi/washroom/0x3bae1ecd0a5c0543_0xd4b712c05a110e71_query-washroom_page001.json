@@ -1,0 +1,725 @@
+{
+  "search_metadata": {
+    "id": "6ae30e692bcc248ba8839fb0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1pWnSzTid4k4dkuzscOEey7_qekcGbYsmLpRINVcBzg/6ae30e692bcc248ba8839fb0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/1pWnSzTid4k4dkuzscOEey7_qekcGbYsmLpRINVcBzg/6ae30e692bcc248ba8839fb0.md",
+    "created_at": "2026-10-29 09:14:17 UTC",
+    "processed_at": "2026-10-29 09:14:17 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1ecd0a5c0543:0xd4b712c05a110e71!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/1pWnSzTid4k4dkuzscOEey7_qekcGbYsmLpRINVcBzg/6ae30e692bcc248ba8839fb0.html",
+    "prettify_html_file": "https://serpapi.com/searches/1pWnSzTid4k4dkuzscOEey7_qekcGbYsmLpRINVcBzg/6ae30e692bcc248ba8839fb0.prettify",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1ecd0a5c0543:0xd4b712c05a110e71",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3NHBtd2VBEAE!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgIC74pmweA%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited 3 months ago",
+      "iso_date": "2024-08-14T05:46:45Z",
+      "iso_date_of_last_edit": "2026-07-12T13:13:18Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLzK0jpJ8pQi0YB_eXVz0Vo6fO0HIWcnhOpdW91AjJOXg7pDZUt4sqrQcOLX-9GvTINj8303zMvBEXxMPgptryxApxdL3zFM9HduY3i021OLBQ0e7lGkQN15O9ZkuukZJvtoJdmA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe4rVfjivVzq_Pl9aWnyHNP3FhQLGlNzlfFE8RXk8IRw_kCe9CpwOvD7c_4cBSwEfayZvEcQQpTUmJwhDaFczCHxrxizzJRvVR2NxZmgBE9wdz32iGAPfaN3WbIoV9jOoPeEfTL=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfg-gJCC-4JDogFWpNxZJDd14B1vfD64iZPiE2LaVBPJdf8yL7rFJy2I1-7_sPEs8VgsXNckuMDFRZHlhBDGsI4_9CxgMg6WLADcepiLZdi-uhQDd0ICZDeW_6FF09OB7nsoUCVjA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf5JQpSCnZqyzDORFwxy12LboXWYnSb5W1dvYLUibBOOwzPHVe3Hw_dPNdrtoJ75vul9wBw6713Bkmen5Jo_s-LgovII2DEa0kbvb-MPLOhMRx0KTajZmdbTZ6uicoVfjzLB-A=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLp6lResuKU4x_ZGW1cH4DLOwKknzl97kdAXMF_FrkZtUAf-m4BvkgMjz5sT-ZZEepvT2hpVCct_Zc6FR2Fti4mQOhOb-kG5diIp_L8m6I_pgZsMb2RTHn3_897VmZoHivTwSvyA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe6Aq-9zx5yUSVATxHu_ZrjuC6CXkqPSDAXa6BhvZ8G_1VxHr_ilNH5Eu8qRo0WXywzFFhHTX3s9AM6Vwqh4uNY9gPuqLVugEEMJ67jOG3aFzJdNq7s7PZt6uGlfUCcuCaGfFY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcGAQdnycuGmCwr9S1XJ6kZ6LNAhc4szuBxhnqUcPSQrpvUGOHPligloXGT6HcaVX_Y6f_4yvtnd3J6IW9pIdGMuHOlIeFGmfSUPfrkCF9albV3HQ4KCjQGk5N8sFViYPA-ye6oFCB4dBZv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcWY1hwv82Y0NRlkFYramyacA0MPWdLlxBwZ3Z73_97HQ-C71EBmYQlXMTCUSf_XBra47GuDqtzjMdtTbafaf5jyKvwNULkOW3_9-hSAnkb375htFxwwZM46RGDbg9PDx8U7cLlBI-QPm9i=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLerfaxCBH22_9nylrkw4ZCwCiX9ovOic6VAQKnavZrdyEFrllyuRvPdB39YdpV6jOqbn-ERMiHjE6rEDtzWxcCT_yBR6sH8uxrcwfeCVZ8PrgirxdwbXHujXkZCMbSTe5NxKw5pb74UBnQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf2nuggKHglVovbWl5DQ17QucoHauFULBwzmbSXXp_ztv85iO36sJXBh0Tbbit7HJCvQg1abFfAUS6yOiPzZUhmfkU7NsAB7Z-ncsSXqJYVLwYdN_ewYAy_Z3fb3r3VpaBGcYoV4B8aKmA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcWVLbiAVF4R0mPUZhOJa8b9088gho2oCiW8Zx5KuFY5PAbkbD6YIG_3LxVxMmxSCiJbUOFgbULRmipVfTnMun2tR00kGLjCtha2ysEiCTr8DL65k_Tkpm5TQsPx80nULVpeBME638p65Y=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdd7nLbySByoxbBHapG-liUdBdCiTftxm7TiNuyR6NJchOiSyX6iFhI8KXFof_Vu7TIPwq8FGVDT-mNpEmAFPxwiaQrgNdVVgXXnkelmCYHIDTjNiqajJ2orjrGJS5XnjyBGm8HUu_b-LS2=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe0Jt_HyUauP4Y7vQ3t1bj172heXd5pw2DVX4Nb-3QLtcehgV1v-E97EHnCsIADgwuc35dqPO9zEls10CydjG1lgH3Uep7bihfIdeRwIhGGKCvG-YyJmHGuuVsQ8nV2n30goN_RvWQRHs8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLflfPd69NXexwxm-sy0uMl2HTqLB3qqmZJUSPIhCiw2olGOxvH9xkaH5riSzJXwglCkDRvhNqNwIXhtMmNAgTMuAYPr4zwtw77hF3kY4ZKi5mlH2RxnnVmbjSKKRChPK105hDpnz8gSK14=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLezTaQ8AnLjFd9gfPGgLPnNLF67uQbuHpPtknsBubr8FCic9otnOD8y11D-M20_t_mHk2jcZ1R0ZmR1U25J1824IjCCWira-Vsd2zfMB3RcoBBJ4aSH6OFiK2Il7ui6QButbCESchL7JhOT=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcHDLn-RwsI2Uv9Z3PBApfq9XBmg89kC4hZNQOFpYWf-nuHnmeR0Dm4JRrp5ASExJxzB3JaT9_YzEpKWZ5r6R9IQq8heyYBe4NWSenBSVDn3QJyFyGpbaJUsp5pl_n7KrRJ1deBwAWQTds=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdEmJq-VbCYRHHo54nHU1chHTKK2fDkggRAzT_zkRCumuOZzCyGN5mYF2lzMqViAK-Ynsz14cgnw29QzlTuLhcBSc4ClxaQ9Xc9S5cfRFIlLzYrtjAJyIILfnkcZyoBEpOdSi3Tr5s5Dwxl=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcqA-pXa79lKaIwQD591L7fHJlxBWLKb9EY46Ltspm-a8vgRmUmuNBpgsr-OuJ65-5Y9OOvUzNOElGfGlTGAb_PwqW8mBfZEFmFkSSREWhsEGHe6-IHKzGP_I2JMJP8I5t21hltGg2GV_Tx=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcSUTDCOR7go65cvHBTY6ki44BuDR-W58A2sl8PZfK_LmwsTaqnC05F2JF_Js3JP69AjUN699OfEQCQk0KlS_hqKoiTl0H4YsvzYp7TMy54JyfbvE5gHnyQglHHx-tBJUXsPtxozEzeVbA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcP23RYXnDFKbEOG8-ZzWDVmICDakd2xUqAi-WpZ6BloIjNv8vxc4NVGvhNWUszBtm2bbG4OmlpeUDJQSHNY47fRUB5eoL6d3yRNxPVu4KyiCeztsiXNj6kQxc6tYK-dlSD4U0XSlS3Hm3y=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc8BRxEZ7mnaxkssqDyOydpNxLUA35Qr00hlSmHQ7WCpdjZ7YfMkaRe0eqdghUulz4qyOjVkEFXKx5eHzUym74ECQ6EOrsN_JdzOBdRonfUlc92ZhA3WkXfQ-XZ9r4gRdnSxoMlakw5ZIxd=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdg_Zl7TkvkfXAUVY8wsmrgTGyNxZEANE-pwYEpFmNontaHJDRByWk9YPER42rdYil9ame7ig9MDeRZpOJA3RNVVlnNrBpl1MO0jTi8fgDiYrze3ftZFqilTGTf171soa9w1Dx1kTNqxYM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcjqG0kPIosRMDqbxyXyja9kbfHSnQQomEMXoEaEROAgnC5e4DCsHjkCobF8bGUkSWNP48hVO4bJ-HfZ8MMYDb4y4Sq-eDVcRiYGJ_1Fz7rZrPzwx-OY53s2BXputoSSTF3dRMYpJxeY1w=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe0nm9WnR0cuvZxCkVW7VldTt3ZujWiZ8QFw_ieHPjgceuRtrM7UhCvrZSf6ncBrUeD1uKxVdbnEhMnzRNHfPGKp2_8l46XkMYsYpnfJeBWjnJm9kjwbjUdSms3svT6v5v_TRSsJvCe8QHx=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3NHBtd2VBEAE",
+      "user": {
+        "name": "Rinaldi James",
+        "link": "https://www.google.com/maps/contrib/117927705302766568301?hl=en",
+        "contributor_id": "117927705302766568301",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXkkAHVCWQdTRkbCVvTD48GFARXhzuSMcGH4h-wRedd2ckYkBOr=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 120,
+        "photos": 2044
+      },
+      "snippet": "This location has improved quite a bit since my last visit many years ago. It is a little more pricey than restaurants within Bangalore but not unaffordable. If you do drive to Bangalore from the airport or from anywhere beyond the Airport's Toll Gate. Do consider stopping here.\n\nDishes:\n1. Vada - 4.5 star. Good portion size and tastes as good as they look.\n2. Dosa - 4 star. Not as good as the ones you'd get at Taaza Thindi or Arogya Ahaara, just to name a few. The potato filling inside is also a little bland.\n3. Coffee - 5 star. You can sort of customize how much sugar and coffee you want by requesting them to do so at the coffee counter.\n4. Packaged food and sweets: 5 star. .They've got a very wide range of sweets and packaged food, which is already a plus. The video of their factory and hygiene standards on YouTube assures you're not buying something poorly made. Almost on par with Haldirams (haldirams being slightly better).\n5. Dinner choices in the first floor were not that great and cost higher than average prices. They were just OK enough.\n6. The room (think it was called deluxe and was room no. 1) was not that good. While the price seemed alright and the room was quite spacious, there were food stains on the bedsheets, the floor had dirt, the bathroom and room in general was very outdated. It did include a mini tiffin breakfast which was kind of worth it.\n7. Similar situation with the restaurant as well. There's some smell you get from frequently used cleaning cloths. The washroom needs big improvement.\n8. Parking is still a minor concern during rush hour though there's enough now that the adjacent land (previously Lamborghini service centre) has opened up and there's some more parking under the metro bridge.\n9. Reachability and location is quite good for those arriving or departing from/to the airport.\n\nOverall. A relatively decent place for south Indian food in the area as an alternative to \"Hotel Shivaprasad Veg\" near the Toll Gate for South and North Indian veg food with the bonus of packed sweets and snacks.",
+      "extracted_snippet": {
+        "original": "This location has improved quite a bit since my last visit many years ago. It is a little more pricey than restaurants within Bangalore but not unaffordable. If you do drive to Bangalore from the airport or from anywhere beyond the Airport's Toll Gate. Do consider stopping here.\n\nDishes:\n1. Vada - 4.5 star. Good portion size and tastes as good as they look.\n2. Dosa - 4 star. Not as good as the ones you'd get at Taaza Thindi or Arogya Ahaara, just to name a few. The potato filling inside is also a little bland.\n3. Coffee - 5 star. You can sort of customize how much sugar and coffee you want by requesting them to do so at the coffee counter.\n4. Packaged food and sweets: 5 star. .They've got a very wide range of sweets and packaged food, which is already a plus. The video of their factory and hygiene standards on YouTube assures you're not buying something poorly made. Almost on par with Haldirams (haldirams being slightly better).\n5. Dinner choices in the first floor were not that great and cost higher than average prices. They were just OK enough.\n6. The room (think it was called deluxe and was room no. 1) was not that good. While the price seemed alright and the room was quite spacious, there were food stains on the bedsheets, the floor had dirt, the bathroom and room in general was very outdated. It did include a mini tiffin breakfast which was kind of worth it.\n7. Similar situation with the restaurant as well. There's some smell you get from frequently used cleaning cloths. The washroom needs big improvement.\n8. Parking is still a minor concern during rush hour though there's enough now that the adjacent land (previously Lamborghini service centre) has opened up and there's some more parking under the metro bridge.\n9. Reachability and location is quite good for those arriving or departing from/to the airport.\n\nOverall. A relatively decent place for south Indian food in the area as an alternative to \"Hotel Shivaprasad Veg\" near the Toll Gate for South and North Indian veg food with the bonus of packed sweets and snacks."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "wait_time": "Up to 10 min"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-08-14T07:14:43Z",
+        "iso_date_of_last_edit": "2024-08-14T07:14:43Z",
+        "snippet": "Dear Rinaldi James,\n\nThank you for sharing your detailed feedback on your recent visit to our restaurant! We're thrilled to hear that you've noticed improvements since your last visit. Your comments about the Vada, Dosa, and Coffee are duly noted, and we appreciate your honest assessment. We're constantly striving to enhance our offerings, and your insights are valuable to us. We look forward to the opportunity to impress you further with our lunch menu as well. Thank you for choosing A2B Restaurant, and we hope to welcome you back soon!\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Rinaldi James,\n\nThank you for sharing your detailed feedback on your recent visit to our restaurant! We're thrilled to hear that you've noticed improvements since your last visit. Your comments about the Vada, Dosa, and Coffee are duly noted, and we appreciate your honest assessment. We're constantly striving to enhance our offerings, and your insights are valuable to us. We look forward to the opportunity to impress you further with our lunch menu as well. Thank you for choosing A2B Restaurant, and we hope to welcome you back soon!\n\nThanks \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tscFMyWllaMGhQVTNWcE9VRmtVbkZuY0ZWc01FRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOklpS2ZYZ0hPU3VpOUFkUnFncFVsMEE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-21T15:22:02Z",
+      "iso_date_of_last_edit": "2026-05-21T15:22:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscFMyWllaMGhQVTNWcE9VRmtVbkZuY0ZWc01FRRAB",
+      "user": {
+        "name": "Kashyap CN",
+        "link": "https://www.google.com/maps/contrib/103629538271878466329?hl=en",
+        "contributor_id": "103629538271878466329",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUIo0IDfrXcTSNRPf6cicxxObV_2jtX_KE4V8NinleiC6KNfTWW=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 2
+      },
+      "snippet": "Worst food ever. Just had food here ,service is terrible , food is not good,cold and ready to get spoilt . Inadequate per pricing per person. And don't even ask about the washroom hygiene.",
+      "extracted_snippet": {
+        "original": "Worst food ever. Just had food here ,service is terrible , food is not good,cold and ready to get spoilt . Inadequate per pricing per person. And don't even ask about the washroom hygiene."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 1,
+        "noise_level": "Very loud, hard to hear"
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-21T17:03:22Z",
+        "iso_date_of_last_edit": "2026-05-21T17:03:22Z",
+        "snippet": "Dear Kashyap CN,\n\nI'm really sorry to hear that your experience was so disappointing. It sounds like the food and service didn’t meet your expectations, and I truly regret that. Your comments about the washroom hygiene are concerning, and I appreciate you bringing this to our attention. Thank you for sharing your thoughts.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Kashyap CN,\n\nI'm really sorry to hear that your experience was so disappointing. It sounds like the food and service didn’t meet your expectations, and I truly regret that. Your comments about the washroom hygiene are concerning, and I appreciate you bringing this to our attention. Thank you for sharing your thoughts.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paS2NtaHFaR05uTlRKbGRFaDVNRkJIVlcxb2VHYxAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOjZKcmhqZGNnNTJldEh5MFBHVW1oeGc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-15T09:50:15Z",
+      "iso_date_of_last_edit": "2026-05-15T09:50:15Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paS2NtaHFaR05uTlRKbGRFaDVNRkJIVlcxb2VHYxAB",
+      "user": {
+        "name": "Kavitha Kavi",
+        "link": "https://www.google.com/maps/contrib/117038028442276087655?hl=en",
+        "contributor_id": "117038028442276087655",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIq5aF0tAwvtX5QzXQJUzqyOoik_1b610aNB46X2_FhB2X6_yEs=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 0
+      },
+      "snippet": "Worst experience I had with A2B hotel near hunasamaranahalli there is no hygiene worst experience there is no water and washroom washroom, also not cleaned properly",
+      "extracted_snippet": {
+        "original": "Worst experience I had with A2B hotel near hunasamaranahalli there is no hygiene worst experience there is no water and washroom washroom, also not cleaned properly"
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-15T11:06:12Z",
+        "iso_date_of_last_edit": "2026-05-15T11:06:12Z",
+        "snippet": "Dear Kavitha Kavi,\n\nI'm really sorry to hear about your experience with the hygiene and cleanliness at our restaurant. It’s concerning to know that the washroom wasn’t up to standard and that you faced issues with water. Your feedback is important, and we'll make sure to address these concerns with our team.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Kavitha Kavi,\n\nI'm really sorry to hear about your experience with the hygiene and cleanliness at our restaurant. It’s concerning to know that the washroom wasn’t up to standard and that you faced issues with water. Your feedback is important, and we'll make sure to address these concerns with our team.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s0eFZuWXdibUZOYzFNNVRFWlFaRWRsVWxad1ZrRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOk4xVnYwbmFNc1M5TEZQZEdlUlZwVkE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-11T07:23:02Z",
+      "iso_date_of_last_edit": "2026-05-11T07:23:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eFZuWXdibUZOYzFNNVRFWlFaRWRsVWxad1ZrRRAB",
+      "user": {
+        "name": "Surya Singh",
+        "link": "https://www.google.com/maps/contrib/115659464001542827639?hl=en",
+        "contributor_id": "115659464001542827639",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJxtLf3AF37acn4U-3FVZ8wwtm4AVLOegk3MgqraFT_1rnQJg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 29,
+        "photos": 0
+      },
+      "snippet": "They have gone way down on the quality and taste. It no more feels like eating in A2B.\nThe prices have increased, again.\nAlso, the staff (on ground floor) is not serious  in maintaining hygiene. No gloves, caps, etc.\nLet's not talk about washroom and handwash areas. Highly disappointed.",
+      "extracted_snippet": {
+        "original": "They have gone way down on the quality and taste. It no more feels like eating in A2B.\nThe prices have increased, again.\nAlso, the staff (on ground floor) is not serious  in maintaining hygiene. No gloves, caps, etc.\nLet's not talk about washroom and handwash areas. Highly disappointed."
+      },
+      "details": {
+        "food": 3,
+        "service": 2,
+        "atmosphere": 3
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-11T09:32:43Z",
+        "iso_date_of_last_edit": "2026-05-11T09:32:43Z",
+        "snippet": "Dear Surya Singh,\n\nI'm really sorry to hear that your recent experience didn't meet your expectations. It's concerning to hear about the drop in quality and taste, as well as the hygiene issues you mentioned. We take these matters seriously and will definitely look into the staff practices and cleanliness in the washroom areas. Your feedback is important to us, and we appreciate you sharing your thoughts.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Surya Singh,\n\nI'm really sorry to hear that your recent experience didn't meet your expectations. It's concerning to hear about the drop in quality and taste, as well as the hygiene issues you mentioned. We take these matters seriously and will definitely look into the staff practices and cleanliness in the washroom areas. Your feedback is important to us, and we appreciate you sharing your thoughts.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KNk9WRlVSRE55Vm5oeloxOXNVM2g1UmpadlUzYxAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CAIQACodChtycF9oOmJ6OVFURDNyVnhzZ19sU3h5RjZvU3c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-01T08:21:47Z",
+      "iso_date_of_last_edit": "2026-04-01T08:21:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNk9WRlVSRE55Vm5oeloxOXNVM2g1UmpadlUzYxAB",
+      "user": {
+        "name": "Rakshitha Acharya",
+        "link": "https://www.google.com/maps/contrib/103019232223603839267?hl=en",
+        "contributor_id": "103019232223603839267",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocItRm9KfTRro7GUcl19MhLYNKej1P4c4dtQ4bORvdxZc89VFcQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 34,
+        "photos": 31
+      },
+      "snippet": "The food was the usual A2B food but the washroom was really dirty with water on the floor.\nEven the sink at the hand wash section was really dirty.",
+      "extracted_snippet": {
+        "original": "The food was the usual A2B food but the washroom was really dirty with water on the floor.\nEven the sink at the hand wash section was really dirty."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1–200",
+        "food": 3,
+        "service": 1,
+        "atmosphere": 1,
+        "group_size": "2 people, Suitable for all group sizes",
+        "wait_time": "No wait"
+      },
+      "likes": 0,
+      "response": {
+        "date": "6 months ago",
+        "iso_date": "2026-04-01T09:22:50Z",
+        "iso_date_of_last_edit": "2026-04-01T09:22:50Z",
+        "snippet": "Dear Rakshitha Acharya,\n\nWe're sorry to hear about your experience with the cleanliness of our washroom. We hold ourselves to high standards of hygiene and cleanliness, and we will address this issue with our staff to ensure it doesn't happen again. Your feedback is valuable to us, and we appreciate you bringing this to our attention. We hope to have the opportunity to welcome you back and provide a more satisfying experience in the future.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Rakshitha Acharya,\n\nWe're sorry to hear about your experience with the cleanliness of our washroom. We hold ourselves to high standards of hygiene and cleanliness, and we will address this issue with our staff to ensure it doesn't happen again. Your feedback is valuable to us, and we appreciate you bringing this to our attention. We hope to have the opportunity to welcome you back and provide a more satisfying experience in the future.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURybjlIUnFRRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgIDrn9HRqQE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-21T16:02:00Z",
+      "iso_date_of_last_edit": "2024-07-21T16:02:00Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURybjlIUnFRRRAB",
+      "user": {
+        "name": "CHANDRASHEKHAR AGORAM",
+        "link": "https://www.google.com/maps/contrib/102115010957945092441?hl=en",
+        "contributor_id": "102115010957945092441",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKFGeCk06uVD24ErKSqjGJ084fRy5pXYS9yaSuowuS5NIQP-w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 27,
+        "photos": 34
+      },
+      "snippet": "Good staff. Reasonably fast service. Washroom was not clean enough.",
+      "extracted_snippet": {
+        "original": "Good staff. Reasonably fast service. Washroom was not clean enough."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "recommended_dishes": "Rava Dosai"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-07-21T19:14:48Z",
+        "iso_date_of_last_edit": "2024-07-21T19:14:48Z",
+        "snippet": "Dear CHANDRASHEKHAR AGORAM,\n\nThank you for taking the time to share your experience with us. We're glad to hear that you found our staff to be good and the service reasonably fast. We apologize for the inconvenience regarding the cleanliness of the washroom and will address this matter with our team. Your feedback is valuable to us, and we hope to welcome you back for an improved experience.\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear CHANDRASHEKHAR AGORAM,\n\nThank you for taking the time to share your experience with us. We're glad to hear that you found our staff to be good and the service reasonably fast. We apologize for the inconvenience regarding the cleanliness of the washroom and will address this matter with our team. Your feedback is valuable to us, and we hope to welcome you back for an improved experience.\n\nThanks \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUNl8yV0RnEAE!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgICT6_2WDg%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-05-19T10:37:54Z",
+      "iso_date_of_last_edit": "2024-05-19T10:37:54Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUNl8yV0RnEAE",
+      "user": {
+        "name": "Pavan Kumar",
+        "link": "https://www.google.com/maps/contrib/111391319969685481631?hl=en",
+        "contributor_id": "111391319969685481631",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjViXLxN4XWcVQaU1uRUW0X9nVly6ph8Vophi1UUoJZ1GgWF-p0=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Washroom is not good",
+      "extracted_snippet": {
+        "original": "Washroom is not good"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 1,
+        "recommended_dishes": "South Indian Thalimeals, SPL South Indian Meals",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "Meals is good"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-05-19T13:12:43Z",
+        "iso_date_of_last_edit": "2024-05-19T13:12:43Z",
+        "snippet": "Dear Pavan Kumar,\n\nWe appreciate your feedback and apologize for any inconvenience you experienced with the washroom. We will address this issue immediately to ensure a more pleasant experience for our valued customers. Your input helps us improve, and we hope you'll give us another chance to provide you with an excellent dining experience overall. Thank you for bringing this to our attention.\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Pavan Kumar,\n\nWe appreciate your feedback and apologize for any inconvenience you experienced with the washroom. We will address this issue immediately to ensure a more pleasant experience for our valued customers. Your input helps us improve, and we hope you'll give us another chance to provide you with an excellent dining experience overall. Thank you for bringing this to our attention.\n\nThanks \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaeXVueHV3RRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgICZyunxuwE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-09-08T07:39:42Z",
+      "iso_date_of_last_edit": "2023-09-08T07:39:42Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaeXVueHV3RRAB",
+      "user": {
+        "name": "Poornima Prakash",
+        "link": "https://www.google.com/maps/contrib/105476952236659178979?hl=en",
+        "contributor_id": "105476952236659178979",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjULTg9aTeUQ1UPJ-xseaJe6JTczHhgG07dshLaQKN5GbFLMCYr-=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 6
+      },
+      "snippet": "Toilet paper should be available in washroom of ground floor",
+      "extracted_snippet": {
+        "original": "Toilet paper should be available in washroom of ground floor"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "South Indian Thalimeals",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "No comments"
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2023-09-08T10:05:38Z",
+        "iso_date_of_last_edit": "2023-09-08T10:05:38Z",
+        "snippet": "Dear Poornima Prakash,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Poornima Prakash,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwdTV2ZXV3RRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgICpu5veuwE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-08-11T08:46:37Z",
+      "iso_date_of_last_edit": "2023-08-11T08:46:37Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwdTV2ZXV3RRAB",
+      "user": {
+        "name": "srivats subramanian",
+        "link": "https://www.google.com/maps/contrib/111897718610560965333?hl=en",
+        "contributor_id": "111897718610560965333",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjULmXgcaiRsbrEIph3pNCJ1L9fo-6hnqa1bZNialnFLWmDrGagwOw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 12,
+        "photos": 53
+      },
+      "snippet": "It’s stinky near washroom and the washroom is not clean as well.",
+      "extracted_snippet": {
+        "original": "It’s stinky near washroom and the washroom is not clean as well."
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKbDk3SzNBRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgIDJl97K3AE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-07-24T14:52:22Z",
+      "iso_date_of_last_edit": "2023-07-24T14:52:22Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKbDk3SzNBRRAB",
+      "user": {
+        "name": "Surya Varma",
+        "link": "https://www.google.com/maps/contrib/115004747582798706505?hl=en",
+        "contributor_id": "115004747582798706505",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVNSqwecjUnZ2E5Vt4cz-UyvAWmkklBuFSZzjcVIdq7QuBu494t=s120-c-rp-mo-br100",
+        "reviews": 9,
+        "photos": 3
+      },
+      "snippet": "Washroom should have maintained well. it smells when i went to wash my hands. other than that, it is very good in terms of service provided and food quality",
+      "extracted_snippet": {
+        "original": "Washroom should have maintained well. it smells when i went to wash my hands. other than that, it is very good in terms of service provided and food quality"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 2
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2023-07-24T16:06:35Z",
+        "iso_date_of_last_edit": "2023-07-24T16:06:35Z",
+        "snippet": "Dear Surya Varma,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Surya Varma,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR4OHZuZzZRRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgIDx8vng6QE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-06-05T15:33:07Z",
+      "iso_date_of_last_edit": "2023-06-05T15:33:07Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4OHZuZzZRRRAB",
+      "user": {
+        "name": "Nasir Khan",
+        "link": "https://www.google.com/maps/contrib/105566933052936044952?hl=en",
+        "contributor_id": "105566933052936044952",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXYIoO6yFRZ0BDdGLT0pLR4_N2lO15UFP6dSxYDqoEwjNwete8n=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 170,
+        "photos": 641
+      },
+      "snippet": "Food taste was average. I ordered paneer masala, not upto the mark. It is located, just next to service road. Always get traffic congestion, due to metro construction. once you moved ahead cannot come back. Had water issues, customers using mug to wash hands in washroom basin.",
+      "extracted_snippet": {
+        "original": "Food taste was average. I ordered paneer masala, not upto the mark. It is located, just next to service road. Always get traffic congestion, due to metro construction. once you moved ahead cannot come back. Had water issues, customers using mug to wash hands in washroom basin."
+      },
+      "details": {
+        "food": 3,
+        "service": 4,
+        "atmosphere": 3
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2023-06-05T16:05:59Z",
+        "iso_date_of_last_edit": "2023-06-05T16:05:59Z",
+        "snippet": "Dear Nasir Khan,\n\nWe thank you for reviewing us. Please share your feedback at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Nasir Khan,\n\nWe thank you for reviewing us. Please share your feedback at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtLXZXSVd3EAE!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgID--vWIWw%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2022-11-28T02:12:27Z",
+      "iso_date_of_last_edit": "2022-11-28T02:12:27Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtLXZXSVd3EAE",
+      "user": {
+        "name": "orwin fernandes",
+        "link": "https://www.google.com/maps/contrib/118272001299188308626?hl=en",
+        "contributor_id": "118272001299188308626",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIpd7JDIAtUX9H_vfSGE-iKEkIp6VJ-Xh2buPVMz7Ynvl6-ow=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 136,
+        "photos": 161
+      },
+      "snippet": "Good place for veg breakfast clean place washroom are clean overall nice place",
+      "extracted_snippet": {
+        "original": "Good place for veg breakfast clean place washroom are clean overall nice place"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 4,
+        "vegetarian_options": "Idle wada sambar, tea ,sweets, pav baazi, chatni,"
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2022-11-28T04:00:45Z",
+        "iso_date_of_last_edit": "2022-11-28T04:00:45Z",
+        "snippet": "Dear orwin fernandes,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear orwin fernandes,\n\nThank you for choosing A2B. Reviews like this gives us the motivation to provide the best quality and service to you every time. \n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURlc0lhbFdnEAE!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgIDesIalWg%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2022-09-29T21:58:11Z",
+      "iso_date_of_last_edit": "2022-09-29T21:58:11Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlc0lhbFdnEAE",
+      "user": {
+        "name": "Dr.Neethu Gowda",
+        "link": "https://www.google.com/maps/contrib/107468865885899762944?hl=en",
+        "contributor_id": "107468865885899762944",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXY3LoWhs75NCBhqKwKscCwzpevwmfOhN85OA9rBZnByvm-W3pT=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 2
+      },
+      "snippet": "I went around 9.30pm yesterday and there was no dinner so we ordered idli and dosa ,chats lik panipuri and bel puri…idli and vada was good other than that other items were very bad in taste .Dosa was not cooked properly .Coming to hygiene there is no Handwash 🧴 @washbasin and the wash rooms wr dirty ..The person at bill counter was too rude in behaviour and he don’t have some commonsence of how to behave with coustomers and was not at all listening to what we say..In the chats counter the person made us to wait for long though he dint had any orders at that time..one time he just kept bel puri on the desk and he gave the same panipuri which was already on the desk before I ordered for panipuri and he dint even informed us that its ready ..At one time he went to washroom and dint even washed his hands with soap or Handwash as there was no Handwash @ besin ..Yak sucha unhygienic place that too in the BIAL road..strongly recommend no 👎for this place ..being a doctor it’s a worst place to dine in ..no hygiene ,no good hospitality,food bad taste ,staff r not attentive..",
+      "extracted_snippet": {
+        "original": "I went around 9.30pm yesterday and there was no dinner so we ordered idli and dosa ,chats lik panipuri and bel puri…idli and vada was good other than that other items were very bad in taste .Dosa was not cooked properly .Coming to hygiene there is no Handwash 🧴 @washbasin and the wash rooms wr dirty ..The person at bill counter was too rude in behaviour and he don’t have some commonsence of how to behave with coustomers and was not at all listening to what we say..In the chats counter the person made us to wait for long though he dint had any orders at that time..one time he just kept bel puri on the desk and he gave the same panipuri which was already on the desk before I ordered for panipuri and he dint even informed us that its ready ..At one time he went to washroom and dint even washed his hands with soap or Handwash as there was no Handwash @ besin ..Yak sucha unhygienic place that too in the BIAL road..strongly recommend no 👎for this place ..being a doctor it’s a worst place to dine in ..no hygiene ,no good hospitality,food bad taste ,staff r not attentive.."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400"
+      },
+      "likes": 0,
+      "response": {
+        "date": "4 years ago",
+        "iso_date": "2022-09-30T10:02:13Z",
+        "iso_date_of_last_edit": "2022-09-30T10:02:13Z",
+        "snippet": "Hi Dr.Neethu Gowda,\n\nWe deeply regret for your unpleasant experience and have taken your feedback for corrective measures & continuous improvement. We sincerely care for our customers and work towards providing the best quality & service.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards,\nTeam A2B",
+        "extracted_snippet": {
+          "original": "Hi Dr.Neethu Gowda,\n\nWe deeply regret for your unpleasant experience and have taken your feedback for corrective measures & continuous improvement. We sincerely care for our customers and work towards providing the best quality & service.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better.\n\nThanks and Regards,\nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURHa0tuVFJREAE!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgIDGkKnTRQ%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "4 years ago",
+      "iso_date": "2021-11-15T16:55:17Z",
+      "iso_date_of_last_edit": "2021-11-15T16:55:18Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHa0tuVFJREAE",
+      "user": {
+        "name": "Jitin Panickar",
+        "link": "https://www.google.com/maps/contrib/115677357382284279972?hl=en",
+        "contributor_id": "115677357382284279972",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUQanomJyU8BiNNSo8RMUA7Hze9aa4eMn_I6EXNsR-V4M7emLx5=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 113,
+        "photos": 94
+      },
+      "snippet": "Not satisfied with the way it is maintained. Cleanliness is not up to the mark. Hand wash area is located between Gents and Ladies washroom which get blocked by people who are standing in line for washroom.\n\nFood wise: Varities are available. Taste wise good.",
+      "extracted_snippet": {
+        "original": "Not satisfied with the way it is maintained. Cleanliness is not up to the mark. Hand wash area is located between Gents and Ladies washroom which get blocked by people who are standing in line for washroom.\n\nFood wise: Varities are available. Taste wise good."
+      },
+      "likes": 0
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNHaXVMV1l3EAE!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgICGiuLWYw%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 years ago",
+      "iso_date": "2021-10-25T17:22:41Z",
+      "iso_date_of_last_edit": "2021-10-25T17:22:41Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHaXVMV1l3EAE",
+      "user": {
+        "name": "Karthikeyan Visvanathan",
+        "link": "https://www.google.com/maps/contrib/102432284545423719166?hl=en",
+        "contributor_id": "102432284545423719166",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVbbpCtoG63VE5DVHL_lMvXO3nevzzSZEZaI_IYkC85TEKGAd6wiQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 178,
+        "photos": 50
+      },
+      "snippet": "Food is tasty. Need to wait more time for food ordered. Has very big car parking and has big counters for sweets and snacks. Washroom needs to be cleaned and should have proper ventilation.",
+      "extracted_snippet": {
+        "original": "Food is tasty. Need to wait more time for food ordered. Has very big car parking and has big counters for sweets and snacks. Washroom needs to be cleaned and should have proper ventilation."
+      },
+      "likes": 0
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNNalAtN1pnEAE!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgICMjP-7Zg%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "Edited 5 years ago",
+      "iso_date": "2019-11-19T17:51:28Z",
+      "iso_date_of_last_edit": "2021-04-12T05:16:43Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNalAtN1pnEAE",
+      "user": {
+        "name": "vinod philip",
+        "link": "https://www.google.com/maps/contrib/111594224150911964387?hl=en",
+        "contributor_id": "111594224150911964387",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI7MEGIM8B9yVtwjYOTC48xRpjxli-rY3S7sNsdd5MVfpF7iw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 44,
+        "photos": 21
+      },
+      "snippet": "Washroom was poorly maintained. Very poor hygiene",
+      "extracted_snippet": {
+        "original": "Washroom was poorly maintained. Very poor hygiene"
+      },
+      "likes": 0
+    },
+    {
+      "position": 17,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURNMTZ5WnFBRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgIDM16yZqAE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "6 years ago",
+      "iso_date": "2020-01-15T03:15:41Z",
+      "iso_date_of_last_edit": "2020-01-15T03:15:41Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNMTZ5WnFBRRAB",
+      "user": {
+        "name": "Hari Prasad Perabattula",
+        "link": "https://www.google.com/maps/contrib/116660267079032077679?hl=en",
+        "contributor_id": "116660267079032077679",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXvisNHuqEylGvDSha8LqlsGIMEQTgUUegt3zKXHNF09JKUGBN8=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 96,
+        "photos": 438
+      },
+      "snippet": "This is on the way to Bangalore from Airport on the service road.\n\nHow to reach there? Don't take the earlier exit before the A2B restaurant. Google maps shows this. There's another one after crossing A2B. Take it and travel back in the service road.\n\nThe food is tasty as with any A2B. They even have a separate place for serving. We have always sat in the self service section. The washroom/handwash area is very narrow. I had never seen it to be maintained well.\n\nThey have moderate amount of parking space. Can even park in the service road if needed.",
+      "extracted_snippet": {
+        "original": "This is on the way to Bangalore from Airport on the service road.\n\nHow to reach there? Don't take the earlier exit before the A2B restaurant. Google maps shows this. There's another one after crossing A2B. Take it and travel back in the service road.\n\nThe food is tasty as with any A2B. They even have a separate place for serving. We have always sat in the self service section. The washroom/handwash area is very narrow. I had never seen it to be maintained well.\n\nThey have moderate amount of parking space. Can even park in the service road if needed."
+      },
+      "likes": 0
+    },
+    {
+      "position": 18,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQwenBlSWxBRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgID0zpeIlAE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "Edited 6 years ago",
+      "iso_date": "2019-11-05T14:06:50Z",
+      "iso_date_of_last_edit": "2019-12-28T10:17:24Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwenBlSWxBRRAB",
+      "user": {
+        "name": "Divya Jyothi",
+        "link": "https://www.google.com/maps/contrib/112032854001464302079?hl=en",
+        "contributor_id": "112032854001464302079",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL1AAlGcD6eVs2WTSp8RtucjdEwSu8YKXJJJS_z63ve3Pu0CSaQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 64,
+        "photos": 23
+      },
+      "snippet": "Hygiene wise this place was very bad there was no water for hand-wash n even in washroom",
+      "extracted_snippet": {
+        "original": "Hygiene wise this place was very bad there was no water for hand-wash n even in washroom"
+      },
+      "likes": 0
+    },
+    {
+      "position": 19,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQwMXZxLW9RRRAB!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgID01vq-oQE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "6 years ago",
+      "iso_date": "2019-11-04T02:37:42Z",
+      "iso_date_of_last_edit": "2019-11-04T02:37:42Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwMXZxLW9RRRAB",
+      "user": {
+        "name": "debashis mukherjee",
+        "link": "https://www.google.com/maps/contrib/102981619838399567903?hl=en",
+        "contributor_id": "102981619838399567903",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL2IGBdeg7gC3XYohuVExJHg0TZ3_mjr4fX38SXR1qJVX690w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 205,
+        "photos": 181
+      },
+      "snippet": "One of the few A2B's where everything is available as displayed on the menu card. Ambience & food was great to taste and washroom was cleaner than the one in Electronics city. Only flop was the billing (POS) went down and there was no option to manually check Bill's hence had a pile up for a brief while. Worth the pit stop on way back from Airport or Devanahalli side.",
+      "extracted_snippet": {
+        "original": "One of the few A2B's where everything is available as displayed on the menu card. Ambience & food was great to taste and washroom was cleaner than the one in Electronics city. Only flop was the billing (POS) went down and there was no option to manually check Bill's hence had a pile up for a brief while. Worth the pit stop on way back from Airport or Devanahalli side."
+      },
+      "likes": 0
+    },
+    {
+      "position": 20,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURncE91MFZREAE!2m1!1s0x0:0xd4b712c05a110e71!3m1!1s2@1:CIHM0ogKEICAgIDgpOu0VQ%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "Edited 8 years ago",
+      "iso_date": "2018-08-05T14:05:54Z",
+      "iso_date_of_last_edit": "2018-08-06T18:24:01Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURncE91MFZREAE",
+      "user": {
+        "name": "Divyesh Butala",
+        "link": "https://www.google.com/maps/contrib/117656650050815062912?hl=en",
+        "contributor_id": "117656650050815062912",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKLKp-5DxKgzvuofTSiTTmzvz3HqsbPjk4slMgoLSW_99b99w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 548,
+        "photos": 898
+      },
+      "snippet": "Slow Service\n\nNo One Take care on Tables\n\nTook Too much Time on Repeat order\n\nDoes not Listen Carefully\n\nSelf service area\n\nWill not Recommended for any one\n\nFood Quality is Also Average\n\nService time is very longer\n\nNot value for money\n\nIf you Want to go washroom then you can come here\n\nParking is Limited\n\nSign Board is weird\n\nHalf of the items are not available mention in menue",
+      "extracted_snippet": {
+        "original": "Slow Service\n\nNo One Take care on Tables\n\nTook Too much Time on Repeat order\n\nDoes not Listen Carefully\n\nSelf service area\n\nWill not Recommended for any one\n\nFood Quality is Also Average\n\nService time is very longer\n\nNot value for money\n\nIf you Want to go washroom then you can come here\n\nParking is Limited\n\nSign Board is weird\n\nHalf of the items are not available mention in menue"
+      },
+      "likes": 0
+    }
+  ]
+}

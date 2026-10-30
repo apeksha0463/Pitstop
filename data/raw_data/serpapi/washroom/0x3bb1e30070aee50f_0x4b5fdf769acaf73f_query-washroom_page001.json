@@ -1,0 +1,743 @@
+{
+  "search_metadata": {
+    "id": "6ae30fdb92b329c5247ad31c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gEMBzt_Jy6ll1KHMJnzp2ZoREDDifFRyWfYXeOWCdS4/6ae30fdb92b329c5247ad31c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/gEMBzt_Jy6ll1KHMJnzp2ZoREDDifFRyWfYXeOWCdS4/6ae30fdb92b329c5247ad31c.md",
+    "created_at": "2026-10-29 09:20:27 UTC",
+    "processed_at": "2026-10-29 09:20:27 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e30070aee50f:0x4b5fdf769acaf73f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/gEMBzt_Jy6ll1KHMJnzp2ZoREDDifFRyWfYXeOWCdS4/6ae30fdb92b329c5247ad31c.html",
+    "prettify_html_file": "https://serpapi.com/searches/gEMBzt_Jy6ll1KHMJnzp2ZoREDDifFRyWfYXeOWCdS4/6ae30fdb92b329c5247ad31c.prettify",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e30070aee50f:0x4b5fdf769acaf73f",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsSE9IQTRTekZPZUhsMFUyTTRRMXBuTm1sWFQzYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOllHOHA4SzFOeHl0U2M4Q1pnNmlXT3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T13:30:36Z",
+      "iso_date_of_last_edit": "2026-10-21T13:30:36Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSE9IQTRTekZPZUhsMFUyTTRRMXBuTm1sWFQzYxAB",
+      "user": {
+        "name": "payal K",
+        "link": "https://www.google.com/maps/contrib/111795233635453536771?hl=en",
+        "contributor_id": "111795233635453536771",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ6b39kWewlg_yOmFKUtn132Q3yusQXdTO1Aeuk2BZ6YocY5Bfy=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 101,
+        "photos": 162
+      },
+      "snippet": "Clean washroom . Plenty of parking space. Good food",
+      "extracted_snippet": {
+        "original": "Clean washroom . Plenty of parking space. Good food"
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹1–200"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a week ago",
+        "iso_date": "2026-10-21T14:32:51Z",
+        "iso_date_of_last_edit": "2026-10-21T14:32:51Z",
+        "snippet": "Hi Payal, \n\nThank you so much for your wonderful review! We’re thrilled to hear that you enjoyed the clean washroom, ample parking, and, of course, the good food at Koteshwaram-The Temple Of divine food. Your feedback truly brightens our day, and we’re committed to maintaining these high standards for all our guests. \n\nWe can’t wait to welcome you back for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Hi Payal, \n\nThank you so much for your wonderful review! We’re thrilled to hear that you enjoyed the clean washroom, ample parking, and, of course, the good food at Koteshwaram-The Temple Of divine food. Your feedback truly brightens our day, and we’re committed to maintaining these high standards for all our guests. \n\nWe can’t wait to welcome you back for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCMk1FSkJYMUZMZFVsdVJXRTFPVzA0TURaeVRYYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOlB2MEJBX1FLdUluRWE1OW04MDZyTXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 weeks ago",
+      "iso_date": "2026-09-29T15:38:23Z",
+      "iso_date_of_last_edit": "2026-09-29T15:38:23Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeV6pC0vvykAHzZ0EmC8QaR_aR7HEHWQVfHQmdJwMnx-ADEMAExMc8lU2TUMOwNBnn0cC31b88nxTkpqX9kd4qpiB4rpumio8eOYNERwCPqA8KS8jFtcdk3Tyq1BsoDHMNTVcbLtHmqolE=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcjLIjhgpmobmW4EFR_Ttb-K1YXZYQj-DQAUI18scJYjYmr32DIS8ijTwZmlZR3_RR12ifLlgiCVMNXepQzA2ERFW3Q2xwmuGbvVRyQw9SsCFB3KJJTt85tqMRuuXIiVqv9xMDDA37lI7if=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLciNKRF4ezcOzPfxVHfjZvIEfuCTlXvUq5JryGslLL-b5fC-4BRjZKlWUi7K3tm3uaMVC_QYTDXmBTm7YhS-jXsO984_EGjd4aZHYXjLrQ-IwBlFSD17fBvWVoLDPZRFwcibA5tDLiiq5jz=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMk1FSkJYMUZMZFVsdVJXRTFPVzA0TURaeVRYYxAB",
+      "user": {
+        "name": "Airan19",
+        "link": "https://www.google.com/maps/contrib/100480143212279205871?hl=en",
+        "contributor_id": "100480143212279205871",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVx4sw4S5bjEUQRbEvJZTcatS04UhP0NzOB-26MG5KzsZOVfU_V=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 5
+      },
+      "snippet": "Lovely spacious ambience with a garden, tasty food and clean washroom.",
+      "extracted_snippet": {
+        "original": "Lovely spacious ambience with a garden, tasty food and clean washroom."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "3-4 people"
+      },
+      "likes": 0,
+      "response": {
+        "date": "4 weeks ago",
+        "iso_date": "2026-09-29T15:54:35Z",
+        "iso_date_of_last_edit": "2026-09-29T15:54:35Z",
+        "snippet": "Hi Airan19,\n\nThank you so much for your glowing review! We're thrilled to hear you enjoyed the lovely spacious ambience and tasty food at Koteshwaram-The Temple Of divine food. Our team takes great pride in maintaining a clean environment, including our washrooms, to enhance your experience. Your kind words motivate us to keep delivering excellent service. We can't wait to welcome you back for another delightful visit!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Hi Airan19,\n\nThank you so much for your glowing review! We're thrilled to hear you enjoyed the lovely spacious ambience and tasty food at Koteshwaram-The Temple Of divine food. Our team takes great pride in maintaining a clean environment, including our washrooms, to enhance your experience. Your kind words motivate us to keep delivering excellent service. We can't wait to welcome you back for another delightful visit!\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201aFZtcENTV1o2WmprNWNHWlhPR2RET1V4U2VsRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOm5hVmpCSWZ6Zjk5cGZXOGdDOUxSelE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-17T17:39:46Z",
+      "iso_date_of_last_edit": "2026-09-17T17:59:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aFZtcENTV1o2WmprNWNHWlhPR2RET1V4U2VsRRAB",
+      "user": {
+        "name": "Ketan Nandu",
+        "link": "https://www.google.com/maps/contrib/105904214853076108407?hl=en",
+        "contributor_id": "105904214853076108407",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLGauUjGB-gwxeDEMUHpLQAEz_d66LB8BX-uW0F1GrZNFfo0Q=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 1
+      },
+      "snippet": "Very bad service .... staff is very roud..we reached @ 10:45 pm.. & go to use washroom ..hardly after 4 minutes we seated on table Their captan come & said give order in one minutes ..he can not understand that if anybody reading  manucard there is taking 3- 4 mintes easily ..how can anybody give order in 1 minutes ..and after that all staff is taking favour off him  owner of this place should check cc TV camera  ..and next time dont harrase any clustomer..don't go this place..after 10 pm..",
+      "extracted_snippet": {
+        "original": "Very bad service .... staff is very roud..we reached @ 10:45 pm.. & go to use washroom ..hardly after 4 minutes we seated on table Their captan come & said give order in one minutes ..he can not understand that if anybody reading  manucard there is taking 3- 4 mintes easily ..how can anybody give order in 1 minutes ..and after that all staff is taking favour off him  owner of this place should check cc TV camera  ..and next time dont harrase any clustomer..don't go this place..after 10 pm.."
+      },
+      "details": {
+        "service": 1
+      },
+      "likes": 0,
+      "response": {
+        "date": "a month ago",
+        "iso_date": "2026-09-17T17:55:19Z",
+        "iso_date_of_last_edit": "2026-09-17T17:55:19Z",
+        "snippet": "Dear Ketan Nandu,\n\nThank you for sharing your experience with us. We sincerely apologize for the service issues you encountered during your visit. It’s important to us that every guest feels valued and respected. We will personally follow up to address your concerns and ensure our team understands the importance of allowing ample time for our guests to order. Your feedback is invaluable. \n\nPlease call us at 089715 10111 for immediate assistance. We hope to have the opportunity to serve you better in the future.\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Dear Ketan Nandu,\n\nThank you for sharing your experience with us. We sincerely apologize for the service issues you encountered during your visit. It’s important to us that every guest feels valued and respected. We will personally follow up to address your concerns and ensure our team understands the importance of allowing ample time for our guests to order. Your feedback is invaluable. \n\nPlease call us at 089715 10111 for immediate assistance. We hope to have the opportunity to serve you better in the future.\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxNE1uZG9iV2xQV0Zabk1WOWZkSFptV1doallsRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOi14MndobWlPWFZnMV9fdHZmWWhjYlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-29T04:38:51Z",
+      "iso_date_of_last_edit": "2026-06-29T04:38:51Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNE1uZG9iV2xQV0Zabk1WOWZkSFptV1doallsRRAB",
+      "user": {
+        "name": "Akash Gowda",
+        "link": "https://www.google.com/maps/contrib/109998520230123258275?hl=en",
+        "contributor_id": "109998520230123258275",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWaZzN5eTDm6ZXsoY2NR7Ls4bMmZIGEy7i0uDE6R1MSsOV68GYyFQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 322,
+        "photos": 1637
+      },
+      "snippet": "Parking space is topnotch. Good interiors n vast menu. Price is lil on the higher side but worth it in this side of town. Peaceful easy accessible. Garden area behind is good to relax for sometime after the good. Good washroom. This a place to go wen u r traveling in this highway",
+      "extracted_snippet": {
+        "original": "Parking space is topnotch. Good interiors n vast menu. Price is lil on the higher side but worth it in this side of town. Peaceful easy accessible. Garden area behind is good to relax for sometime after the good. Good washroom. This a place to go wen u r traveling in this highway"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,200–1,400",
+        "noise_level": "Moderate noise",
+        "seating_type": "Indoor dining area",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 months ago",
+        "iso_date": "2026-07-22T12:26:38Z",
+        "iso_date_of_last_edit": "2026-07-22T12:26:38Z",
+        "snippet": "Hi Akash,\n\nThank you so much for your wonderful review! We're thrilled to hear that you enjoyed the top-notch parking and the peaceful atmosphere at Koteshwaram-The Temple Of divine food. It’s great that you appreciated our vast menu and relaxing garden area. We strive to create a perfect stop for travelers on the highway. Your feedback inspires us to maintain our commitment to excellent service. We can't wait to welcome you back for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Hi Akash,\n\nThank you so much for your wonderful review! We're thrilled to hear that you enjoyed the top-notch parking and the peaceful atmosphere at Koteshwaram-The Temple Of divine food. It’s great that you appreciated our vast menu and relaxing garden area. We strive to create a perfect stop for travelers on the highway. Your feedback inspires us to maintain our commitment to excellent service. We can't wait to welcome you back for another delightful experience!\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xZMk1WVkhjbFpuWm1kMFNrVnJjbTVrZUhONFIzYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOlY2MVVHclZnZmd0SkVrcm5keHN4R3c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-07T11:34:08Z",
+      "iso_date_of_last_edit": "2026-06-07T11:34:08Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMk1WVkhjbFpuWm1kMFNrVnJjbTVrZUhONFIzYxAB",
+      "user": {
+        "name": "harish kumar",
+        "link": "https://www.google.com/maps/contrib/102369361420421642217?hl=en",
+        "contributor_id": "102369361420421642217",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUja2qh1vpjSm6uLnV4cWcwyQUw8WhR8A00L62C_KnJYkSYZaTZ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 62,
+        "photos": 32
+      },
+      "snippet": "I enjoyed the ambiance and the cleanliness of the place. ✨ The washroom was well-maintained, and the kids' play area is a plus. Parking near Devanahalli on NH44 was ample. The restaurant food was acceptable, but the self-service option was fine. 👍",
+      "extracted_snippet": {
+        "original": "I enjoyed the ambiance and the cleanliness of the place. ✨ The washroom was well-maintained, and the kids' play area is a plus. Parking near Devanahalli on NH44 was ample. The restaurant food was acceptable, but the self-service option was fine. 👍"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹600–800",
+        "reservation": "Walk-ins only",
+        "group_size": "Suitable for all group sizes",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "kid_friendliness": "Kids will enjoy this place."
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 months ago",
+        "iso_date": "2026-07-22T12:28:26Z",
+        "iso_date_of_last_edit": "2026-07-22T12:28:26Z",
+        "snippet": "Dear Harish Kumar,\n\nThank you for your thoughtful review! We’re delighted to hear that you enjoyed our ambiance, cleanliness, and the kids' play area at Koteshwaram-The Temple Of divine food. Your feedback about the food and self-service option is valuable to us, and we are working on enhancing our menu offerings for your next visit. We’re committed to providing an even better experience, and we look forward to welcoming you back soon for a delightful meal.\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Dear Harish Kumar,\n\nThank you for your thoughtful review! We’re delighted to hear that you enjoyed our ambiance, cleanliness, and the kids' play area at Koteshwaram-The Temple Of divine food. Your feedback about the food and self-service option is valuable to us, and we are working on enhancing our menu offerings for your next visit. We’re committed to providing an even better experience, and we look forward to welcoming you back soon for a delightful meal.\n\nWarm regards,  \nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSbk5IUkdkRTR6TTBsdFNURnROSFJaZDBsbVlWRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOkRnNHRGdE4zM0ltSTFtNHRZd0lmYVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-12T19:29:40Z",
+      "iso_date_of_last_edit": "2026-04-12T19:29:40Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeugD4rSsz26Isl44643ffijg4fnvNRjZatV6z-iA8vPPJYkPMtbVCm38KSvAo5QXM-fhNsv5sOqJ0moDhr_K7Z5W5PdzCaCaMLNQpLPGfm0Bw4bbTgnIMeI2tG7pFZvu9UpoDwbmP-v_VV=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf3mafepbfXgjTjIfo4JUcsIoAutwEMFpniYK5AGTbixn1S3UP4muPpxTTAZgJxJEve9Zh_ciZ6dFW89S39_O56YiHcHWJCxLf4iQ2rFj_w6OWdLkeHcIvhsoJa8_iOm2qIfxeqsAfESApZ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfkpS7sqkS6sHZHHNZIGhpvCHGKN1NzBIyAMP0KYdCs8ZYJXtJDl9RwR_w4DdaWO0vJ5VszgY48wVQJlJ-tE1KUw-idwPmroIgWbqO5V-_-hScVwAB1wxiCH4wSCsUjSyePxu0ZWvw2g93k=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcM4V8anjz7KnNj8EhKKnoq0SsvAcKFutphvlq6S28_Zj0M4YAirc5l2WO9jW5JgBUhPLMAcjuQfnDN1QdqdUDygRWK7MKk9wngmfHTPD2jY6xKeVd2OfNLsFQt1LzJ1GeBRBDcsZlPNiQD=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeUNrCbL31q4Gskbiv46zkMIDAJhj69-_feeghh4j-GcxM46Fo3r8sa3nuqVi0GJBrlQoTO-01DzuUi3MAUYYqYo1b5z_8sW5yT-ivwF2lF6p250VCY5zLoYQUJoR1wDFpsCayI9FLV8qM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfmrUJN2AxS_6_F386AquREIIxNEn_517t9Ydp74Tz748pUlVAebmAA3EaRwH2rQ4GQ7CrUgCTkzK6ATtryo_z3ZkjM6tIu82QXcbfMpvV6-pZuyjT7hQGZZZFMXZsRJoE3JP7YFkj2iMGv=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSbk5IUkdkRTR6TTBsdFNURnROSFJaZDBsbVlWRRAB",
+      "user": {
+        "name": "Dinesh Krishnan",
+        "link": "https://www.google.com/maps/contrib/116306499087672030840?hl=en",
+        "contributor_id": "116306499087672030840",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUxoFw5cwxqxpTbBdausGZrH-SevRWqPyX2nQq6A4Gg_G_24ZlA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 342,
+        "photos": 1929
+      },
+      "snippet": "Beautiful stop by the highway, love the ambiance and the vehicles which stop here especially on Sundays. I tried Kadubu for the first time here. There's a place for you to buy sweets and other snacks.\n\nFood is a bit heavy on the ghee but good nonetheless. Prices are slightly different for self service and service but well worth sitting and dining.\n\nThere's a nice spot by the mango trees to take pictures. Washroom is a bit of a walk, nothing I minded though.",
+      "extracted_snippet": {
+        "original": "Beautiful stop by the highway, love the ambiance and the vehicles which stop here especially on Sundays. I tried Kadubu for the first time here. There's a place for you to buy sweets and other snacks.\n\nFood is a bit heavy on the ghee but good nonetheless. Prices are slightly different for self service and service but well worth sitting and dining.\n\nThere's a nice spot by the mango trees to take pictures. Washroom is a bit of a walk, nothing I minded though."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Moderate noise",
+        "group_size": "Suitable for all group sizes",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 1
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOT2VqUllOakZHTUdkeVdXNTRaa05pVEhwbk4zYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOjNOejRYNjFGMGdyWW54ZkNiTHpnN3c%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-19T17:50:09Z",
+      "iso_date_of_last_edit": "2026-03-19T17:50:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOT2VqUllOakZHTUdkeVdXNTRaa05pVEhwbk4zYxAB",
+      "user": {
+        "name": "Sreelakshmi K",
+        "link": "https://www.google.com/maps/contrib/118065634372431043723?hl=en",
+        "contributor_id": "118065634372431043723",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ5wHAlIdn7l58S5i3L9QUKWFSpGDzoYFSSBRc5jdJp3nevVAA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 0
+      },
+      "snippet": "The ambience was great. Service was excellent. Washroom was very clean. South Indian dishes were good.",
+      "extracted_snippet": {
+        "original": "The ambience was great. Service was excellent. Washroom was very clean. South Indian dishes were good."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5,
+        "noise_level": "Moderate noise",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free street parking"
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT204MFVtUlpVRlZ2TW5KM1JFRmtWRXB5VjJOSVUyYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOm80UmRZUFVvMnJ3REFkVEpyV2NIU2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-01T06:00:33Z",
+      "iso_date_of_last_edit": "2026-02-01T14:42:44Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MFVtUlpVRlZ2TW5KM1JFRmtWRXB5VjJOSVUyYxAB",
+      "user": {
+        "name": "madhuri kumari",
+        "link": "https://www.google.com/maps/contrib/103927777056617723426?hl=en",
+        "contributor_id": "103927777056617723426",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJZ6RE76Ea2ivQyPrkfaOPSDGBo7tuE_qDlJ_mk3jrjwlmA2pnx=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 79,
+        "photos": 31
+      },
+      "snippet": "Dosa, baby corn manchurian, vada, kokum juice and sweets like coconut barfi, mysore pak made with jaggery are super tasty.\n\nVery spacious restaurant with clean washroom and big lawn.",
+      "extracted_snippet": {
+        "original": "Dosa, baby corn manchurian, vada, kokum juice and sweets like coconut barfi, mysore pak made with jaggery are super tasty.\n\nVery spacious restaurant with clean washroom and big lawn."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "seating_type": "Indoor dining area",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "kid_friendliness": "Kids friendly place"
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xadWNVWmpVVEpUUzE5ak1IRk9Ramd5VWxSWlYxRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOlZucUZjUTJTS19jMHFOQjgyUlRZV1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-16T10:51:31Z",
+      "iso_date_of_last_edit": "2026-01-16T10:51:31Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdYn3Xy262EDSJnplk6D7KWfubEVdpOWdkgG0Y73lYwV58iuM50emPe6TmOHw6hkOKzSmZTHB3mIiqTM2e7-2IASm02NIeavnWJ6cVYds3LcfhHsybwT_ktAPgnrxffnj5rNtIjOZoUx0U8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdRoZshqE3ehN9Kkwv0OYXYTkdEPRIHK1UJ6B374NDREmxgkM5Bj7ewAjitqlI1TpWjExHPODDFVQ_iBePWQAGjjO-2FapDpCxsM7Nvuje3WcUBiIm0yvx3qf-YuydaPxIOQqK9XmefdNuB=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeIZczW727Y6V4ITY-GD7n6aFKPsD9IaZWNok-XQAV5rGkQd3Nyj6oZE_U-4eQlnaR8FtzgNMV1k7dGGHR7js_ispUXEDw9AMMbvJIdzg7tSUB7FcyvbgRe3C_lZqOqtjhZWcNAgg0nezdM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfk_QVGScDCcpzV8Q1Vd3Mdnl3JsWyiNsP2fV1LMkZxM6QS7gTERDXws7yLtzOLnoXxtXXgarxz8uK7483mw_hNvcNsn57FH7tuqUO-HySto0zcBFTpc-iectQYhJfj97gd3Z6wnr9Zjz4=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xadWNVWmpVVEpUUzE5ak1IRk9Ramd5VWxSWlYxRRAB",
+      "user": {
+        "name": "Ayush GB",
+        "link": "https://www.google.com/maps/contrib/116270970114484737236?hl=en",
+        "contributor_id": "116270970114484737236",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUhs_0nFVdz-YijSljkLSENzabkKhRbm808gs1u7t_8s2_m1as=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 70,
+        "photos": 40
+      },
+      "snippet": "Koteshwaram – The Temple of Divine Food is a wonderful place to stop for a satisfying and delicious meal, especially if you are traveling on the highway. Located conveniently along the highway, it is easy to access and makes for a perfect break during long journeys. The moment you enter, the place feels clean, spacious, and well-organized, with a calm and welcoming atmosphere that suits families, travelers, and groups alike.\nThe food here is truly impressive, and the highlight of my visit was the masala dosa. It was absolutely delicious — crisp on the outside, soft inside, and cooked to perfection. The potato masala was well-spiced, flavorful, and tasted fresh. The dosa was served hot with a generous portion of chutney and sambar, both of which complemented the dosa very well. The coconut chutney was fresh and aromatic, and the sambar had a rich, authentic South Indian taste. Every bite felt satisfying and comforting.\nApart from the masala dosa, the overall menu offers a good variety of vegetarian dishes, making it suitable for breakfast, lunch, or even an early dinner stop. The quality of ingredients is clearly maintained, and the food tastes hygienic and freshly prepared. Portion sizes are good, and the pricing feels reasonable for the quality and location.\nThe service is quick and efficient, which is especially important for highway travelers. The staff are polite and attentive, ensuring orders are served promptly even during busy hours. The restaurant and washroom areas are clean and well-maintained, adding to the overall positive experience.\nOverall, Koteshwaram – The Temple of Divine Food lives up to its name. Great taste, especially the masala dosa, convenient highway location, good service, and a clean environment make it a 5-star experience for me. I would definitely stop here again and highly recommend it to anyone traveling along this route. ⭐⭐⭐⭐⭐",
+      "extracted_snippet": {
+        "original": "Koteshwaram – The Temple of Divine Food is a wonderful place to stop for a satisfying and delicious meal, especially if you are traveling on the highway. Located conveniently along the highway, it is easy to access and makes for a perfect break during long journeys. The moment you enter, the place feels clean, spacious, and well-organized, with a calm and welcoming atmosphere that suits families, travelers, and groups alike.\nThe food here is truly impressive, and the highlight of my visit was the masala dosa. It was absolutely delicious — crisp on the outside, soft inside, and cooked to perfection. The potato masala was well-spiced, flavorful, and tasted fresh. The dosa was served hot with a generous portion of chutney and sambar, both of which complemented the dosa very well. The coconut chutney was fresh and aromatic, and the sambar had a rich, authentic South Indian taste. Every bite felt satisfying and comforting.\nApart from the masala dosa, the overall menu offers a good variety of vegetarian dishes, making it suitable for breakfast, lunch, or even an early dinner stop. The quality of ingredients is clearly maintained, and the food tastes hygienic and freshly prepared. Portion sizes are good, and the pricing feels reasonable for the quality and location.\nThe service is quick and efficient, which is especially important for highway travelers. The staff are polite and attentive, ensuring orders are served promptly even during busy hours. The restaurant and washroom areas are clean and well-maintained, adding to the overall positive experience.\nOverall, Koteshwaram – The Temple of Divine Food lives up to its name. Great taste, especially the masala dosa, convenient highway location, good service, and a clean environment make it a 5-star experience for me. I would definitely stop here again and highly recommend it to anyone traveling along this route. ⭐⭐⭐⭐⭐"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "Good hygiene and quality",
+        "dietary_restrictions": "Nun",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Good high way hotel",
+        "kid_friendliness": "Yes",
+        "wheelchair_accessibility": "Yes"
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WUmMzVnFVVGhCTlVKMWVFSnhaVkpMTWxwNmMwRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOnVRc3VqUThBNUJ1eEJxZVJLMlp6c0E%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-01T16:28:26Z",
+      "iso_date_of_last_edit": "2026-01-01T16:28:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUmMzVnFVVGhCTlVKMWVFSnhaVkpMTWxwNmMwRRAB",
+      "user": {
+        "name": "Ankita B",
+        "link": "https://www.google.com/maps/contrib/101689458648727849997?hl=en",
+        "contributor_id": "101689458648727849997",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIj59wOscT4jATQ1527DqeKWu3dctbmma1yK6Z-9Ad36tYI3g=s120-c-rp-mo-br100",
+        "reviews": 233,
+        "photos": 14
+      },
+      "snippet": "Food was ok. Can improve on washroom cleanliness.",
+      "extracted_snippet": {
+        "original": "Food was ok. Can improve on washroom cleanliness."
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹200–400",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xRelRsZEdjMGRRWldSb1IwbHlaV2xvVjJWdWFuYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOlQzTldGc0dQZWRoR0lyZWloV2Vuanc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-07T16:50:41Z",
+      "iso_date_of_last_edit": "2025-12-07T16:50:41Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRelRsZEdjMGRRWldSb1IwbHlaV2xvVjJWdWFuYxAB",
+      "user": {
+        "name": "veerendra chowdary kurra",
+        "link": "https://www.google.com/maps/contrib/101273228481569383848?hl=en",
+        "contributor_id": "101273228481569383848",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWx1wPgvj6jGZi3yjeThdKMv9lCzJ8xmk4Z1K67KEoDZZ7JwLdz=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 166,
+        "photos": 71
+      },
+      "snippet": "Went for a self service option,\nrestaurent had a great ambience with clean washroom even after being very busy and crowded over the high way.\n\nOrdered thatte idli, roti curry and curd rice\n\nThatte idli was not at all good, it was not fermented well, so bad taste with taste less chutneys\n\nRoti and curry both were cold, in asking staff informed they are prepared early same is served and not based on order. Clearly roti curry is not for me then\n\nCurd rice was good 👍",
+      "extracted_snippet": {
+        "original": "Went for a self service option,\nrestaurent had a great ambience with clean washroom even after being very busy and crowded over the high way.\n\nOrdered thatte idli, roti curry and curd rice\n\nThatte idli was not at all good, it was not fermented well, so bad taste with taste less chutneys\n\nRoti and curry both were cold, in asking staff informed they are prepared early same is served and not based on order. Clearly roti curry is not for me then\n\nCurd rice was good 👍"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1–200",
+        "food": 1,
+        "service": 4,
+        "atmosphere": 5,
+        "noise_level": "Moderate noise",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Would not recommend",
+        "parking_space": "Plenty of parking"
+      },
+      "likes": 0
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205WGFIRk9lRWh1V21Oc1NqbFpNSGRyV25vNWNIYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOm9XaHFOeEhuWmNsSjlZMHdrWno5cHc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-08T15:55:07Z",
+      "iso_date_of_last_edit": "2025-11-08T16:10:58Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdxK_gyqph4s5S6y1tqTel2hWttzdPJZn42x7dfwuRUu6HA4OX3Llzrajv6G7ZsiiU2FwzEhvGrMX5jq2J5fLYT3_VrWPd3XQWcqDTmy483RuH5-VNR3O6AZHFnMWSmdh-SLifTofrDRn2W=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe6H2pmYCt_EudYyEIrj1C50OEQMscaZ8x3s9BlZhC30_U2EN0BLcK3Qoqhaxt0c61dVc_p7YuF8WisHRIN5lSAx26FgnWZ_VbpIINxyHPzIgyhAkErn1qZ4BiouZkfn3SuuzzLAo06De4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLftkq1d6nQsNnWPu9QJXCYf4Wl39cIUjsLP-CVbaPoWduAPU24Uknl-uqtGoci6IVwpMhcZW99oeeF7m9AZx8MTtsqZJtkk8lvXiU_jxLm3T-iJtcTRO70vL6j0wRw1UinLBv4JXisgY7Kg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeb2L6oXzDc9pvp6T5Q39dFbQdYvn-pqiLpxNGfyIYHJtRpkg8Q1wjZy60Zq7ehQsbm-9RN5ZgRjqzfUnk7VZs-TGAlJLK5zRM8KYH2RWKn5y4-ga53PWGkEXOzPyMzG30OCw7-zQCIcdK2=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdZWwtKVCcTjB1VJtKAcgHulKFHFCkmtC5XQ6l-wxUQpgvo7o3_VTeW_3ax6XmbnixoD93HG4QXZy2Z932l_KJ2JYyc9hmRgaNmLLb3FQ6yi50oCPEQ8ZfqUDB-oqkQcFcrF3Lu8xp17yh0=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WGFIRk9lRWh1V21Oc1NqbFpNSGRyV25vNWNIYxAB",
+      "user": {
+        "name": "Sumukh Manjunath",
+        "link": "https://www.google.com/maps/contrib/116574538148700498152?hl=en",
+        "contributor_id": "116574538148700498152",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWBtsdfpiZq_uQIpkr1eG1VXVDielXPMtkYzKzYBvbiVrA7FYa0=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 76,
+        "photos": 261
+      },
+      "snippet": "TLDR: Discover the ultimate pit stop with endless parking, stunning gardens, and a dining experience that caters to everyone! From gourmet fine dining to quick Darshini bites, indulge in crispy dosas with perfect fillings, a delightful surprise of two bondas in soup, and creamy, fresh coffee. Enjoy friendly staff and a relaxing atmosphere that lets you unwind long after your meal. Don’t miss out on this hidden gem!\n\nThe eatery offers ample parking space, making it an ideal pit stop for travelers. It features a well-maintained front yard garden that adds to its charm. For those looking to spend quality time, there are options for fine dining, providing an elegant and comfortable atmosphere. On the other hand, for quick travelers, there is a traditional self-service Darshini type setup, perfect for grabbing a quick coffee or simply using the washroom facilities.\n\nSpeaking of washrooms, the eatery has thoughtfully categorized them into men’s, women’s, disabled, and diaper-changing rooms, ensuring convenience for all visitors. However, the only drawback is that these facilities are located at the far end of the eatery, which might be a bit inconvenient for some.\n\nDuring our visit, we indulged in the benne masala dose or also more as the butter masala dosa. It was cooked to perfection, with a crispy exterior and a soft interior. The aloo filling was seasoned with just the right amount of saltiness, and the accompanying chutney and sambhar complemented the dosas beautifully, creating a harmonious blend of flavors.\n\nWe also tried the bonda soup, which was a delightful surprise. Typically, one bonda is served, but we were pleasantly surprised to receive two. While I expected it to be a bit spicier and more peppery, it was still incredibly delicious and satisfying.\n\nTo conclude our evening snack, we enjoyed a cup of coffee that was creamy and fresh, perfectly hitting the right spots and leaving us refreshed.\n\nThe staff at the eatery were exceptionally friendly and welcoming. They did not rush us to leave even after we had settled the bill, allowing us to relax and decompress on the property. Overall, it was a wonderful experience, and we had a great time enjoying the food and ambiance.",
+      "extracted_snippet": {
+        "original": "TLDR: Discover the ultimate pit stop with endless parking, stunning gardens, and a dining experience that caters to everyone! From gourmet fine dining to quick Darshini bites, indulge in crispy dosas with perfect fillings, a delightful surprise of two bondas in soup, and creamy, fresh coffee. Enjoy friendly staff and a relaxing atmosphere that lets you unwind long after your meal. Don’t miss out on this hidden gem!\n\nThe eatery offers ample parking space, making it an ideal pit stop for travelers. It features a well-maintained front yard garden that adds to its charm. For those looking to spend quality time, there are options for fine dining, providing an elegant and comfortable atmosphere. On the other hand, for quick travelers, there is a traditional self-service Darshini type setup, perfect for grabbing a quick coffee or simply using the washroom facilities.\n\nSpeaking of washrooms, the eatery has thoughtfully categorized them into men’s, women’s, disabled, and diaper-changing rooms, ensuring convenience for all visitors. However, the only drawback is that these facilities are located at the far end of the eatery, which might be a bit inconvenient for some.\n\nDuring our visit, we indulged in the benne masala dose or also more as the butter masala dosa. It was cooked to perfection, with a crispy exterior and a soft interior. The aloo filling was seasoned with just the right amount of saltiness, and the accompanying chutney and sambhar complemented the dosas beautifully, creating a harmonious blend of flavors.\n\nWe also tried the bonda soup, which was a delightful surprise. Typically, one bonda is served, but we were pleasantly surprised to receive two. While I expected it to be a bit spicier and more peppery, it was still incredibly delicious and satisfying.\n\nTo conclude our evening snack, we enjoyed a cup of coffee that was creamy and fresh, perfectly hitting the right spots and leaving us refreshed.\n\nThe staff at the eatery were exceptionally friendly and welcoming. They did not rush us to leave even after we had settled the bill, allowing us to relax and decompress on the property. Overall, it was a wonderful experience, and we had a great time enjoying the food and ambiance."
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹200–400",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "seating_type": "Indoor dining area, Outdoor patio / terrace, Booth seating, Private dining room",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xSmRHUm1MV2hrY2xSbGVFNXJaRjlVU1hVM2IxRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOm1JdGRmLWhkclRleE5rZF9USXU3b1E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-09T18:05:18Z",
+      "iso_date_of_last_edit": "2025-10-09T18:05:18Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdQXwqGf2xLIVm03TQOh_W7b8_ImvufKh4ls7QDfZm385o8VMyIIp4O5G5rugtDLi4BppTC3lYXXRxDzwbUlIftM4VEVApSd17Hl3D1ytIHtQs66aQIo3MjepVUwMtEnpi56YWdfr442BJt=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdnNoJtlKGc6JQaX_R5zhZLSd5BRjcSixIbxWtd4kVRa1fsE_E9jpdlF73yiWAb3RS6pvBiwgDOF9SvUmLrLJIXF12XjX2EM2VJXY8woHv8JEZ51czsomBgtwgm9YkQUSNTxbps4kWEE3TP=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfVOYmCSbWHIs7LwZfmTl7LEY6AOiC3CGof5Z2J8Tx-73tK55QliBp3OSrh85KYb0PBOyJuHsRq8woX3MlKHd0R0MT267H-5OS5EZNyofiUiYQUl8mhE49J9dM2GORe6JnWrGfNP4yfKVs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdk8mibFa63TJZ1JSdHMP4uobAAWuaA5mkLWUBAnOltvNniVQFeLglvwlhzdvkuMDsOIH46YlqDJIaEwWnqtU3C--ZqGlzW24Q25_ZebaQ9n2fmtlXMdRrQGGmlOxriYJpKblHIj7xFASMw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfyyQnyYhYBoOmLeGUNKT_xgnAj0AvseTR63JFzGklmcPwBCmJReKeU8M_LKsM_dr1iUN_AysVwKFXNNqeesGVCXJGaEZZyL09eSE9x0urrQAcOI_zV5uyQT-E3aZzrFcpp05x_eZOX6eqS=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc2hC8a4i6F8ZZKS2qzACKLsCUWgX28-VYhL63EHSkD3vbm5mMJtINjKwR9dVJC1IPcOVK6MXRnxIbf_YaSDCCcnrSvREZXTrhPKFznpvxmZOdwwboUh_zY-ib-nWKWk0911qEVzBVSUY4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfDefm28PDdBiCRbTcqAVlVjfEj9QQDZlskNe-dpj-4OeDZGWxi4BO4l6F2l8cZCmsCAvInMSdsQ0FhdNFHesWkqH4jj591Js26juvsRAPFW6DnkH9MOUIyM10Q-YY2lms6we_SUvajQNQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLer6dPmKBQIeo0QThdIztBWlqqled-_b-qPmWCzBxM5baOggCW-udMdoQocLkApIuFTLKd_ShtXdnHHBM3CBZHWeOuzNueIQMumWfjevjWbEF9F8mCXH7TFjoGxdaa59XstjsCuMBwCW9ls=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeMRfWbUm0IftW7DVEEtk7RX5dfsY1bISs9Szf_gbQb_PCvJ3kCG4IRyPyvs1GU-_BGME9azcH7BDtAMA1i6KV08IXd0iYWPQ-vV_AgnnTLF8cyD1r7jgutuM4rl7W2mDI8rxPSxHLi3AFw=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSmRHUm1MV2hrY2xSbGVFNXJaRjlVU1hVM2IxRRAB",
+      "user": {
+        "name": "shamantha t",
+        "link": "https://www.google.com/maps/contrib/116932232968119828555?hl=en",
+        "contributor_id": "116932232968119828555",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVBnmChZYtULMv88KTvWcUxky1io1-H1V_kzOC1BqtY2uAcBKizEg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 180,
+        "photos": 1164
+      },
+      "snippet": "A huge welcoming place for a snack or dinner or lunch while driving on the highway.\nWith lot of art work and paint work the place is colourful.\nMultiple tables inside and outside one can enjoy AC and natural air.\nWide variety of menu, tried their shavige bath which was well cooked, masala puri (masala was high on sweet side and not tasted well). Price is affordable.\nMasala tea was so refreshing and coffee was good.\nWell maintained hygiene in all the area and washroom well maintained.",
+      "extracted_snippet": {
+        "original": "A huge welcoming place for a snack or dinner or lunch while driving on the highway.\nWith lot of art work and paint work the place is colourful.\nMultiple tables inside and outside one can enjoy AC and natural air.\nWide variety of menu, tried their shavige bath which was well cooked, masala puri (masala was high on sweet side and not tasted well). Price is affordable.\nMasala tea was so refreshing and coffee was good.\nWell maintained hygiene in all the area and washroom well maintained."
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹1–200",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_space": "Plenty of parking",
+        "kid_friendliness": "Lot of play area for kids"
+      },
+      "likes": 0
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21FMVVtUjJOamhzZUZOSFZEVndkRjltVURaSE5WRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOmE1UmR2NjhseFNHVDVwdF9mUDZHNVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-03T14:21:16Z",
+      "iso_date_of_last_edit": "2025-10-03T14:21:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMVVtUjJOamhzZUZOSFZEVndkRjltVURaSE5WRRAB",
+      "user": {
+        "name": "Sandeep Pintu",
+        "link": "https://www.google.com/maps/contrib/106987468238749710759?hl=en",
+        "contributor_id": "106987468238749710759",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIO1XXr1jKWUgD8L5zhenlinSMIYmY5QgxTKuH6S-4PJeNzkw=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Visit this place with team outing loved the food and Ambience washroom are very neat and hygiene this place can beat Rameswaram cafe in future for sure",
+      "extracted_snippet": {
+        "original": "Visit this place with team outing loved the food and Ambience washroom are very neat and hygiene this place can beat Rameswaram cafe in future for sure"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SbmNFaFhYMUZzVkdzd1RuYzFSMlZpTmxOdlVXYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOnRncEhXX1FsVGswTnc1R2ViNlNvUWc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-24T07:18:33Z",
+      "iso_date_of_last_edit": "2025-08-24T07:18:33Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfD6o-qIBS0gn9vqUIODzP4twkJ9QJ3A2fB7_LsZGvz3pLGuDGCyK5p3qKlJ82exJ4JbXpmZDnKGWd5RIsrEjmnvB167lhPnUjBRXO4NmG2CUcTcGTojuFMXMtQqtc7jmtz0xzXQrqg36tA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfw28HehUJl_PQg1mMrHCxlqVZjtvazTf6XSX3Dvo48lfZq2o2KzY3n6zatmI09uoD9iCYRoykpALTqtbR8Mmk6f2N5lZiEV_YUdOxeRl2ngZVcsi0UFpB3RIZKXFcl_X851MciBTBiHRSI=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcqIRYUc6x48DdUhBhp19kG21cBRO-GZyNhPjSvyCDl-OsFHX_lWgApBgNU1kzdngrSxOL0rDZitYHF2FpItUfSs3fGssGptY-xe9KRJmLfMEXXtsWOX1LGJDccl1YUcpUWs3vVeOE3ku0=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbmNFaFhYMUZzVkdzd1RuYzFSMlZpTmxOdlVXYxAB",
+      "user": {
+        "name": "Ravi Kumar Sarakam",
+        "link": "https://www.google.com/maps/contrib/116899164464837046217?hl=en",
+        "contributor_id": "116899164464837046217",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVWfaKFOjFeFjvBzaLO2TzL3P_ybZdcCNg6XC2dXR_b6_HMKabc=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 79,
+        "photos": 68
+      },
+      "snippet": "Good parking and very nearby to highway.\nFood and ambience were nice.\nYou have lots of vegetarian options.\nYou get a bit of signal connectivity issues in few areas.  It has ample space in back side for hosting functions. The washroom were nice and clean.",
+      "extracted_snippet": {
+        "original": "Good parking and very nearby to highway.\nFood and ambience were nice.\nYou have lots of vegetarian options.\nYou get a bit of signal connectivity issues in few areas.  It has ample space in back side for hosting functions. The washroom were nice and clean."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area, Outdoor patio / terrace",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Menu is all vegetarian, Large vegetarian selection, Vegetarian menu or section",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kd2NUWlhOM2xFZVdOMVJEVmZaRWx0Vm10SU1sRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOmdwcTZXN3lEeWN1RDVfZEltVmtIMlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-07-06T12:27:13Z",
+      "iso_date_of_last_edit": "2025-07-06T12:27:13Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kd2NUWlhOM2xFZVdOMVJEVmZaRWx0Vm10SU1sRRAB",
+      "user": {
+        "name": "Shailesh Pandey",
+        "link": "https://www.google.com/maps/contrib/115720827522698801122?hl=en",
+        "contributor_id": "115720827522698801122",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUqHtLDASF2JqmVUGSJNwlCijLTT8v7-vWMmEXrFHck-aLwtptR=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 11,
+        "photos": 1
+      },
+      "snippet": "Good ambience, ample parking space. Kid friendly. Clean washroom. Food okay and lots of options.",
+      "extracted_snippet": {
+        "original": "Good ambience, ample parking space. Kid friendly. Clean washroom. Food okay and lots of options."
+      },
+      "details": {
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-07-07T22:02:16Z",
+        "iso_date_of_last_edit": "2025-07-07T22:02:16Z",
+        "snippet": "Dear Guest,\n\nThank you so much for your positive feedback! We really appreciate your positive review and it was great to have you as a customer. We look forward to serving you again soon.\n\nThanks & Regards\nKoteshwaram-The Temple Of divine",
+        "extracted_snippet": {
+          "original": "Dear Guest,\n\nThank you so much for your positive feedback! We really appreciate your positive review and it was great to have you as a customer. We look forward to serving you again soon.\n\nThanks & Regards\nKoteshwaram-The Temple Of divine"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VNX3lwcG1KNUl1a2hnRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CIHM0ogKEM_yppmJ5IukhgE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-18T16:36:53Z",
+      "iso_date_of_last_edit": "2025-05-18T16:36:53Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLepw_9kOseUgHWmxpMPEWW6-Q84ZC5_CDIg4pruDfFClpi9xVxr6PdVzzJ8mBpcnjdtDllTO1coOPQBGlRZB4DuTIb-D-gjClw__w4KY3X5LiaFiq4lfkC3HxtLDTSa_8-fvk0M9A=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLPu5fd1MCqvkoJKfjKM9bxpPA9WKUem48Rc3nQwR4hyftNsNg_v9uAIRdvgE4Fu58zXhGBbvEsXtBeBeEynu3X_aq5o8aKQY-2XzaHDbi5-5i6e_pnoilTZxoc1ZxXp6NSp-O=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeWA_-Oo5xb_V-JfCS8MQRCIm5afwNFx51UBj4bb5DUO5z586F4T2aQvPjMNxTVo2YOKt5uod4h_fF_NEfLyL7S2eksCW2Ngiu6qaJEYKD0nlB8F573xbIkddsk9a5U1WlQup_fcw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeaTflkTar5fZweiKOkj6sG4uV2MLMIRnFapNFr4upmmucsMlHv_CIXeiEm6bJ8nEJ4XQfQ4MdlpFrxJ3YQsQ0Nr1SlfCzTBRzDYgmO6IH52u47VdrncQVS3zvLFzDAgeUpHZgaDg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcqliKuLx-jxJefYOxa_DylDsHSs80OnmwaztqaNhgxEx7DwbiNYtXvgGZxzewgarM6iji3WnI3gJSbV3eN8FiM-6Xh76w-fEFucqSj-A4qiqTEtptxKg43PQqqmaqgTlfjeKX3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeKsBiAIgLJjQTKl-vCtQ44oxVmGtxEhgn3yRtUhb6-GUIFU5i6sDvp3Hzx30tiWZv-1yGTUnMIPDaXR7yMz0xIwDQGhRpvR2xH26EA78vP-R7gVNqG4_XRo8VAUIOOOyJdfd0fvQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf3NnP5l7PNUmsOedcbEa8Rosn7KAM6bGhxfnEQ50SGZ7LDDbMFZrNW0oRyyyA1cbYBqQ-X9wzABHJMFP0bGiNcQ-W0BQIJksyn4gGBX0Kvo4HNjpyU6O1i1UZDkCVrNAAc3HN6=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcQ_OWtCpMB8ZI_qhI5ekDPySLRaajOsu1KfxGtB87y_bukl4bp_rewJsc5K_2KGGKmDU43Tcoe50nmk7CQ2AIpUemfpLBJA0Zojzo9-WuxLAgtumru-t69mxmlWqJ3QdjpxRwF=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeG3JZ_iHKnBIe2S7vrrLzLfrXM49WCjpXh5QFK3CqQc79GhtwaLxwssih8ejm35-BvCCLUhKp8-zs7-PhZkztEMJr9HXf1i80QvfCFoczfy2kyLpNqfsqKUNddgeDK58un1w14TA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeEWbyvdo7nkIK9x6EA4uAgWxPtrGVINMe5xL5VLvPdeRrYiDl0obOEkweYa0ulBOzuiNBgZcoRLEdmByKYr4K5poWN-EEzfST6JgBNMBGKtzsXIKF4T8vAdIaUMIAvXaFjDdyJ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VNX3lwcG1KNUl1a2hnRRAB",
+      "user": {
+        "name": "Ruchika Pancholia",
+        "link": "https://www.google.com/maps/contrib/100869765420154094303?hl=en",
+        "contributor_id": "100869765420154094303",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJCv9-WE_lW0bX6vgLsdPZywunaxD5oPiD7Qeo10dHrBKJgEkL0=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 211,
+        "photos": 1063
+      },
+      "snippet": "We stopped by this restaurant on our way back from Adiyogi. It has a spacious seating area and offers a pure vegetarian menu featuring North Indian, South Indian, and Continental options. However, cleanliness needs serious attention—glasses were unclean, orders got mixed up, and the ladies' washroom was in poor condition.\n\nThe food was average overall. If you do visit, it's best to stick to South Indian dishes, as the others were quite underwhelming. The service staff also seemed inexperienced and could use better training.\nThey have ample parking space and the restaurant is disabled friendly.",
+      "extracted_snippet": {
+        "original": "We stopped by this restaurant on our way back from Adiyogi. It has a spacious seating area and offers a pure vegetarian menu featuring North Indian, South Indian, and Continental options. However, cleanliness needs serious attention—glasses were unclean, orders got mixed up, and the ladies' washroom was in poor condition.\n\nThe food was average overall. If you do visit, it's best to stick to South Indian dishes, as the others were quite underwhelming. The service staff also seemed inexperienced and could use better training.\nThey have ample parking space and the restaurant is disabled friendly."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 3,
+        "service": 2,
+        "atmosphere": 4,
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area, Outdoor patio / terrace, Private dining room",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "kid_friendliness": "Kid friendly and has park with rides for kids.",
+        "wheelchair_accessibility": "The restaurant is wheelchair accessible and has wheelchairs too."
+      },
+      "likes": 1
+    },
+    {
+      "position": 18,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VPcnhwcUdBaGUtcnN3RRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CIHM0ogKEOrxpqGAhe-rswE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-12T14:37:12Z",
+      "iso_date_of_last_edit": "2025-05-12T14:37:12Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VPcnhwcUdBaGUtcnN3RRAB",
+      "user": {
+        "name": "Anil Chanda",
+        "link": "https://www.google.com/maps/contrib/117267600650998995092?hl=en",
+        "contributor_id": "117267600650998995092",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWPVFBN6-bIFHThRzj8iR_jjNmYtrgZ3eNKfPjNV9kct4-1Zw0Zcw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 45,
+        "photos": 15
+      },
+      "snippet": "Nice food, clean washroom and mango trees in backyard. Food was excellent",
+      "extracted_snippet": {
+        "original": "Nice food, clean washroom and mango trees in backyard. Food was excellent"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    }
+  ]
+}

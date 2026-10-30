@@ -1,0 +1,148 @@
+{
+  "data_id": "0x3bb1e390a5514f65:0x3b8f2ca25b4423de",
+  "page": 1,
+  "review_filter": "query:restroom",
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 2,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 4,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTWNYUjRUWEZHYjI5emFYbEpRM0JzTlVkNlYzYxAB",
+      "author": "Subal Basak",
+      "rating": 4.0,
+      "date": "4 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejGVnvK6ID9kjGi4r8sGfpHt3WRzvqXyEP67yTMMwTfzP_1JlP-x_YuaA9LRspWvRzNVCRENg4vkoSsD6YtsdBQDyou4iOZq30m3aGqkQqcvRt68m83AmzC59uCkcKsykJ96ELwOkNZpM=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMYlgPQSoDhXNlS4bd6UrhWVrFaA4M6IxvBB1xQz831WF3UVzsdmNCuPE4FsOHElxnYssaUCQDTA0OYBUjFGBQlFG_Gc0Y2agxxl15h_wKbBM-h3yPwsY53vXjHxj7T-cY89Fthc1F1sc=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqynNIRBiYlKuO2dsCqHyXfE04vMf1Cf72pMn92LhvPnD5pLSW01KOyr7KBsDWmmuG_-boGDdLDLVEYWntfXoITwzQDixXA-yn28fGqbkS3zvhkDcQb9-vMYPyQyJQ7ALIDvwvVl3TXgQ=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3lUrOArkzh2uafu0nSBIqAptTYZwc1KeSsV5f-oAldWe_3Nxc-FSVgUqvFGzHYmz72j6ydFaEEiQjRmypeJlcmPoRyZT8y76IjS5bdRADTt927zRvFY6GGwk0sC3G9QnTt1bKnV4l_bU=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OXBpX0Z3EAE",
+      "author": "Shushma Kalkur",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwyo7JZcbIkeMuMWR6WdOwxVN4Okp4Ztgp0gOFON3S8ZlObb6Q1zam6lS3foQQTSXbzHlTBJKWyFE5wzd7fwL_QeMFqfcN7_TCaV2oOxseYQ_sXgMK09L_yItJUbysJhUeRj0GWg=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXazb8J4urRYZ_-XQBaffrWISL8bY_Z59GMa6STCKUmq30NGT4KIF4ZRjcuQ1-8NtKC0zukL2oBKZgOMFXDkV08ch32XOG51nMdXFGkiO3mPaWqKQ0i_1wGBz9gCW0X42PVumZ=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcafgVmYo_wThQHTg-mRSariJEVZ6ano3fpRZBM7CcDR8viLyN3uk1BAYKjziv1-VdqXD2tXU080Xr_Z1Pp49j28nRfRNG4QMyLVg-XMfI9CvgjNJG9g0ES4ZntGsBimGHmJgd_=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZckW3rvjHTCsZ4RSeR3Z77ikCCNbb7foF42ED9v5woTU5XbBLPiXSRdASQVD9mxpIu65fGqljZL-wsQ1Rb_LwDnmQjMzlCFZc-SK4XIXU8lnTsyRn1-OoxqEJA0aS4kcG_6ns=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOEDfwcvEyU6A1wrfJjcnznM_NTzS-Ak1RrF4qtMh0MC0lwOg_5cceZJtd0Qp-2LTXabZFdPshomScHK_1soh1E24W2pnRNCL7ytbYTlFu-UELYP3picXUEmIcrqZeE1s_losc=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMzRIcXZnRRAB",
+      "author": "Deepak Sridhar",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhNU5MX0dREAE",
+      "author": "Sumit Kumar",
+      "rating": 5.0,
+      "date": "Edited 3 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNellTWTJnRRAB",
+      "author": "Suhas",
+      "rating": 4.0,
+      "date": "Edited 4 years ago",
+      "images": []
+    }
+  ]
+}

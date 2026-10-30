@@ -1,0 +1,105 @@
+{
+  "data_id": "0x3bb1f387d961ff7f:0x5e5f63a1d714047b",
+  "page": 1,
+  "review_filter": "query:bathroom",
+  "has_next_page": false,
+  "reviews_on_page": 4,
+  "new_reviews": 4,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 4,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 4,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNGNGY3hNUzB4WjJacU5VWTRiazVLYzNjNU9WRRAB",
+      "author": "Sirohi-The City of GOD",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdZiPuKy7AkaVtgLKV9rWwEH6UTUXZZX5xmaCBMZ6e4rU-C3899CHS4g_cMn1CTAFcNWFzkcUXJXWkBCuhH9cyu-bMRhoWEKPEHa7oX8YV4-OrXV_4caZ8koCRp770k0_SW7dSgA23HzZD=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6Utp3U3IYNWW2Xv8bn5wtssXd14LgSJb-Vy0Of1XlQlVJSiDzIpCFDjYNPSzW5p1b7Fpfb1ujN4rs79NWGzSxcXt_5pIkxTMl_lD5aB4abBPdreqY7iYSi58eA0DLlPgAdCy5smZyUn0Y=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoknWv2qhqSSA2ieUCJiHd8qCTzQ-oiwBV-06MFAzWqtA47vrgkvGitDg0jL9vUVN-LxbEGjMzHsEWDD_zgebDMFhokREBdMVpNheQOa7CE6SbPXr5oZ1DdvrLpldI-9YEPO3_ul4GK_k=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBJAiMIzLC-rcVMgIJ_tNAnPRmdwctTmUkY3HjJU2wZkBMISM257hUjBzfLCALesqV7DqbtZHmKmcYIUNnK-qv1sZ_Osacfsr4e2l3kWlpvL_pBY3dyRYoToGK1xsWAesMGtiUl8XUn37V=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdWQyVTNhbEZRYkdGUlRFYzRlWFZyWWkxR1ozYxAB",
+      "author": "Rajeev Ranjan",
+      "rating": 5.0,
+      "date": "6 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUmRqaHdaR1JxTTNoSWVGSnFjWFJYTFhveWRWRRAB",
+      "author": "reena khanna",
+      "rating": 1.0,
+      "date": "10 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOck9FNVFkRzFDYVZwb1dsWnJhV2RUT1ROemRFRRAB",
+      "author": "Alexander Sullivan",
+      "rating": 5.0,
+      "date": "11 months ago",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "search_metadata": {
+    "id": "6ae30fbfd65b8c24a5741816",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/E-gkkfcp9rNta4BS-0wOLAw1BwZ1yTSucQBuVOyXz8g/6ae30fbfd65b8c24a5741816.json",
+    "markdown_endpoint": "https://serpapi.com/searches/E-gkkfcp9rNta4BS-0wOLAw1BwZ1yTSucQBuVOyXz8g/6ae30fbfd65b8c24a5741816.md",
+    "created_at": "2026-10-29 09:19:59 UTC",
+    "processed_at": "2026-10-29 09:19:59 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e3f2fe781a35:0xa978b861803d2fbb!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/E-gkkfcp9rNta4BS-0wOLAw1BwZ1yTSucQBuVOyXz8g/6ae30fbfd65b8c24a5741816.html",
+    "prettify_html_file": "https://serpapi.com/searches/E-gkkfcp9rNta4BS-0wOLAw1BwZ1yTSucQBuVOyXz8g/6ae30fbfd65b8c24a5741816.prettify",
+    "total_time_taken": 0.41
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e3f2fe781a35:0xa978b861803d2fbb",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxMFdtdExTalEyYWxaMVEwbG1SSEZ6ZGs0NWIzYxAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOk10WmtLSjQ2alZ1Q0lmRHFzdk45b3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T16:53:34Z",
+      "iso_date_of_last_edit": "2026-08-26T16:53:34Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMFdtdExTalEyYWxaMVEwbG1SSEZ6ZGs0NWIzYxAB",
+      "user": {
+        "name": "LUCKY pL",
+        "link": "https://www.google.com/maps/contrib/114160238262485872633?hl=en",
+        "contributor_id": "114160238262485872633",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJFSj9SArS4eSXoORFEsClf8cCZKK6yb9G3P_yUpv4LjdrWdog=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Very good service by sagar.\nWashroom are clean and teddy...",
+      "extracted_snippet": {
+        "original": "Very good service by sagar.\nWashroom are clean and teddy..."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 months ago",
+        "iso_date": "2026-08-26T17:06:22Z",
+        "iso_date_of_last_edit": "2026-08-26T17:06:22Z",
+        "snippet": "Dear LUCKY,\n\nThank you! Glad Sagar's service was very good, and that the washrooms were clean too. Do visit us again soon!\n\nWarm regards,\nTeam Empire",
+        "extracted_snippet": {
+          "original": "Dear LUCKY,\n\nThank you! Glad Sagar's service was very good, and that the washrooms were clean too. Do visit us again soon!\n\nWarm regards,\nTeam Empire"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOWWVGOVFTbVI1VUhWNU1WbFVSMFZhY1dKTVJrRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOjNYeF9QSmR5UHV5MVlUR0VacWJMRkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-24T14:37:10Z",
+      "iso_date_of_last_edit": "2026-07-24T14:37:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWWVGOVFTbVI1VUhWNU1WbFVSMFZhY1dKTVJrRRAB",
+      "user": {
+        "name": "naveen naveen",
+        "link": "https://www.google.com/maps/contrib/105425595227547919192?hl=en",
+        "contributor_id": "105425595227547919192",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW6D-qHZlLOoer2kwWFyqBm7KTcGpIYrtehH-n32CiOK1slU-JpJQ=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 1
+      },
+      "snippet": "Good experience today at Empire restaurant Devanahalli. Washroom are clean and teddy. And very friendly service stafe. Mr sagar. We visited again...!!",
+      "extracted_snippet": {
+        "original": "Good experience today at Empire restaurant Devanahalli. Washroom are clean and teddy. And very friendly service stafe. Mr sagar. We visited again...!!"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxblZuTTRlazB6WHpkUGRFeFJORmxaTjBKblRWRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOi1nVnM4ek0zXzdPdExRNFlZN0JnTVE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-16T18:13:23Z",
+      "iso_date_of_last_edit": "2026-06-16T18:13:23Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxblZuTTRlazB6WHpkUGRFeFJORmxaTjBKblRWRRAB",
+      "user": {
+        "name": "Prathiksha Gangadhar",
+        "link": "https://www.google.com/maps/contrib/110532376420006584832?hl=en",
+        "contributor_id": "110532376420006584832",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXCf_oAZsRTVPXRPYBOJO1aDi4beH_GjvySjqM7IR8hnYwuFwU0=s120-c-rp-mo-br100",
+        "reviews": 13,
+        "photos": 1
+      },
+      "snippet": "The washroom is very dirty very un hygienic",
+      "extracted_snippet": {
+        "original": "The washroom is very dirty very un hygienic"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 3
+      },
+      "likes": 0,
+      "response": {
+        "date": "4 months ago",
+        "iso_date": "2026-06-17T09:11:55Z",
+        "iso_date_of_last_edit": "2026-06-17T09:11:55Z",
+        "snippet": "Dear Prathiksha Gangadhar,\n\nWe are sorry to hear about your experience with us. The hygiene standards  you experienced are not acceptable, and we are taking this matter seriously. We are reviewing the issue to ensure improvements are made promptly. Please contact our customer care at +91 97418 88822 so we can discuss this further.\n\nWarm Regards,\nTeam Empire",
+        "extracted_snippet": {
+          "original": "Dear Prathiksha Gangadhar,\n\nWe are sorry to hear about your experience with us. The hygiene standards  you experienced are not acceptable, and we are taking this matter seriously. We are reviewing the issue to ensure improvements are made promptly. Please contact our customer care at +91 97418 88822 so we can discuss this further.\n\nWarm Regards,\nTeam Empire"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kMVYySlJRVVZDWWpWU04xaG9kMnh6V2tSQ2RGRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOmd1V2JRQUVCYjVSN1hod2xzWkRCdFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-20T17:03:57Z",
+      "iso_date_of_last_edit": "2026-02-20T17:03:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMVYySlJRVVZDWWpWU04xaG9kMnh6V2tSQ2RGRRAB",
+      "user": {
+        "name": "Dheeraj Babu",
+        "link": "https://www.google.com/maps/contrib/112906237052131737950?hl=en",
+        "contributor_id": "112906237052131737950",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX3MzIbryGjTiQGayxlrdbyWMns2314DgoUDscIgExlOUlYS6Fq=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Nice atmosphere. Washroom are clean and teddy. And very good service sagar",
+      "extracted_snippet": {
+        "original": "Nice atmosphere. Washroom are clean and teddy. And very good service sagar"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xselZVOVFkRGhHVFZwMVF6aGZUazQ0WHpoUWRFRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOllzVU9QdDhGTVp1QzhfTk44XzhQdEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-11T18:01:28Z",
+      "iso_date_of_last_edit": "2026-02-11T18:01:28Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xselZVOVFkRGhHVFZwMVF6aGZUazQ0WHpoUWRFRRAB",
+      "user": {
+        "name": "Sai Mouli",
+        "link": "https://www.google.com/maps/contrib/118436462331877320657?hl=en",
+        "contributor_id": "118436462331877320657",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWKHEb76Mys80Mdbr-dvD0RplAzYKr_lmB8BB5N8Vd6Pxx-Y5Yk=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "It was very good experience. Good hygiene restaurant washroom are clean and teddy stafe behaviour is good specially thanks to mr sagar he suggested very tasty foods",
+      "extracted_snippet": {
+        "original": "It was very good experience. Good hygiene restaurant washroom are clean and teddy stafe behaviour is good specially thanks to mr sagar he suggested very tasty foods"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    }
+  ]
+}

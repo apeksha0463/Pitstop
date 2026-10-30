@@ -1,0 +1,53 @@
+{
+  "search_metadata": {
+    "id": "6ae30fb127e2c1ec1e9a6701",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pwY8wNr2iC58irtx3oZzUwX4mbC2LFm1O-u8LXXdiPw/6ae30fb127e2c1ec1e9a6701.json",
+    "markdown_endpoint": "https://serpapi.com/searches/pwY8wNr2iC58irtx3oZzUwX4mbC2LFm1O-u8LXXdiPw/6ae30fb127e2c1ec1e9a6701.md",
+    "created_at": "2026-10-29 09:19:45 UTC",
+    "processed_at": "2026-10-29 09:19:45 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e29159d69fe1:0x324d96dade0efb15!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/pwY8wNr2iC58irtx3oZzUwX4mbC2LFm1O-u8LXXdiPw/6ae30fb127e2c1ec1e9a6701.html",
+    "prettify_html_file": "https://serpapi.com/searches/pwY8wNr2iC58irtx3oZzUwX4mbC2LFm1O-u8LXXdiPw/6ae30fb127e2c1ec1e9a6701.prettify",
+    "total_time_taken": 0.45
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e29159d69fe1:0x324d96dade0efb15",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURSbUxIV3VRRRAB!2m1!1s0x0:0x324d96dade0efb15!3m1!1s2@1:CIHM0ogKEICAgIDRmLHWuQE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-04-17T05:56:12Z",
+      "iso_date_of_last_edit": "2023-04-17T05:56:12Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbUxIV3VRRRAB",
+      "user": {
+        "name": "srikant chakravorty",
+        "link": "https://www.google.com/maps/contrib/108509057140500310563?hl=en",
+        "contributor_id": "108509057140500310563",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX7NWQxy2jbbvTBcbW-AGpLVpQtrhxe11fP5-E1ud-mYBEWYMGO=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 282,
+        "photos": 973
+      },
+      "snippet": "Bathroom and other facilities should be drastically improved",
+      "extracted_snippet": {
+        "original": "Bathroom and other facilities should be drastically improved"
+      },
+      "details": {
+        "food": 5,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "likes": 3
+    }
+  ]
+}

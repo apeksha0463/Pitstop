@@ -1,0 +1,70 @@
+{
+  "search_metadata": {
+    "id": "6ae30fe50ef330ed039ee676",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ysrA3TUHI1E8CqpYhOXmrvw3LL5oGI8WI9HFbcuKKSM/6ae30fe50ef330ed039ee676.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ysrA3TUHI1E8CqpYhOXmrvw3LL5oGI8WI9HFbcuKKSM/6ae30fe50ef330ed039ee676.md",
+    "created_at": "2026-10-29 09:20:37 UTC",
+    "processed_at": "2026-10-29 09:20:37 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e30070aee50f:0x4b5fdf769acaf73f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/ysrA3TUHI1E8CqpYhOXmrvw3LL5oGI8WI9HFbcuKKSM/6ae30fe50ef330ed039ee676.html",
+    "prettify_html_file": "https://serpapi.com/searches/ysrA3TUHI1E8CqpYhOXmrvw3LL5oGI8WI9HFbcuKKSM/6ae30fe50ef330ed039ee676.prettify",
+    "total_time_taken": 0.54
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e30070aee50f:0x4b5fdf769acaf73f",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VKZUtvcS1tdEpPanlBRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CIHM0ogKEJeKoq-mtJOjyAE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-11T16:55:50Z",
+      "iso_date_of_last_edit": "2025-05-11T16:55:50Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VKZUtvcS1tdEpPanlBRRAB",
+      "user": {
+        "name": "Naresh Babu Deevi",
+        "link": "https://www.google.com/maps/contrib/108523315566744895981?hl=en",
+        "contributor_id": "108523315566744895981",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWzQ16bwRqPWlbz_-vSm6pwTS9QHI6U831_a8lRoiFhCWjL5s_8yw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 212,
+        "photos": 1243
+      },
+      "snippet": "Great new place near Nandi hills circle.. great food , plenty of tables and well behaved staff.    The bathroom needs a bit of a long walk which is decently separated from the food service area.. it's clean and the paintings are fresh..",
+      "extracted_snippet": {
+        "original": "Great new place near Nandi hills circle.. great food , plenty of tables and well behaved staff.    The bathroom needs a bit of a long walk which is decently separated from the food service area.. it's clean and the paintings are fresh.."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-05-14T17:10:53Z",
+        "iso_date_of_last_edit": "2025-05-14T17:10:53Z",
+        "snippet": "Dear Guest \n\nThank you so much for your positive feedback! We really appreciate your positive review and it was great to have you as a customer. We look forward to serving you again soon.\n\nThanks & Regards\nKoteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Dear Guest \n\nThank you so much for your positive feedback! We really appreciate your positive review and it was great to have you as a customer. We look forward to serving you again soon.\n\nThanks & Regards\nKoteshwaram-The Temple Of divine food"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "search_metadata": {
+    "id": "6ae30fa29ab6f277064c5215",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VV2xmhhfF0kXlPv4SpLJxzg0Y7HApUvVDonyXjwnGhA/6ae30fa29ab6f277064c5215.json",
+    "markdown_endpoint": "https://serpapi.com/searches/VV2xmhhfF0kXlPv4SpLJxzg0Y7HApUvVDonyXjwnGhA/6ae30fa29ab6f277064c5215.md",
+    "created_at": "2026-10-29 09:19:30 UTC",
+    "processed_at": "2026-10-29 09:19:30 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e397f793c70f:0x60862294e68b1a37!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/VV2xmhhfF0kXlPv4SpLJxzg0Y7HApUvVDonyXjwnGhA/6ae30fa29ab6f277064c5215.html",
+    "prettify_html_file": "https://serpapi.com/searches/VV2xmhhfF0kXlPv4SpLJxzg0Y7HApUvVDonyXjwnGhA/6ae30fa29ab6f277064c5215.prettify",
+    "total_time_taken": 0.7
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e397f793c70f:0x60862294e68b1a37",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aeE1GaERZbFJuU3pOVWVtTXdlbnBwZGxsdlJFRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOmZxMFhDYlRnSzNUemMwenppdllvREE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-03T05:16:15Z",
+      "iso_date_of_last_edit": "2025-11-03T05:16:15Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeE1GaERZbFJuU3pOVWVtTXdlbnBwZGxsdlJFRRAB",
+      "user": {
+        "name": "M Vinod Kumar Naidu",
+        "link": "https://www.google.com/maps/contrib/111712505570349113859?hl=en",
+        "contributor_id": "111712505570349113859",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWj_NcIQhXLUQWrzfl1FdckjQ9Q4MBp9Vu4XdbwJV5mPS2yXUAm=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 26,
+        "photos": 2
+      },
+      "snippet": "Service very very very late and bad experience.Searvents very leaginees,\nToilet is worest no Hignic,Bad experience",
+      "extracted_snippet": {
+        "original": "Service very very very late and bad experience.Searvents very leaginees,\nToilet is worest no Hignic,Bad experience"
+      },
+      "details": {
+        "food": 5,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0,
+      "response": {
+        "date": "11 months ago",
+        "iso_date": "2025-11-03T07:35:27Z",
+        "iso_date_of_last_edit": "2025-11-03T07:35:27Z",
+        "snippet": "Please accept our sincerest apologies for your disappointing experience. A one-star rating is definitely not the standard we strive for at Devanahalli Gowdru Restaurant.\n​We are truly sorry that we missed the mark on your recent visit. We would appreciate the opportunity to learn more about what went wrong so we can address the issue immediately.\n​Please contact us directly at 9663274969 so we can resolve this for you. We hope you'll give us a chance to earn back your trust.\n​Sincerely,\nThe Devanahalli Gowdru Team",
+        "extracted_snippet": {
+          "original": "Please accept our sincerest apologies for your disappointing experience. A one-star rating is definitely not the standard we strive for at Devanahalli Gowdru Restaurant.\n​We are truly sorry that we missed the mark on your recent visit. We would appreciate the opportunity to learn more about what went wrong so we can address the issue immediately.\n​Please contact us directly at 9663274969 so we can resolve this for you. We hope you'll give us a chance to earn back your trust.\n​Sincerely,\nThe Devanahalli Gowdru Team"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYMkpULVlREAE!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDX2JT-YQ%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-23T20:33:27Z",
+      "iso_date_of_last_edit": "2024-10-23T20:33:27Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYMkpULVlREAE",
+      "user": {
+        "name": "Nisarga s",
+        "link": "https://www.google.com/maps/contrib/109737870541576430838?hl=en",
+        "contributor_id": "109737870541576430838",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIXUsCaAbDFlszgTnZ9sR3K3FhasnrqUYnKbBKaU8k9Jh70Mg=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "This is warest experience food is not good no igne toilet are very warest",
+      "extracted_snippet": {
+        "original": "This is warest experience food is not good no igne toilet are very warest"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "atmosphere": 1
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-01-12T04:00:58Z",
+        "iso_date_of_last_edit": "2025-01-12T04:00:58Z",
+        "snippet": "Thank you for sharing your feedback, and we’re sorry to hear about your negative experience at Devanahalli Gowdru Restaurant. We strive to provide great food and service, and it’s disappointing to learn that we didn’t meet your expectations.\n\nWe take your concerns seriously and would love to understand more about what went wrong so we can address the issues and improve. If you’re open to it, please feel free to reach out to us directly at 9663274969. Your satisfaction is important to us, and we hope you’ll consider giving us another opportunity to provide a better experience.\n\n\n",
+        "extracted_snippet": {
+          "original": "Thank you for sharing your feedback, and we’re sorry to hear about your negative experience at Devanahalli Gowdru Restaurant. We strive to provide great food and service, and it’s disappointing to learn that we didn’t meet your expectations.\n\nWe take your concerns seriously and would love to understand more about what went wrong so we can address the issues and improve. If you’re open to it, please feel free to reach out to us directly at 9663274969. Your satisfaction is important to us, and we hope you’ll consider giving us another opportunity to provide a better experience.\n\n\n"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkNWZfdU9nEAE!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDd5f_uOg%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-02-25T16:32:28Z",
+      "iso_date_of_last_edit": "2024-02-25T16:32:28Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf8qCOoTwumI10lJ-CzsM_ihUnYS5PVrzU8zafluVf4F3v6kf4Sp9T1JHq9GirXFZwoABjKzzt8KuxWlgpRP8ZQ70EbYiYCkrXuQpUsxPKCAkzGrdgIfOKGd8FOy4AphdrOxUMv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfO4PpEGujc9fWcXRWLnzcWmT1qc4EWFLDVLT3mrdcLo6bbKFviQD-uOSH3tH6Xjcyse1lmiA96BynTkRNTqzM7D4MHqE78a7jhFd6WgZWazyN_u7DTvWUdnb3M7vN4wXpYiBUN=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf1KoTqZiYIxd4XBlaA09sJYikuqiVyNyGuLbzWqy7eSs6THXMvcKG35xG7FLtCl4hxgHOsfqBFIIFavYoDO2qfJFyvLtR1EpIAPO0dcoQ2V5exagBM835673H9CmTY4oDPj4-7=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf74HHHRgFW95YRgezL6aHO6s5GGgbZr2SNtvVtvF7R9nemYJ1BQNLByOO0tL_KCTuDo6YEmAH3Ety5W9oOBCJFdYftw_jlO1DcMBeQ6OuPdOik5wqowE0jbJdeQJ5Ar5NfdP0A=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdPbEcdFsWbPKme87NyoPOVfHS5RTo2qVbbKH_q17SQcr756xlbsFWjoAUhqM7jJ90EA3p-1DBdjCt4cCKfaQTr-w3kLYrqC3mYvzBNUFY5HNfYmtSHa4Sc7HhJttCyKTiC3SHU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfCIJhzT8FBcW0sdQWuLZm5i-NMZAtwZaXBIjccCr-nEybd8DQEPMd0mtkMVluOeXjs1x_nx5v5-AsETf07Jxdf8xph0Zc0ENigZxo6r5ULayhASFKRO8QIFOCLj3tPEh6sct7Z=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdQv3NTCYy9Z05pEy_vSkmKNJoD5_hUbxzkWJiyVSldDwpTdYKXX0tek9fC4gRsDZlbJ4xXxyovCfsmx2KeFXwQZHM1sXGgOQeLmKNGzBDzZlheeLMj49pFMLnr5hS30lcVeEUM2Q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcCA-QQE2q02M-I_JNg9aGEdQcSsM4JQ_jgoKcPcCmg9tRtgOLkLH253PwWILZWDhbstuQGMMrV1AQ-fB5rIAoOd9Dc_63t2mu1EO-GELDbRP1oUfbZSUYvr-AIHulU5ox8W7p_=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdnB4UXfjpCgOyGw2XSK3YZOiKhHp4yNEAF3uW_xigGeZljBoahPyLWgMptVsbSqWnrOlyMUii5TisKv3yQs2_2hOe8iGE_7-SF2OR6dU_90Bw_1l9guoK8P6RwN3MNYkKCdezbvQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcNDXV6Ud8wAm8BxDT7Hfk61jrR0AhwIsJMl5Y8zT7DFL1VUHLlDtBaxRoT_FT8oNg_8L1lQELdu7bDJmEnmFO_90f4U5Rhzot0XOmyA-nlacnw-F2OWNbyIO3Ae1742FoN17-O=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcSVyWL1WLYEMzwqRDwNC-T6gGsV6lfGUNfn6Hy8DVRe9VnCTMLK43k3QbSKL759cQV4Hj2SCMTVkGoDp_11WjKS6mFmtE969L8X5fbKKd3DEvofL995H11EZGj2V1v5QdIsihFLQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNWZfdU9nEAE",
+      "user": {
+        "name": "Anil Kumar K R",
+        "link": "https://www.google.com/maps/contrib/112045400643706817795?hl=en",
+        "contributor_id": "112045400643706817795",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX7ysNo7vyD75h7LP7WxbZykIA12qRmXj5PIl26lLdDsMmHEalk=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 32,
+        "photos": 1738
+      },
+      "snippet": "Food quality and taste is yummy.\n\nBiriyani and also kushka rice tasty .\n\nChicken kababa average.\n\nOverall decent one to have dinner .\n\nFacilities of toilet not up to the mark .",
+      "extracted_snippet": {
+        "original": "Food quality and taste is yummy.\n\nBiriyani and also kushka rice tasty .\n\nChicken kababa average.\n\nOverall decent one to have dinner .\n\nFacilities of toilet not up to the mark ."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-03-07T16:51:02Z",
+        "iso_date_of_last_edit": "2024-03-07T16:51:02Z",
+        "snippet": "\nThank you for sharing your feedback with us. We're delighted to hear that you enjoyed the taste and quality of our biryani and kushka rice. However, we apologize that the chicken kabab fell short of your expectations. We'll certainly take your comments into consideration as we continuously strive to improve our menu offerings.\n\nWe're glad to know that you found your overall dining experience to be decent and suitable for dinner. However, we're sorry to hear that the facilities of the toilet did not meet your expectations. We take cleanliness and comfort seriously, and we'll address this issue promptly to ensure a more pleasant experience for our guests.\n\nYour feedback is valuable to us, and we appreciate your patronage. If there's anything else we can do to enhance your experience, please don't hesitate to let us know. We hope to have the opportunity to welcome you back soon and provide you with an even better dining experience. Thank you for choosing us.",
+        "extracted_snippet": {
+          "original": "\nThank you for sharing your feedback with us. We're delighted to hear that you enjoyed the taste and quality of our biryani and kushka rice. However, we apologize that the chicken kabab fell short of your expectations. We'll certainly take your comments into consideration as we continuously strive to improve our menu offerings.\n\nWe're glad to know that you found your overall dining experience to be decent and suitable for dinner. However, we're sorry to hear that the facilities of the toilet did not meet your expectations. We take cleanliness and comfort seriously, and we'll address this issue promptly to ensure a more pleasant experience for our guests.\n\nYour feedback is valuable to us, and we appreciate your patronage. If there's anything else we can do to enhance your experience, please don't hesitate to let us know. We hope to have the opportunity to welcome you back soon and provide you with an even better dining experience. Thank you for choosing us."
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURONDVySTNRRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDN45rI3QE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "2 years ago",
+      "iso_date": "2024-01-25T15:44:48Z",
+      "iso_date_of_last_edit": "2024-01-25T15:44:48Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURONDVySTNRRRAB",
+      "user": {
+        "name": "gowtham gowtham",
+        "link": "https://www.google.com/maps/contrib/107915008668175557531?hl=en",
+        "contributor_id": "107915008668175557531",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKtWTgZ7eKbZ35S3Rd81C-I7gRbyqlebBLPNcqThdhDsouH1g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 10
+      },
+      "snippet": "Food is not upto the mark, biryani spicy level is high and they will not provide service too and maintenance is not made properly toilet and all is badly maintained",
+      "extracted_snippet": {
+        "original": "Food is not upto the mark, biryani spicy level is high and they will not provide service too and maintenance is not made properly toilet and all is badly maintained"
+      },
+      "details": {
+        "food": 2,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "search_metadata": {
+    "id": "6ae30e2c5fa7b773c366ffd9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BgrB0q5KRu9dZMMWtX95KnrOGJrd_6IkDD6tBQg6OJI/6ae30e2c5fa7b773c366ffd9.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BgrB0q5KRu9dZMMWtX95KnrOGJrd_6IkDD6tBQg6OJI/6ae30e2c5fa7b773c366ffd9.md",
+    "created_at": "2026-10-29 09:13:16 UTC",
+    "processed_at": "2026-10-29 09:13:16 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19abdd77a72f:0x74f0cec84dee5ccd!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/BgrB0q5KRu9dZMMWtX95KnrOGJrd_6IkDD6tBQg6OJI/6ae30e2c5fa7b773c366ffd9.html",
+    "prettify_html_file": "https://serpapi.com/searches/BgrB0q5KRu9dZMMWtX95KnrOGJrd_6IkDD6tBQg6OJI/6ae30e2c5fa7b773c366ffd9.prettify",
+    "total_time_taken": 0.48
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19abdd77a72f:0x74f0cec84dee5ccd",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pRMVJXcExZM1ZHZEdaa01HbHVjVVpKVHpOc1gzYxAB!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CAIQACodChtycF9oOjQ1RWpLY3VGdGZkMGlucUZJTzNsX3c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-21T03:37:41Z",
+      "iso_date_of_last_edit": "2025-06-21T03:38:30Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMVJXcExZM1ZHZEdaa01HbHVjVVpKVHpOc1gzYxAB",
+      "user": {
+        "name": "Sanjay Singh",
+        "link": "https://www.google.com/maps/contrib/108712144375075525265?hl=en",
+        "contributor_id": "108712144375075525265",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWTHzRuKKHiyOZHR1zhrORRUCZ2vF4ohsqZgXLvZ8Fphwpm6JmG=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 18,
+        "photos": 0
+      },
+      "snippet": "Food - These guys serve left over food from previous day? How ridiculous is that? Esp idly and vada\n\nService - cash counter is always empty either the guy is is washing vessels or cleaning bathroom\n\nAtmosphere - Doesn't matter as long as the food sucks , no one will care",
+      "extracted_snippet": {
+        "original": "Food - These guys serve left over food from previous day? How ridiculous is that? Esp idly and vada\n\nService - cash counter is always empty either the guy is is washing vessels or cleaning bathroom\n\nAtmosphere - Doesn't matter as long as the food sucks , no one will care"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data_id": "0x3bae19cd83892495:0xc4ee26c182749dfe",
+  "page": 1,
+  "review_filter": "query:restroom",
+  "has_next_page": false,
+  "reviews_on_page": 2,
+  "new_reviews": 2,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 2,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabk9HZTJRRRAB",
+      "author": "Raghuraj Raja",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabk5heS1nRRAB",
+      "author": "pramod gowda",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdri5wGU_aNiySu9nCR-M9iAgwUP9vjKacWt664CZmvEeNE77SF92TtsK2MtkpkAin2uukQIBjVOSvYTFp5uUAwUfRwlavASHRqH8PNLbxFZE-iw4xYl7qpMI7mZrtAZXSIXXI=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    }
+  ]
+}

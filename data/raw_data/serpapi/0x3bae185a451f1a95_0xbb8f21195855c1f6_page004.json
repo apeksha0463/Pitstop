@@ -1,0 +1,161 @@
+{
+  "search_metadata": {
+    "id": "6ae2d1d9256086e9566d91c3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gzMQTSE_CQhH21hpMQHaVk5uLvReWtqTQqvg6YAqL7k/6ae2d1d9256086e9566d91c3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/gzMQTSE_CQhH21hpMQHaVk5uLvReWtqTQqvg6YAqL7k/6ae2d1d9256086e9566d91c3.md",
+    "created_at": "2026-10-29 04:55:53 UTC",
+    "processed_at": "2026-10-29 04:55:53 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae185a451f1a95:0xbb8f21195855c1f6!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/gzMQTSE_CQhH21hpMQHaVk5uLvReWtqTQqvg6YAqL7k/6ae2d1d9256086e9566d91c3.html",
+    "prettify_html_file": "https://serpapi.com/searches/gzMQTSE_CQhH21hpMQHaVk5uLvReWtqTQqvg6YAqL7k/6ae2d1d9256086e9566d91c3.prettify",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+    "hl": "en",
+    "next_page_token": "CjEIARIpCgoAP72GHduMKw__EhBr7GHvz9S04Y_bSBMAAAAAGgn92qACYd24wrAYACIA:50",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGYVlrNWlkWE5uU1U5TVJIWm1TV1pDTWs5a1UxRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkFaYk5idXNnSU9MRHZmSWZCMk9kU1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-11T16:10:27Z",
+      "iso_date_of_last_edit": "2026-05-11T16:10:27Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGYVlrNWlkWE5uU1U5TVJIWm1TV1pDTWs5a1UxRRAB",
+      "user": {
+        "name": "shubham Pandey",
+        "link": "https://www.google.com/maps/contrib/105048559662052585182?hl=en",
+        "contributor_id": "105048559662052585182",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW2FxNW7rSZbIQ9KGAgBfVjPpGPpk2xr6FB9MztXLo8_l0ZoiGq=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Food quality was excellent and served with utmost humility by Ashrita Suraj  & Bishwajeet",
+      "extracted_snippet": {
+        "original": "Food quality was excellent and served with utmost humility by Ashrita Suraj  & Bishwajeet"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,800–2,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSWFIwSTFUR0pWUjNaSldYQnBaWEUyTnpRd1IxRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjRXR0I1TGJVR3ZJWXBpZXE2NzQwR1E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-10T17:18:19Z",
+      "iso_date_of_last_edit": "2026-05-10T17:36:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWFIwSTFUR0pWUjNaSldYQnBaWEUyTnpRd1IxRRAB",
+      "user": {
+        "name": "Cheryl Dsouza",
+        "link": "https://www.google.com/maps/contrib/117183932298034152800?hl=en",
+        "contributor_id": "117183932298034152800",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIuSgm9KBhBRsNbXdUJ3D15_KilJtznWcreQ922cCmIAuvodw=s120-c-rp-mo-br100",
+        "reviews": 12,
+        "photos": 1
+      },
+      "snippet": "Good dinner overall.\nToo many mosquitoes!",
+      "extracted_snippet": {
+        "original": "Good dinner overall.\nToo many mosquitoes!"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 3,
+        "service": 5,
+        "atmosphere": 3,
+        "seating_type": "Outdoor patio / terrace"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoMmN6QmpSV3hGT0ZsRVYzcFZRMXBZVTNReU0xRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOlh2czBjRWxFOFlEV3pVQ1pYU3QyM1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-10T15:26:43Z",
+      "iso_date_of_last_edit": "2026-05-10T15:26:43Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMmN6QmpSV3hGT0ZsRVYzcFZRMXBZVTNReU0xRRAB",
+      "user": {
+        "name": "Simran Soni",
+        "link": "https://www.google.com/maps/contrib/116566400116392626632?hl=en",
+        "contributor_id": "116566400116392626632",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUj6kLldvfuGRiOuFpjZxdXlN-fgmbZVfSvrwAMvEFoeGWpP-Ys=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Food and service was great. Special mention to Asrita for making the experience even better.",
+      "extracted_snippet": {
+        "original": "Food and service was great. Special mention to Asrita for making the experience even better."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psclRUaGtZMWQ2UkZsd2JESnZVVGs1TjB4MU9GRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjlrTThkY1d6RFlwbDJvUTk5N0x1OFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-06T15:24:16Z",
+      "iso_date_of_last_edit": "2026-05-06T15:24:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psclRUaGtZMWQ2UkZsd2JESnZVVGs1TjB4MU9GRRAB",
+      "user": {
+        "name": "Sharath Raj",
+        "link": "https://www.google.com/maps/contrib/108684583031906992375?hl=en",
+        "contributor_id": "108684583031906992375",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUDEoSH6G2bcyhnzUUYLoN5NMhW6DEw754-kmPquw3Ne6J67dQ=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Sanju was the waitress treated us very kindly and good",
+      "extracted_snippet": {
+        "original": "Sanju was the waitress treated us very kindly and good"
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGck1URnZSMWxHZFc5c1dEVlFNMjFWVEdWblJVRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjFrMTFvR1lGdW9sWDVQM21VTGVnRUE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-06T10:06:26Z",
+      "iso_date_of_last_edit": "2026-05-06T10:06:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGck1URnZSMWxHZFc5c1dEVlFNMjFWVEdWblJVRRAB",
+      "user": {
+        "name": "Prarthana Purohit",
+        "link": "https://www.google.com/maps/contrib/108616670787173993818?hl=en",
+        "contributor_id": "108616670787173993818",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJM-FwhFjZska6Ze9cey-_fiBlmKHyAAsDMgweGcPjXgiGZIA=s120-c-rp-mo-br100",
+        "reviews": 12,
+        "photos": 0
+      },
+      "likes": 0
+    }
+  ]
+}

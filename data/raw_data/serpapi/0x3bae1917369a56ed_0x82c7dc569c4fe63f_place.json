@@ -1,0 +1,298 @@
+{
+  "search_metadata": {
+    "id": "6ae2e5ccfb762040a865c10b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Zd8lPUTilMRVOWo7LRht-BrqyyE_gOlgeqFL4_kt9sc/6ae2e5ccfb762040a865c10b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Zd8lPUTilMRVOWo7LRht-BrqyyE_gOlgeqFL4_kt9sc/6ae2e5ccfb762040a865c10b.md",
+    "created_at": "2026-10-29 06:21:00 UTC",
+    "processed_at": "2026-10-29 06:21:00 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0x0:0x82c7dc569c4fe63f!8m2!3d0!4d0!16s?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Zd8lPUTilMRVOWo7LRht-BrqyyE_gOlgeqFL4_kt9sc/6ae2e5ccfb762040a865c10b.html",
+    "prettify_html_file": "https://serpapi.com/searches/Zd8lPUTilMRVOWo7LRht-BrqyyE_gOlgeqFL4_kt9sc/6ae2e5ccfb762040a865c10b.prettify",
+    "total_time_taken": 0.64
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "data_cid": "9423743009843832383",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "place_results": {
+    "title": "Dine Spot Restaurant",
+    "place_id": "ChIJ7VaaNhcZrjsRP-ZPnFbcx4I",
+    "data_id": "0x3bae1917369a56ed:0x82c7dc569c4fe63f",
+    "data_cid": "9423743009843832383",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1917369a56ed%3A0x82c7dc569c4fe63f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1917369a56ed%3A0x82c7dc569c4fe63f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 13.1213489,
+      "longitude": 77.6173182
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7VaaNhcZrjsRP-ZPnFbcx4I",
+    "provider_id": "/g/11g8ybtht4",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUTbSRIrJ0yRHgHPo_nj9iRgNR9am5vq9dBmGYHQELdEcpowaC6g6Qs3Mfcg5K1kdDnACV-LXU-7QmECebjratpzFaBfj_rax-ZEgO1861PiZXjj4vHQWcJi8q9jcxfWj3G08x6YGNqWCU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/tOhrcnicHcRLcoIwAADQE0XCoAidcQGUgoofqBR148QAgWgSSKJiL-m6t3Gmb_H-Xo3WnfowjGtjjYgQ5FrdVCWx4LrieoQFM4hESgGsDM_zLyyp8935O5vLBXxmMYm34sSp22ZknbmITe69W_osOsRpmJQh7sQDBTaxU2WtakwmS_NSfnIv-AHJPgfTlIVBdaYS6e73C_k1PUk0gGNINqZjm9v2uKd0fI_TAi9ap3cpHuqCWhF0BvsQrfsiyGcPE0IImv8x4G_GDEc-",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 667
+      },
+      {
+        "stars": 2,
+        "amount": 275
+      },
+      {
+        "stars": 3,
+        "amount": 941
+      },
+      {
+        "stars": 4,
+        "amount": 1894
+      },
+      {
+        "stars": 5,
+        "amount": 2631
+      }
+    ],
+    "rating": 3.9,
+    "reviews": 6408,
+    "type": [
+      "Kerala restaurant",
+      "Breakfast restaurant",
+      "Family restaurant",
+      "Indian restaurant",
+      "North Indian restaurant"
+    ],
+    "reservation": {
+      "link": "https://www.swiggy.com/restaurants/dine-spot-bannerghatta-road-yelahanka-bangalore-236510/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+      "source": "swiggy.com"
+    },
+    "order_online_link": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFnOHlidGh0NBgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zOXiatiyOeH9yckP_sHd4A8&ei=zOXiatiyOeH9yckP_sHd4A8&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "address": "Shop No: 177, 4JC8+CXJ, Bagalur Main Rd, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka 560064, India",
+    "country": "India",
+    "phone": "+91 81053 02222",
+    "open_state": "Open · Closes 11 PM",
+    "hours": [
+      {
+        "thursday": "11 AM–11 PM"
+      },
+      {
+        "friday": "11 AM–11 PM"
+      },
+      {
+        "saturday": "11 AM–11 PM"
+      },
+      {
+        "sunday": "11 AM–11 PM (Karnataka Rajyotsava might affect these hours)"
+      },
+      {
+        "monday": "11 AM–11 PM"
+      },
+      {
+        "tuesday": "11 AM–11 PM"
+      },
+      {
+        "wednesday": "11 AM–11 PM"
+      }
+    ],
+    "at_this_place": {
+      "type": [
+        {
+          "title": "Services",
+          "places": 2
+        }
+      ],
+      "places": [
+        {
+          "position": 1,
+          "title": "R&P Reddy house",
+          "data_id": "0x3bae190013e124df:0xc4557d0c3e2554aa",
+          "data_cid": "14147351295989994666",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae190013e124df%3A0xc4557d0c3e2554aa&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3bae190013e124df%3A0xc4557d0c3e2554aa&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 13.1210845,
+            "longitude": 77.61737629999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x3bae190013e124df%3A0xc4557d0c3e2554aa%218m2%213d13.1210845%214d77.61737629999999&data_cid=9423743009843832383&engine=google_maps&google_domain=google.com&hl=en&type=place",
+          "rating": 4.5,
+          "reviews": 2,
+          "type": "Housing complex",
+          "type_id": "housing_complex",
+          "address": "4JC8+CXJ, Dwarka Nagar, Bengaluru, Karnataka 560064, India"
+        },
+        {
+          "position": 2,
+          "title": "Jeshvin Apartment",
+          "data_id": "0x3bae19001c280fb5:0xabc07f68302eec4c",
+          "data_cid": "12376031861475830860",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae19001c280fb5%3A0xabc07f68302eec4c&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3bae19001c280fb5%3A0xabc07f68302eec4c&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 13.119108299999999,
+            "longitude": 77.61845009999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x3bae19001c280fb5%3A0xabc07f68302eec4c%218m2%213d13.119108299999999%214d77.61845009999999&data_cid=9423743009843832383&engine=google_maps&google_domain=google.com&hl=en&type=place",
+          "type": "Apartment building",
+          "type_id": "apartment_building",
+          "address": "4J99+J97, Yallappa V Rd, Kattigenahalli, Bengaluru, Karnataka 560064, India"
+        }
+      ]
+    },
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Provides tasty food at a cheaper rate as compared to other resturant in the area\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXYxpJBBvMfoFZy-nje4oLt9HmQpX302LdqtB6OcMwwM9TKdAc1=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Good for Vegan and Veg lovers have variety of options on menu !!\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV7VDORSdLgmpS5DA2iYRu7JeVjNsUVsAmm4NFmB7eqfc3PpLE5Hg=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Ordered chicken biryani...tastes good and reasonable price...shawarma was ok ok\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKiCDeTgewFt9EyPrhwaluI7pOGW4EzB_IU4B_kRUPKGDq1EA=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Vaishaghan",
+          "rating": 5,
+          "contributor_id": "106715146883236056135",
+          "user_review_count": 35,
+          "user_photo_count": 34,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVEn--vSyMoB3M6pjV662kf7N4AhNpw3iMrf_US-Gcw7WIdqVMifg=s120-c-rp-mo-ba12-br100",
+          "description": "I tried shawarma from here the taste was pretty good. Reasonable price.\nAlso I took one small coke which had like zero fizz from inside so I asked them for a new one and they did that without a single thought.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WSGRtOWZWVlptZFcxeWVrdGxNRUYwVjNkb1JFRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOmVHdm9fVVZmdW1yektlMEF0V3doREE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcB1fPcx-uMfCTwiCU9EVpFcpYtfQ2UV8VzZcdUc_rjfxt_N75NBi9rcfZbmc3-XUz3zaLrpk0xCNmXj0ffLawqTdMLjpdDN6qGNPP-BcdcQibMe39e5FgMvgQyRRAra99EmqqaRsf6_eA=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfDUcSvvY5gFq1orqSyQWMMhjCHZum2r6nP84FmQCxDlWMRW1iEhg0ClQr0qtUHlvj8ZazpNAGYAXJQM-GJa8GAQ03CR9ETgZG3-qDf0-E4fJZsZIOSi6hgcLrrepJQP1Qo_NG0lXjyIKa=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-06-04T15:59:50+00:00"
+        },
+        {
+          "username": "Amjad Ahmed",
+          "rating": 1,
+          "contributor_id": "118093168838676448382",
+          "user_review_count": 22,
+          "user_photo_count": 24,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUauBlIxonyCvR4qR2uWJiiluZ-ebLb1uzHe2jdPw77cVvlp4Y2=s120-c-rp-mo-ba12-br100",
+          "description": "Today I have wisted to buy the mutton biryani to members of my manager birthday ...After buying seriously in my life i did a big mistake coming to this hotel wast biryani,  in the name of biryani tomato rice they have given that to one biryani 400 they have charged......wast wast wast I loss my rs.2000 here",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21rdFpXTmtUVTFCVTFJNE5ITXhPWFZKY1ZSRWVsRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOmktZWNkTU1BU1I4NHMxOXVJcVREelE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_LbNH0yoJw-0bGfnPCQ3upBzcAfuBI3ZDBK7XQuweHU3V9-eJnuqTW5PlJUJ7wIAqbwzgfpUxsgTulHVsNyEvOrpforkG7N2-sm11W7NAlonRkg3RPRnUfLTzG2Iy_OzJh2kkLXuU_pM=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrHl_yqmsCOXveAA5Ermcn_BRPzXkDiE6_mn6xd6eSAMPeEHRlGocXci5ARNa-AptbuWrtoOrFZ5A9klcUArEd-Rz2xE_TXdK1PrMnZ2cLYqo3nDadQsaoNhBfn8l0KERO3f7TsWN248vJ=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs5nXRFr9NEed0eqoABcr6JbYm4FPxWWTHmgfUfumQAcepLtcSMKki5R1VmKMG-jKVXLJlqsgR29mSuUlz8PbGaoctV9hG3y5cpZDc_6t34Gi3110xTicW7rM898mqPHjkeWxgK_kHz3om=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLewZLCcflXm69Ekc4OcaSeWNWQE7JNMZs8e4jresj020-8Cis39bCd7fvg8_zM8UFK15ZUALXHyAysgLT4hnVFL1kzVapDE3vpjNDOD0ppJTG1UTE5XDI-oqOLbFlMLHqaQ31QX_d3Jwb7I=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1tvtwbHsx12zyVXouXWCLMcZ-qGZmjDQLZCMemaHR_n08U9tP4OukgUl5dXdPpJwZTDaMpviBMLQgMQ5ESr9oPb4-ktDoJVMDI_8-8_9ZTKsGxCKWzONV4LSjsoVwU2L9ijZKhrQQ68oH=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-06-07T23:41:12+00:00"
+        },
+        {
+          "username": "Rukesh Raj",
+          "rating": 1,
+          "contributor_id": "113780803739047475160",
+          "user_review_count": 7,
+          "user_photo_count": 7,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX2wJj0uOgkVE9ZhHSqIUKvvlARVgmZobmj7CDHb39oB0-uctM=s120-c-rp-mo-ba12-br100",
+          "description": "I ordered Boneless Butter Chicken through Swiggy, but to my surprise, the dish I received contained several pieces with skin attached. In fact, there seemed to be more skin than actual boneless chicken. This is the first time I have experienced receiving a boneless butter chicken dish with so much skin.\nWhen I contacted the restaurant, they claimed that the cook was new and had made the mistake. They replaced the order and collected the original one. However, the replacement was equally disappointing, as the chicken was undercooked. On raising the issue again, the restaurant responded by saying that they had prepared it very quickly because I had already been waiting for a long time, which is why it wasn't cooked properly.\nThese explanations are unacceptable. A restaurant should maintain basic food quality and hygiene standards regardless of whether the cook is new or the order is delayed. Such careless service and unprofessional excuses have made this a very disappointing experience.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT213MllscENaRGhHTWt4dlFWTlVNVFozUTB4ak0xRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOmw2YlpCZDhGMkxvQVNUMTZ3Q0xjM1E%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGwNdKBcr3QKgp09ndjgZTXLGlQl9uHmhjTwPAuNFnFGlnPEToQVnaz2WuzzUg_tK13hqxZAczRgE0QhOj3h1OW2qsGkxdNdA63J32l06zYoDlUK2_jBxv3LOP4k_jlGOfrjJDrP7kOTCx=k-no"
+            }
+          ],
+          "date": "3 months ago",
+          "date_iso8601": "2026-06-29T16:52:53+00:00"
+        },
+        {
+          "username": "Gowtham Thangaraj",
+          "rating": 4,
+          "contributor_id": "110667804959058270644",
+          "user_review_count": 393,
+          "user_photo_count": 4541,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWpVXZHC6cLge9LWLstTrLU-asIkhEHvmVtKLP_WaWgYoQof2yQrg=s120-c-rp-mo-ba12-br100",
+          "description": "Visited for a meal while in Yelahanka.\nPros:\n• Taste: The food quality is solid. The Biryani and Shawarma items are tasty and portions are good.\n• Parking: Good space to park, unlike many other highway restaurants.\n\n• Service: You might have to wait a while to get the staff's attention. Service speed needs improvement.\n• Ambience: It’s a casual place, can get a bit noisy.\nOverall, a decent \"Dine Spot\" if you prioritize taste over premium service.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taZldrbEZWRlJZWWxkV1FWY3lNRkpmVEhOS1RVRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOkZfWklFVFRYYldWQVcyMFJfTHNKTUE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpZObYOfv8VUPJhWkpZ3EdpGzxlVrpWtCSQQ70OMX4Zu9XGl9NvnPN9By-5bkTLj88nLVh3Lz6xjm1lARFwtEBm8ooAesWloQY-mhhIOb_1GYSqRSglRlGQdNAXTVCelTXAvx1AOlFrDXx=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEDMbHaVrjmaYNYBQQn0RwlJkKE0l2gTN83-9D68rTxMk_I0IiyKZHYk5JS1kbWupRB1YuN-Dc1GTDLfXzzJB5W5J6UGbVJCszbf2i8HGe5DxQBzGFzQL7Hr7G3JDsTpUifsDzpBrBBTQI=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeZsev5gB1Apn680QXZAiis1-1PZKGAbV2Afzy9h0jtDJnwvypqOWLeZ2oxoK_3R4HAHCsfW7kbfxy0pMgJe0hVVMqzCVvSW8FbwyU_Up_5S-HFmMjukwm727QokE76HlfKkJ6qVBSSlfX=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvV8aO2KPck0Wj8xmi1RajM3kNUpZInN1fjwSf7PVimXzQ3sGgXpgaXqTvJRqK1ubxgcgb9qsmjBqHV9wjiIQq7uVALqaS6iXn5G6pgkWJpkWazlKDbjrAQozBkmCRmUw9aIxKYZMQrS0=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLez0FuJEcKcDJiKZaBSngEhDAznP6mvJnxbmJc21o-snSy18LAjxLHRDG245nBKcjpL8S6eXwFskDbZHwQ1yUxfgod_TdrreL7xxJW3BtCQuOuJE9XlhmhG3LJTJn7xKXQ3rGMdqfpLb1r9=k-no"
+            }
+          ],
+          "date": "10 months ago",
+          "date_iso8601": "2025-12-09T17:15:00+00:00"
+        },
+        {
+          "username": "abcd xyz",
+          "rating": 4,
+          "contributor_id": "114095028110917195200",
+          "user_review_count": 38,
+          "user_photo_count": 208,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU4EIFioIGe5b4AC5MCxgZdr7zUj3KWT1x4Kqz1YoR7ympCInap=s120-c-rp-mo-ba12-br100",
+          "description": "Kinda pleasant but it was very empty. I mean there should be SOME bustle at a restaurant. They served our food really fast. Quantity was good. Non veg recommended than veg(i personally love non veg more) Orange juice☺️. Really comfortable. Lot of options on the menu. Would definitely go again to try the other dishes too. Parking space-a little. Wheelchair access-not exactly\nIt was a 3 star cuz i want to go again and then come back to edit this review",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ5MllUanpRRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CIHM0ogKEICAgID92YTjzQE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcc3HlBlZ_Yy7y9142wv6n1uVTE5WYQ4yQd1hsfNtZH-m9S_wyZdMVRlnNSUjN7oXUgxXHcYEZeE548QUnvGwVMQ_K2o6kwEpR6xn0Wrj1aPcCFnOtC6z5sUaVfUp6K0E_Er828=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2-1uN8kKWN2OWMJ6aHPAFK70bFKEUU9cEz7655BmLVbwlyAAC4S9yfzansQi0DNp_Vo6Ez-W0lp_Ifht29LVLSGpkgbG8kchB9Ot2tm7QzWFA-GYTU0B6qNSIrkyxd6TMCqioPg=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdALYr190h66WqMJuCWFNN-aNNTCEJy0FRuIgOoxnPdPRwELBcXfRfdLQehQiUIKSBuopNb38nNqRS_Z6_I4aokKSPYOFOkZw521VajCN9l1gFZ0ycH-SQ5yfZjKOo8NzeFpZPi=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLJ1CM9DvzeZhSoeUkMbxMYWLzv9dz-KyidJYLQOzfQZK8AB-mh_X942zn5OtlCFV2br4_hBGpnhAZo3356vypqcarwpEZjF3TMJr3sQ4Hod3oBY3H2-bewXWuW2stTuW6JQsX_Q=k-no"
+            }
+          ],
+          "date": "Edited 2 years ago",
+          "date_iso8601": "2024-09-21T02:15:30+00:00"
+        }
+      ]
+    }
+  }
+}

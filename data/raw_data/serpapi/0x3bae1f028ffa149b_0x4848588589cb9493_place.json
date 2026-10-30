@@ -1,0 +1,172 @@
+{
+  "search_metadata": {
+    "id": "6ae2e99e7f83215164c81ad8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/neN8x9R1265NuxkkVcP9HkIacIGOxHlP0dzjdBxnmeo/6ae2e99e7f83215164c81ad8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/neN8x9R1265NuxkkVcP9HkIacIGOxHlP0dzjdBxnmeo/6ae2e99e7f83215164c81ad8.md",
+    "created_at": "2026-10-29 06:37:18 UTC",
+    "processed_at": "2026-10-29 06:37:18 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0x0:0x4848588589cb9493!8m2!3d0!4d0!16s?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/neN8x9R1265NuxkkVcP9HkIacIGOxHlP0dzjdBxnmeo/6ae2e99e7f83215164c81ad8.html",
+    "prettify_html_file": "https://serpapi.com/searches/neN8x9R1265NuxkkVcP9HkIacIGOxHlP0dzjdBxnmeo/6ae2e99e7f83215164c81ad8.prettify",
+    "total_time_taken": 0.25
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "data_cid": "5208510299619693715",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "place_results": {
+    "title": "Light House Family Restaurant(Attached Bar)",
+    "place_id": "ChIJmxT6jwIfrjsRk5TLiYVYSEg",
+    "data_id": "0x3bae1f028ffa149b:0x4848588589cb9493",
+    "data_cid": "5208510299619693715",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1f028ffa149b%3A0x4848588589cb9493&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1f028ffa149b%3A0x4848588589cb9493&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 13.1600456,
+      "longitude": 77.628907
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmxT6jwIfrjsRk5TLiYVYSEg",
+    "provider_id": "/g/11lnk9x_x6",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsJr8NpkqRe3h38Ic-GS40GRgeULKPXM7ZouSf0DhlIGBKzb5DkQIWujv5Rbt3xyayLEQJwJ_uS-FNINrDVZIoSrmhD2QuV2BddiJzBKICh4fHir3Jry14cPqDZbUm6oMRs3spvQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/f7jrgXicHcRLjoIwAADQE1WqRceYzEKsMi1IBOInbIyUQpVPsR8dvKFHmNtM4lu8v7cwptcLx2kEGlVSVg23mismO8M7M2KydSp10Row7SyXXt2GTFM1j_r6nnAk0Jww4Kcu9JOK78Ngd9p-ZdKmJcSiIb4XvPIprmNytLfHNMkN-h0uQ7iO6ZOebQo2EYkUPmREpqoVeBLbw8Qriit9eQFZCbf8uSpE1TB22e6Os3zfzuQ20Uj3j_j7OYYQAvGZge4f7h1FfA",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 3
+      },
+      {
+        "stars": 2,
+        "amount": 1
+      },
+      {
+        "stars": 3,
+        "amount": 1
+      },
+      {
+        "stars": 4,
+        "amount": 7
+      },
+      {
+        "stars": 5,
+        "amount": 54
+      }
+    ],
+    "rating": 4.6,
+    "reviews": 66,
+    "type": [
+      "Family restaurant"
+    ],
+    "order_online_link": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFsbms5eF94NhgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=nunias7gNMaDp84Py7SbkAQ&ei=nunias7gNMaDp84Py7SbkAQ&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "address": "Kempegowda International, Vidyanagar cross, airport road, near Gail gas bunk, Hunasamaranahalli, Karnataka 562157, India",
+    "country": "India",
+    "phone": "+91 95139 25512",
+    "open_state": "Open · Closes 11:30 PM",
+    "plus_code": "5J6H+2H Hunasamaranahalli, Karnataka, India",
+    "hours": [
+      {
+        "thursday": "11 AM–11:30 PM"
+      },
+      {
+        "friday": "11 AM–11:30 PM"
+      },
+      {
+        "saturday": "11 AM–11:30 PM"
+      },
+      {
+        "sunday": "11 AM–11:30 PM (Karnataka Rajyotsava might affect these hours)"
+      },
+      {
+        "monday": "11 AM–11:30 PM"
+      },
+      {
+        "tuesday": "11 AM–11:30 PM"
+      },
+      {
+        "wednesday": "11 AM–11:30 PM"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0x3bae1f028ffa149b%3A0x4848588589cb9493&engine=google_maps_posts",
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Nice ambience, tasty food, relaxed place.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV9VZbCPSOm88YvGPGZ5cLhxhA5wm4UwBls-Sez9yDAYvAj1MeD=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"No biriyani, no mutton items, no sea food only chicken items available.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKrsk6gcl4wor6Dc5nvYinUFL07NhjEwynImQm_sQpdgcTFCA=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Manjunath Manager is so friendly, good service\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKrb5hyhqWuMGW-cSG2je-0usfrrTHBZsGb349WFba76jNpwA=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Mani Sai",
+          "rating": 1,
+          "contributor_id": "108251140743901765067",
+          "user_review_count": 12,
+          "user_photo_count": 6,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWDNtBnE6Ct22fY-2LH04TR6erMsN2HkoHCkLHSt3TOtHvVSJj_=s120-c-rp-mo-ba12-br100",
+          "description": "One of the worst experiences I've ever had. The service was extremely slow, unprofessional, and completely lacking in customer care. The staff seemed uninterested in helping customers and did not maintain a professional attitude. The food quality was disappointing, and the hospitality was far below acceptable standards.\n\nThe management appeared poorly organized, which was reflected in the overall service experience. From start to finish, there was little attention to customer satisfaction. Overall, it was a very unsatisfactory visit that requires serious improvement in service, staff training, and management practices.\n\nBased on my experience, I would not recommend this restaurant to others.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GTVRHSnhWbXB2VTFwcVowbzFXa0kzTkc5aGVYYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOmFMTGJxVmpvU1pqZ0o1WkI3NG9heXc%7C%7C?hl=en-US",
+          "date": "4 months ago",
+          "date_iso8601": "2026-06-25T19:17:40+00:00"
+        },
+        {
+          "username": "Nachikethan Nachi",
+          "rating": 5,
+          "contributor_id": "113062258299529142238",
+          "user_review_count": 4,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLVAonkh3xU9z8_SXJyMktnNM1CVHayKbfHasYdqY625tBW9w=s120-c-rp-mo-br100",
+          "description": "I had an excellent experience at this hotel. The service was truly top-notch, with staff going above and beyond to ensure a comfortable stay. The atmosphere is welcoming and perfect for families. I would definitely recommend visiting with your loved ones!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21zd1JrUndNSEpSZFVsUVkzaE9jSFZXTUVGdU0xRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOmswRkRwMHJRdUlQY3hOcHVWMEFuM1E%7C%7C?hl=en-US",
+          "date": "6 months ago",
+          "date_iso8601": "2026-04-03T15:19:48+00:00"
+        },
+        {
+          "username": "Shankar BS",
+          "rating": 5,
+          "contributor_id": "116366401787169143594",
+          "user_review_count": 3,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUE4HtOstUnrtCE4J0nXmHm6cPvcbI2xusFz1PSqvz4MrH3gI_S=s120-c-rp-mo-br100",
+          "description": "Light house family restaurant is good place. Highly satisfied with the taste. Prices are standard but highly recommended for the taste. Place is aesthetic but lot of mosquito in the evening time. Rest everything is good. They provide liquor too. Best place for food and hope they retain same chef",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21NM2RYZDJkMnRHVTFaVlUyeHlYM2RYVTNkWFZYYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOmM3dXd2d2tGU1ZVU2xyX3dXU3dXVXc%7C%7C?hl=en-US",
+          "date": "9 months ago",
+          "date_iso8601": "2026-01-21T07:25:01+00:00"
+        },
+        {
+          "username": "Hari Prasad",
+          "rating": 2,
+          "contributor_id": "106769190833158174106",
+          "user_review_count": 18,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKrsk6gcl4wor6Dc5nvYinUFL07NhjEwynImQm_sQpdgcTFCA=s120-c-rp-mo-ba12-br100",
+          "description": "No biriyani, no mutton items, no sea food only chicken items available. Very answers from staff.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tadGNrNHdlbk52UmtSNWJqRmtjV3RvUkhObVkwRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOkZtck4wenNvRkR5bjFkcWtoRHNmY0E%7C%7C?hl=en-US",
+          "date": "a month ago",
+          "date_iso8601": "2026-09-05T14:43:55+00:00"
+        },
+        {
+          "username": "Gauransh Sarkar",
+          "rating": 5,
+          "contributor_id": "112100960633508363356",
+          "user_review_count": 4,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVlw_AaWKWWBlU1eBiqc2h5gDF1rOhvhxCtj9GrbNEXPSPKSZ8=s120-c-rp-mo-ba12-br100",
+          "description": "The venue handled both a quick visit and a slow social evening equally well.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxNGNYZExWRUpLYzIxNFZtRjZjR3hXUlRaMFFrRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOi14cXdLVEJKc214VmF6cGxWRTZ0QkE%7C%7C?hl=en-US",
+          "date": "2 months ago",
+          "date_iso8601": "2026-08-17T16:54:04+00:00"
+        }
+      ]
+    }
+  }
+}

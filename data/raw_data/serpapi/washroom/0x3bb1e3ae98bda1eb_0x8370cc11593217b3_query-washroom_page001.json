@@ -1,0 +1,186 @@
+{
+  "search_metadata": {
+    "id": "6ae30fb4d3243261c861a2ec",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/nCFsdUJCB91WCwOEo4tcyf79D9m4mfZ7D5_sdHCBKIY/6ae30fb4d3243261c861a2ec.json",
+    "markdown_endpoint": "https://serpapi.com/searches/nCFsdUJCB91WCwOEo4tcyf79D9m4mfZ7D5_sdHCBKIY/6ae30fb4d3243261c861a2ec.md",
+    "created_at": "2026-10-29 09:19:48 UTC",
+    "processed_at": "2026-10-29 09:19:48 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e3ae98bda1eb:0x8370cc11593217b3!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/nCFsdUJCB91WCwOEo4tcyf79D9m4mfZ7D5_sdHCBKIY/6ae30fb4d3243261c861a2ec.html",
+    "prettify_html_file": "https://serpapi.com/searches/nCFsdUJCB91WCwOEo4tcyf79D9m4mfZ7D5_sdHCBKIY/6ae30fb4d3243261c861a2ec.prettify",
+    "total_time_taken": 0.45
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e3ae98bda1eb:0x8370cc11593217b3",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGeVlXOTZPVlY2VEVsS2IwZEpVMDk0VFVScGFIYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOjFyYW96OVV6TElKb0dJU094TURpaHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T02:47:55Z",
+      "iso_date_of_last_edit": "2026-10-28T02:47:55Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeVlXOTZPVlY2VEVsS2IwZEpVMDk0VFVScGFIYxAB",
+      "user": {
+        "name": "Mahesh",
+        "link": "https://www.google.com/maps/contrib/105667675053490785990?hl=en",
+        "contributor_id": "105667675053490785990",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLSWZ5bFpEKt-3Oh5ibltAfeh_33Y3vhYpJKBAWEawtbTLCtQ=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Very good service good food\nWashroom is very clean",
+      "extracted_snippet": {
+        "original": "Very good service good food\nWashroom is very clean"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0,
+      "response": {
+        "date": "16 hours ago",
+        "iso_date": "2026-10-28T16:26:29Z",
+        "iso_date_of_last_edit": "2026-10-28T16:26:29Z",
+        "snippet": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "extracted_snippet": {
+          "original": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2prdFJEbE9kbTVTV2tNeExUQkxUVGRDV1hreWJIYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOjktRDlOdm5SWkMxLTBLTTdCWXkybHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T02:30:08Z",
+      "iso_date_of_last_edit": "2026-10-28T02:30:08Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prdFJEbE9kbTVTV2tNeExUQkxUVGRDV1hreWJIYxAB",
+      "user": {
+        "name": "Binod Nayak",
+        "link": "https://www.google.com/maps/contrib/115232649316776379157?hl=en",
+        "contributor_id": "115232649316776379157",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKiKbKrbJUrCnEGRso-2sAKB-TOqabny7DBTzARwPm515_SVQ=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Very good food also need washroom",
+      "extracted_snippet": {
+        "original": "Very good food also need washroom"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait"
+      },
+      "likes": 0,
+      "response": {
+        "date": "16 hours ago",
+        "iso_date": "2026-10-28T16:27:10Z",
+        "iso_date_of_last_edit": "2026-10-28T16:27:10Z",
+        "snippet": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!",
+        "extracted_snippet": {
+          "original": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGMVoyTkNRbE00TlUxRldtNW5hV1p1ZVhWS2JGRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOkF1Z2NCQlM4NU1FWm5naWZueXVKbFE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-04T15:05:26Z",
+      "iso_date_of_last_edit": "2026-05-04T15:05:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMVoyTkNRbE00TlUxRldtNW5hV1p1ZVhWS2JGRRAB",
+      "user": {
+        "name": "Nitish Kumar",
+        "link": "https://www.google.com/maps/contrib/109084079759793028079?hl=en",
+        "contributor_id": "109084079759793028079",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLHzLshsURI2ksbjrApIgGkuFfEfiKoD5moVBR5Yk7P6hs=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Very clean maintenance\nWashroom is top",
+      "extracted_snippet": {
+        "original": "Very clean maintenance\nWashroom is top"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-08T17:08:37Z",
+        "iso_date_of_last_edit": "2026-05-08T17:08:37Z",
+        "snippet": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!\n",
+        "extracted_snippet": {
+          "original": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!\n"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOmwteFZwZTZSMVpybDhVOFM2SFU0Y3c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-16T02:54:14Z",
+      "iso_date_of_last_edit": "2025-12-16T02:54:14Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdxuCPaZq8UmlwunuMsh5NEJM2xrg8d4uqqCVJHHKoFabrTIbNEe8ftR39-PoNJbL3tVOdW7MtXtkqC-tjUi1r9tEkz_TWvDydhFzC4Sp8fZ29Z0gOg4_6DhkmjlWML1jmsjG2JoiEkKrQ7=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeZnjLUxGRFB6I0hFY-bgxcx9i9Fu52e1-mHAu9KhSCXogjPkB3ZWNakytX1Xg38Ehysczy9ZE2dAMuUvk5YjlKZguUM9Tmy806JT-L6h6bmL88ClNKY5-l7y4LpDULEz5IE-DZGkU2dd1Y=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB",
+      "user": {
+        "name": "spoorthi Sajjan",
+        "link": "https://www.google.com/maps/contrib/117733142926950690885?hl=en",
+        "contributor_id": "117733142926950690885",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWYt8jVU7DiVuZqQ9DR_-HlmPPY8epy7q8onnEHHqbzM7nm4hBEHA=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 2
+      },
+      "snippet": "Taste is not so good for the price they r offering and very expensive for the quantity and quality which they are giving,\neither increase quantity or reduce the price, Tatte idli is like normal idli which is 140 rs and dosa is 180rs which looks like mini dosa worth 30-40rs anddddd ladies washroom is worst.\nStaff’s are good and friendly.",
+      "extracted_snippet": {
+        "original": "Taste is not so good for the price they r offering and very expensive for the quantity and quality which they are giving,\neither increase quantity or reduce the price, Tatte idli is like normal idli which is 140 rs and dosa is 180rs which looks like mini dosa worth 30-40rs anddddd ladies washroom is worst.\nStaff’s are good and friendly."
+      },
+      "details": {
+        "food": 1,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-08T17:18:10Z",
+        "iso_date_of_last_edit": "2026-05-08T17:18:10Z",
+        "snippet": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!",
+        "extracted_snippet": {
+          "original": "Thank you for your feedback. We regret that we couldn’t meet your expectations on this visit. We are reviewing your concerns and will take necessary steps to improve. We hope to welcome you again and provide a much better experience!"
+        }
+      }
+    }
+  ]
+}

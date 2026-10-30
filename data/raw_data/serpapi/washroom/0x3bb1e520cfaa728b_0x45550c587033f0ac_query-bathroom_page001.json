@@ -1,0 +1,122 @@
+{
+  "search_metadata": {
+    "id": "6ae3102cbccefca881558f5a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6WysN6JV1w9y-sSdrL4LMzFV44JoV7C4Novia8hDT7k/6ae3102cbccefca881558f5a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6WysN6JV1w9y-sSdrL4LMzFV44JoV7C4Novia8hDT7k/6ae3102cbccefca881558f5a.md",
+    "created_at": "2026-10-29 09:21:48 UTC",
+    "processed_at": "2026-10-29 09:21:48 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e520cfaa728b:0x45550c587033f0ac!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/6WysN6JV1w9y-sSdrL4LMzFV44JoV7C4Novia8hDT7k/6ae3102cbccefca881558f5a.html",
+    "prettify_html_file": "https://serpapi.com/searches/6WysN6JV1w9y-sSdrL4LMzFV44JoV7C4Novia8hDT7k/6ae3102cbccefca881558f5a.prettify",
+    "total_time_taken": 5.59
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e520cfaa728b:0x45550c587033f0ac",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNJeWNTamZ3EAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgMCIycSjfw%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-04-03T02:42:49Z",
+      "iso_date_of_last_edit": "2025-04-03T02:42:49Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdYAa1JIvYLKcrNERkLONv819XQVhwcsBqCDSaaZakjxhVa3Nz2BWOoaunOZEBp_cONoyDfarOAu2X5ednXAn7F4E5iDqnvIymKipgHoRfLruuRrXtFkD3nAG91aRAkupKCWSCB8w=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdr_oE1bIjsN0gjEvpesCqrNSl7IbxIOTiO0EIAsmaXrDALsHoZZiRLuY_ZKphaV5a9TCIBmL6bRNNTWykqM5bxLr-WoUcbsow20NPfxU6bqlKC7RlxwrSgJFVYuiZEbCbUd0Qc=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeUM3r3OOKjsFUV7tgFURhbjWxnsIeaFv5j1O5jvYiwGThV2FvCvwef8_-03x6kW7WLhIbbP21pCrDJsYOv1jxTDoILDdp3yjkK8c6aUt8xgCaUdEVCOe7gKXIACEisW8xwd9Fx-g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeQmBYNkCAlUlnB1VPjWHH9gNegRXZu4ePB87b1VHupW93EYSi965CYIQ9I8zZmmoatiqnefwyhtZpl2T9q4rHa080s7tbUfGeXLC_GwdMDw9JDZyRh85AMBCbnWTn5VGslxEK3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeNStXKb86F0J-Kfq2BZuIsje3-tDD2kZ0EmH0T32abc4oLza5kJVNCZAD10hWtgEnqAi4JbgCpdgiTSiCzTa1WTH4igbij7DMfquMQF3F_k-SACkV_rdKBAzt_TE_YxWIz2fmqkw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLDPDquvewqufKtNJ2svhYglNg7PhkJS9D4BVNcsJkIRX4hvUF_oGpc4-j4r95CHafrc_BWTH322XRyj2bMk0WUhmMxR62JZvbgumvQXMBv02p023lUh9LIY2BmaPgeXJ0BaCt=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJeWNTamZ3EAE",
+      "user": {
+        "name": "shefali srivastava",
+        "link": "https://www.google.com/maps/contrib/109150099047917041124?hl=en",
+        "contributor_id": "109150099047917041124",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXFby7WNf68wJEnhD9xxHyS5mq2Hpm6feehp9kLD3cHDfjv25ZvmQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 95,
+        "photos": 275
+      },
+      "snippet": "If you're traveling on the Hyderabad-Bangalore highway and looking for a great place to stop for a meal, Hotel Pranav is an excellent choice. Whether you're in the mood for breakfast, lunch, or dinner, this place offers delicious food and a comfortable dining experience.\n\nFood & Drinks\n\nOne of the highlights here is their filter coffee—rich, aromatic, and perfectly brewed, making it a must-try for coffee lovers. Their menu caters to different mealtimes, ensuring you get a satisfying meal regardless of when you stop.\n\nHygiene & Convenience\n\nCleanliness is a top priority at Hotel Pranav. The washrooms and handwash stations are well-maintained and stocked at all times, which is especially important for female travelers. There's also a dedicated bathroom area that helps mothers with diaper changes and cleaning up their little ones, making it a family-friendly stop.\n\nAmbiance & Location\n\nThe location adds to the charm, with a water body right across the highway, offering a scenic view and making the stop even more refreshing. The pleasant weather in this area enhances the experience, making it a great place to relax before continuing your journey.",
+      "extracted_snippet": {
+        "original": "If you're traveling on the Hyderabad-Bangalore highway and looking for a great place to stop for a meal, Hotel Pranav is an excellent choice. Whether you're in the mood for breakfast, lunch, or dinner, this place offers delicious food and a comfortable dining experience.\n\nFood & Drinks\n\nOne of the highlights here is their filter coffee—rich, aromatic, and perfectly brewed, making it a must-try for coffee lovers. Their menu caters to different mealtimes, ensuring you get a satisfying meal regardless of when you stop.\n\nHygiene & Convenience\n\nCleanliness is a top priority at Hotel Pranav. The washrooms and handwash stations are well-maintained and stocked at all times, which is especially important for female travelers. There's also a dedicated bathroom area that helps mothers with diaper changes and cleaning up their little ones, making it a family-friendly stop.\n\nAmbiance & Location\n\nThe location adds to the charm, with a water body right across the highway, offering a scenic view and making the stop even more refreshing. The pleasant weather in this area enhances the experience, making it a great place to relax before continuing your journey."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Ghee Masala Dosa",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "kid_friendliness": "Yes"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR2dGY3WXB3RRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDvtf7YpwE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-22T16:13:45Z",
+      "iso_date_of_last_edit": "2024-12-22T16:13:45Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dGY3WXB3RRAB",
+      "user": {
+        "name": "Dinesh S.",
+        "link": "https://www.google.com/maps/contrib/105203544132598337829?hl=en",
+        "contributor_id": "105203544132598337829",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWbNkAmi44nyycC6cr8_IjJ1FZvzItzJxzRn_Kq2ZRwtMVTf4RANQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 157,
+        "photos": 10
+      },
+      "snippet": "The bathroom smells terrible.. the food is good and price is reasonable",
+      "extracted_snippet": {
+        "original": "The bathroom smells terrible.. the food is good and price is reasonable"
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURJak0yODNRRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDIjM283QE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "7 years ago",
+      "iso_date": "2018-12-24T13:07:53Z",
+      "iso_date_of_last_edit": "2018-12-24T13:08:30Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJak0yODNRRRAB",
+      "user": {
+        "name": "touseef zaki",
+        "link": "https://www.google.com/maps/contrib/100981336557696676913?hl=en",
+        "contributor_id": "100981336557696676913",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX7rkVBQucxW7JXi8lwKI_jQ5DGHJsQuo1_699btxuGwBAU7xyI=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 726,
+        "photos": 2006
+      },
+      "snippet": "V stopped here for quick tea and v found it good. It's bathroom was not clean",
+      "extracted_snippet": {
+        "original": "V stopped here for quick tea and v found it good. It's bathroom was not clean"
+      },
+      "likes": 0
+    }
+  ]
+}

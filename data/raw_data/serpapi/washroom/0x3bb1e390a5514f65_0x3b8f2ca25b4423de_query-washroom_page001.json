@@ -1,0 +1,218 @@
+{
+  "search_metadata": {
+    "id": "6ae30f91c9d30d3ba5f8a98e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gFreLdIYlqaKes51N6GcqbYLkjunYUNM6l0PolqbW7o/6ae30f91c9d30d3ba5f8a98e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/gFreLdIYlqaKes51N6GcqbYLkjunYUNM6l0PolqbW7o/6ae30f91c9d30d3ba5f8a98e.md",
+    "created_at": "2026-10-29 09:19:13 UTC",
+    "processed_at": "2026-10-29 09:19:13 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e390a5514f65:0x3b8f2ca25b4423de!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/gFreLdIYlqaKes51N6GcqbYLkjunYUNM6l0PolqbW7o/6ae30f91c9d30d3ba5f8a98e.html",
+    "prettify_html_file": "https://serpapi.com/searches/gFreLdIYlqaKes51N6GcqbYLkjunYUNM6l0PolqbW7o/6ae30f91c9d30d3ba5f8a98e.prettify",
+    "total_time_taken": 0.26
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e390a5514f65:0x3b8f2ca25b4423de",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tScU4xRjVNV2RzV0VKWVoxOTNXbTV0Y2xGU05GRRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CAIQACodChtycF9oOkRqN1F5MWdsWEJYZ193Wm5tclFSNFE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-23T13:21:35Z",
+      "iso_date_of_last_edit": "2025-11-23T13:21:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tScU4xRjVNV2RzV0VKWVoxOTNXbTV0Y2xGU05GRRAB",
+      "user": {
+        "name": "Niladri Paul",
+        "link": "https://www.google.com/maps/contrib/112110180294708083210?hl=en",
+        "contributor_id": "112110180294708083210",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW3dDnbSVXh6SO4xXTSnb1noaqYmzj0ZIoatz9nVu5p-5Agc1jU9g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 521,
+        "photos": 927
+      },
+      "snippet": "It's just average food, takes long time to serve even if you order the most common and moving items. The washroom is also not cleaned regularly hence it stinks badly.. should have been maintained better.",
+      "extracted_snippet": {
+        "original": "It's just average food, takes long time to serve even if you order the most common and moving items. The washroom is also not cleaned regularly hence it stinks badly.. should have been maintained better."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 2,
+        "service": 1,
+        "atmosphere": 2,
+        "group_size": "3-4 people",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "parking_space": "Plenty of parking",
+        "wheelchair_accessibility": "No, have to use stairs to get into the restaurant."
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNubVA3NkVBEAE!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgICnmP76EA%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 years ago",
+      "iso_date": "2024-09-22T12:14:50Z",
+      "iso_date_of_last_edit": "2024-09-22T12:14:50Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeMlQ6_WQTfyqJpwTq5uFRdBL4tdH-127GoB6amaX84xo_aqGfvVJHgPy8kzFY3bUWnVIFimSj8f4XYKbpduVLwaQGxkuEP1oPTYHvS7jHS4-bIJ-EU7FMlClAJ2OEiZCzYlI4AUA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcJXw92lT3OkehioACeSTQ_GO-KI1p-T1S6ExXYC6V0yPVtt0Oiu1FxZXDjZd_Kys5uBAplTjjO4AfWIjpdJ1D-jXT7wlxIOvi4HM0svLP4R1bT2AytfQMZwrLusJpcezE4kYkU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcGlEw5rBlBRoWU6xx8U-pCjOQy6oopK8v0ucJ_9mCOLNJ3a295I-dWfSZoYHXaCjNxtefLDoeW--NdN41N2EaSl2iXc44-MhhWd8cZJKdlKQnv2k5gXL3ALlRSPdPBbwCigusAgQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfplbm8TyI6CMb91U-1Fi-6fjvxw0MBaaHIm5HzvlMlfCrqZBq99cjj8elZsuXqJwBHSpwxV4JOvkf3wCKUZYmyouloNuSJ97XK9oWp0Ce3A3o9A-4SbhfuawcVB7U1Tuc3nPDK=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd3-Z-Mjlirn90TCCLXXEb2voMyY-z-ZmwWyo7QT_dZz7kAOCWhlWvaJ4yz8MfR9z96DQFGe27ULSCbemi1E-EY6OF5RTdL9Od1Wu21MKIT1-XqGuPHnQ1eISdbEIL7tKk4j3tcVg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfXrLGQguZiPVpH9B2H2_eGqjhyYIx9SzWmBDWsxlw8TkSox-rUkXX0JoqhVvzq3YFq4OMUEoU2GbTXsU__c0p6obuge0wVJPwT-G4NanDHQPLRxiwNOqCs0OPmC9pKUp3sHq-h=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcSMrj_O2dsGxWXEUiUoXGRDXnfYeLP-Z1EM1isVAzF_iW-LOAvtb6F-TkUohBJdS4JjUD8VjTNP3JaoP2fCt5uUP-bOu8UN4Pr27y6HGWwa1nIBZu6tXFbGeogczm8yTFrmzUDLg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeqbtMGD1DRPIH7E9Nti70vodSwdxvbDYZPIbe5mcnB9hgyLQIp3ftnVyHm5Jxpjj_w4VWxtaE39ftAf-P0YMy2mZnbF_obeHeikw6BwhpBs4Yeh5SLL2QuLFZaRXSWu4HmqC3s=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeGr4Ae9zB-o10oa0agaZXT6xmHhWfZqo1MiEkdpEwu-HQdmeAwY4K5pwtgAHTkjBm9JvUk_PNeIWB-Xjqo0QJwhqQutuxjHgoi9uSzxOKz8Wc4gbAg_r5geH1-TeknQxtw4R1FWg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdbSWHA9brln5w_-B6BmgOlaKCk9bHtu78M3mFDvc4pI5do-hU15zIRgvZkwBdfFUm3pSmsU6vjtQqT6ogL_CSVzY8r1eovrAu1LSepXue30eI0ai-yaNPBkb73ehEe0FA525Tw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfVnFJUXLDgWX9SVijpll4ZxXLhwsWzMP6yy7gfTlhceJ86z1-Xhr1469LDdSlYUSqXSjD3E5G27fu9H4AGnKiHZUQipFbmfvAFZVhkOB3ux4CjD85lAgIDTzgDvu0nCBvXKCSwDA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf5ENwGcOKn2JYlp45LjwecQlzsUSLDkYQkI6Mul_hydYfbJa9WjMAA82lPWkHsxhLPUm0qLC2w_doSI22wc8D8olOEMHeo6oM6LUZAGbx1cz0wOzueasluhPZ_i1yj5ZcaeFja=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLerO4l2Xzn_-blU-d56sV5Y-OHnQzpdtWVLYqb5RelQlGg-pI9saAiwKUojOTUpFiPvPGNpJ6KJhbnx4E0JkO9vTKDlqGV6onzoaYIuNWTu9WOK5GFrEhm5JFh4cOobrm_PrmyiVw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdkUw_8o3yfRLOpQsokmi8J9s_eaePzZeFhCUX3mW8bHeFwwJVi-rx8JVHLfNaHE2qILgb509NoHPnjlcGnEbsOxPtJ4Vu19sN3Y_zJT3_MwKqCdT26s53GB2mEQ3uYl0aX9Ydf=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe6Y_lE7Z06lULSEmiIP4xAMKcqclJEHpm2CW7vO7QOJjtdXKaM04NRQEnaiJ0huqdHOVeQVMk8n9uu4YO74PwxhPhs7NJ0n_wjFdkI-C7Q75BUv8nrNP8UYBax7jIvALmSq-Ry4Q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdHVILSkEZu9qnu2aYMITxOdA4D8XaJr0Bt1OKQEUNQgP9pmLjB1fm8mYuIbk1A6AL3FqxSD6d4I5IV1WhMwPep7jeJcTUw4EABAWcJD1-3SLUsx9qdJjMjdWLhfj_KNTZed6S0=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNubVA3NkVBEAE",
+      "user": {
+        "name": "Vinayak Shenoy K",
+        "link": "https://www.google.com/maps/contrib/107150217567633040715?hl=en",
+        "contributor_id": "107150217567633040715",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocINnsFAGh_Si6AXSvcArFqNIjiEUfDTsakMkiOkOxNERTLbHA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 744,
+        "photos": 6962
+      },
+      "snippet": "Visited here on a Sunday evening and it wasn't crowded at all. Located along the Hyderabad highway, there is ample parking space available. There is also a lodging facility.\nWe had the following: Raj Kachori, Litchi Mojito, Litchi milkshake, Tea, Coffee and Lime Soda. It took a lot of time for tea and coffee to be served. Despite being seated in the AC service section, the ambience was hot and the price wasn't justified for what we paid.\nThough the taste was good, the atmosphere inside wasn't pleasant due to no cooling.\nThere is a washroom and it is clean.",
+      "extracted_snippet": {
+        "original": "Visited here on a Sunday evening and it wasn't crowded at all. Located along the Hyderabad highway, there is ample parking space available. There is also a lodging facility.\nWe had the following: Raj Kachori, Litchi Mojito, Litchi milkshake, Tea, Coffee and Lime Soda. It took a lot of time for tea and coffee to be served. Despite being seated in the AC service section, the ambience was hot and the price wasn't justified for what we paid.\nThough the taste was good, the atmosphere inside wasn't pleasant due to no cooling.\nThere is a washroom and it is clean."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Other",
+        "price_per_person": "₹1–200",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 2,
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "Pure vegetarian restaurant.",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Ample parking space in front of the restaurant.",
+        "wheelchair_accessibility": "There are steps and it is not easy for the physically disabled."
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6N295Yml3RRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgICz7oybiwE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-06-02T05:55:43Z",
+      "iso_date_of_last_edit": "2024-06-02T05:55:43Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe0jTS9EcvDKAHPxBxTq8ETrUVv4xcxWd15Uj3UdoMAed8VMNVfSlj_3diy0u95T06CVzJlsKi_mBQrPt5p3D4fh1gwxqmlwgbqfAVWB-yueZTa4nE0GxHdEZHdgYHIg7PH2SnV=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6N295Yml3RRAB",
+      "user": {
+        "name": "Raja Mahapatra",
+        "link": "https://www.google.com/maps/contrib/116852803529885767987?hl=en",
+        "contributor_id": "116852803529885767987",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV5E6lnBhcOt3qESvmT4oyjXxUzfIjT1MsU6SL5AnPufnNgB_7C=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 301,
+        "photos": 159
+      },
+      "snippet": "Nice place for breakfast items, just tried those. Like the rava onion masala dosa and the regular masala dosa. Clean and well maintained place with washroom and ample car/bike parking. They have AC and non-AC sitting, paan shop and souvenir shop too.",
+      "extracted_snippet": {
+        "original": "Nice place for breakfast items, just tried those. Like the rava onion masala dosa and the regular masala dosa. Clean and well maintained place with washroom and ample car/bike parking. They have AC and non-AC sitting, paan shop and souvenir shop too."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "recommended_dishes": "Open Butter Masala Dosa, Rava Dosa",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqdjlqQzVRRRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgICjv9jC5QE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 years ago",
+      "iso_date": "2024-04-27T16:36:23Z",
+      "iso_date_of_last_edit": "2024-04-28T09:28:32Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqdjlqQzVRRRAB",
+      "user": {
+        "name": "lokanath das",
+        "link": "https://www.google.com/maps/contrib/118371917004264793774?hl=en",
+        "contributor_id": "118371917004264793774",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXSnrZMnGB-RcUCnAnygHqn7pfmcr6tIQyypqEZskgzvCqMdVp-=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 201,
+        "photos": 309
+      },
+      "snippet": "It's NH side restaurant.\n\nPros:-\n1. location\n2. Ambience.\n3. Varieties.\n3. Non onion & garlic food you can get here.\n4. Food taste was good.\n\nCons:-\n1. When I visited a couple of days back, there was literally no water in the washroom. May be due to water issues( but they have taken this to a different level) . Absolutely illogical.\n2. Food generally took a 30 min to arrive at the table.",
+      "extracted_snippet": {
+        "original": "It's NH side restaurant.\n\nPros:-\n1. location\n2. Ambience.\n3. Varieties.\n3. Non onion & garlic food you can get here.\n4. Food taste was good.\n\nCons:-\n1. When I visited a couple of days back, there was literally no water in the washroom. May be due to water issues( but they have taken this to a different level) . Absolutely illogical.\n2. Food generally took a 30 min to arrive at the table."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCcXJ6X2VnEAE!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgICBqrz_eg%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2022-12-22T09:46:57Z",
+      "iso_date_of_last_edit": "2022-12-22T09:46:57Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCcXJ6X2VnEAE",
+      "user": {
+        "name": "Ganesh R Hegde",
+        "link": "https://www.google.com/maps/contrib/101702713335373763220?hl=en",
+        "contributor_id": "101702713335373763220",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIv20afRg62N64W3snE43NQuoIiq-XEyRLgga-WKwDzSODcIg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 52,
+        "photos": 56
+      },
+      "snippet": "Taste is ok. Since this hotel is very next to highway can stop for pure veg food.\nSouth Indian, North Indian foods are available.. decently clean washroom.\nGood parking space. Busy during weekends",
+      "extracted_snippet": {
+        "original": "Taste is ok. Since this hotel is very next to highway can stop for pure veg food.\nSouth Indian, North Indian foods are available.. decently clean washroom.\nGood parking space. Busy during weekends"
+      },
+      "details": {
+        "food": 3,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "likes": 0
+    }
+  ]
+}

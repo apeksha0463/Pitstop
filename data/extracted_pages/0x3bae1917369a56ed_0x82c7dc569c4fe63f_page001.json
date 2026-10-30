@@ -1,0 +1,114 @@
+{
+  "data_id": "0x3bae1917369a56ed:0x82c7dc569c4fe63f",
+  "page": 1,
+  "has_next_page": true,
+  "reviews_on_page": 10,
+  "new_reviews": 10,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "serpapi_pagination",
+      "topics"
+    ],
+    "place_title": "Dine Spot Restaurant",
+    "place_type": "Kerala restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 10,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": true,
+    "has_next_page_token": true,
+    "first_review_keys": [
+      "date",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeGJWbGpUVEJ0WVMweU9WRjBTV3RCU0dKc01sRRAB",
+      "author": "vinay kumar",
+      "rating": 4.0,
+      "date": "20 hours ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xselpsbHpUREJZYm5GVWQxRlplbE5ZUzBOelowRRAB",
+      "author": "Suhas acharya",
+      "rating": 4.0,
+      "date": "a day ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaFJrOXJUbWhWY0VoYWFWVkJTbXhLYUVwQk5sRRAB",
+      "author": "ayyappan r",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkNk16aEpXV0Y1U0RkMlQxVTJVRzR3YURCak5XYxAB",
+      "author": "Manavalan Sankarappan",
+      "rating": 4.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poa2RUaGpXRlpoYWpoS2VtMU9hbEJYUlVSYVdWRRAB",
+      "author": "Diya shajil Diya",
+      "rating": 2.0,
+      "date": "3 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gd2NrOVNMWFpUUlVkaWEzRXlTbVpFUVVoWGIxRRAB",
+      "author": "rohit soni",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNGRtVjVZV3RqUldONVpGOXBjblV4ZWpWa05XYxAB",
+      "author": "Sangeetha",
+      "rating": 1.0,
+      "date": "4 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKYWNrUlNabk40VFY5U09XNW9WSGhEUVhneVNHYxAB",
+      "author": "Paul Jacob",
+      "rating": 1.0,
+      "date": "5 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVVIwNXNPRUYzYldoTlFXdFRObDlHZG1FellYYxAB",
+      "author": "Jayashree Poojari",
+      "rating": 3.0,
+      "date": "a week ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTVVVUjZkVEJGYWpoVFYzRjFVM2RWZGpaa1ozYxAB",
+      "author": "Diptanu Rudra Paul",
+      "rating": 1.0,
+      "date": "a week ago",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "search_metadata": {
+    "id": "6ae30f1cc1c55684201c59ca",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/I29YU_mYlAU0Dr62Lf14HBNYTNQe7gfZ7m-sQh-DZXo/6ae30f1cc1c55684201c59ca.json",
+    "markdown_endpoint": "https://serpapi.com/searches/I29YU_mYlAU0Dr62Lf14HBNYTNQe7gfZ7m-sQh-DZXo/6ae30f1cc1c55684201c59ca.md",
+    "created_at": "2026-10-29 09:17:16 UTC",
+    "processed_at": "2026-10-29 09:17:16 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1ebf50072b75:0x444bc75f4a582a0a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/I29YU_mYlAU0Dr62Lf14HBNYTNQe7gfZ7m-sQh-DZXo/6ae30f1cc1c55684201c59ca.html",
+    "prettify_html_file": "https://serpapi.com/searches/I29YU_mYlAU0Dr62Lf14HBNYTNQe7gfZ7m-sQh-DZXo/6ae30f1cc1c55684201c59ca.prettify",
+    "total_time_taken": 0.37
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1ebf50072b75:0x444bc75f4a582a0a",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psVFNtbzBMVUp1WlVWcmVrcFVaVXB4U2tSbk1VRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOjlTSmo0LUJuZUVrekpUZUpxSkRnMUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-07T05:50:48Z",
+      "iso_date_of_last_edit": "2026-07-07T05:50:48Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfCOvXHBbAWjCnZY4BrYv1WMIcTww3rriTdSybcWrKaBZEwWBwauWXyfwrieVRjH3J9bzP-BwXFAQQnrslv-qkG2WaIFCzvjWxlTwOBUUAPURoyEdkZwT7UQVgNe9o6OsuD_Q8p0YUfCw=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVFNtbzBMVUp1WlVWcmVrcFVaVXB4U2tSbk1VRRAB",
+      "user": {
+        "name": "asiya khan",
+        "link": "https://www.google.com/maps/contrib/109270131610298443806?hl=en",
+        "contributor_id": "109270131610298443806",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK_o-Xs2osavbiSKgfHNBWPFAlPLneWenk15tdVeHHGndKl=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 284,
+        "photos": 650
+      },
+      "snippet": "We were heading out from the airport & found this place.They have a tea and snacks counter and a restaurant attached that serves meals. They had a large choice of items for breakfast,from the usual idli,dosa to appams and idiyappam. We were 2 of us so ordered 3 appams each ,half a bowl of veg stew & a full egg roast ,it was really delicious,we kept getting appams straight from the pan. Service was very courteous. They had very clean restroom too.",
+      "extracted_snippet": {
+        "original": "We were heading out from the airport & found this place.They have a tea and snacks counter and a restaurant attached that serves meals. They had a large choice of items for breakfast,from the usual idli,dosa to appams and idiyappam. We were 2 of us so ordered 3 appams each ,half a bowl of veg stew & a full egg roast ,it was really delicious,we kept getting appams straight from the pan. Service was very courteous. They had very clean restroom too."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Large vegetarian selection"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgICeyKCMZQ%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited a year ago",
+      "iso_date": "2022-09-04T18:02:16Z",
+      "iso_date_of_last_edit": "2025-05-16T09:21:55Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLebmMPx2OWXSG2cbW8lov6LFUQqnEZNFVavTSXrIKLH_1BX3F3wKDG65qkO2IH3DYsrej1WFfyYcvVrwuBa5ubx0n6z_AlvTt8s0RdBQCbzjzbmsT7tgTXE7e2kBrA-_T3B_9zY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLespdDRRMEk4xMZZPrJknN_6t6UlZg9POEJ-Bx_N7d_Foza6eqJH2yH5CCPybjCOTWFn-zrcVuc47SFNuswOozNdYYn0d5OOq1VTNGaWD2Y4n-pOou16j0dRGs3dSJeSqLNw1LBuQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfh_wYxq7EiNyJQIYuCQEkTNudbhL-l3SzESXyDA4S81cxahgVSZa_cb7r5s_4rhrIF7RpysqojSN507k5Y1L5KHVeMplHcPiGfFhdmuTfN2VKTkWqhprL_0RqdFp16NZMGmm8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeATxBS7oDqMJeYLiMd4nVrFucPFfWkeiZfyhmfijw3g9vHOKnjieBClrGchOgxJIm9ILf8NoCioNWBKzhHrd8dgI6oudQ4E4OYPcCjSPIE_9xcXTmL7vTaXgN6I5mVjinSMLks=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdMLqLlzGFN0yL_hqm2HWKDr6vD4xXUFNlAdRVJ0idZADAp3ebLCSVXoeSFmZAYJXxtkAka3l9Qu8DUQ6pk8sE7phMd-H-SQQUZN4P6iFhSK1K2IO2UQVAElrn3jmcf-1KemaOv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeRMmRT0vD8Zn5sSGPAVGlD2daWPeeRaDLpc_yQxmFA2BeYTKPMFuE17Id1iqkrF5esa_wy1SvmcnV75tuVaYKoBJA4hir2VIQqL6TLHMHCd0dlT18xRC8JIpDkpcO_wWOHWiM=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "user": {
+        "name": "CINDY DSILVA",
+        "link": "https://www.google.com/maps/contrib/106760285551817310278?hl=en",
+        "contributor_id": "106760285551817310278",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUT1L5f-wVkZ6D0IdNDUl7Rk04m49oPZ1cvJjLXj_q1AA_7-ORq3Q=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 615,
+        "photos": 2743
+      },
+      "snippet": "Good food. We went late so we didn't get shuwarma. But had other items that were yum. Service and ambiance were good.\n\nThe restroom area could be kept a bit cleaner.",
+      "extracted_snippet": {
+        "original": "Good food. We went late so we didn't get shuwarma. But had other items that were yum. Service and ambiance were good.\n\nThe restroom area could be kept a bit cleaner."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "parking_space": "Plenty of parking"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURleFBubUNnEAE!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgIDexPnmCg%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2022-10-02T10:57:03Z",
+      "iso_date_of_last_edit": "2022-10-02T10:57:03Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleFBubUNnEAE",
+      "user": {
+        "name": "Abhilash S",
+        "link": "https://www.google.com/maps/contrib/103386080936470239579?hl=en",
+        "contributor_id": "103386080936470239579",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJwrTi46n2wjK-Sxvqxa8uVOrcYfaWWX0UQ3JFlPYgkyrwk5O5O=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 30,
+        "photos": 29
+      },
+      "snippet": "I and my friend had visited this place for having lunch and the customer service experience was horrible.\nWe literally had to ask for every basic amenities like tissue paper, spoons etc.\nIn our case the food was served on time but there were few people who had to wait for 40 mins to get the food served.\n\nThere is no restroom and no water was available in the hand wash section. When we informed about the lack of availability of water  to the manager, there was no response from his end as well.\nAfter facing lot of issues, we asked for bill and waited 15 mins at our table, size there was no response we decided to go to the counter to pay bill and they made us wait another 15 mins there.\nThey would not accept their mistake even after complaining.\n\nIn short we had a pathetic experience at this place and I'm sure that we are not the only one who faced this here.\n\nI would not recommend anyone to visit this place.",
+      "extracted_snippet": {
+        "original": "I and my friend had visited this place for having lunch and the customer service experience was horrible.\nWe literally had to ask for every basic amenities like tissue paper, spoons etc.\nIn our case the food was served on time but there were few people who had to wait for 40 mins to get the food served.\n\nThere is no restroom and no water was available in the hand wash section. When we informed about the lack of availability of water  to the manager, there was no response from his end as well.\nAfter facing lot of issues, we asked for bill and waited 15 mins at our table, size there was no response we decided to go to the counter to pay bill and they made us wait another 15 mins there.\nThey would not accept their mistake even after complaining.\n\nIn short we had a pathetic experience at this place and I'm sure that we are not the only one who faced this here.\n\nI would not recommend anyone to visit this place."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600"
+      },
+      "likes": 2
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNldWVDeDdRRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgICeueCx7QE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "4 years ago",
+      "iso_date": "2022-09-18T10:17:30Z",
+      "iso_date_of_last_edit": "2022-09-18T10:21:16Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldWVDeDdRRRAB",
+      "user": {
+        "name": "Kri. Abhilasha",
+        "link": "https://www.google.com/maps/contrib/106414262478516236393?hl=en",
+        "contributor_id": "106414262478516236393",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUAM8zaDhgcm_aZUuMN4PM4-Hk30nXRIpwS1FNqtySL26_jC0eo=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 2
+      },
+      "snippet": "Restroom is not kept well, this also should be part of their service.\nFood price is above average and the taste is below average.",
+      "extracted_snippet": {
+        "original": "Restroom is not kept well, this also should be part of their service.\nFood price is above average and the taste is below average."
+      },
+      "likes": 1
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMyck5mN2FnEAE!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgIC2rNf7ag%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 years ago",
+      "iso_date": "2022-04-14T19:29:09Z",
+      "iso_date_of_last_edit": "2022-04-14T19:29:09Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyck5mN2FnEAE",
+      "user": {
+        "name": "Rajdeep Chowdhury",
+        "link": "https://www.google.com/maps/contrib/115801180673822602195?hl=en",
+        "contributor_id": "115801180673822602195",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV0zWM3K-CVapkJPvL0HguhztbVP8GWR7dDfCn5QZ9DSbnuRnfCCw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 39,
+        "photos": 6
+      },
+      "snippet": "Good food but no restroom facility",
+      "extracted_snippet": {
+        "original": "Good food but no restroom facility"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400"
+      },
+      "likes": 0
+    }
+  ]
+}

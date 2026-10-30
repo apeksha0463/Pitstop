@@ -1,0 +1,81 @@
+{
+  "search_metadata": {
+    "id": "6ae30f280c3a0881cb5c7ed3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TyNp3FVRhAz3upUyx67rXlOSbtbCwySRmgjJ94iNh7Q/6ae30f280c3a0881cb5c7ed3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/TyNp3FVRhAz3upUyx67rXlOSbtbCwySRmgjJ94iNh7Q/6ae30f280c3a0881cb5c7ed3.md",
+    "created_at": "2026-10-29 09:17:28 UTC",
+    "processed_at": "2026-10-29 09:17:28 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1fb4350494a7:0xe439478d17ad2e1a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/TyNp3FVRhAz3upUyx67rXlOSbtbCwySRmgjJ94iNh7Q/6ae30f280c3a0881cb5c7ed3.html",
+    "prettify_html_file": "https://serpapi.com/searches/TyNp3FVRhAz3upUyx67rXlOSbtbCwySRmgjJ94iNh7Q/6ae30f280c3a0881cb5c7ed3.prettify",
+    "total_time_taken": 0.29
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNJdk5qU0ZnEAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgMCIvNjSFg%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-03-31T07:07:04Z",
+      "iso_date_of_last_edit": "2025-03-31T07:07:04Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdk5qU0ZnEAE",
+      "user": {
+        "name": "RAMAKRUSHNA PATRA",
+        "link": "https://www.google.com/maps/contrib/111833577103548287930?hl=en",
+        "contributor_id": "111833577103548287930",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK4iduv3CsLrQ-P0q0l9IBDml3Z_cD_a-cqUq20tDF_eGfzvhM=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 23,
+        "photos": 2
+      },
+      "snippet": "Extremely rude and unprofessional staff with no sense of decency. The restroom had no details or water glasses, and the towels were dirty. One of the worst experiences with such discourteous staff. I strongly advise against considering this place.",
+      "extracted_snippet": {
+        "original": "Extremely rude and unprofessional staff with no sense of decency. The restroom had no details or water glasses, and the towels were dirty. One of the worst experiences with such discourteous staff. I strongly advise against considering this place."
+      },
+      "details": {
+        "rooms": 1,
+        "service": 1,
+        "location": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYa04ySURREAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICXkN2IDQ%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-12T10:58:47Z",
+      "iso_date_of_last_edit": "2024-10-12T10:58:47Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYa04ySURREAE",
+      "user": {
+        "name": "Divya Shakti",
+        "link": "https://www.google.com/maps/contrib/110030264460702761307?hl=en",
+        "contributor_id": "110030264460702761307",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJSmMDS5pHX6nHuSQbIt1UGzmawpTneHCX4Xy0sAql7OIwuLw=s120-c-rp-mo-br100",
+        "reviews": 8,
+        "photos": 0
+      },
+      "snippet": "Bad experience, bad food & staff is very rude, they turned off the water supply at the restroom & forced us to pay the bill even before we finished our dinner & asked us to go! Pathetic experience!",
+      "extracted_snippet": {
+        "original": "Bad experience, bad food & staff is very rude, they turned off the water supply at the restroom & forced us to pay the bill even before we finished our dinner & asked us to go! Pathetic experience!"
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    }
+  ]
+}

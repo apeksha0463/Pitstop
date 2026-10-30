@@ -1,0 +1,347 @@
+{
+  "search_metadata": {
+    "id": "6ae2e9a1708a3703f41eda96",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZF1-rf7EuHT4pac7P5tvf6Bc9TaLeZxNoAxbULHpzhc/6ae2e9a1708a3703f41eda96.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ZF1-rf7EuHT4pac7P5tvf6Bc9TaLeZxNoAxbULHpzhc/6ae2e9a1708a3703f41eda96.md",
+    "created_at": "2026-10-29 06:37:21 UTC",
+    "processed_at": "2026-10-29 06:37:21 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1f028ffa149b:0x4848588589cb9493!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/ZF1-rf7EuHT4pac7P5tvf6Bc9TaLeZxNoAxbULHpzhc/6ae2e9a1708a3703f41eda96.html",
+    "prettify_html_file": "https://serpapi.com/searches/ZF1-rf7EuHT4pac7P5tvf6Bc9TaLeZxNoAxbULHpzhc/6ae2e9a1708a3703f41eda96.prettify",
+    "total_time_taken": 1.77
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1f028ffa149b:0x4848588589cb9493",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Light House Family Restaurant(Attached Bar)",
+    "address": "Kempegowda International, Vidyanagar cross, airport road, near Gail gas bunk, Hunasamaranahalli, Karnataka 562157, India",
+    "rating": 4.6,
+    "reviews": 66,
+    "type": "Family restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "wheat roti",
+      "mentions": 2,
+      "id": "AS5hDMopJ3s"
+    },
+    {
+      "keyword": "prawns dish",
+      "mentions": 2,
+      "id": "BJfoLqhTcy0"
+    },
+    {
+      "keyword": "biryani",
+      "mentions": 5,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "egg chilly",
+      "mentions": 2,
+      "id": "R4LYqwGhS0U"
+    },
+    {
+      "keyword": "mutton",
+      "mentions": 2,
+      "id": "wTzZHO32I30"
+    },
+    {
+      "keyword": "friendly manager",
+      "mentions": 4,
+      "id": "BOZHPj9NgrY"
+    },
+    {
+      "keyword": "ambience",
+      "mentions": 6,
+      "id": "JGvrBjVCxMw"
+    },
+    {
+      "keyword": "food quality",
+      "mentions": 3,
+      "id": "ANy51bJICSk"
+    },
+    {
+      "keyword": "overall experience",
+      "mentions": 2,
+      "id": "AcD1cB_60Iw"
+    },
+    {
+      "keyword": "airport",
+      "mentions": 2,
+      "id": "BUEnk3Na68Q"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKcVVuUXpPV2M1ZFRsT2JteE5RVFZCZGpZMVMyYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOjJqUnQzOWc5dTlObmxNQTVBdjY1S2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-27T19:51:54Z",
+      "iso_date_of_last_edit": "2026-10-27T19:51:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcVVuUXpPV2M1ZFRsT2JteE5RVFZCZGpZMVMyYxAB",
+      "user": {
+        "name": "Suyash De",
+        "link": "https://www.google.com/maps/contrib/117775332811224967670?hl=en",
+        "contributor_id": "117775332811224967670",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX-U3rmITN62JmFZR8xLJ9u83PWDAG0ZVA_XFG3byAf22kS2rk=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 10,
+        "photos": 178
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWRmJXOVBOMTlVWjFoVVFUTTNkemxPT1VGdWVtYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOlVFbW9PN19UZ1hUQTM3dzlOOUFuemc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-25T08:46:47Z",
+      "iso_date_of_last_edit": "2026-10-25T08:46:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRmJXOVBOMTlVWjFoVVFUTTNkemxPT1VGdWVtYxAB",
+      "user": {
+        "name": "Deepak Gowda",
+        "link": "https://www.google.com/maps/contrib/105834963686541716565?hl=en",
+        "contributor_id": "105834963686541716565",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXLVM1x1dc_vz7cCtTi6dFVJZDHtvaWXrjGPBs7p6kNrXPxaDE=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 9
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oNVZsZHhZa2RXUVRSaVdqVmxZMWxZZURac2QwRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOnh5VldxYkdWQTRiWjVlY1lYeDZsd0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-21T04:14:26Z",
+      "iso_date_of_last_edit": "2026-10-21T04:14:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNVZsZHhZa2RXUVRSaVdqVmxZMWxZZURac2QwRRAB",
+      "user": {
+        "name": "Eranga Lahiru Wanigathunga",
+        "link": "https://www.google.com/maps/contrib/109954079685272240594?hl=en",
+        "contributor_id": "109954079685272240594",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX2krZ0u0AOERo0grsN-hCmjjrNmsR5YzfHQvdkFfCaEYGA8B-9=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 12,
+        "photos": 81
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21jMlYzRktZM0Z3Y0hWSFNVMDBlWHB4ZVdvNGRYYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOmc2V3FKY3FwcHVHSU00eXpxeWo4dXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-08T01:19:57Z",
+      "iso_date_of_last_edit": "2026-10-08T01:19:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMlYzRktZM0Z3Y0hWSFNVMDBlWHB4ZVdvNGRYYxAB",
+      "user": {
+        "name": "Manas Banerjee",
+        "link": "https://www.google.com/maps/contrib/105148883102525813762?hl=en",
+        "contributor_id": "105148883102525813762",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWdr26SDgrbmnziEWbQQJc-kojdiqQP4M3gogUfCcMpEcWF9uo=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 69
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kc2JuWlBSM1JUU2pONlJrMU1kbXBrVjBFMExWRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOndsbnZPR3RTSjN6Rk1MdmpkV0E0LVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-02T13:00:54Z",
+      "iso_date_of_last_edit": "2026-10-02T13:00:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kc2JuWlBSM1JUU2pONlJrMU1kbXBrVjBFMExWRRAB",
+      "user": {
+        "name": "Namish Gaikwad",
+        "link": "https://www.google.com/maps/contrib/107565795225931289903?hl=en",
+        "contributor_id": "107565795225931289903",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXpPvvQklOoFeLXm0TNNDtgNyYnIVw1HHHNbJspvMCibTjxhWY=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 46
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ob1JqRklTMWxoWVRkdlJ6aHJUVXgxTm5oeU5YYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOnhoRjFIS1lhYTdvRzhrTUx1NnhyNXc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-05T14:44:57Z",
+      "iso_date_of_last_edit": "2026-09-05T14:44:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ob1JqRklTMWxoWVRkdlJ6aHJUVXgxTm5oeU5YYxAB",
+      "user": {
+        "name": "Raj Sekhar",
+        "link": "https://www.google.com/maps/contrib/113860740996528607150?hl=en",
+        "contributor_id": "113860740996528607150",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIWcpJs9GRArbAps1rs2BoD0bHksfsWpTESGM0YT_hAfpUeug=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Biryani, mutton, prawns not available in this restaurant and bar. Staff said nobody order above these items. I seen worst restaurant and bar in my life..in villages also available best and all. Very poor management and owner should be respond against this...iam continue reviewing this hotel..but no change",
+      "extracted_snippet": {
+        "original": "Biryani, mutton, prawns not available in this restaurant and bar. Staff said nobody order above these items. I seen worst restaurant and bar in my life..in villages also available best and all. Very poor management and owner should be respond against this...iam continue reviewing this hotel..but no change"
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tadGNrNHdlbk52UmtSNWJqRmtjV3RvUkhObVkwRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOkZtck4wenNvRkR5bjFkcWtoRHNmY0E%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-05T14:43:55Z",
+      "iso_date_of_last_edit": "2026-09-05T14:43:55Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadGNrNHdlbk52UmtSNWJqRmtjV3RvUkhObVkwRRAB",
+      "user": {
+        "name": "Hari Prasad",
+        "link": "https://www.google.com/maps/contrib/106769190833158174106?hl=en",
+        "contributor_id": "106769190833158174106",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKrsk6gcl4wor6Dc5nvYinUFL07NhjEwynImQm_sQpdgcTFCA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 18,
+        "photos": 0
+      },
+      "snippet": "No biriyani, no mutton items, no sea food only chicken items available. Very answers from staff.",
+      "extracted_snippet": {
+        "original": "No biriyani, no mutton items, no sea food only chicken items available. Very answers from staff."
+      },
+      "details": {
+        "food": 4,
+        "service": 3,
+        "atmosphere": 2
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wWk9DMUtkM0ZaTkZJeVNuaEdMVEptWjAxWVdHYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOnpZOC1Kd3FZNFIySnhGLTJmZ01YWGc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-19T02:51:17Z",
+      "iso_date_of_last_edit": "2026-08-19T02:51:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWk9DMUtkM0ZaTkZJeVNuaEdMVEptWjAxWVdHYxAB",
+      "user": {
+        "name": "Ram Kumar",
+        "link": "https://www.google.com/maps/contrib/109052169257111693060?hl=en",
+        "contributor_id": "109052169257111693060",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJryZdu9rtwzNxM1xd-pihmgd3BbQcfGzXrVcHfZH_75V3sSg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 13,
+        "photos": 0
+      },
+      "snippet": "Nice and neat place. Food is delicious",
+      "extracted_snippet": {
+        "original": "Nice and neat place. Food is delicious"
+      },
+      "details": {
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Not sure",
+        "parking_space": "Plenty of parking"
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxNGNYZExWRUpLYzIxNFZtRjZjR3hXUlRaMFFrRRAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOi14cXdLVEJKc214VmF6cGxWRTZ0QkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-17T16:54:04Z",
+      "iso_date_of_last_edit": "2026-08-17T16:54:04Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNGNYZExWRUpLYzIxNFZtRjZjR3hXUlRaMFFrRRAB",
+      "user": {
+        "name": "Gauransh Sarkar",
+        "link": "https://www.google.com/maps/contrib/112100960633508363356?hl=en",
+        "contributor_id": "112100960633508363356",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVlw_AaWKWWBlU1eBiqc2h5gDF1rOhvhxCtj9GrbNEXPSPKSZ8=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 1
+      },
+      "snippet": "The venue handled both a quick visit and a slow social evening equally well.",
+      "extracted_snippet": {
+        "original": "The venue handled both a quick visit and a slow social evening equally well."
+      },
+      "details": {
+        "order_type": "Take out",
+        "meal_type": "Brunch",
+        "price_per_person": "₹200–400",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Large vegetarian selection"
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GTVRHSnhWbXB2VTFwcVowbzFXa0kzTkc5aGVYYxAB!2m1!1s0x0:0x4848588589cb9493!3m1!1s2@1:CAIQACodChtycF9oOmFMTGJxVmpvU1pqZ0o1WkI3NG9heXc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-25T19:17:40Z",
+      "iso_date_of_last_edit": "2026-06-25T19:17:40Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTVRHSnhWbXB2VTFwcVowbzFXa0kzTkc5aGVYYxAB",
+      "user": {
+        "name": "Mani Sai",
+        "link": "https://www.google.com/maps/contrib/108251140743901765067?hl=en",
+        "contributor_id": "108251140743901765067",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWDNtBnE6Ct22fY-2LH04TR6erMsN2HkoHCkLHSt3TOtHvVSJj_=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 12,
+        "photos": 6
+      },
+      "snippet": "One of the worst experiences I've ever had. The service was extremely slow, unprofessional, and completely lacking in customer care. The staff seemed uninterested in helping customers and did not maintain a professional attitude. The food quality was disappointing, and the hospitality was far below acceptable standards.\n\nThe management appeared poorly organized, which was reflected in the overall service experience. From start to finish, there was little attention to customer satisfaction. Overall, it was a very unsatisfactory visit that requires serious improvement in service, staff training, and management practices.\n\nBased on my experience, I would not recommend this restaurant to others.",
+      "extracted_snippet": {
+        "original": "One of the worst experiences I've ever had. The service was extremely slow, unprofessional, and completely lacking in customer care. The staff seemed uninterested in helping customers and did not maintain a professional attitude. The food quality was disappointing, and the hospitality was far below acceptable standards.\n\nThe management appeared poorly organized, which was reflected in the overall service experience. From start to finish, there was little attention to customer satisfaction. Overall, it was a very unsatisfactory visit that requires serious improvement in service, staff training, and management practices.\n\nBased on my experience, I would not recommend this restaurant to others."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "noise_level": "Very loud, hard to hear"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 weeks ago",
+        "iso_date": "2026-10-09T13:44:39Z",
+        "iso_date_of_last_edit": "2026-10-09T13:44:39Z",
+        "snippet": "Thank you for sharing your feedback. We are truly sorry for your experience, we will work on the issues we are currently hiring new staff. Thank you for bringing this to our attention.",
+        "extracted_snippet": {
+          "original": "Thank you for sharing your feedback. We are truly sorry for your experience, we will work on the issues we are currently hiring new staff. Thank you for bringing this to our attention."
+        }
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x3bae1f028ffa149b%3A0x4848588589cb9493&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP72GD_yJLP__EhD3kpqdkHeOY6tR4OkAAAAAGgn92S4CYP_Iks8YACIA%3A10&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72GD_yJLP__EhD3kpqdkHeOY6tR4OkAAAAAGgn92S4CYP_Iks8YACIA:10"
+  }
+}

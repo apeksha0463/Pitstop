@@ -1,0 +1,443 @@
+{
+  "search_metadata": {
+    "id": "6ae31047c9d30d2fdac1dbda",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-VsMiah164NxsG2N4OTONq8YtwrQhVd8qoqA_Iq42tI/6ae31047c9d30d2fdac1dbda.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-VsMiah164NxsG2N4OTONq8YtwrQhVd8qoqA_Iq42tI/6ae31047c9d30d2fdac1dbda.md",
+    "created_at": "2026-10-29 09:22:15 UTC",
+    "processed_at": "2026-10-29 09:22:15 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f387d961ff7f:0x5e5f63a1d714047b!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/-VsMiah164NxsG2N4OTONq8YtwrQhVd8qoqA_Iq42tI/6ae31047c9d30d2fdac1dbda.html",
+    "prettify_html_file": "https://serpapi.com/searches/-VsMiah164NxsG2N4OTONq8YtwrQhVd8qoqA_Iq42tI/6ae31047c9d30d2fdac1dbda.prettify",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f387d961ff7f:0x5e5f63a1d714047b",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWVFdYaGtia05RWVcxNVdWOXphamREU2xGRlpVRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOjVTWXhkbkNQYW15WV9zajdDSlFFZUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-24T07:19:36Z",
+      "iso_date_of_last_edit": "2025-12-24T07:19:36Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdFvWvSE9BZ9YVy9-H2Lws0m6Z0SHyWxj4dLMxIyEr3HY0gjJQkJoxVV8rLM89bgH2nu8b5Q-NEj3aeSL8gSUykAM8KclJBjy3cfoadTkXrEeX6dvKy_scR9PnKQDLQD47htIW4uREDUDA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcc1tCyuv7SmEzPT0wB_l2rUH4Pwy8fEhBYLb8LS83kaKPBi1qJqunpUE-bpUiYIgQatZF2P8tBWrRg3JJ5Qapl9g6xUQImezbdcM7l2EC0CM62dr2p31W4RxZjqXpR3fcV23SXlrbbQLW3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfrbHUZucgMxQ2Jmuo_MOJbqIPBPmQ_VAColXwDjncJdq4aES4Nxu_ehcng3tvq5_mIH9_lJ272VcLONdTrsUi-Mx1FU4XHGsx9W_1mEH2yoc9pFGFzX-RpV7Tgbdt4hPM9JyGM8YAMG3U=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcMMtqYWulH8-hrWeVare4Nly233zvMSC8l4g4ai-RKCDKgmYqCm3v2cgcQcO9lsMKSdBJaAlEqO3zmguZnoGsKTp8cVkLLCpLN8eEDy010PMLMUsG659n1FOSolkrJ5AY3C2F_8XEXW6zM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdlYLYBQLnhNUnOqwK2NV8aVIrkLdO-G4sq871G0PALoigevAJQt_KPKhPXC73wuLatop7ScpAh6tdLDYE1oew3L-T15m6CTi-p5GKM59ZX_92n0NwJNjx9X8LsfRjKANypZCXi8bXg6eV-=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfAtscm6DRMRQ-eGZyiH30n-296GLBGoAXs9GtME_DIoAvqFQM22vACgoKaEBSFFTvqAfSS5EgjB3uUx-5Oeh4Z9zaa77KSsmeC6fa78Hd2esTh3zU4uxuAjHNMljhrW7JK8jkT3iyWY3k=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLda097z8kkDER2tNF2GQYj_KlGA_7kw1l4lR1kRUxie-Mtz20w5fQLDdiA6WhrCUe--qUpOORa-fRR6tcoOeqNa78apsuRW6rIRP6du5C1QL1L9gq0sVF9ICV99jV6VTZNlQS-JxnwsEpZ3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeECfmfd_SbBV9Xcy2YGD7qLjulgHjWUSoW9S9-_guSsVE9PvFvQQyg-cHmdxH11LQMvUA4te5EqnJFFal55tciMWaJ34vWhvtpBPO9R4Klu9tXHxT0nuukQi7QF6WMiHuxiIYhmPW283Kp=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLebH4PMfQawMbnDsJj9B3Qrg-xD02D8UdZbYU4GaaO86Jo49NdZFt6K_AnApAESQyeGxUctNCQVE18g-e740_HgmjApRoiBodEhuN0uR9yVradF7AsjoOHcXZvINa2b2VW1uCGImnjDWCI=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdyCaQ8yFNaxwoaEXiN2tdM-rO5e3IRWek6stuFxfLcx6GwL_dktBM7_dVEHPOKd4RizfX4gDCL-7FF26AJpzItrUPYKb5ZqmjKxKQD5J2L50xbLGMV7HE4RUvWhVAbmTPSrpgOFHJKgYTy=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVFdYaGtia05RWVcxNVdWOXphamREU2xGRlpVRRAB",
+      "user": {
+        "name": "Usha Hanumanth",
+        "link": "https://www.google.com/maps/contrib/111685977091354967587?hl=en",
+        "contributor_id": "111685977091354967587",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW0sQ5DItVC-RoB6vDWeiVOH5DIuLawkR1T9WlMlWK8GmnSExSnDQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 184,
+        "photos": 1624
+      },
+      "snippet": "It has a very pleasant ambience, clean and well-maintained restrooms, and a good selection of restaurants. A great place to stop for food and restroom facilities.",
+      "extracted_snippet": {
+        "original": "It has a very pleasant ambience, clean and well-maintained restrooms, and a good selection of restaurants. A great place to stop for food and restroom facilities."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 5,
+        "noise_level": "Moderate noise",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201M05sOVRRMngwYlRSWGMySXRWbXg1V1hOc1puYxAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOm53Nl9TQ2x0bTRXc2ItVmx5WXNsZnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-01T03:28:27Z",
+      "iso_date_of_last_edit": "2025-12-01T03:28:27Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201M05sOVRRMngwYlRSWGMySXRWbXg1V1hOc1puYxAB",
+      "user": {
+        "name": "Sagar Saiboyani",
+        "link": "https://www.google.com/maps/contrib/116671073083380880396?hl=en",
+        "contributor_id": "116671073083380880396",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJBmYnCyKaOM2JCMfmZeCAPvnfDzhEOO6fqJGv-sccHv8iHGcM=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 420,
+        "photos": 230
+      },
+      "snippet": "Ambience is good and restroom are good. Use it for break when you are on hyd Highway. All food vendors are international or very popular in India. Expected high price.",
+      "extracted_snippet": {
+        "original": "Ambience is good and restroom are good. Use it for break when you are on hyd Highway. All food vendors are international or very popular in India. Expected high price."
+      },
+      "details": {
+        "food": 3,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWelZuaGpRbXgyWjBjeFNTMVRjM3BLTm1GR01YYxAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOlVzVnhjQmx2Z0cxSS1Tc3pKNmFGMXc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-28T09:42:29Z",
+      "iso_date_of_last_edit": "2025-10-28T09:42:29Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWelZuaGpRbXgyWjBjeFNTMVRjM3BLTm1GR01YYxAB",
+      "user": {
+        "name": "Mukul Kashyap",
+        "link": "https://www.google.com/maps/contrib/104510685981697192842?hl=en",
+        "contributor_id": "104510685981697192842",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLYOr3YxCwq3-40ZOTEmRoVmhySG5y775OAu2N0Rb-jzWx_VQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 12,
+        "photos": 0
+      },
+      "snippet": "Perfect place to stop on your drive on NH44. Clean and well maintained restroom and decent selection of outlets.",
+      "extracted_snippet": {
+        "original": "Perfect place to stop on your drive on NH44. Clean and well maintained restroom and decent selection of outlets."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "noise_level": "Moderate noise",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "wheelchair_accessibility": "Yes"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTURJdXNXN1B3EAE!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgMDIusW7Pw%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-04-09T04:23:34Z",
+      "iso_date_of_last_edit": "2025-04-09T04:23:34Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc-oMwaLlSfAAGx7gvSAkRhNg5MWV7jMkl_Oecm-IUAIrvW6kmFz4BKJRPWwD73o6P_U7mCcVILn-US7-AyoC3iesBrH_FA3LiZxSGEveS--zi0w791Y5DMp1lh3XqywYq6cfLZ2w=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdfSxaliioPtkFRrY7GGPeESQMMXILg805oRHZBmoJS7KZCrzGYKY9Lu_mJkpfhJIfmGcqgkzOi3Od_5q-WjovI6X6_uujXpsi9jrXcjv19MjPurPq8FVVv9AmEBfUQ8Wle=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfuvv4npudqIt6TGArMnM2xaUTkRVfS6OL4SQB8oJT5JGXYs2t2aV87FCf3WejysXVtvSteH2xXlPi7cLe8wnrJmLcSECFCukLFVv5LYQzQpgAiY_lJwYcv_9zZx6S_cFErpuWBaQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe3iR2wIEz14UxWdstyHgKVEIHSJ6PDDDwjXEprzU2TmtTJUJAlby1JulZFfleCFdSBFYdMiun04ujPkXneZuE7l5fGFAs9zzc3jcz_uR2UvLL1KYc8rIzkxg9sC82o89Xhg-yM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLds08t5jszQT8LDPWxd9Ap1yEoj6-mAWwO-gMvCR9k8__KSkS2eqK00stAi9swcZgqBXarq5dXoJVS_yznsyzDxttTq3c6VNOttBERmCuQE5FRuyKThsGRP6e47WyWA4Sz3iJyIkg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdQ6EYv-_OjGdW-RqwXgA-t-Twqhg_xXq8AsyipGZ0ZFI5iI7YHXLJfhJuQ57EgK1npEhCy_MGOId3QF4jDuXyX-TR8L1RBMGuJ1bBljxk3_M2Kq8lhfM42JtvVPuxd4v5diZH3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfwOej7_bf6wt7RBTNPOeYUa5SSMhrK-XCPUlTCRWnjUdtGOQmPLcrQiUshpZBurv_Z-I3NlxzKmEliuqNk1s-chh2xyVUQg5tDV5UwpOaQw9HPVQS-dnMop4zEtUg1Voqy1Ic92g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfIqCukN5tR5fqrUfoQhf_s77YorUyTcDcKO6ADpSdOGzPypPFnjI7v5Mcyavekp4ApfyS-TGewqbQY0Zj9MU_pDZagVaxYX1Ecygx0z5UD2z6i-CSVnVUwOM5AnIR1ohko-f6C=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdk08GEC8jk9RNcjtbPL1RdBGm9LHAuTaiPhgzKx6Q4C_WwaDLaegw4I7qG2Yeom1wjg2M4wS_qbZjWVax6Qm8nAgUS5yhuIAJRRgw3euIsOkWVqIGJGNS6DTx1R77ktdpMFlPa=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdgjtsKFb7EX43omgZSRAG8EI0g14w8Lee91Oq3ennwA-7AcRvlOw8HTWEgTeTAukLXIEj_FAnlgH2aYf52C7v-NAaDP2wCcTVGtq1RvaSUe-R5br2R04E3Ri5QfHDGdFMzFJM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfxo0ox7-XmFCJBf6UAn-s2xdDjkgXHNGVD_t8z4PX-XPk9VCKP2EzsU8qgkJDSuI3qUrrug6AiHHd37J3TCqrWHvbsJrXZzGu0eke2vwL0W9kiYFpxHLpfaPEXz_QC0Cvg3m3TPQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfTedARcuzMfT_k4zcSP68W_oKQdrlvCtqhlBVVXt0r6FTxnmuyTuE_jl13Lqe9ZVAL4bHKo__TR4gguclJxxVltG2Mhe_FQtWAQDmaBEyKcRDAb9p6uSDhwTAykT6J2oJY3kQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfdGSvqkID7ifh8KQylg_0XrV79myz25r-R1IN_D6QAM3x3kuOdzngFp1pYautYiA_BwlrB-7pgBNoikflXKgoTWdPN5MDW-Ik1pPPwwQh1yIeyAAbzBuDAM5hEqA3TmcG3bw8Dpg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc1gfBoHqDh0dG7wbdOmQeYcjHr622QSAcsZ8zCQwVw9l3JX1p7v1vwgy1DrOBveuXrb8yRpB52XKAwZSwq9maXMqff-ZFq_Vv4Ab_rwHDhuN9MxU7ldhSRq47Ug1AwzDMKKzq3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfR1aQ3X6Qr_YtsQYYbJ5_kOraEni2hbjz1IS8buf0G7A0G7wfgMYALchM0770oM2ACU9FUJ_jSNwhXGhsl0VJFxPvml3aq5akFpy7ApjASw7aZAynCPxBFar28OaNucEsKkzcuKg=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdXNXN1B3EAE",
+      "user": {
+        "name": "Ayan Bhattacharya",
+        "link": "https://www.google.com/maps/contrib/118289289559628983960?hl=en",
+        "contributor_id": "118289289559628983960",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU-dKS79mrGCLoU4G1qeR9zGX-HjI6keSTyw77oiEjaoTN5zUnwKA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 230,
+        "photos": 3568
+      },
+      "snippet": "While coming back from Bangaluru on NH44 The Big Bay India can be found.\n\nI am sharing the necessary information here, so that you can have a break at the right place.\n\nCleanliness - 100/100\n\nParking - Huge parking can accomodate lot of cars\n\nRestroom - Clean & as expected\n\nWheelchair - Wheelchair compatible way is there\n\nFood - Lot of food options are there, I am amused\n\nShop - Varities of shops are there where you can have your own window shopping.\n\nOverall the I liked the place very much, highly recommended from my side.",
+      "extracted_snippet": {
+        "original": "While coming back from Bangaluru on NH44 The Big Bay India can be found.\n\nI am sharing the necessary information here, so that you can have a break at the right place.\n\nCleanliness - 100/100\n\nParking - Huge parking can accomodate lot of cars\n\nRestroom - Clean & as expected\n\nWheelchair - Wheelchair compatible way is there\n\nFood - Lot of food options are there, I am amused\n\nShop - Varities of shops are there where you can have your own window shopping.\n\nOverall the I liked the place very much, highly recommended from my side."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Mexican Chicken Burger Combo",
+        "recommendation_for_vegetarians": "Not sure",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "kid_friendliness": "Yes, kids will love this place",
+        "wheelchair_accessibility": "Yes"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-04-09T04:51:23Z",
+        "iso_date_of_last_edit": "2025-04-09T04:51:23Z",
+        "snippet": "Thank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time. Your support means a lot to us, and it's a testament to our commitment to providing exceptional service. We look forward to serving you again soon.\n\nThank you,\nTeam Big Bay",
+        "extracted_snippet": {
+          "original": "Thank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time. Your support means a lot to us, and it's a testament to our commitment to providing exceptional service. We look forward to serving you again soon.\n\nThank you,\nTeam Big Bay"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNueHFmQ1BREAE!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgICnxqfCPQ%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-09-25T13:31:20Z",
+      "iso_date_of_last_edit": "2024-09-25T13:31:20Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLciDHITIiWkIgoND41WpUzOgejsES2mWmZz9iCLbF1fK2vexRqcai5XHjvU92WNWWYlfj9LNW4ayg1fY0IRuaNn6VMy9wMHD5Ozi9V_U3rdl1ihYl9qOE_VeCDBgGJSge5J76JEfw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLergnMmfCivDxAKpYgiAG8JqmnOjOtByiajXCZJZL01bdqEfRnRgRipi_J6wVwikivIC2ffg2sehSF36vYKq2KdodDd1GckY07AZmlnZQdkily4l89XnDgviXcYDnZ8-ZPIle4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfWZkGPbadMu3b97UhikDjjtRtIgD70rc67OGfIKMjmlkYcNR4AOQZyHfrp5t47MVZIxHHrSXsjJDB4Hg9A8z7HEw2IS50XKBVdhSIGqI1UDbmLJ6pfDYjuHDastvDpv9g8JEIFYg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcJOr__V4R89xwYEeNYjKDDeJm_hrI4spGZpQKeisrVjaEFExRUGKeGVZDNP3gpWwR4dF2IpkUiXvwsiL7SO6Xb39CC308OjvC6MiWnLD2QG0k4wFVlOkVqaugsCwyROt2YI6qL=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNueHFmQ1BREAE",
+      "user": {
+        "name": "Kiran Toppo Rajak",
+        "link": "https://www.google.com/maps/contrib/105348222255062474284?hl=en",
+        "contributor_id": "105348222255062474284",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVAx9vsiZWP8JeGAfe-w46Ohe2xUbTrmjm4GVx3qiqR1qrkK457Ag=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 188,
+        "photos": 705
+      },
+      "snippet": "Great highway stop near chikkaballapur  on Bangalore Hyderabad highway. Lots of big brand outlet are there some are Empire,haldiram ,kfc ,leon grill, etc\nSome gift stores are also we saw. They have some waiting lounge also .The restroom is hygienic and mentain well as of now.  Parking space is also available.",
+      "extracted_snippet": {
+        "original": "Great highway stop near chikkaballapur  on Bangalore Hyderabad highway. Lots of big brand outlet are there some are Empire,haldiram ,kfc ,leon grill, etc\nSome gift stores are also we saw. They have some waiting lounge also .The restroom is hygienic and mentain well as of now.  Parking space is also available."
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-09-25T13:46:52Z",
+        "iso_date_of_last_edit": "2024-09-25T13:46:52Z",
+        "snippet": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team.\n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay.",
+        "extracted_snippet": {
+          "original": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team.\n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay."
+        }
+      }
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3LWM2Nm5BRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgIC7-c66nAE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-17T05:56:22Z",
+      "iso_date_of_last_edit": "2024-08-17T05:56:22Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcos2LmM_fQwWkYWURaJktBMj3USaPtWrs-D4X-7JRrLVKztFQgnmL51TUvMNQ-IvfKq-b0vQ05zBUmfE1sx87RqQ0ALJaKkKLMKLIE2RqvqM_Rvp2fMLAT6xU6OiDw3HFw0Xyh=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLegsAqKVQjw_6z6pXdYIlAkXfeqb3NjQsi_r-Td5UF4TxBYFQLXHJjsxFEA7Ejb2K0D9RtJQEZoauS6Ma6Hap0kDLOkhoD2wR6MDpTzyKwCea3GhVafx3VFZJIL8XbrBVPpLvmBbQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe1xpfANosvrXS2ARmNv_RmiULH4dkMXJDxheGrGeKzA13anYgwf8QLWt6EVg-__jgLCyfpEkp94D6qet_bDLQM_bu-ZLNsqbsy37BFDXY2225QxS4ervWBcJqSEjejZZAN43MS=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeurAnZmZZNtstt12uotpOsKfybEAnuLcuQ0hvqBrL3DIaZIE0WYJL1Nq11iAGcdf0X8M1iR9Rx5CKapYsZRajgmd9nmNvXMXV-lmnHA7lFPF3PvoFk4EkbSs-MDwvHYpNgxsy4MA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeRFTPSgLGB7IqTsOzJ4ifQKppgjpSWcGyfHMJeMMNlO5WIfoS0GBnFpDjmox0na0_0P0F40EDttTaCAZJ_4VHOfGgTulf4nGL1YH-XYA4TDXHWQpKIj1BBKp_8lRXMv-myCKxi=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLczrBe7C0jodZ88uXRwgCyHux73sc-pQS3adbCjTA7PImdZkQFDrlZn6w5xr0rtZAIXjmhUxQHZoFO6gkbVSB4oOIlBX98v5qqHxm5ZcqupuF8E33YGxQrJ8w5mlG6ykgpBcmYTRA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeZzMdNiLVWbZiZJCERUhz8EUsL3FZsLJJsXjDYrtWKFtBaD-7y2JAdctzpjBCTuj45Zc7WA5laKNRDeSbqV7ZA6nrHRBRNdG8oAgunPU40uM8OxYhwHU0JiRy-xMMTMSsv3JMB=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfJi3-t6PZFCaYyCPLlgiz4tmdi2UQ_q47aFGbr3fo97cqpfYiyUBDzWZ2zzYgzwLHHgmOc358WMWZ_iTfrfcH3BqWIzsdgqeLD1ed3hqnhKL9DRee85c35OZDhaZm_bLwMx65xQA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcFfnoo7QRIxB-x4kyy_MUgUiJa2V53S6uz3i4csQy0twoU3upealf44_W7g-1Gt-KeacwR5Hqhu-xZcqxhHBXJJNsHMGUBhUfRrD02xCX_G8aZSxyteF1i2LsOF-Vnf4EQxDp_=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfOXsoc8meHo1Buwg57MiHdN8VyV6HarpNAAJnbNA8tGtaAGkRKMbSMSBHSg3VLjAQTd2yp7Ip8xk6WzwD16wGYkgD7NCSo2rw-2BzD3OCWzb4Yuw4hEr9ZdYK0-4PPyAiAr2hBtw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcgC9zu0OTB861xiSVpkSoVvji4kHGTk7RLgEkkCPe-cX3wQAQX957s9XGkMYbNzaqciZ6TQpSm93F_xr0iAzLZxWkMEkU8F59EU2fYhzcXX6qvbnEscynY8IdFXndkI8C3F6Y=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd1PyPhcM0Ox6WGwD_xpe1vpo2B0etbcfvRvJ_kW_vuQJQ_4UaJfc-JUvqf1U4L3q9_jS61zC-yMvZx5JZmswsTxgSfj9LNXgIRBVUuVXb6_LyFDWCLnSqfWblLdKl4trmQmYEVjw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeVYoxqBTzQke5lS59RGWR2SNRPbTrBRRVvwkzHcMLeIo-sjiR4zeV4wAlMLzoFIEQlPnFOGXcdOolLdrWNpPOTrbBOElFIlKU6pErXKlNGcasday5kWyg_a2IwyiU0shtvVzRD=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdaUBfgiUVF2QU32E5LiX7hfeNrOQLCD6SUcgC-6j2Dzx0-IpgFHMGfVW_AO_tVLBy4KNQc6RD40VVOrwZXWrpV5dEq_P-KoRWIDr9wGTK89fCwhLUq-rnEFdtTU9LBQs6f94z89g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf7bVqt6Z_4ghKEBYaWR8gRWH8qd9yugGJ3FR_8agBntlCM7vkKrv1u2EMjyfgfPm7sdCQDJerHMJjDxt25weTF2dmxXCRNEVUqHhChYW9r1cUlxrr6doPnd11PEZoEq0rm7jZY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfo5W-9j-f7XYOkbtCQRVuxG0U6fVB4HWNkTLQkxZEOVLiKUjdj7J0KqUq5Eq03ulgStnuGd7ETc_KOLoT2yX77joxcovkpxbAbsoWu44yP7M9e6eCoCPZ4lOCXbjCANDtAZDcG=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdm5BrJefDixH5PLJm4dLAooG5Cnbwvk478X8nU8og8ni9ktZZh8mfUtTAnOyDAtOwF90f9ZL1faXOAWiRN61ohPL4RDhrzi-cIBY-sZQkJ_MhH1VeuFsP3SHit2Jr6L5HAgnV1=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfVjwsAssAh_ipa23iCJe7BSv8sRyLlFnQQoCQPU3M6K0nRH_HCmFzlIYxLs-H88Zx3_M3MNIUOBSLRruEc_6guL5j1aZOiVZriCh2_mgCRwKYT9sRkUbj4WdcwWQ1APdbVgRGvWQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcOQdyOLT0UcfKYObBPgCTtAvAZUBwWqMFR7jTKFE3yRoxXA1kUmM8NK4A8rNWPrGxeyMLYqACTKtVnAuumZvpVqK8BLWBy5xXFMIacK5jYd6VfoMaz2_WujiSi7LfhVHa5Ome4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfbNvS_Od0YZahtX--5Hvd600N6135KL-LU-zC4uEM8TL78D0cUc0WnSeB6JAvgSAE2PzhUd8nAMjxWtC6l-CcEnhxgRkJGaz2U02NWYwrSfm3bAFQK50qjKhjtjwQXB1yhvd_UBg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdb9rlsMxTA-lxZdBvk7zBIPqotFqnkWfKuo5sBA3JTbj0A8eHbNBTcc3svlUjPDjBRGQTU5aVqBBiS9xmHlfKyi7Eua5SqWDdUuLqlCXexiP4N6kcJSXvW1u47SVqaSzk3i8Q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcgPFu8xFg4DWHSBtU9IRpcEQZ0xwxl-GHIZ0qawcJXWX1v1lzD4CRtSbbAcRI1cEdHGy7kvoslNoR5pYwcv7SLI0nKacVSsO-oHI6Y_fxEqgy73OOo-5wxoK-hvsdCHB-wikg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLck9T_8qySc8i8FBgiJDP7tbt0B3DHVh4lwT2SEMgrfiYNFXQC3DXmdT_-pzsdsP9PbdhrlW2iPfz1o1JqDID0uxfrZas-13tr4LJ_Bvj_XTxE6A-4ODIejLwg6bPrhnBtBHPEH=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLejjBKEQ9GpMZrheGZ26KjqzSvUBbgv_mvV3x7ct8uPp7cGkt2KAYqPM_iH0Da2DVZmi9pZx-a5SQ3Zw81v0_JD2S9Oge53UgwNrINvSgH_uIbdyrW-nv9kv4LL1-pChty7PbgyAA=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3LWM2Nm5BRRAB",
+      "user": {
+        "name": "Lady Whiskerdown",
+        "link": "https://www.google.com/maps/contrib/113427871555153194152?hl=en",
+        "contributor_id": "113427871555153194152",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXylCpUyM2DWKA1hxYYP7K9ORAzLvkx7jZLuD9mTAahpSJofxM=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 299,
+        "photos": 2400
+      },
+      "snippet": "1⃣. 𝑳𝒐𝒄𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝑨𝒄𝒄𝒆𝒔𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒚: it is conveniently located on the highway with a tall board, easily visible.\n\n2⃣. 𝑷𝒂𝒓𝒌𝒊𝒏𝒈 𝑭𝒂𝒄𝒊𝒍𝒊𝒕𝒊𝒆𝒔: Free and secure parking for cars and bikes\n\n3⃣. 𝑨𝒎𝒆𝒏𝒊𝒕𝒊𝒆𝒔: Food and beverage resturants, convenience store, gift store.\n\nThey drinking water, clean luxury washrooms along with a centralised ac restroom with good sofa to relax.\n\n4⃣. 𝑪𝒍𝒆𝒂𝒏𝒍𝒊𝒏𝒆𝒔𝒔 𝒂𝒏𝒅 𝑯𝒚𝒈𝒊𝒆𝒏𝒆: there are cleaners to keep cleaning, since it's new it's very clean.\n\n5⃣. 𝑪𝒐𝒎𝒇𝒐𝒓𝒕 𝒂𝒏𝒅 𝑨𝒎𝒃𝒊𝒂𝒏𝒄𝒆: it's just love, very good for photoshoot, selfies, poses etc.\n\n6⃣. 𝑺𝒂𝒇𝒆𝒕𝒚 𝒂𝒏𝒅 𝑺𝒆𝒄𝒖𝒓𝒊ty: ⭐⭐⭐\n\n7⃣. 𝑺𝒆𝒓𝒗𝒊𝒄𝒆 𝒂𝒏𝒅 𝑺𝒕𝒂𝒇𝒇: helpful\n\n8⃣. 𝑨𝒅𝒅𝒊𝒕𝒊𝒐𝒏𝒂𝒍 𝑭𝒂𝒄𝒊𝒍𝒊𝒕𝒊𝒆𝒔: na\n\n9⃣. 𝑷𝒓𝒊𝒄𝒊𝒏𝒈: depending upon the food or other shop we choose\n\n1⃣0⃣. 𝑶𝒗𝒆𝒓𝒂𝒍𝒍 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆: ⭐⭐⭐⭐⭐",
+      "extracted_snippet": {
+        "original": "1⃣. 𝑳𝒐𝒄𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝑨𝒄𝒄𝒆𝒔𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒚: it is conveniently located on the highway with a tall board, easily visible.\n\n2⃣. 𝑷𝒂𝒓𝒌𝒊𝒏𝒈 𝑭𝒂𝒄𝒊𝒍𝒊𝒕𝒊𝒆𝒔: Free and secure parking for cars and bikes\n\n3⃣. 𝑨𝒎𝒆𝒏𝒊𝒕𝒊𝒆𝒔: Food and beverage resturants, convenience store, gift store.\n\nThey drinking water, clean luxury washrooms along with a centralised ac restroom with good sofa to relax.\n\n4⃣. 𝑪𝒍𝒆𝒂𝒏𝒍𝒊𝒏𝒆𝒔𝒔 𝒂𝒏𝒅 𝑯𝒚𝒈𝒊𝒆𝒏𝒆: there are cleaners to keep cleaning, since it's new it's very clean.\n\n5⃣. 𝑪𝒐𝒎𝒇𝒐𝒓𝒕 𝒂𝒏𝒅 𝑨𝒎𝒃𝒊𝒂𝒏𝒄𝒆: it's just love, very good for photoshoot, selfies, poses etc.\n\n6⃣. 𝑺𝒂𝒇𝒆𝒕𝒚 𝒂𝒏𝒅 𝑺𝒆𝒄𝒖𝒓𝒊ty: ⭐⭐⭐\n\n7⃣. 𝑺𝒆𝒓𝒗𝒊𝒄𝒆 𝒂𝒏𝒅 𝑺𝒕𝒂𝒇𝒇: helpful\n\n8⃣. 𝑨𝒅𝒅𝒊𝒕𝒊𝒐𝒏𝒂𝒍 𝑭𝒂𝒄𝒊𝒍𝒊𝒕𝒊𝒆𝒔: na\n\n9⃣. 𝑷𝒓𝒊𝒄𝒊𝒏𝒈: depending upon the food or other shop we choose\n\n1⃣0⃣. 𝑶𝒗𝒆𝒓𝒂𝒍𝒍 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆: ⭐⭐⭐⭐⭐"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-08-18T02:20:15Z",
+        "iso_date_of_last_edit": "2024-08-18T02:20:15Z",
+        "snippet": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team. \n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay.",
+        "extracted_snippet": {
+          "original": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team. \n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay."
+        }
+      }
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3c0xpT3ZnRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgIC7sLiOvgE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited 2 years ago",
+      "iso_date": "2024-08-11T16:21:36Z",
+      "iso_date_of_last_edit": "2024-08-12T18:20:04Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdPjOh9Cq_CqW3bSl50altyzgVNZJQfPT5zFMY5fh6spMNKYypoWkhQAAcWeXdtTWPiv9puMbCryCLyNOAw8qUnJFfikpTkIP1LyGpQ6vdL-ndmLHHgXQSI6UyA2WRvOxWQ497FNA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcUElFIORN9RuAjdYSxfV0pz94uvHxcX5OLRcScSHMNYOUo6D9N4EdA0ECvC1ez00Hue4LmtwF0-xtbA8zOPQEUHov05lsF-vGKZUjG-aGaQp5bmofbnYMqjX0Q2nOIja2-XX_-=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeq15pgl_7QIsiPmzO_sajBQdfi84P3QaxPvKRGZ_F15BGpql4wytkVKqJusJJsO38vX8VeV5gklmaHd3GguNx3YRb4GY7EjGfWqhRV-2uDpinRrgDrcf1inlqxyV8YZjvqpyb28w=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdnIIk4Vwbf3qtVa3VLYjGztf5kvvOWU9iQfyKKn21xkgdRkj0GObAfg_xgUQvWQ9JCViAKLZI-YefW247wmJUWyQ37JJTYjpAX2aVZwsIUTuTbjl0dNqnSyLfjCUJuyl-Ft206=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3c0xpT3ZnRRAB",
+      "user": {
+        "name": "Ajay Raj Achary",
+        "link": "https://www.google.com/maps/contrib/106554778314472219227?hl=en",
+        "contributor_id": "106554778314472219227",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjViMXtX5vd6C_uircEm_JVUrNpw36jFORStElO-p9LU2F3Z_busVA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 254,
+        "photos": 939
+      },
+      "snippet": "Big Bay, India, is a traveler's paradise, tucked away on the Bangalore-Hyderabad Highway (around 90km from Bglr) and very ideal for pit stop. The environment offers a much-needed break from the road, the cuisine selection pleases all palates, and the facilities are immaculate. It is the highest quality, whether you are having a leisurely meal or a fast coffee. Big Bay India sets the bar high for highway stops.\n\nUpdate 5th Aug 2024 (Second visit) :\nOn the way back from Lepakshi, we made a lunch break at Big Bay. The space is spacious, tidy, well-kept, and well-organized.\nThere are numerous culinary selections. Empire was our choice and the food was good.\n\nParking/Restroom:\nThere is plenty of room for parking, which is convenient for people who are arriving by bus or car. They even offer a kids' area, EV charging, and a Jio fuel station.\nAn important consideration for long-distance visitors is the restrooms in Big Bay, which are kept in excellent condition.\n\nOutlets :\nEmpire, Starbucks, KFC, Burger King, Baskin-Robbins, GoPizza, Leon's, Haldiram’s , Ajfan Dates & Nuts , etc and many more to come .",
+      "extracted_snippet": {
+        "original": "Big Bay, India, is a traveler's paradise, tucked away on the Bangalore-Hyderabad Highway (around 90km from Bglr) and very ideal for pit stop. The environment offers a much-needed break from the road, the cuisine selection pleases all palates, and the facilities are immaculate. It is the highest quality, whether you are having a leisurely meal or a fast coffee. Big Bay India sets the bar high for highway stops.\n\nUpdate 5th Aug 2024 (Second visit) :\nOn the way back from Lepakshi, we made a lunch break at Big Bay. The space is spacious, tidy, well-kept, and well-organized.\nThere are numerous culinary selections. Empire was our choice and the food was good.\n\nParking/Restroom:\nThere is plenty of room for parking, which is convenient for people who are arriving by bus or car. They even offer a kids' area, EV charging, and a Jio fuel station.\nAn important consideration for long-distance visitors is the restrooms in Big Bay, which are kept in excellent condition.\n\nOutlets :\nEmpire, Starbucks, KFC, Burger King, Baskin-Robbins, GoPizza, Leon's, Haldiram’s , Ajfan Dates & Nuts , etc and many more to come ."
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-08-12T04:56:10Z",
+        "iso_date_of_last_edit": "2024-08-12T04:56:10Z",
+        "snippet": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team. \n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay.",
+        "extracted_snippet": {
+          "original": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team. \n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay."
+        }
+      }
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiNTdxMDdBRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgIDb57q07AE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-10T06:41:07Z",
+      "iso_date_of_last_edit": "2024-08-10T06:41:07Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNTdxMDdBRRAB",
+      "user": {
+        "name": "Lisa Dey",
+        "link": "https://www.google.com/maps/contrib/110715100778915069571?hl=en",
+        "contributor_id": "110715100778915069571",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWAwMFfPLlCeBosEyW2vxRt7bvxEhtNJRbENWcXEs5YfUhVtd-VHA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 105,
+        "photos": 10
+      },
+      "snippet": "Beautiful pitstop.All the food outlets are there.KFC..Burger King..Empire..Haldiram..clean restroom and aesthetic layout for perfect photos.There is a small toyshop as well.\nGood place to rest for a while when u r in this highway drive.",
+      "extracted_snippet": {
+        "original": "Beautiful pitstop.All the food outlets are there.KFC..Burger King..Empire..Haldiram..clean restroom and aesthetic layout for perfect photos.There is a small toyshop as well.\nGood place to rest for a while when u r in this highway drive."
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-08-10T23:08:10Z",
+        "iso_date_of_last_edit": "2024-08-10T23:08:10Z",
+        "snippet": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team. \n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay.",
+        "extracted_snippet": {
+          "original": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team. \n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay."
+        }
+      }
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM1c2FLRElREAE!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgIC5saKDIQ%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-10-15T04:02:04Z",
+      "iso_date_of_last_edit": "2023-10-15T04:02:04Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1c2FLRElREAE",
+      "user": {
+        "name": "Sabyasachi Nandy",
+        "link": "https://www.google.com/maps/contrib/117686725786572299608?hl=en",
+        "contributor_id": "117686725786572299608",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIzq5-Ftt0yxs9q2pXk2uSQTT1x5SG9EcUDtozK2QgQpVYaDg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 19,
+        "photos": 0
+      },
+      "snippet": "Need a restroom :p, come here. Besides that Starbucks, Burger king is there. Many other shops opening up.",
+      "extracted_snippet": {
+        "original": "Need a restroom :p, come here. Besides that Starbucks, Burger king is there. Many other shops opening up."
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2023-11-03T16:43:07Z",
+        "iso_date_of_last_edit": "2023-11-03T16:43:07Z",
+        "snippet": "Dear Sabyasachi Nandy,\n\nThank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time. Your support means a lot to us, and it's a testament to our commitment to providing exceptional service. \nWe look forward to serving you again soon.\n\nThank you \n\nTeam Big Bay",
+        "extracted_snippet": {
+          "original": "Dear Sabyasachi Nandy,\n\nThank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time. Your support means a lot to us, and it's a testament to our commitment to providing exceptional service. \nWe look forward to serving you again soon.\n\nThank you \n\nTeam Big Bay"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaZ282R25BRRAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgICZgo6GnAE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-09-06T18:23:19Z",
+      "iso_date_of_last_edit": "2023-09-06T19:16:05Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfZDJYLSnbXZAaOOwtVO6qmg4-VApbOfJ92vS5f7js8vjL8OVMEhAsn65WCuxZ7nkJ4nVKnX-ZkF25dYS4i2lA3rCldQYRsp9Fw2NCTwe2ww_lfR7x8RidZ8Eg92yCrrd5AxCTV=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeoi0QqBe-thEc4kXKT4kbpAH5iJgDc79TTEQw596vNnDTRLvqdj_5PMSChd2PqcJeQn0SKeoJPTEAXA2b3yVXdkVzJmWMyILx8ZA1f-DxXA09g0axcTi2OjfnLb_z1pkKMr_SwfQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf1TxfQ-pkZXXMdiuwxrSJWw6_UJI-fj2PJ0yAXYlFnyM39WU2pwao75t7hDThU6DSBokLb1OEIcZjwWVG7YeswtO6xFuInRpR-V83hFQ2BX_vmOrwyqTEYoaUGEgwEsdGNNEtm=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaZ282R25BRRAB",
+      "user": {
+        "name": "Mohammed Jawad",
+        "link": "https://www.google.com/maps/contrib/106944443640423488166?hl=en",
+        "contributor_id": "106944443640423488166",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJfTqUauW4CYjih6Rh1h2MR_JdIcg0LnvswLesbl8QRGNfW-WiG=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 22,
+        "photos": 70
+      },
+      "snippet": "On September 6th, during my visit to Big Bay, I noticed that a few restaurants were still undergoing construction. The only dining options available at the time were KFC and Gopizza, both of which had limited operating hours. Nevertheless, it proved to be a tranquil and serene spot to unwind after a lengthy drive.\n\nBig Bay boasts ample parking space, which is a convenient feature for visitors. Unfortunately, during my visit, restroom facilities were unavailable. Nonetheless, despite this inconvenience, I managed to have a peaceful and enjoyable time at Big Bay.",
+      "extracted_snippet": {
+        "original": "On September 6th, during my visit to Big Bay, I noticed that a few restaurants were still undergoing construction. The only dining options available at the time were KFC and Gopizza, both of which had limited operating hours. Nevertheless, it proved to be a tranquil and serene spot to unwind after a lengthy drive.\n\nBig Bay boasts ample parking space, which is a convenient feature for visitors. Unfortunately, during my visit, restroom facilities were unavailable. Nonetheless, despite this inconvenience, I managed to have a peaceful and enjoyable time at Big Bay."
+      },
+      "likes": 1,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2023-11-03T16:11:22Z",
+        "iso_date_of_last_edit": "2023-11-03T16:11:22Z",
+        "snippet": "Dear Mohammed,\n\nThank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time. Your support means a lot to us, and it's a testament to our commitment to providing exceptional service. \nWe look forward to serving you again soon.\n\nThank you \n\nTeam Big Bay",
+        "extracted_snippet": {
+          "original": "Dear Mohammed,\n\nThank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time. Your support means a lot to us, and it's a testament to our commitment to providing exceptional service. \nWe look forward to serving you again soon.\n\nThank you \n\nTeam Big Bay"
+        }
+      }
+    }
+  ]
+}

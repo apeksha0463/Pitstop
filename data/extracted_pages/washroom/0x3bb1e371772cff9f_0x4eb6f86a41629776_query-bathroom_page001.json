@@ -1,0 +1,71 @@
+{
+  "data_id": "0x3bb1e371772cff9f:0x4eb6f86a41629776",
+  "page": 1,
+  "review_filter": "query:bathroom",
+  "has_next_page": false,
+  "reviews_on_page": 1,
+  "new_reviews": 1,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 1,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "response",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 2,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUbnNtVU9nEAE",
+      "author": "Sona Suzanne",
+      "rating": 4.0,
+      "date": "Edited 4 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMGNgerW5r_XhhWw7ubiy9LqWSFkFPkKhKjDUP5G25b_qLnjqfjXHKn4SO7aP_NOanxCYcIMl6bWhAAxTd0F9Zw2LZnLmBFDavfoBMeWSiy2yQHOm6UWJ8Nol3Ma4YpiKJLJQ=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNedJdfnzptL26LjeN9JUsqEIc_pb1B2Z_wg9uXDu6aA5XfsKjrQr0_ycIJgih7FVjDZq-iEJzPdzbDUHv8elAH9khrNP-HbLIFHCtd1grVnsp6Snr2AvNegVlZttwtrsGlm44SJfvpWBm=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    }
+  ]
+}

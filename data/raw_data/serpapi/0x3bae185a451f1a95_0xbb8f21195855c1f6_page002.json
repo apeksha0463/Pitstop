@@ -1,0 +1,649 @@
+{
+  "search_metadata": {
+    "id": "6ae2d1af7e70280b69116d77",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KRNDyC7XmompFFnkQzjJFJZTR-tTSo1_PRaq_A3omQM/6ae2d1af7e70280b69116d77.json",
+    "markdown_endpoint": "https://serpapi.com/searches/KRNDyC7XmompFFnkQzjJFJZTR-tTSo1_PRaq_A3omQM/6ae2d1af7e70280b69116d77.md",
+    "created_at": "2026-10-29 04:55:11 UTC",
+    "processed_at": "2026-10-29 04:55:11 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae185a451f1a95:0xbb8f21195855c1f6!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/KRNDyC7XmompFFnkQzjJFJZTR-tTSo1_PRaq_A3omQM/6ae2d1af7e70280b69116d77.html",
+    "prettify_html_file": "https://serpapi.com/searches/KRNDyC7XmompFFnkQzjJFJZTR-tTSo1_PRaq_A3omQM/6ae2d1af7e70280b69116d77.prettify",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+    "hl": "en",
+    "next_page_token": "CjEIARIpCgoAP72F-npZTX__EhBUZ8UI4zqPviiCpgYAAAAAGgn92coCX6ellNcYACIA:10",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psb1lrWlFSVFF4V25kWlZrcHdVMDQxVG01NFUyYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjloYkZQRTQxWndZVkpwU041Tm54U2c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited a month ago",
+      "iso_date": "2026-08-14T17:10:10Z",
+      "iso_date_of_last_edit": "2026-08-31T12:10:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psb1lrWlFSVFF4V25kWlZrcHdVMDQxVG01NFUyYxAB",
+      "user": {
+        "name": "Jayanti Srivastava",
+        "link": "https://www.google.com/maps/contrib/108618443889018916364?hl=en",
+        "contributor_id": "108618443889018916364",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUxfBS0C5Gs6nxqPRuDOApeYkGd45c4uOab88T8En7FRl--kgLLMQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 28,
+        "photos": 4
+      },
+      "snippet": "Good food and ambience. Restaurant is currently under renovation so that may be a bit inconvenient for the time being.",
+      "extracted_snippet": {
+        "original": "Good food and ambience. Restaurant is currently under renovation so that may be a bit inconvenient for the time being."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 5,
+        "reservation": "Reservations not required",
+        "wait_time": "No wait",
+        "seating_type": "Outdoor patio / terrace",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Vegetarian menu or section",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OV2FYb3dVMnBqYXkxQldHNXdia053T0hoTlNtYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmNWaXowU2pjay1BWG5wbkNwOHhNSmc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T10:40:57Z",
+      "iso_date_of_last_edit": "2026-08-26T10:40:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OV2FYb3dVMnBqYXkxQldHNXdia053T0hoTlNtYxAB",
+      "user": {
+        "name": "Nirmal Singh",
+        "link": "https://www.google.com/maps/contrib/104287025322940447942?hl=en",
+        "contributor_id": "104287025322940447942",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX346rW40vWqFLSoddASvC92HsuLebUqUlRa_cBg2iwe10e7wc=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 93
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSalNqZzFTM1UzWkRSWFdsRndOVVpNTFdKMFJXYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOlRjSjg1S3U3ZDRXWlFwNUZMLWJ0RWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T10:39:38Z",
+      "iso_date_of_last_edit": "2026-08-26T10:39:38Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSalNqZzFTM1UzWkRSWFdsRndOVVpNTFdKMFJXYxAB",
+      "user": {
+        "name": "Pritam Pan",
+        "link": "https://www.google.com/maps/contrib/114483160175007409748?hl=en",
+        "contributor_id": "114483160175007409748",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWplWGnT2QCPXD2iSfMGaAFARtvZxX28KHYbROrzrsLexb5uxQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 44
+      },
+      "snippet": "Food was good, specially mutton whatever u order.... Service was cool, Astrika was very attentive and everything was well cared",
+      "extracted_snippet": {
+        "original": "Food was good, specially mutton whatever u order.... Service was cool, Astrika was very attentive and everything was well cared"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sblpWRnZiVVUzY0doSVNVbHJjM0Z3Uldka1VIYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmlnZVFvbUU3cGhISUlrc3FwRWdkUHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T15:58:06Z",
+      "iso_date_of_last_edit": "2026-08-25T15:58:06Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sblpWRnZiVVUzY0doSVNVbHJjM0Z3Uldka1VIYxAB",
+      "user": {
+        "name": "saranga mohan",
+        "link": "https://www.google.com/maps/contrib/112406111911072936457?hl=en",
+        "contributor_id": "112406111911072936457",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUZnCyNShdljmO7pLP01Tk7GdGQVUciON2iEF104MLeEyf37vge=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Very good hospitality especially Asrita",
+      "extracted_snippet": {
+        "original": "Very good hospitality especially Asrita"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OdVdVbGtMVjlzVDAxSGNVNVhjVEJRYkdWek1WRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmNuWUlkLV9sT01HcU5XcTBQbGVzMVE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-25T15:56:36Z",
+      "iso_date_of_last_edit": "2026-08-25T15:56:36Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdVdVbGtMVjlzVDAxSGNVNVhjVEJRYkdWek1WRRAB",
+      "user": {
+        "name": "sarath s",
+        "link": "https://www.google.com/maps/contrib/102719207839872555419?hl=en",
+        "contributor_id": "102719207839872555419",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJk1upovLGGnBBkrFoo8Qqtn_IAseK6yC4CzoU3C83Y8P6W9A=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 0
+      },
+      "snippet": "Good",
+      "extracted_snippet": {
+        "original": "Good"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21jd1duVXpYMHcwVXpCYVZrY3hjMUJtTWxkcFVHYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmcwWnUzX0w0UzBaVkcxc1BmMldpUGc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-18T16:56:11Z",
+      "iso_date_of_last_edit": "2026-08-18T16:56:11Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jd1duVXpYMHcwVXpCYVZrY3hjMUJtTWxkcFVHYxAB",
+      "user": {
+        "name": "Babu Durgadevi",
+        "link": "https://www.google.com/maps/contrib/118337586552442829984?hl=en",
+        "contributor_id": "118337586552442829984",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK3SNxAKIDOqGBGmdi-Yb16rtxK2kIZVYWf_kJuhN6Zt6v7vw=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGTFdXdDJObTVTU21WV1NVcDVhbXhKVFRkTWMzYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOlFLWWt2Nm5SSmVWSUp5amxJTTdMc3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-16T09:34:44Z",
+      "iso_date_of_last_edit": "2026-08-16T09:34:44Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTFdXdDJObTVTU21WV1NVcDVhbXhKVFRkTWMzYxAB",
+      "user": {
+        "name": "Yashvi Pansuriya",
+        "link": "https://www.google.com/maps/contrib/108994743417736648162?hl=en",
+        "contributor_id": "108994743417736648162",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK7WxBkifGcsiMHM_4ca4IP86EewDXxbBj6OzQmGb8A5bIG_w=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Food is very good , we had north indian cuisin and it was delicious, specially i like the service of asrita.",
+      "extracted_snippet": {
+        "original": "Food is very good , we had north indian cuisin and it was delicious, specially i like the service of asrita."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0amQwSnZjMkZuUmxGWVkwODJVR1ZVY25SZlpuYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOktjd0Jvc2FnRlFYY082UGVUcnRfZnc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-15T17:19:45Z",
+      "iso_date_of_last_edit": "2026-08-15T17:19:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0amQwSnZjMkZuUmxGWVkwODJVR1ZVY25SZlpuYxAB",
+      "user": {
+        "name": "Vandana S",
+        "link": "https://www.google.com/maps/contrib/105857707121066651112?hl=en",
+        "contributor_id": "105857707121066651112",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJWUgi4xGJ0CjXZAR0-JW6xFUP4COWVq0dw08ptAi6pnLxYUA=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 0
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 1,
+        "service": 4,
+        "atmosphere": 5,
+        "reservation": "Reservations not required",
+        "recommendation_for_vegetarians": "Would not recommend",
+        "vegetarian_offerings": "Vegetarian menu or section",
+        "vegetarian_options": "Food is bad and not worth the money"
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkM2FUaHdlbmhoZUdnMWFHMVJhekkzTlhOTE5IYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOld3aThwenhheGg1aG1RazI3NXNLNHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-15T16:51:28Z",
+      "iso_date_of_last_edit": "2026-08-15T16:51:28Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkM2FUaHdlbmhoZUdnMWFHMVJhekkzTlhOTE5IYxAB",
+      "user": {
+        "name": "RISHI.K. Ruia",
+        "link": "https://www.google.com/maps/contrib/108635908315218530617?hl=en",
+        "contributor_id": "108635908315218530617",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV5nIZiwUXy19jonltQ0Cv2mE2fpWPNmEZb4CeOTAIpAisTg_ky9Q=s120-c-rp-mo-br100",
+        "reviews": 11,
+        "photos": 0
+      },
+      "snippet": "Great food and service. Special thanks to staff Ms.Asrita and the singer Mukhtar Khan.",
+      "extracted_snippet": {
+        "original": "Great food and service. Special thanks to staff Ms.Asrita and the singer Mukhtar Khan."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xBNVVISm9RVVYyTFhkdlpXUlRSV2cyVVZWdFlrRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOlA5UHJoQUV2LXdvZWRTRWg2UVVtYkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-13T15:15:57Z",
+      "iso_date_of_last_edit": "2026-08-13T15:15:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBNVVISm9RVVYyTFhkdlpXUlRSV2cyVVZWdFlrRRAB",
+      "user": {
+        "name": "Munsafa Khan",
+        "link": "https://www.google.com/maps/contrib/112978461825564710871?hl=en",
+        "contributor_id": "112978461825564710871",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK5Mm4L5h1rdpWEAMpUuynkgCNMBTxQM9_nSASlcoTVOLRsmQ=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSUWRVeEJRV1ZUY25ZMFRYRkpiSHBpTkhKWGJYYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkRQdUxBQWVTcnY0TXFJbHpiNHJXbXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-12T03:29:27Z",
+      "iso_date_of_last_edit": "2026-08-12T03:29:27Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUWRVeEJRV1ZUY25ZMFRYRkpiSHBpTkhKWGJYYxAB",
+      "user": {
+        "name": "Magali MICHEL",
+        "link": "https://www.google.com/maps/contrib/118086866051532426312?hl=en",
+        "contributor_id": "118086866051532426312",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIuPJSD6wje7hW6BqqisV3ex4fgQnWx4fAqpdTwr31L0ajdwg=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "A very pleasant restaurant with generous portions. The setting is very plaisant. And Subhajit is very great server !",
+      "extracted_snippet": {
+        "original": "A very pleasant restaurant with generous portions. The setting is very plaisant. And Subhajit is very great server !"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oNVRGSTBXV2xZY1dGVVozaENjM05MZWt0WE5rRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmh5TFI0WWlYcWFUZ3hCc3NLektXNkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-09T16:25:08Z",
+      "iso_date_of_last_edit": "2026-08-09T16:25:08Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNVRGSTBXV2xZY1dGVVozaENjM05MZWt0WE5rRRAB",
+      "user": {
+        "name": "Sanjeev Kumar",
+        "link": "https://www.google.com/maps/contrib/105907681937429299850?hl=en",
+        "contributor_id": "105907681937429299850",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIYBVtapS-FfwpcUyPddnq4nrBcqrdksXqIDfuXfQwnKBSO6Q=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "I visited here my family for the first time. Liked the overall experience. Reception and Service provided by Ms. Asrita and Mr. Biswajit was exceptional. The food items arranged by Chef Barik was exemplary. North Indian cuisine had authentic taste. Thanks to the entire team of 9th Mile Dhaba",
+      "extracted_snippet": {
+        "original": "I visited here my family for the first time. Liked the overall experience. Reception and Service provided by Ms. Asrita and Mr. Biswajit was exceptional. The food items arranged by Chef Barik was exemplary. North Indian cuisine had authentic taste. Thanks to the entire team of 9th Mile Dhaba"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWa2FUazJZamM1ZVVscFNrTk1PWEZIUzBSbmVYYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOlVkaTk2Yjc5eUlpSkNMOXFHS0RneXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T17:18:33Z",
+      "iso_date_of_last_edit": "2026-08-08T17:18:33Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWa2FUazJZamM1ZVVscFNrTk1PWEZIUzBSbmVYYxAB",
+      "user": {
+        "name": "Shafi Kausar",
+        "link": "https://www.google.com/maps/contrib/117318015242264761472?hl=en",
+        "contributor_id": "117318015242264761472",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJylrmTnNwOvhCJtNKmodjGOQ6pCV_Vjxez_u3zDvloXpbnSg=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "We had dinner on a Saturday night. The food was very delicious and tasty. Since I had been with family, the expectation was slightly high. But the service by ASRITA was extremely satisfying and excellent. It was a real joy to be served by her. She. Was always smiling and very helpful! 7 stars to her.\nBarik, the Chef deserves a special mention for his excellent food and a warm\nSmile when he came to greet us at the end of the meal! Overall a great experience !!!!",
+      "extracted_snippet": {
+        "original": "We had dinner on a Saturday night. The food was very delicious and tasty. Since I had been with family, the expectation was slightly high. But the service by ASRITA was extremely satisfying and excellent. It was a real joy to be served by her. She. Was always smiling and very helpful! 7 stars to her.\nBarik, the Chef deserves a special mention for his excellent food and a warm\nSmile when he came to greet us at the end of the meal! Overall a great experience !!!!"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tobGFYUTBZVkZ6VUY4elFYQTNPRFUyUm0xdWNsRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkhlaXQ0YVFzUF8zQXA3ODU2Rm1uclE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-08T09:01:58Z",
+      "iso_date_of_last_edit": "2026-08-08T09:01:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tobGFYUTBZVkZ6VUY4elFYQTNPRFUyUm0xdWNsRRAB",
+      "user": {
+        "name": "Saurabh Sinha",
+        "link": "https://www.google.com/maps/contrib/113120165650150792735?hl=en",
+        "contributor_id": "113120165650150792735",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU5zFXN9X_Zdaxv2zYf_Zix2WpXGBserGPQTjWKr98uvW_C_DEWKA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 29,
+        "photos": 6
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tobFNFZEdMV2hEZW5vMWJDMU9SRXhyUlVwdlVrRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkhlSEdGLWhDeno1bC1ORExrRUpvUkE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T06:52:09Z",
+      "iso_date_of_last_edit": "2026-08-03T06:52:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tobFNFZEdMV2hEZW5vMWJDMU9SRXhyUlVwdlVrRRAB",
+      "user": {
+        "name": "Johan Andrews",
+        "link": "https://www.google.com/maps/contrib/107005509117329074805?hl=en",
+        "contributor_id": "107005509117329074805",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX_iAXTzFX0etBaQbvzgeZuL2kcbn5ap0fTS7v0kpANVcB11EQ8aA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 17,
+        "photos": 3
+      },
+      "snippet": "Expectations of food at a resort are always really low but this was a new level of low Really bad food.\nFrom a group of 12 about 5-6 people were left with upset stomachs and lose motion and vomiting.\nThere were e dead flies in the cutlery and the food overall tasted really sad.",
+      "extracted_snippet": {
+        "original": "Expectations of food at a resort are always really low but this was a new level of low Really bad food.\nFrom a group of 12 about 5-6 people were left with upset stomachs and lose motion and vomiting.\nThere were e dead flies in the cutlery and the food overall tasted really sad."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,200–1,400",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 3,
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Would not recommend"
+      },
+      "likes": 0
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkc1RuVTNWelJzUTBsb1ZEaHZSRlZ0WjI5a1ExRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkdsTnU3VzRsQ0loVDhvRFVtZ29kQ1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-03T06:48:10Z",
+      "iso_date_of_last_edit": "2026-08-03T06:48:10Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcnE-OBTqTEPjCPrYTxqJ9NThBMs_tcVc8qdta9VtMFByLLgba8vap_TNL9SidFdLwDdfLcrpzpRXEo3wj8AUKfB_BYzXn3zXaWGIetaTKK50tB5fPw_EDAB-H11st6z8YDyAPLZLmH76U4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdLX9ZIPWr7923Djc4-eRlvWNhF_SxfJfcpkSCw8uXFVqCOwVbv3nBNqrNdEW3uSC6fkkSXoejTQVEDmViFFQ3qQeSlC84NX7Zcq9JUZyE38FdHKpauhj6ew1Fgl_knMv3LtxXGqHLpPJIs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLexPVDs1qnsJiJoDmocfsdSDDfB6KpKi8sDUGf0AhRerIbPTWkTGH6wmo7v3DUkezYN66oLDi2FpZ-Dv3qoOdNKN1qKNzHDu_3KNkcE0MePLesr24Ze77iRh5pAjui6Dein6fi1Niui8OU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcyDcab4g_Hc5NaZkSv6E1B-c1RBwwHnd79KVEZfoCB8zeldeuTfYtnCaxNxsnUg_BJbq1ecRbo7pBzzzO8aavTqlbX-kOe4lA-J5cBFpwqR2v4wXst2rxdbDTN8uHSoCg3WHs3xV6aIMs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe-acGts8MJzN97Z8eGvP78ngGCd_jip-EvPtDAQTG2POFHiGMEbqVmQgmZHOJLGE0fqnrsBABuCpeJzpd2f09zPYy3zx8cq3RoLlhLyJ1ukB94PJS-lvjxlk-GaO69jyh6o4dvNY48mWR5=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfdp1lIawV6IztIl0uIXMd6J5tkx9WT-Oe_KjBfYmSbTV0VJk9CktWlEPApi0exn1Lmg2P1Rq5_koWkLTRwVNc74crEKO50LYsbCa0YXAKxSZ3nyHEtzJ811RX2ZHCI7erMKQYuri9Vr5_E=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfNY9b2uThI3shxGkp7iAF9n3FaH3I0g_aIUwbfC-uwl9Qqqdek4BKB6Q2oxhZv-MLoj_R1Z9T2Hpz6ChOF6yioJ6TGo3miWabyrit8nOlQvWne-2qLX0IcN6LztmusiN6u4_091MdSMvQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdoGyEs-XYIsaW5puGPVXy0VzQ4s7yn7Z5cZB_Zi42vZRTkcVssGbSt9KC2hscdILt35p628j3Kihie2URLHGdOmPe1W6B5pkBeIgBhsc5KY3-7ZZOHXH0sjEOuFSDNv7eSzMe-7Whl1xHT=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc3GIY8jzY_JlPAIYSRKKPBUTQdohk4A3xTfq0qcFdsssYgla5MlMalsTGzA8ktM2BSB8g-kDRRxFL-NeLg0H4ZGKuzwXraaYnE3JjAV1dm9NtMFvq6KfFI0Ies29rP7xEqKNw5tG1X1rPZ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdV-h0VG4aRTqQ_YM4OtO6RzQD2lV2lyt_VZa2p7cts0glzyeNYKjbCxBVEtRBKre2erFN6lVqoX9tnDXsgKXcDF2fMPfTmsDjrhIle44isJaDmmo_VRH6ap7LcJLC9_RaTebqkSRfKlg7r=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc5VnfTduqxw61MAu2zEipgZiSbVJlJG_crfaMN_vnXaSibRo8-W5XJVQ-HAvgknSGD72UWcl_8LVLPgLFHoP_CIJDjGQeNxx7IDQZkVlCYAKi96Zftuf8RyYwRZoya308l6FF3D3D2sR2l=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeq0F-ElpPEiQUXXY6_TmafuFPHGedskvUZ0yCd3ukTCXGJfB7GQeeD907kYQVag1J-6j1Kauh676yerMTM-IKQiFWh_OOujcuUvge3yfCw_1gJmRjHmdrKyjKbX_n44kTEFBUtf7MBJmBk=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcOnVe8cv1B9vYD0QDAjFOrEesusYwfphks2yxd5hf3i7ferVGXN1UsCKWrNangXGRiNPgtvRfwaPEvVSVME__GSXd-bAkdu-JVIBK3SR5sr5-MP5hPba4ulpnkX1wHaD5_PAGMTuR8egaC=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLefuiKuqBS5N02_Go1fov1bHzGubgIJ0fBRbWZwf9cEmYeGji_m8gRNVvBqoi3guhK7rNs5o2gxRQVTY_g-KM9Eb6XfYUfHeq4FoeXmWNDyFI8KL2S0IF-7-e2rVBVqB8D4h6EASeEh36jM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfy0YfiKeM-LwUOjlhS7jMARIblTu_glyFj57xpUr-3P6JoU86JofV0fwud-f2H_V_CZWMkTiGOwivpSKeLiQu8COiPfb_qXX8iHGsiT3K4Nv9FVShGW4l-lXyfG9j1uC6SxsSIxlfzV3Uk=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfTT1eBN8i7XIBvE3a-wjMi54OJ8yH4GsphJa0X2Hkk9zjHzbtF-eft7E5Z8MKt0UJRMn4FzfAwGHuAg9dPg6vYPKBKJsX1Ns1gGSECG3bd98OcAPTKikT6dPxAq34D2Js6o0Rdv8zL9RKa=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeiXyy-X9Jnyjn9g2IpEQARy2IYzyAJaXPeLRvhD8GZBVYHtJP8xaSYaCcodvFOlSLrCS-Q5swQNCBJ_UNDR1yZbkiH55Mb9lCITIlCs4CnOvnxeAltMbBYJkUt2YgI2UZ5hI0TWKoHpv4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeM4AN1LQUnTST0Z5iEQZ-LJXOQaBE4NbRewBP4tHrZHwdtHEtBJnS35JLS3YFko9lv0Q7m2Egrv3XRK9VxwcILqZU8X2WTgZx20rJs9wCBkRzG0BbOfB_O8FPCWqEc-MPMPbCNFJgBjJ25=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdcTvn-I4YYd6dyQWfLpLdudqgbJBHAHfS_roJCr1x0mn4lCNRKNIK-f-8CQ2tr6UAWwhfyDeZaZ4cioyzacPB68nGP9hL2p4ELsH7oMvcHdjLVz6LQBQ72yynuAsq3FOSvCcDSsAckMsiv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfTXXF5zuyZ8vkrL7zFTNX-z_lTI3RmRe_0cncahO5hwMXWYZglyBNJWhXGWxtH1TRjF4gjTvB8Wz4Nm4wpM_h5CHxM0Cz6F3mLMoT-9HLjC6WNsLQ5YgULV6hRLDRI1NUxLCzXERhUObt5=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcLqc1qtvDAuH3XYbrWn79nP7fJTsWwDl0-zQE4x42ii3PSoDlf7e5_XCliQMSrNpV83NkZGHtilACb-CFp5kv_GtpDIWegdS8900wkoEneX2jOs9KFQkYj-_oAW9M7H-Hjrqiit212w0vP=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe1eI9khYjNWOWSVsOILUjA3ijxOL8gSOV_GdAzkQBVzIdTNQvaQpa_qKRzC0vbw3-rpEMj-tjA7y0BDUf7_PHC_Kwnsz_65Ngb4th1sB0AJ8wUr1QhxSnVNBk9voVi4GRdWi0lMG-WNGs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeo4U1fx5u2O6H6CPKu9sCPxtI0nVLUzlmgwlHtA4aSZ7ngBRjHdL3hQubISly8JZ2kfZNNGrcCGh1lkP7qcOpHdTOich1IlYgGgooXo8t6yLLnELNzm9d-m3h0DOF8HPuCijJyZjmj28X5=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdh2aMaNica-7PC_D2PNizrohnxmAc1DMPcipC8EKpRzbON4fqyuffx2cYWOMT_93ji-3EgQBDAzWY1-9Po5KsayQV2ju6BTWlEEkkiuVMBbUZhPqPuVL2Rbqq2iK8v29TMCwflolOnoFuR=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLftTLkzHykC-2ZSPyHBDrJWkzc58KyJjY6Yx1c2ljWmJNtzpMrK3-ZibDxfLg4BBMX0c941B4ogODMXE9xRCrWqKgxjIZojIfC75oMrQRTwOaMwpiPxrIK4IrJvXlFt7wrFVh3DC9SNMugv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfuHCMJvAQ_vs966RvK5PMAUvcN3UWj245aEX88kNYW7tMR00W-s3q97QGLXDcC2dn_eXReNpx3uxpWws3cpsG7iZSKsFGBsuDnXF4vbnK5QNZL17qYwQXCRdJcF1cAIoH9nJmJZud1tPA5=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcStsqTrjIwniGbuvg47Ii7_nNeE9OObxWFxywkSSMhX22wbFtS07RX-sevSKc_FFAEN1FP7__NkUkpbsNHyseNCbto_84W_zq0YLjpgLSOz8BAkmyKEUj3zg6J1i5K3J_TmUMzSd1mlY7R=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdUmIYeoRsupH-SNSDxbgsUPwnxCAAG8rLsixNHlm7b9AalnkRIjRJxhrtGUpzlQ4JbxrEW1XlCafK3fst4hqLNG3tA4lAQ4uweE-z8Vwu7LeVqN4UVGj1PixaXupEVQR4wafC7RGSgfjKy=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdxQHUb9yYQ1iV8mawsUDLegDlfyLi3JRoiTdwOkNDb3CU8_O1QCRiknsKw8eaUDquLpegrfnK60vLkEiXtq6ApG5FU-Czgne5YFYm_xSZdTPCbS31k5Jb55fboQCa5MbRk6o9oP7Xqnjp5=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeTTGU8z_zLxZjtiHWrjlxtAwZbLaZ83-dHLkgy2geRMZuFHXbB8TejRekZCapr-K-UxR93L-3woQHuKxQnW4weNRfoSnKGMTDEcmOG7EFFb2gM8uFXpZR5MUY-SVk5KhxpVFn8iKVBTb0=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfz3Cz7f7e7SCNYAN_TU0tQhHrLJjWKx0Cm5Xg6LSOgPuoKwfIXRwtaNGVRLo1ORHY4G80-B2iOS4kdYu_EGXqT0nalZv9QDjPTQ14FfYXIHU7OgWcDRvc0mVLTKkc3Zj-SelI0QK2Eln0F=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeNwTNyDKnZAFlIkrWZ3hnoCm95R8hIrSbBfiZ0jKDshpxS9IjqbrOtlTsuLCnPnkLpxTdQ6VJGNtuIiOYRbD0RqzmCESBtcPKM31OToTpzVoegVi9WwFJYigY16BcT2h8fjkYKh9HUsR7s=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe5khdunpKCilDsp3C4_6t_5vjqD2ESXRjZ0FatzeaIAdJbIrUFbjBo6mZNzkcbyFpcRZO2EZJSL7W7JnY8YP4XHUq0cJ1hvfiKM5lg3KyzMWYNhxGyWQRL21ELgp4g0Ke7qiXzemEDh5sC=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf0FPj7hueRC_kCoxIrlLR-Lr9GJ-JJVrFMSFtZpe3M9ZsVUM05q_MQr5I5GC9Pu3_8I1krKH-pLF0mstYdiwZlUrFkGmlAn8RttPopSBSeJ-GxJ1DBfTCLvlFVydv8D_dMzNNWU0QZ-BPp=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc90RHDYh4Z-qWlE5XLGUAcECPgD9bTa61NBEf73zj1uPsnHx58hsj5qucY9OC65KuDB1y2zO2V5TfW-eZZzsKdOYMk3sgYL4rUg2BtkIlIwopOEogl6TzqdoCLF5w2dXPMe2W5kSm86pkQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe7OMhs4A17kjX5CjR8g-GtXCMziCIJ9sJnAZmA9KHF0YOrOui84B6cNr6tqxQJU8WtKveuZ0xymktVst3CIm-t8rBx-wpyT-jgRL0T6XcafifZDki4HKb46zS0xrWyii-Tm0z_tjQePQkL=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcQRT4FiSI04m-Wko7r5_CLVO4R2bpzkewSH2fxfs6J5ZKT89VoWjmG8tMgYR_PzK22hjY7KoVihTW8pvLT7XCJ7R5Ffowe0nzWFlUMmW6zkYZWPoWghInvv63EWIJkl9VbyiC_o4XkF7VT=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkc1RuVTNWelJzUTBsb1ZEaHZSRlZ0WjI5a1ExRRAB",
+      "user": {
+        "name": "Garima Jadhav",
+        "link": "https://www.google.com/maps/contrib/100171541912277355156?hl=en",
+        "contributor_id": "100171541912277355156",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX8-_Nqs00gMFo1l9P6jXHcNuOdkVzJkZG7G95ESYhbBVMZEDU=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 37
+      },
+      "snippet": "Genuinely, as the visit progressed, the final receipt supported separate payments for our group. That kept things positive because our group could settle things conveniently.",
+      "extracted_snippet": {
+        "original": "Genuinely, as the visit progressed, the final receipt supported separate payments for our group. That kept things positive because our group could settle things conveniently."
+      },
+      "likes": 0
+    },
+    {
+      "position": 17,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21VelVFWnNRME5ZWTJSSFpqYzRVMEpUVEZOclpHYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmUzUEZsQ0NYY2RHZjc4U0JTTFNrZGc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-26T16:20:16Z",
+      "iso_date_of_last_edit": "2026-07-26T16:20:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VelVFWnNRME5ZWTJSSFpqYzRVMEpUVEZOclpHYxAB",
+      "user": {
+        "name": "Dilip Kourav",
+        "link": "https://www.google.com/maps/contrib/110204372960988665432?hl=en",
+        "contributor_id": "110204372960988665432",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWF4c3wTg9csUnPUIuwsIi1T2jZJztZzFGro2z_mhHTAJOmbAL8=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 8
+      },
+      "snippet": "The food was good and the service was even great.\n\nReally loved the hospitality by Sanju and Biswajit.\nThey took great care of us.",
+      "extracted_snippet": {
+        "original": "The food was good and the service was even great.\n\nReally loved the hospitality by Sanju and Biswajit.\nThey took great care of us."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4,
+        "reservation": "Reservations not required",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 18,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oclp6ZzVUV3hFY0RWWVpIVndNMjFYVWpoUVpFRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmhrZzg5TWxEcDVYZHVwM21XUjhQZEE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-17T13:53:45Z",
+      "iso_date_of_last_edit": "2026-07-17T13:53:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oclp6ZzVUV3hFY0RWWVpIVndNMjFYVWpoUVpFRRAB",
+      "user": {
+        "name": "Thimmaraju A",
+        "link": "https://www.google.com/maps/contrib/101718879222934302184?hl=en",
+        "contributor_id": "101718879222934302184",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXeWDNd45Jzc82Q8NfMHRbUgu9D7M5TqlOGBYVagFzyoom46NeD9g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 9,
+        "photos": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 19,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsa2Jta3lVMWw0ZDBkVU9IVnFOMEpMYlhWZmVIYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOklkbmkyU1l4d0dUOHVqN0JLbXVfeHc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-07T10:20:10Z",
+      "iso_date_of_last_edit": "2026-07-07T10:20:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsa2Jta3lVMWw0ZDBkVU9IVnFOMEpMYlhWZmVIYxAB",
+      "user": {
+        "name": "alok kumar",
+        "link": "https://www.google.com/maps/contrib/118364996397147550658?hl=en",
+        "contributor_id": "118364996397147550658",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUwLBG0Eghz69_3q519tnhwT0KRtsqVfpW9qNJbgD-pu2QkSQpruA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 15,
+        "photos": 8
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,200–1,400",
+        "reservation": "Reservations recommended",
+        "wait_time": "Up to 10 min"
+      },
+      "likes": 0
+    },
+    {
+      "position": 20,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wcGEzY3RZa3c1ZWtWTlVsQlRZMHRLZDNoYVEyYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOnppa3ctYkw5ekVNUlBTY0tKd3haQ2c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-27T14:04:27Z",
+      "iso_date_of_last_edit": "2026-06-27T14:04:27Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdy7GNHFE_6WUv6lihcpWhAEEzKz-EDhsRG7NSP0Er8DA99Au-6BfFR2LEL592GeIm4YCU8SdEHnkcq0fcmEus-GtZb_uGlHN5L-szPXoYTrIGeB9kcZNg4MCd-bJkJS7lsxbnmZlkPwCWz=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLevQpSsa5FCE9vy8f-K5151uJns-j2tT7qkQcVXmQa9DwJjSNFMT6KvwHRrbK0XgrHNtOU51_U9LC7b3VcpMnP-aBNahZE19Esdsn2UsybHlUKjqok5_WVskfdkTI7e8IaOL8W92D0eoy8A=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdCWGKNneICGOnoDFsVUhOCEJ9FmlaCOr5aoyQ9zQeZDQCM553vufyTPV5KgZ2j6FnjQL2Cm9ZJwy-ygjSAr5ZztMhtc7r1X_htPBVQaG6G0JY2iReB8ANSXkiBM-H4KNmVLG1hvYhgpbgI=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfxYpZtIz3Xqf9sWmpQ0NkGgWXMQJ5qtICd_XXfHlXyZ-o4YM1Vx6gI04gdLs-vdppb_UOHgob_VQV8SoMtUHaZWVpwBPSyHo93c0kvUyZYPYig4E2fGh7KIZZFgFEFiFlf7kP4Vm7L_Sc7=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeMnldcDTHoCU63lB69dyLLZ0cFCtNT9_UdudAtwocMBwt8byK161Dxjj4awGjvj-a2Hd55fNIRbMf4mhkniBI0hh6S3u8C0xW07O2ZvvatXbVSd-8CVf6an5uaeqSToRCJUmZS6sK6LAB7=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf2Pc1dj7ajXptjASXcgN7nKneLqwRFbdRBJ8mXPK7E9cI6wzva-dU-a44-Igqpy9MJJtc_S12hc5xQAscRjwTAYCSXxAxXguL1yxfxkVYBCkFWVR1RXtqdEGLMQr79EJvVD1VYcbnLZ7AM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfDW8idaLPoFsC0w3VrIx4-doWkKm9P-AbvvoRVgQxsC6TvR8S65dW9gLX4HWrqgST06i9AlhJ-fdIkC73wkTW8sIYGXWCBAxmmQQVQKD1Er8wga1vrhUD5Nxi9LgndxMSz6FosXmxdf4Y=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcO6aRHw0Jnfz5sOwOZwPDmT-5-Q48LwPabXrd-QO8WDOl4Jmuxwxihypl8JEJEdOAOShSQoGekYFLcMjOR9CJnopWzOy7pr3vEHIcq4SDpyX9o8m5U-904OyC-uU9AbZo5koL5Eus_eSJ1=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdKuqLUIiOkBkVTM6xit0DTf7d8WIWHlOyYylWu5qM3a4aH2qqYsvmqsUA9KjvWetQOkEqEe2bujOPPalUanZzVZhjyw5rGb8_GzVYLN6AHdPuoTRpWTKhh7WD9XjO1xOdv2k1ZZ6LJS6tv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcQvunpyPHfDRUiMvzcB1A5-ymB12D3X4unXDmUnhs3FboNkM9ptA3DzD_mJY0nJHL20IctP8jCNXRThPc0AIlb2IbKzNQxaR4mQModo5jQMKS_cJ7nBZsa2bcU-tMq-6LfUxpq6FNQ6wYz=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdbxpCGm09DlaVWHNup7J7FTgx4mDndG_jsppp0z_NUAb_a5EfNTGIcUg5yvyoaKrVbn7B4QViBFQBMk9zRcVBLcyvY2SZm0jsRU5eJpcV5tHK9crRyigvUP_dYNvePCcbX7qkLCyM2EACk=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfHd1yVQbztep0ryObIL91fwbzBIr_sz5yoWY3DbY-GItyQzWMLFYxhjp_kCn4w4ZBKoxQJ0sHUGMNoANz8NQbtndsUPPWk_xu3kqzlreUJw2orIzBdBpY-L5tkM2oRVWSN57jxxx0xQRI=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLersVpDz8-u4erTgo_KrxdZPQDpe6nT6HdRnCO2vog-UPDkzoVckTxzm6cHglhh6icXvyT4EPHqdYwMmaaw9f9-sDxrg2gqiqPEaB9e1E8WpJ7U4Iwl3LJgs-PV37gf_hvCMwcZnw5n4phS=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeQpxRAHY5RVEvkUsbcb3q0pQI48ZFVXc1mmxWwaIa3UL3O7onMO1LUhtMgUD1P0pDaqaJ04BCbfy35HDK0yBMONSn-ByA22DXclhFNt904nxvjMGA73bQVI5-vLQBsyOJOccpbJ1YbdtKs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLddz2Ea3q5cmP7cNFGgL21b2wmEQ2HR5nq5EKqQwHiOySz0NN7gjtt5E0swdCqtcSDz8DTDdKlKCeJ0AznMEkSL5NWMeJ5cdOMQSGFA-UqZLfyX3HCz6zF7tb8Ayzu8_l03uilSFXHGO0vg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLctk7Cn958bGubyfr8KjvOP8pq3HEdJOcEjCv2kfm5iVZ-SrLrdqxFMiPGJtFheU_jLXk8G1gLgyM2Q0ZyfKrOE51bVF8tC2ivj5DnPv5zCC6MoXm39-HQtEiu6e8zpZrm8x_Qu2DZRmF59=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcTrkPt_OLCf8XHS_Bt0q_MigMXl_l1T7zh8ja_tXhRpdBM__n3t8qjwtEAwrhf6Na8LU7CcQD1Gm7oCQz4E7qxS3fgWwzc3j045uDwbWfo2waS68w09Z4e0Coghbsyg6zwrcwKlFXMYX8z=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeUjFhPx3vjvPKW_iF4AsyG3D9chHQ8Cb1A0xhCgv24RqMI5gEQUKKnh2d76S8qItVXFo9WxaNcmEaagRKxCqKxUXGsHDuYktGzzlAd2Tp5UootCKEfyKMu_n0WXVA5YD1DbBX7ARQcFvRK=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcGEzY3RZa3c1ZWtWTlVsQlRZMHRLZDNoYVEyYxAB",
+      "user": {
+        "name": "Pritee",
+        "link": "https://www.google.com/maps/contrib/117596442381333571049?hl=en",
+        "contributor_id": "117596442381333571049",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWhG0AfbRBPA8yqvkk7pVbquO5SKk_mxB4bUmXUkHkvFLZOiDk=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 73,
+        "photos": 530
+      },
+      "snippet": "As We are vegetarian in my family so We tried vegetarian options.full dinner we tried Nan, panner tikka, mushroom malai ,paan also you can it's have to separate,all the taste was nice u felt and the things what i didn't like is very slow service and we went to celebrate anniversary party there so i asked for to help to get the plate decoration they done but no corporation properly I have to do alone for my brother and also what ever food we are going to order they are telling like it will take time so can't make them we spoke to manger get it done...so i was expecting that nice hotel means have to serve nice but they are like lazy to do or finish the food don't know they behave....so here one thing i like more about games section it was nice.",
+      "extracted_snippet": {
+        "original": "As We are vegetarian in my family so We tried vegetarian options.full dinner we tried Nan, panner tikka, mushroom malai ,paan also you can it's have to separate,all the taste was nice u felt and the things what i didn't like is very slow service and we went to celebrate anniversary party there so i asked for to help to get the plate decoration they done but no corporation properly I have to do alone for my brother and also what ever food we are going to order they are telling like it will take time so can't make them we spoke to manger get it done...so i was expecting that nice hotel means have to serve nice but they are like lazy to do or finish the food don't know they behave....so here one thing i like more about games section it was nice."
+      },
+      "details": {
+        "price_per_person": "₹600–800",
+        "wait_time": "30-60 min",
+        "recommendation_for_vegetarians": "Not sure",
+        "vegetarian_offerings": "Not sure",
+        "dietary_restrictions": "No you can order what you want if any this need to add tell to them",
+        "parking_space": "Plenty of parking",
+        "kid_friendliness": "Yes",
+        "wheelchair_accessibility": "Yes"
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x3bae185a451f1a95%3A0xbb8f21195855c1f6&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP72GD2mpyw__EhCy8zXR3iDtEiMRcREAAAAAGgn92PgCYPaanLAYACIA%3A30&num=20&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72GD2mpyw__EhCy8zXR3iDtEiMRcREAAAAAGgn92PgCYPaanLAYACIA:30"
+  }
+}

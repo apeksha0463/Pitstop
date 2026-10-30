@@ -1,0 +1,10 @@
+{
+  "data_id": "0x3bae19cd83892495:0xc4ee26c182749dfe",
+  "sort_by": "qualityScore",
+  "saved_at": "2026-10-29T10:21:01",
+  "pagination_complete": false,
+  "last_next_page_token": "CjEIARIpCgoAP7_LAeJu____EhD_2goUJrIkNBpTn4AAAAAAGgn92TkCa-OhnE8YACIA:10",
+  "pages": [
+    "data/raw_data/serpapi/0x3bae19cd83892495_0xc4ee26c182749dfe_page001.json"
+  ]
+}

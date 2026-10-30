@@ -1,0 +1,53 @@
+{
+  "search_metadata": {
+    "id": "6ae31011c1c556a4461a1a14",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JjgsaeKEdFbodzl1wUwrYUlKcccivzKF22J7ySXbDwQ/6ae31011c1c556a4461a1a14.json",
+    "markdown_endpoint": "https://serpapi.com/searches/JjgsaeKEdFbodzl1wUwrYUlKcccivzKF22J7ySXbDwQ/6ae31011c1c556a4461a1a14.md",
+    "created_at": "2026-10-29 09:21:21 UTC",
+    "processed_at": "2026-10-29 09:21:21 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f1110c2b23ab:0x69175de9332ae531!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/JjgsaeKEdFbodzl1wUwrYUlKcccivzKF22J7ySXbDwQ/6ae31011c1c556a4461a1a14.html",
+    "prettify_html_file": "https://serpapi.com/searches/JjgsaeKEdFbodzl1wUwrYUlKcccivzKF22J7ySXbDwQ/6ae31011c1c556a4461a1a14.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f1110c2b23ab:0x69175de9332ae531",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPOHBIRy1BRRAB!2m1!1s0x0:0x69175de9332ae531!3m1!1s2@1:CIHM0ogKEICAgICO8pHG-AE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-06T14:13:06Z",
+      "iso_date_of_last_edit": "2022-06-06T14:16:36Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPOHBIRy1BRRAB",
+      "user": {
+        "name": "ashish singh",
+        "link": "https://www.google.com/maps/contrib/117249869237643117482?hl=en",
+        "contributor_id": "117249869237643117482",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXq10QYCMS-DQyr7FZg24dA1mIuth-zCHiz5yhO0Smr4ETFFb0=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 79,
+        "photos": 154
+      },
+      "snippet": "Place is clean and food is nice and tasty. Good Donney Biryani and couple of starters like chiken chilli, chiken loly po.\n\nPlace is wheelchair accessible, bathroom and toilet is clean. Staff is courteous.",
+      "extracted_snippet": {
+        "original": "Place is clean and food is nice and tasty. Good Donney Biryani and couple of starters like chiken chilli, chiken loly po.\n\nPlace is wheelchair accessible, bathroom and toilet is clean. Staff is courteous."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400"
+      },
+      "likes": 2
+    }
+  ]
+}

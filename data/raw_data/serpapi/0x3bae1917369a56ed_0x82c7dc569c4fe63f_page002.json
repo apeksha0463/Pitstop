@@ -1,0 +1,150 @@
+{
+  "search_metadata": {
+    "id": "6ae2e5d4de5efc09dcdbdc02",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Vs8cpv6CFECApXC-lutOwtr5eSju_YKZehmecX9g4Pg/6ae2e5d4de5efc09dcdbdc02.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Vs8cpv6CFECApXC-lutOwtr5eSju_YKZehmecX9g4Pg/6ae2e5d4de5efc09dcdbdc02.md",
+    "created_at": "2026-10-29 06:21:08 UTC",
+    "processed_at": "2026-10-29 06:21:08 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1917369a56ed:0x82c7dc569c4fe63f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Vs8cpv6CFECApXC-lutOwtr5eSju_YKZehmecX9g4Pg/6ae2e5d4de5efc09dcdbdc02.html",
+    "prettify_html_file": "https://serpapi.com/searches/Vs8cpv6CFECApXC-lutOwtr5eSju_YKZehmecX9g4Pg/6ae2e5d4de5efc09dcdbdc02.prettify",
+    "total_time_taken": 0.3
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1917369a56ed:0x82c7dc569c4fe63f",
+    "hl": "en",
+    "next_page_token": "Ci8IARInCgoAP72F6lcmna__EhCIU2HFwuVvfA0pR9cAAAAAGgf_Al6lcmnaGAAiAA:10",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25nelRqSktSelJ3V0VOdVVsaG5jM0ZwZWkxa05YYxAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOngzTjJKRzRwWENuUlhnc3Fpei1kNXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "iso_date": "2026-08-06T17:03:55Z",
+      "iso_date_of_last_edit": "2026-10-20T09:06:18Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nelRqSktSelJ3V0VOdVVsaG5jM0ZwZWkxa05YYxAB",
+      "user": {
+        "name": "Anas anas",
+        "link": "https://www.google.com/maps/contrib/103162120051067888987?hl=en",
+        "contributor_id": "103162120051067888987",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVgJwssAHp6gfFu77uX99N5DgAx6IxBUJemI-yDvDdHdeK-OW8x=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Too much waiting time",
+      "extracted_snippet": {
+        "original": "Too much waiting time"
+      },
+      "details": {
+        "food": 4,
+        "service": 2,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOT1oxTktORXRYV0ZwRE9HSkJRWG8zZGxKVWMwRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOkNOZ1NKNEtXWFpDOGJBQXo3dlJUc0E%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-19T10:48:59Z",
+      "iso_date_of_last_edit": "2026-10-19T10:48:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOT1oxTktORXRYV0ZwRE9HSkJRWG8zZGxKVWMwRRAB",
+      "user": {
+        "name": "Abhijeet D",
+        "link": "https://www.google.com/maps/contrib/101984905381581709931?hl=en",
+        "contributor_id": "101984905381581709931",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ5inAFDi8FcMgr8zoPt0rYhJjBgNp4vTGAUjFSYqycFyxl6w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 17,
+        "photos": 9
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tnNGQxaElXVTE1TFVkT1gzRk9aSEZTTVhNMGQwRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOkg4d1hIWU15LUdOX3FOZHFSMXM0d0E%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-18T05:21:59Z",
+      "iso_date_of_last_edit": "2026-10-18T05:21:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNGQxaElXVTE1TFVkT1gzRk9aSEZTTVhNMGQwRRAB",
+      "user": {
+        "name": "Ram Gokhul R",
+        "link": "https://www.google.com/maps/contrib/100393281471826721167?hl=en",
+        "contributor_id": "100393281471826721167",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWvIVvKfTY6rbqphADxLkTYir5MUI9sJjq4FvEpKNLUh7lKkZmsJQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 50,
+        "photos": 16
+      },
+      "details": {
+        "order_type": "Dine in",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xseGRXNDRRVTk1VUVsV1IxWnViR05XZEhwMlpXYxAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOllxdW44QU95UElWR1ZubGNWdHp2ZWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a week ago",
+      "iso_date": "2026-10-15T07:10:55Z",
+      "iso_date_of_last_edit": "2026-10-15T07:10:55Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseGRXNDRRVTk1VUVsV1IxWnViR05XZEhwMlpXYxAB",
+      "user": {
+        "name": "Hahahehe",
+        "link": "https://www.google.com/maps/contrib/115782482307733804635?hl=en",
+        "contributor_id": "115782482307733804635",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI4lL4bP6Eg3cBcm6GzlXU9q97X-EGal2T9dy2gp9q4WXJLIA=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 4
+      },
+      "snippet": "Worst , they made me wait for soo long and the atmosphere is the worst and the waiters are too careless . They don’t even respond and shit experience.\nThey don’t even have glasses it’s the paper cups , how annoying . Please don’t come here and suffer like we did",
+      "extracted_snippet": {
+        "original": "Worst , they made me wait for soo long and the atmosphere is the worst and the waiters are too careless . They don’t even respond and shit experience.\nThey don’t even have glasses it’s the paper cups , how annoying . Please don’t come here and suffer like we did"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "group_size": "Not sure"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOUVJtNVNSbTh0UW1sSE0zZHhXWE14UTB0cE5FRRAB!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CAIQACodChtycF9oOjNQRm5SRm8tQmlHM3dxWXMxQ0tpNEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T16:23:56Z",
+      "iso_date_of_last_edit": "2026-10-10T16:23:56Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUVJtNVNSbTh0UW1sSE0zZHhXWE14UTB0cE5FRRAB",
+      "user": {
+        "name": "Hasan Aamir",
+        "link": "https://www.google.com/maps/contrib/115928153366353914011?hl=en",
+        "contributor_id": "115928153366353914011",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUYj_91DQFMVtr_NIU-cQfiXeEJBQ1wxqeiEQtUuMsHDj24GkuWKw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 60,
+        "photos": 105
+      },
+      "likes": 0
+    }
+  ]
+}

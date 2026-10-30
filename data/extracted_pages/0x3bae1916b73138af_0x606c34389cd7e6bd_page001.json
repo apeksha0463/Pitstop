@@ -1,0 +1,115 @@
+{
+  "data_id": "0x3bae1916b73138af:0x606c34389cd7e6bd",
+  "page": 1,
+  "has_next_page": true,
+  "reviews_on_page": 10,
+  "new_reviews": 10,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "serpapi_pagination",
+      "topics"
+    ],
+    "place_title": "Andhra Vindu Multicuisine Family Restaurant",
+    "place_type": "Andhra restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 10,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": true,
+    "has_next_page_token": true,
+    "first_review_keys": [
+      "date",
+      "details",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVlYzcFJUREZOV2xaUWFEbHdXVWRQZWtaNFJsRRAB",
+      "author": "Selvendiran R",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMGNYYzBlVzg1VEdSVlRGbzBWMDh3V21KYVNYYxAB",
+      "author": "Ripu Singh",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSmJrb3hNbEpaUjBwUFZFRlFZalZJVm14R1lrRRAB",
+      "author": "Anushka Suryanshi",
+      "rating": 5.0,
+      "date": "6 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGU1RYWldaRFp0VTNOd1lrSjBTRTFDV1d0SmFsRRAB",
+      "author": "s.naveen kumar",
+      "rating": 1.0,
+      "date": "a week ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMweWRIcVN3EAE",
+      "author": "Sanjit Bhowmick",
+      "rating": 5.0,
+      "date": "Edited a week ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VeGRtSTRaWEk0WmxCQk5HUnpaREp3TkdGdmJVRRAB",
+      "author": "Anoop Rajan",
+      "rating": 5.0,
+      "date": "a week ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSFpVTnZWR0l4UjNZMlpYaG5RVVJrYjJGTWIzYxAB",
+      "author": "Naveen Pothala",
+      "rating": 3.0,
+      "date": "Edited a week ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twelVWYzNUalJCUkhsUk1VSnVOWGN0TFVwMVUyYxAB",
+      "author": "Priyanka Panigrahi",
+      "rating": 5.0,
+      "date": "3 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oV0xWRkZSMlZpUkRVemFYUjVjekF0TW5OcVpYYxAB",
+      "author": "Sanjana ramesh",
+      "rating": 1.0,
+      "date": "3 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sc09GUTJhWGhoWjJVMVJYcFhhakV4Y1VnNVFuYxAB",
+      "author": "Lakshman P",
+      "rating": 4.0,
+      "date": "4 weeks ago",
+      "images": []
+    }
+  ]
+}

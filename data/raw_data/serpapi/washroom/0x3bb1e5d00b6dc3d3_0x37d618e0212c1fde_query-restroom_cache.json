@@ -1,0 +1,11 @@
+{
+  "data_id": "0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde",
+  "sort_by": "newestFirst",
+  "review_filter": "query:restroom",
+  "saved_at": "2026-10-29T14:50:44",
+  "pagination_complete": true,
+  "last_next_page_token": null,
+  "pages": [
+    "data/raw_data/serpapi/washroom/0x3bb1e5d00b6dc3d3_0x37d618e0212c1fde_query-restroom_page001.json"
+  ]
+}

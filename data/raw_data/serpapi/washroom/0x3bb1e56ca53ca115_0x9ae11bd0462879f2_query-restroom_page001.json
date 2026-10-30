@@ -1,0 +1,25 @@
+{
+  "search_metadata": {
+    "id": "6ae30ff8e99b2161df8f5986",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CWfhphYOBrk_i2PNBkYi9dVXbn1TZ3-4cRc_ap5Gft0/6ae30ff8e99b2161df8f5986.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CWfhphYOBrk_i2PNBkYi9dVXbn1TZ3-4cRc_ap5Gft0/6ae30ff8e99b2161df8f5986.md",
+    "created_at": "2026-10-29 09:20:56 UTC",
+    "processed_at": "2026-10-29 09:20:56 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e56ca53ca115:0x9ae11bd0462879f2!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/CWfhphYOBrk_i2PNBkYi9dVXbn1TZ3-4cRc_ap5Gft0/6ae30ff8e99b2161df8f5986.html",
+    "prettify_html_file": "https://serpapi.com/searches/CWfhphYOBrk_i2PNBkYi9dVXbn1TZ3-4cRc_ap5Gft0/6ae30ff8e99b2161df8f5986.prettify",
+    "total_time_taken": 0.16
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e56ca53ca115:0x9ae11bd0462879f2",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "search_information": {
+    "reviews_results_state": "No reviews"
+  }
+}

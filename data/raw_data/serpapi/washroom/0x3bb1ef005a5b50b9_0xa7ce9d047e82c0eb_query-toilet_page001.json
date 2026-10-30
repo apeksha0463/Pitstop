@@ -1,0 +1,53 @@
+{
+  "search_metadata": {
+    "id": "6ae3101cc8816bac91001eec",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aSjlbhiebZbcRCPvbtGeMSffxRTv2ogVUSm1VG3zP18/6ae3101cc8816bac91001eec.json",
+    "markdown_endpoint": "https://serpapi.com/searches/aSjlbhiebZbcRCPvbtGeMSffxRTv2ogVUSm1VG3zP18/6ae3101cc8816bac91001eec.md",
+    "created_at": "2026-10-29 09:21:32 UTC",
+    "processed_at": "2026-10-29 09:21:32 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/aSjlbhiebZbcRCPvbtGeMSffxRTv2ogVUSm1VG3zP18/6ae3101cc8816bac91001eec.html",
+    "prettify_html_file": "https://serpapi.com/searches/aSjlbhiebZbcRCPvbtGeMSffxRTv2ogVUSm1VG3zP18/6ae3101cc8816bac91001eec.prettify",
+    "total_time_taken": 0.77
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xNMFRVOHhSRk5tYjFScGFHeFRURXhqTUZCRVVIYxAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOlM0TU8xRFNmb1RpaGxTTExjMFBEUHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-11T01:55:17Z",
+      "iso_date_of_last_edit": "2026-07-11T01:55:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMFRVOHhSRk5tYjFScGFHeFRURXhqTUZCRVVIYxAB",
+      "user": {
+        "name": "Raghu Raj",
+        "link": "https://www.google.com/maps/contrib/117426835398554542287?hl=en",
+        "contributor_id": "117426835398554542287",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXffP7lLazVhxfdbKHh4mdgeWHiya6XS_XHfTvijJjBG_vqjaf7=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 11,
+        "photos": 3
+      },
+      "snippet": "Service is Good served by laxmi , Toilet is clean, Ambiance is Good but food quality is average",
+      "extracted_snippet": {
+        "original": "Service is Good served by laxmi , Toilet is clean, Ambiance is Good but food quality is average"
+      },
+      "details": {
+        "food": 3,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    }
+  ]
+}

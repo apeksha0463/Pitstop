@@ -1,0 +1,232 @@
+{
+  "search_metadata": {
+    "id": "6ae30fdebccefc2229cdcc54",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tr-i28YtkDbZwQfEk_32Mqp6y6ZEht-SKyACsS4FMT0/6ae30fdebccefc2229cdcc54.json",
+    "markdown_endpoint": "https://serpapi.com/searches/tr-i28YtkDbZwQfEk_32Mqp6y6ZEht-SKyACsS4FMT0/6ae30fdebccefc2229cdcc54.md",
+    "created_at": "2026-10-29 09:20:30 UTC",
+    "processed_at": "2026-10-29 09:20:30 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e30070aee50f:0x4b5fdf769acaf73f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/tr-i28YtkDbZwQfEk_32Mqp6y6ZEht-SKyACsS4FMT0/6ae30fdebccefc2229cdcc54.html",
+    "prettify_html_file": "https://serpapi.com/searches/tr-i28YtkDbZwQfEk_32Mqp6y6ZEht-SKyACsS4FMT0/6ae30fdebccefc2229cdcc54.prettify",
+    "total_time_taken": 0.44
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e30070aee50f:0x4b5fdf769acaf73f",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OU1NsbGtTblpPZDJOUmRsTkpkRTF5V1VoM01IYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOmNSSllkSnZOd2NRdlNJdE1yWUh3MHc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited 2 weeks ago",
+      "iso_date": "2026-07-29T17:58:49Z",
+      "iso_date_of_last_edit": "2026-10-11T18:25:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OU1NsbGtTblpPZDJOUmRsTkpkRTF5V1VoM01IYxAB",
+      "user": {
+        "name": "Manoj Vaibhav",
+        "link": "https://www.google.com/maps/contrib/110249554954760468363?hl=en",
+        "contributor_id": "110249554954760468363",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWzJbaxEFAlBvJBFvDXB8LBah8TRg7FY5ZIoNHeiU3w2ZvJ3NIX3g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 67,
+        "photos": 72
+      },
+      "snippet": "Idly sambar & coffee are very good. Coffee is amazing. Didn't liked the dosa much, its soggy and oily. Ambience is good\n\nUpdate: Tried again for dinner, it was good. Roti and curry, Fried rice were good. The cleanliness and restroom hygeine were exceptional.",
+      "extracted_snippet": {
+        "original": "Idly sambar & coffee are very good. Coffee is amazing. Didn't liked the dosa much, its soggy and oily. Ambience is good\n\nUpdate: Tried again for dinner, it was good. Roti and curry, Fried rice were good. The cleanliness and restroom hygeine were exceptional."
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 months ago",
+        "iso_date": "2026-07-29T18:14:14Z",
+        "iso_date_of_last_edit": "2026-07-29T18:14:14Z",
+        "snippet": "Dear Manoj Vaibhav,\n\nThank you for sharing your honest feedback with us. We’re thrilled you enjoyed the idly sambar and found our coffee amazing. However, we understand your disappointment with the dosa being soggy and oily. We are currently reviewing our preparation methods to ensure a better texture and taste. We appreciate your insights and hope you’ll give us another chance to improve your experience at Koteshwaram-The Temple Of divine food.\n\nLooking forward to welcoming you back soon!\n\nTeam Koteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Dear Manoj Vaibhav,\n\nThank you for sharing your honest feedback with us. We’re thrilled you enjoyed the idly sambar and found our coffee amazing. However, we understand your disappointment with the dosa being soggy and oily. We are currently reviewing our preparation methods to ensure a better texture and taste. We appreciate your insights and hope you’ll give us another chance to improve your experience at Koteshwaram-The Temple Of divine food.\n\nLooking forward to welcoming you back soon!\n\nTeam Koteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KNmFDMWtPWHBmVUdkc1duQnJOaTFhYURsRGVuYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOnJ6aC1kOXpfUGdsWnBrNi1aaDlDenc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-22T22:31:40Z",
+      "iso_date_of_last_edit": "2025-12-22T22:31:40Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcQLiAIAFg3NrA3WR9ETWEH5LiCwNszb20EaXNpfumetp6a3ReGIjaLRLsJ9-A8DidHJqu_pnyRigyETaQHf_ewUjw3AnIoHQ2nmmaIHQJiqbRsQ7SLb-g4WUtkvFmtYvXMBmpB0yA5hHgr=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNmFDMWtPWHBmVUdkc1duQnJOaTFhYURsRGVuYxAB",
+      "user": {
+        "name": "Amit Banerjee",
+        "link": "https://www.google.com/maps/contrib/117045333251126028053?hl=en",
+        "contributor_id": "117045333251126028053",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXObSsa_m2pyfjC401h3lIsQfYPs9AU0_wRx2OMeChXtIecPXzA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 38,
+        "photos": 138
+      },
+      "snippet": "Divine in more than the gastronomic domain alone, Koteswaram reflects not just a place to enjoy food, but to delve deeply into the thought process of its conceptor. Right from the leaf imprints on the cement walkway to the huge but not overwhelming menu, the place is a haven for thetiredf traveller. Excellent food, curated to one's requirements, and patiently efficient staff add to its usp.\nThe ladies restroom however needs better and more frequent care given the expected callousness of some end users.\nDo notfmiss the paan and churan kiosk at the exit.",
+      "extracted_snippet": {
+        "original": "Divine in more than the gastronomic domain alone, Koteswaram reflects not just a place to enjoy food, but to delve deeply into the thought process of its conceptor. Right from the leaf imprints on the cement walkway to the huge but not overwhelming menu, the place is a haven for thetiredf traveller. Excellent food, curated to one's requirements, and patiently efficient staff add to its usp.\nThe ladies restroom however needs better and more frequent care given the expected callousness of some end users.\nDo notfmiss the paan and churan kiosk at the exit."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oaWVHdzNSV0V5VFZZdFMwaDFjSHBMV1haV1NVRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOmhieGw3RWEyTVYtS0h1cHpLWXZWSUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-05T12:56:15Z",
+      "iso_date_of_last_edit": "2025-10-05T12:56:15Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLetYTddAeqp3nkHG1mfrCxNIyoBZdWiVJxZj3xwVxpgxll-Zo3bIS4W5FfVMHC32j4aPZ0mC4oiKSxPkYKHzJB8Uc22WlxX-2idibhaw981pLaoLqme_4KXcnmdZUzVK6vE2jLlE8e-_HBu=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe_XJw2m6nhiD2xg-hlLDy3AArdx3tM3vo-igUGkXt7jQjnfezo0X-OiL16P0_RpaTDAv-COQVXS0MtIzc_l3tQ2El6Egl963GbS5V_1RvwQcMWDH9k2mKLjIfKMLEqm-cYU3Tg67nLOfme=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLexlOSsXrPTpvNJhz2Io2qBbtIJb-yl17DfbCDBHVC-FBtC-_c_c6eT1aSSnqFgp-faBv5VcEjw00Slm6OM1HoKiZ9A-ZQ0peFoVqv-WmH1sKAeVnIxmSM1icEyyaUhAQ3ktKDamDl7p2Y=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf6ZvhpQY76qZC1w4qFUOp9JTx-IoJgPP6TBzMLDY7lrfhKT3eEMwg-6zqHwAudl3X0SUSMdxzKKoW3HNJh4emd6LVAfSB3qLSQsI8iAnUa6CxUTc62H-X7hjmoR5XXV_zhL5b9Hd7DyQeR=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc7MxXvzFkMXedaDyjnuitdlj-5v49zdgwzCumIXa3bqcq6fbrfQr2GQR-SA1zEKgjQnE3NRZfzFhDoBnbh0uonSKZ-mTiD6SaNfnZDmpkzFt47gT4VRlzEq8veWFGCqwI9kobgBf9gns0=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeYz72q8YDLnR9qRO0-i7STZ3LiThIUhnQO7FdoGl73qis7zAqp7G3RHHkSQISe1rie5n-syJkMjpWOIcmgkceU3quaTgE5wFqp4S5QlFxXPziBQbFg4__Ka-1aCrEQpkmpBhNOH_CqGyI=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdig2xapNoxJ2xJVGlV2asGiMn-a-_ZiuZfhXFQagbhNvnKpyZ1Fave_cgSQhTkom8YEMVKG3gDmXq6llhn04E6zxHCant7UqDbVOPv5bdwYN6EnaBdCselkDD9NZFjwH2VN7DuI3VA5mU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc4Clb5N5PztQigOe8KF5VjBF6DhzyKPm4W8G8DhwK1nXd-xA1BUYZg3cgAzy-s_AUVDZSkqUMthy-tH1E1TLpbaQ4S_jzbgS85PG_GrmNa4tH0kku1gjarf2CWrLgjNwyM5PCq3skjvLtg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdqJXqMNu6ZvkBsVJhQ1lME1KYX46pvVXsANSwOQGhECM3rqLS1BVszQEs38ffcX3Zi1MGDrNUZOgsqPJsbEhdVVtnxR15KW1V7DHWRvzzGBYoy2palYBFjfFjGAODFGm0hAc65jVdRP5P1=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe5ZfDvWmbKpf0mKB2RUpCtHv3fPuV9jZvVrHTtttoayJk7DSj-8zTyYQQJI8mE5lVP12h7tzAr7qjGuxmdl0FxHHpF9hkdZI3djKdhLpdJb3adzkOR9lAcEezbYPtE0tWX6yZ11rE52ehu=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfOb65jSLFwZvcZETZq-K9vzEKZtCVGny4YJnIu1bRPTGgwbyBflXl3UYFRtCtKnGZMjXU318VGYH2SfNgcM6kUxL6oguLK4Aw-ztIO6mKYVfKSpOmnWecVT_IJJNYDmJ1mP5xpM4VRBfpm=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdMQbPpBwtOq5jCxPLTLgQVkg-HDW-dAdUBb3hntnGmEMr2GlqITTfVsmMpriAvsMtXTJv_0w0zKDWC9A2sSLmVazYyNZtCF3-WVL0pC-lobqF6pF1h3DK0bNn3W30HyGSobQIXkmqnAJ8O=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcr38_JoRMAF9YkV2cVR7j5jIeUkWPh3zl2XhFD3MChfDmWOsIiSdpsoJa8H9wNKEyu07-9uG-m6HZR50mqqGWXbCMsXcouUYrviiPWKziwu7rGmgVbkc9WXsqjzPCj2SNCxhULX7gv4_E=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdWYsSut023hnXWgb1pWSHPtNh-n4m0oHEGBWjnChQUZLFqc2j0DujndAoGiOg1-IIl5h-h54vPFu6OSQCRnbpk6-ONb_Ve8HB4pzkSP3vQ1n9pilq0Z-HMeCWuiXo-6vzPVWQ3_kHWq-2l=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oaWVHdzNSV0V5VFZZdFMwaDFjSHBMV1haV1NVRRAB",
+      "user": {
+        "name": "Anoop’s Geo Diary",
+        "link": "https://www.google.com/maps/contrib/101232247834018788950?hl=en",
+        "contributor_id": "101232247834018788950",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVWsHLykWtpUXAb8kcLOo1UpfWhX6U1WfeNwWqDLAf5b5Oq_VQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 113,
+        "photos": 1452
+      },
+      "snippet": "⭐ 4.5/5 – A Divine Experience at Koteshwaram! ⭐\nVisited Koteshwaram – The Temple of Divine Food recently and had a lovely experience overall! This place truly lives up to its name – divine in both food and atmosphere.\n🏠 Ambience: 5/5\nThe vibe here is calm and welcoming. The interiors are clean and beautifully designed with a traditional-meets-modern touch. Soothing background music creates a peaceful dining environment. Great for both family outings and casual meet-ups.\n🍽️ Food Quality: 4.5/5\nMost of the food we ordered was absolutely delicious and full of flavour. Fresh ingredients, good portion sizes, and great presentation. Here's a quick breakdown of some dishes we tried:\nButter Naan – 5/5 ⭐⭐⭐⭐⭐\nSoft, buttery, and cooked to perfection. One of the best we’ve had!\nGobi Manchurian – 5/5 ⭐⭐⭐⭐⭐\nCrispy, tangy, and perfectly spiced. A must-try starter!\nPaneer Chilli – 5/5 ⭐⭐⭐⭐⭐\nSoft paneer with a spicy kick. Balanced flavours and very satisfying.\nAloo Paratha – 2/5 ⭐⭐☆☆☆\nThis one could be better. The filling felt dry and a bit bland. Needs improvement in both taste and texture.\nPaneer Butter Masala – 2/5 ⭐⭐☆☆☆\nThe gravy was too sweet and lacked richness. The paneer was good, but the overall dish was not as expected.\nStill, the hits far outweighed the misses, and we're definitely looking forward to trying more from their menu!\n🧼 Cleanliness: 5/5\nVery clean and well-maintained space. Tables, floors, and even corners were spotless. You can tell hygiene is a top priority here.\n🚗 Parking: 4.5/5\nGood amount of parking space available. Well-managed area, though a little shade would be nice during hot days.\n🚻 Restroom Hygiene: 5/5\nRestrooms were clean, dry, and well-stocked with essentials like soap and tissues. Really appreciated this attention to detail.\n✅ Overall:\nKoteshwaram is a wonderful place to enjoy a peaceful and tasty meal. While a couple of dishes could use some improvement, the majority of our experience was excellent. Highly recommended for anyone looking for a clean, calm, and flavourful dining experience.\nFinal Rating: ⭐⭐⭐⭐☆ (4.5/5)\nWould definitely visit again – especially for that butter naan, gobi manchurian, and paneer chilli!",
+      "extracted_snippet": {
+        "original": "⭐ 4.5/5 – A Divine Experience at Koteshwaram! ⭐\nVisited Koteshwaram – The Temple of Divine Food recently and had a lovely experience overall! This place truly lives up to its name – divine in both food and atmosphere.\n🏠 Ambience: 5/5\nThe vibe here is calm and welcoming. The interiors are clean and beautifully designed with a traditional-meets-modern touch. Soothing background music creates a peaceful dining environment. Great for both family outings and casual meet-ups.\n🍽️ Food Quality: 4.5/5\nMost of the food we ordered was absolutely delicious and full of flavour. Fresh ingredients, good portion sizes, and great presentation. Here's a quick breakdown of some dishes we tried:\nButter Naan – 5/5 ⭐⭐⭐⭐⭐\nSoft, buttery, and cooked to perfection. One of the best we’ve had!\nGobi Manchurian – 5/5 ⭐⭐⭐⭐⭐\nCrispy, tangy, and perfectly spiced. A must-try starter!\nPaneer Chilli – 5/5 ⭐⭐⭐⭐⭐\nSoft paneer with a spicy kick. Balanced flavours and very satisfying.\nAloo Paratha – 2/5 ⭐⭐☆☆☆\nThis one could be better. The filling felt dry and a bit bland. Needs improvement in both taste and texture.\nPaneer Butter Masala – 2/5 ⭐⭐☆☆☆\nThe gravy was too sweet and lacked richness. The paneer was good, but the overall dish was not as expected.\nStill, the hits far outweighed the misses, and we're definitely looking forward to trying more from their menu!\n🧼 Cleanliness: 5/5\nVery clean and well-maintained space. Tables, floors, and even corners were spotless. You can tell hygiene is a top priority here.\n🚗 Parking: 4.5/5\nGood amount of parking space available. Well-managed area, though a little shade would be nice during hot days.\n🚻 Restroom Hygiene: 5/5\nRestrooms were clean, dry, and well-stocked with essentials like soap and tissues. Really appreciated this attention to detail.\n✅ Overall:\nKoteshwaram is a wonderful place to enjoy a peaceful and tasty meal. While a couple of dishes could use some improvement, the majority of our experience was excellent. Highly recommended for anyone looking for a clean, calm, and flavourful dining experience.\nFinal Rating: ⭐⭐⭐⭐☆ (4.5/5)\nWould definitely visit again – especially for that butter naan, gobi manchurian, and paneer chilli!"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "Up to 10 min",
+        "seating_type": "Indoor dining area",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s0eFVuUlhUMXBxTW1oUWRtcEpWVU5vY3poQlowRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOk4xUnRXT1pqMmhQdmpJVUNoczhBZ0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-27T13:38:47Z",
+      "iso_date_of_last_edit": "2025-08-27T13:41:14Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeodCPSHkEarhEZKXX6vVq2vU4d0EhPEgEMmaOEAsCzY0hE7vt7MMUd9AYtqycVbsg0euQKgehqe_EneaM1jmO-6OKmGVdl8fJKwm9Kc5E4Ke7JkZInIvIlwDJqw6E_PBjxSKqPSR87Eo49=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdGMEeOIcVE4Dwf-ql6j1itWainrbst4t4ujPRSbd4zEW32xKraa_WEyC9Kd37N33kN0MZTxQVqimn8AfBrMimaPwrVtngAg0lUcEWbSHZOvoJ-Yx6fN99UWm6pu2FV_3sFS7aMGxabfgM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLderr9e5HH2OslJd9cCxIoRr-wWHPf_EFXT5ELeOZApoWboVpPOQSVN32oyKUuN-yfxZxZekCAUWEukTpQhjh7Vp1tINy6eIivqr-mSjscJrjPEX4w3--3Kz8EadzDStk7PahT5tRWfUn5q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcYuHuEKLzei7zSbT77_OSOE4o-Gqj2C9VujuxDvS6EAhO41V-aSIfVCcM9WX4UzqCLxeJS3mTyEqopisxR2vKW-dD8P2OtbYtDSyHEMD_5bWH4YEDVkbiQDeTsQGzvoKsUQ-7oEB_7qvIA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcuSAsuxs5coIzCCWjeZ3g34uDRdMqt48s7Mjw7KbZb6o-hoUdTU7xzWp3jO0LcUsSiWibKXvSKmJp6gO_zg61LFnIeSb3Tiy0DH4f4m7fU-r5scv6qKcSCrFraX4m65IqG6iDuG0lu06gR=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdacjHIqP57wk1AT5XV6O5u-WpMlQJFSA9EFISLj-IKTEZ5bDvf5y_AgL-2Zo3WcdtRI7UWR7G1UobqDi-tAhLBdz3l3rhK5fGP1OGVfDN4wSrqcigAgATBQacS0SM1c9RYDldC1tzWXOtH=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe-pNHVIem5MjTJytUxd4IbSOd42K_HOM11y-xx_9kCUiwjWyLY9kbJniR_sDCWt3VQbQaWVOdRLeHq-iPTgabiphxixgUhIpBC-1eQzyU_Gj-wrOfhrIwMR9sCT9PokA5YoNtqgVJAZvVP=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe5k7dS3_o-9ynLBH1GIw4986-joncJgpiXzwRqrHHyAaw1TBY8dPwagwcLdP_am9FlIO-pnisG8tVy3nJL_4leSfhSBVRx0gKPvIf9QQh0vdozRxZbRIaHSP7O3LOnUu2pIdYdN-kmCLnk=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcCzSsThpyYUUQwXRnto1pkug7ttf3OtznadtaJA3E2raeyGW0Rr6y9CWaGUSyQCTm93IY7laQC1bN47KWeUNv5HqBDYzz0xbhM4fr6RgnhFLS2eDR7Q5_kTc1Fc9xlQbr8XGSfPy6DiB4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfgYzMvGkaBkNqb8oG-xY8LDfNmWa6rb4lE-OMr-yC9E8wipdfTzhUZdGfh0os6wUuMV6iFBESD6bd_RuJRJxAcqsZlukz24qfMecdjPVf2a8rVWZkZ6vTiJeo5oSAvzbLky8rQjjltP5mK=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcC9A095NwbOFOj2SiHR0O6Tpu4SRusVm5MQwEiYVNtx6Vw7axqsDU7BFuCgIoMYeYJFEGZU10YrxY_TeuJKrzt4ebRqz2Vz9nv9nMKfDTGyQT-_UPoYSkdUlINrSPkPZONLzIytuSOc-fQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eFVuUlhUMXBxTW1oUWRtcEpWVU5vY3poQlowRRAB",
+      "user": {
+        "name": "SK",
+        "link": "https://www.google.com/maps/contrib/107840585712099270751?hl=en",
+        "contributor_id": "107840585712099270751",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUh2adRCQpUhA4eWERc1wK6YbRqrqsb_rQFhbM86ql5fwuzk8Y=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 174,
+        "photos": 851
+      },
+      "snippet": "Koteshwaram is a beautiful spot to enjoy authentic South Indian food on the outskirts of Bangalore, near Nandi Hills. The ambience is calm and refreshing, with a lovely backyard that has jamun and mango trees, adding to the charm.\n\nThe food is excellent — we tried **rava masala dosa, button idli, puri sagu, and filter coffee**, all of which were delicious. The place is also very thoughtfully designed with **wheelchair access, a restroom for the differently-abled, and even a baby room**, making it convenient for all kinds of visitors.\n\nA perfect place to stop by for great food and a peaceful atmosphere while heading towards Nandi Hills. 🌿☕🥭",
+      "extracted_snippet": {
+        "original": "Koteshwaram is a beautiful spot to enjoy authentic South Indian food on the outskirts of Bangalore, near Nandi Hills. The ambience is calm and refreshing, with a lovely backyard that has jamun and mango trees, adding to the charm.\n\nThe food is excellent — we tried **rava masala dosa, button idli, puri sagu, and filter coffee**, all of which were delicious. The place is also very thoughtfully designed with **wheelchair access, a restroom for the differently-abled, and even a baby room**, making it convenient for all kinds of visitors.\n\nA perfect place to stop by for great food and a peaceful atmosphere while heading towards Nandi Hills. 🌿☕🥭"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21NM1lrMUZhalZ6WlRaR1pWRjFhRUo2YVhkUGNuYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOmM3Yk1FajVzZTZGZVF1aEJ6aXdPcnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-20T13:51:55Z",
+      "iso_date_of_last_edit": "2025-08-20T13:52:23Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdqiKtXX3sWr3ag7mbc9DNYC7oDaCUw7gFZ6q5qbHABJGbf3DHrWX-r0TUHgo4bFug_WuXaSsh-yNOsHE7c7AZAIX1Q1ltMiPj5SDGrbnwRLAPjtkRcjg9eJRhZexlE7VxLF8lQcw-Dp0km=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfjkWp2Xns1crHMqHAA74Upl3PFrMh9vs3t9xpPrST9U7cPbo0tngmZOw7DFAYbagi7WxUabELB8uZHNyMzVVNQny28FyvECDuDvNsl2z5CzsdWrzZxnS0vKhgHkb4jxr4sXg-P4kHH_-dA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeqoUdjDK45MkY6R4jlXanLMpZp0Vn9z-8_WIj-kmrgiEp0AdlOXL-UlnfihUo_7OHOOyKYJEWNlgdmqIiVzDegCPnXULInhDaaD9BUrI7CmtUHu5PmKncgyELrA0HO_qP741FRwiHZzsau=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NM1lrMUZhalZ6WlRaR1pWRjFhRUo2YVhkUGNuYxAB",
+      "user": {
+        "name": "Usha Mohankumar",
+        "link": "https://www.google.com/maps/contrib/100578363130868870609?hl=en",
+        "contributor_id": "100578363130868870609",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIAoksY9s_FGK1KrxMnQkWH6cYGbMvoPfcsmcCTjzeXoTfBO_b1=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 77,
+        "photos": 231
+      },
+      "snippet": "The theme of the restaurant \"The Temple of Divine Food\" is apt for the quality and taste that they provide.\n\nIt has self service, indoor seating, and outdoor seating - by giving a diverse options for the customers to choose from.\n\nThe ambience is pleasant and cozy. The restaurant is well maintained including restroom (very much appreciated)\n\nHighly recommended:\nPav Bhaji\nLemon Tea",
+      "extracted_snippet": {
+        "original": "The theme of the restaurant \"The Temple of Divine Food\" is apt for the quality and taste that they provide.\n\nIt has self service, indoor seating, and outdoor seating - by giving a diverse options for the customers to choose from.\n\nThe ambience is pleasant and cozy. The restaurant is well maintained including restroom (very much appreciated)\n\nHighly recommended:\nPav Bhaji\nLemon Tea"
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    }
+  ]
+}

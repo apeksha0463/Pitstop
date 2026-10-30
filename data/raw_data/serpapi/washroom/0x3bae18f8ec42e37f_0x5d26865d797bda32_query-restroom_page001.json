@@ -1,0 +1,72 @@
+{
+  "search_metadata": {
+    "id": "6ae30e1cbbd349c5fd3c2d78",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5SHo2XOiIQduGakWIyKA13eaFiIJFRlNyroHVD4syvA/6ae30e1cbbd349c5fd3c2d78.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5SHo2XOiIQduGakWIyKA13eaFiIJFRlNyroHVD4syvA/6ae30e1cbbd349c5fd3c2d78.md",
+    "created_at": "2026-10-29 09:13:00 UTC",
+    "processed_at": "2026-10-29 09:13:00 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae18f8ec42e37f:0x5d26865d797bda32!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/5SHo2XOiIQduGakWIyKA13eaFiIJFRlNyroHVD4syvA/6ae30e1cbbd349c5fd3c2d78.html",
+    "prettify_html_file": "https://serpapi.com/searches/5SHo2XOiIQduGakWIyKA13eaFiIJFRlNyroHVD4syvA/6ae30e1cbbd349c5fd3c2d78.prettify",
+    "total_time_taken": 0.38
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae18f8ec42e37f:0x5d26865d797bda32",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNBb01pMEtREAE!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CIHM0ogKEICAgICAoMi0KQ%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "8 years ago",
+      "iso_date": "2018-01-09T19:24:28Z",
+      "iso_date_of_last_edit": "2018-01-09T19:24:28Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBb01pMEtREAE",
+      "user": {
+        "name": "Keerthan K L",
+        "link": "https://www.google.com/maps/contrib/105811347793287074478?hl=en",
+        "contributor_id": "105811347793287074478",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVbdtBydRxgNTq-zrThn0b77u8WnOJQAyKo88SbNICun2eDAmEopg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 54,
+        "photos": 109
+      },
+      "snippet": "Gokul veg as we all know a reputed hotel but this branch is not that great. Quality of service has reduced lately the food is still decent though. Has good parking space and a restroom.",
+      "extracted_snippet": {
+        "original": "Gokul veg as we all know a reputed hotel but this branch is not that great. Quality of service has reduced lately the food is still decent though. Has good parking space and a restroom."
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNRMmFPRmpBRRAB!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CIHM0ogKEICAgICQ2aOFjAE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "9 years ago",
+      "iso_date": "2017-04-23T17:35:02Z",
+      "iso_date_of_last_edit": "2017-04-23T17:36:09Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRMmFPRmpBRRAB",
+      "user": {
+        "name": "Vishnu Prasad Suresh",
+        "link": "https://www.google.com/maps/contrib/112170571095295780974?hl=en",
+        "contributor_id": "112170571095295780974",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWnbB5hkpdDqRL8_fmBcIS6dV_TD93FIzWyEregdycRf3xyewk=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 246,
+        "photos": 178
+      },
+      "snippet": "Palak soup is a must try...good parking and clean restroom",
+      "extracted_snippet": {
+        "original": "Palak soup is a must try...good parking and clean restroom"
+      },
+      "likes": 0
+    }
+  ]
+}

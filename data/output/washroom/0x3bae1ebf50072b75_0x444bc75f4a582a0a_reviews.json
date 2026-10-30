@@ -1,0 +1,655 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bae1ebf50072b75:0x444bc75f4a582a0a",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCOvXHBbAWjCnZY4BrYv1WMIcTww3rriTdSybcWrKaBZEwWBwauWXyfwrieVRjH3J9bzP-BwXFAQQnrslv-qkG2WaIFCzvjWxlTwOBUUAPURoyEdkZwT7UQVgNe9o6OsuD_Q8p0YUfCw=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVFNtbzBMVUp1WlVWcmVrcFVaVXB4U2tSbk1VRRAB",
+      "image_index": 1
+    },
+    {
+      "position": 2,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebmMPx2OWXSG2cbW8lov6LFUQqnEZNFVavTSXrIKLH_1BX3F3wKDG65qkO2IH3DYsrej1WFfyYcvVrwuBa5ubx0n6z_AlvTt8s0RdBQCbzjzbmsT7tgTXE7e2kBrA-_T3B_9zY=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "image_index": 1
+    },
+    {
+      "position": 3,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLespdDRRMEk4xMZZPrJknN_6t6UlZg9POEJ-Bx_N7d_Foza6eqJH2yH5CCPybjCOTWFn-zrcVuc47SFNuswOozNdYYn0d5OOq1VTNGaWD2Y4n-pOou16j0dRGs3dSJeSqLNw1LBuQ=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "image_index": 2
+    },
+    {
+      "position": 4,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfh_wYxq7EiNyJQIYuCQEkTNudbhL-l3SzESXyDA4S81cxahgVSZa_cb7r5s_4rhrIF7RpysqojSN507k5Y1L5KHVeMplHcPiGfFhdmuTfN2VKTkWqhprL_0RqdFp16NZMGmm8=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "image_index": 3
+    },
+    {
+      "position": 5,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeATxBS7oDqMJeYLiMd4nVrFucPFfWkeiZfyhmfijw3g9vHOKnjieBClrGchOgxJIm9ILf8NoCioNWBKzhHrd8dgI6oudQ4E4OYPcCjSPIE_9xcXTmL7vTaXgN6I5mVjinSMLks=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "image_index": 4
+    },
+    {
+      "position": 6,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMLqLlzGFN0yL_hqm2HWKDr6vD4xXUFNlAdRVJ0idZADAp3ebLCSVXoeSFmZAYJXxtkAka3l9Qu8DUQ6pk8sE7phMd-H-SQQUZN4P6iFhSK1K2IO2UQVAElrn3jmcf-1KemaOv=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "image_index": 5
+    },
+    {
+      "position": 7,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRMmRT0vD8Zn5sSGPAVGlD2daWPeeRaDLpc_yQxmFA2BeYTKPMFuE17Id1iqkrF5esa_wy1SvmcnV75tuVaYKoBJA4hir2VIQqL6TLHMHCd0dlT18xRC8JIpDkpcO_wWOHWiM=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "image_index": 6
+    },
+    {
+      "position": 8,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDLSO9V_HfWA8S_qFF1zqfuRIm1OrfiT-Qw4HEeMjiSZNSClg9fKzf5ZWmvJ29RuBWKVe-AdoZbp65eYAx08cXQIvZMLmoC4E0_idqP3VxpYK3g_2ic8WCIxrsiSYAbnZRDs25xlIfzX4u=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRGNsRnlRWFpxT0RORVNXSm1jSGxDTkVNM2NVRRAB",
+      "image_index": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSQlQzRTNVbVZZVkd0R2JWWnphak5SU2pWblYzYxAB",
+      "author": "Jeevan jayakumar",
+      "author_url": "https://www.google.com/maps/contrib/104847864274646105964?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 26,
+      "author_photos_count": 7,
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-06T07:45:10Z",
+      "iso_date_of_last_edit": "2025-10-06T08:05:01Z",
+      "text": "Good meals and pothi choru\nDont go for biriyani\nHygiene is ok\nBathroom is indian and very very dirty\nAnd the supplier lady will be forcing you for review",
+      "text_original_language": "Good meals and pothi choru\nDont go for biriyani\nHygiene is ok\nBathroom is indian and very very dirty\nAnd the supplier lady will be forcing you for review",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Lunch",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSQlQzRTNVbVZZVkd0R2JWWnphak5SU2pWblYzYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOjRBT3E3UmVYVGtGbVZzajNRSjVnV3c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJc3F2NS1RRRAB",
+      "author": "HIMADRI M",
+      "author_url": "https://www.google.com/maps/contrib/106279012303252763050?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 321,
+      "author_photos_count": 3458,
+      "rating": 1.0,
+      "date": "7 years ago",
+      "iso_date": "2018-12-29T17:23:03Z",
+      "iso_date_of_last_edit": "2018-12-29T17:23:03Z",
+      "text": "It was worse experience, in terms of food and service too. I exploring so many restaurants but this the first time I had bad experience in this restaurant. Food quality is too bad and even services.\n\nBathroom was not clear properly.",
+      "text_original_language": "It was worse experience, in terms of food and service too. I exploring so many restaurants but this the first time I had bad experience in this restaurant. Food quality is too bad and even services.\n\nBathroom was not clear properly.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURJc3F2NS1RRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgIDIsqv5-QE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVFNtbzBMVUp1WlVWcmVrcFVaVXB4U2tSbk1VRRAB",
+      "author": "asiya khan",
+      "author_url": "https://www.google.com/maps/contrib/109270131610298443806?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 284,
+      "author_photos_count": 650,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-07T05:50:48Z",
+      "iso_date_of_last_edit": "2026-07-07T05:50:48Z",
+      "text": "We were heading out from the airport & found this place.They have a tea and snacks counter and a restaurant attached that serves meals. They had a large choice of items for breakfast,from the usual idli,dosa to appams and idiyappam. We were 2 of us so ordered 3 appams each ,half a bowl of veg stew & a full egg roast ,it was really delicious,we kept getting appams straight from the pan. Service was very courteous. They had very clean restroom too.",
+      "text_original_language": "We were heading out from the airport & found this place.They have a tea and snacks counter and a restaurant attached that serves meals. They had a large choice of items for breakfast,from the usual idli,dosa to appams and idiyappam. We were 2 of us so ordered 3 appams each ,half a bowl of veg stew & a full egg roast ,it was really delicious,we kept getting appams straight from the pan. Service was very courteous. They had very clean restroom too.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Large vegetarian selection"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psVFNtbzBMVUp1WlVWcmVrcFVaVXB4U2tSbk1VRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOjlTSmo0LUJuZUVrekpUZUpxSkRnMUE%7C%7C?hl=en",
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCOvXHBbAWjCnZY4BrYv1WMIcTww3rriTdSybcWrKaBZEwWBwauWXyfwrieVRjH3J9bzP-BwXFAQQnrslv-qkG2WaIFCzvjWxlTwOBUUAPURoyEdkZwT7UQVgNe9o6OsuD_Q8p0YUfCw=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE",
+      "author": "CINDY DSILVA",
+      "author_url": "https://www.google.com/maps/contrib/106760285551817310278?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 615,
+      "author_photos_count": 2743,
+      "rating": 4.0,
+      "date": "Edited a year ago",
+      "iso_date": "2022-09-04T18:02:16Z",
+      "iso_date_of_last_edit": "2025-05-16T09:21:55Z",
+      "text": "Good food. We went late so we didn't get shuwarma. But had other items that were yum. Service and ambiance were good.\n\nThe restroom area could be kept a bit cleaner.",
+      "text_original_language": "Good food. We went late so we didn't get shuwarma. But had other items that were yum. Service and ambiance were good.\n\nThe restroom area could be kept a bit cleaner.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "parking_space": "Plenty of parking"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNleUtDTVpREAE!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgICeyKCMZQ%7C%7C?hl=en",
+      "images_count": 6,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebmMPx2OWXSG2cbW8lov6LFUQqnEZNFVavTSXrIKLH_1BX3F3wKDG65qkO2IH3DYsrej1WFfyYcvVrwuBa5ubx0n6z_AlvTt8s0RdBQCbzjzbmsT7tgTXE7e2kBrA-_T3B_9zY=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLespdDRRMEk4xMZZPrJknN_6t6UlZg9POEJ-Bx_N7d_Foza6eqJH2yH5CCPybjCOTWFn-zrcVuc47SFNuswOozNdYYn0d5OOq1VTNGaWD2Y4n-pOou16j0dRGs3dSJeSqLNw1LBuQ=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfh_wYxq7EiNyJQIYuCQEkTNudbhL-l3SzESXyDA4S81cxahgVSZa_cb7r5s_4rhrIF7RpysqojSN507k5Y1L5KHVeMplHcPiGfFhdmuTfN2VKTkWqhprL_0RqdFp16NZMGmm8=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeATxBS7oDqMJeYLiMd4nVrFucPFfWkeiZfyhmfijw3g9vHOKnjieBClrGchOgxJIm9ILf8NoCioNWBKzhHrd8dgI6oudQ4E4OYPcCjSPIE_9xcXTmL7vTaXgN6I5mVjinSMLks=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMLqLlzGFN0yL_hqm2HWKDr6vD4xXUFNlAdRVJ0idZADAp3ebLCSVXoeSFmZAYJXxtkAka3l9Qu8DUQ6pk8sE7phMd-H-SQQUZN4P6iFhSK1K2IO2UQVAElrn3jmcf-1KemaOv=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRMmRT0vD8Zn5sSGPAVGlD2daWPeeRaDLpc_yQxmFA2BeYTKPMFuE17Id1iqkrF5esa_wy1SvmcnV75tuVaYKoBJA4hir2VIQqL6TLHMHCd0dlT18xRC8JIpDkpcO_wWOHWiM=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleFBubUNnEAE",
+      "author": "Abhilash S",
+      "author_url": "https://www.google.com/maps/contrib/103386080936470239579?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 30,
+      "author_photos_count": 29,
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2022-10-02T10:57:03Z",
+      "iso_date_of_last_edit": "2022-10-02T10:57:03Z",
+      "text": "I and my friend had visited this place for having lunch and the customer service experience was horrible.\nWe literally had to ask for every basic amenities like tissue paper, spoons etc.\nIn our case the food was served on time but there were few people who had to wait for 40 mins to get the food served.\n\nThere is no restroom and no water was available in the hand wash section. When we informed about the lack of availability of water  to the manager, there was no response from his end as well.\nAfter facing lot of issues, we asked for bill and waited 15 mins at our table, size there was no response we decided to go to the counter to pay bill and they made us wait another 15 mins there.\nThey would not accept their mistake even after complaining.\n\nIn short we had a pathetic experience at this place and I'm sure that we are not the only one who faced this here.\n\nI would not recommend anyone to visit this place.",
+      "text_original_language": "I and my friend had visited this place for having lunch and the customer service experience was horrible.\nWe literally had to ask for every basic amenities like tissue paper, spoons etc.\nIn our case the food was served on time but there were few people who had to wait for 40 mins to get the food served.\n\nThere is no restroom and no water was available in the hand wash section. When we informed about the lack of availability of water  to the manager, there was no response from his end as well.\nAfter facing lot of issues, we asked for bill and waited 15 mins at our table, size there was no response we decided to go to the counter to pay bill and they made us wait another 15 mins there.\nThey would not accept their mistake even after complaining.\n\nIn short we had a pathetic experience at this place and I'm sure that we are not the only one who faced this here.\n\nI would not recommend anyone to visit this place.",
+      "language": null,
+      "translated": false,
+      "likes": 2,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURleFBubUNnEAE!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgIDexPnmCg%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldWVDeDdRRRAB",
+      "author": "Kri. Abhilasha",
+      "author_url": "https://www.google.com/maps/contrib/106414262478516236393?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": 2,
+      "rating": 2.0,
+      "date": "4 years ago",
+      "iso_date": "2022-09-18T10:17:30Z",
+      "iso_date_of_last_edit": "2022-09-18T10:21:16Z",
+      "text": "Restroom is not kept well, this also should be part of their service.\nFood price is above average and the taste is below average.",
+      "text_original_language": "Restroom is not kept well, this also should be part of their service.\nFood price is above average and the taste is below average.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNldWVDeDdRRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgICeueCx7QE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyck5mN2FnEAE",
+      "author": "Rajdeep Chowdhury",
+      "author_url": "https://www.google.com/maps/contrib/115801180673822602195?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 39,
+      "author_photos_count": 6,
+      "rating": 4.0,
+      "date": "4 years ago",
+      "iso_date": "2022-04-14T19:29:09Z",
+      "iso_date_of_last_edit": "2022-04-14T19:29:09Z",
+      "text": "Good food but no restroom facility",
+      "text_original_language": "Good food but no restroom facility",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMyck5mN2FnEAE!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CIHM0ogKEICAgIC2rNf7ag%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STGRXMWFSbGszVEVFMVNEQk5NWGg1YkUxblFsRRAB",
+      "author": "Jagriti Agrawal",
+      "author_url": "https://www.google.com/maps/contrib/102866985897420649545?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 456,
+      "author_photos_count": 2761,
+      "rating": 2.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T18:26:27Z",
+      "iso_date_of_last_edit": "2026-10-11T18:26:27Z",
+      "text": "I am giving stars purely on the basis of rest stop that we took to change our baby's diaper on the way. Since this was rated as a good restaurant, we assumed washroom would be good. But alas! washroom didn't have water! After using washroom when we headed for the basin, there was no water! Very weird for a family place! We had thought of eating as well something here but then decided not to. Again, since we didn't have food, cant comment on that but a dining place on the highway is supposed to have water in the washroom. Basic requirement!",
+      "text_original_language": "I am giving stars purely on the basis of rest stop that we took to change our baby's diaper on the way. Since this was rated as a good restaurant, we assumed washroom would be good. But alas! washroom didn't have water! After using washroom when we headed for the basin, there was no water! Very weird for a family place! We had thought of eating as well something here but then decided not to. Again, since we didn't have food, cant comment on that but a dining place on the highway is supposed to have water in the washroom. Basic requirement!",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25STGRXMWFSbGszVEVFMVNEQk5NWGg1YkUxblFsRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOnRLdW1aRlk3TEE1SDBNMXh5bE1nQlE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZNVdGSkNOalo1Tm1aRVQzUmFOV2h1TUdkdVRuYxAB",
+      "author": "Anurag Bose",
+      "author_url": "https://www.google.com/maps/contrib/105463439219431721213?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 174,
+      "author_photos_count": 186,
+      "rating": 3.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-12T04:16:39Z",
+      "iso_date_of_last_edit": "2026-05-12T04:16:39Z",
+      "text": "I came in to use the washroom and stayed to have some good mallu cuisine. Opted for chicken stew and malabar parotha. The chicken pieces for the stew can be better I feel. Overall food was good.",
+      "text_original_language": "I came in to use the washroom and stayed to have some good mallu cuisine. Opted for chicken stew and malabar parotha. The chicken pieces for the stew can be better I feel. Overall food was good.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 3,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free street parking",
+        "wheelchair_accessibility": "Place is not accessible by wheelchair"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZNVdGSkNOalo1Tm1aRVQzUmFOV2h1TUdkdVRuYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOkY5WFJCNjZ5NmZET3RaNWhuMGduTnc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBM2IyZGllR3cwUmt0TWExTkxiVWhYZGs5eGRYYxAB",
+      "author": "Shriram Murugananthan",
+      "author_url": "https://www.google.com/maps/contrib/105785922779619270033?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 109,
+      "author_photos_count": 66,
+      "rating": 4.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-16T16:13:06Z",
+      "iso_date_of_last_edit": "2026-01-16T16:13:06Z",
+      "text": "Decent food, price is also ok. It's a Kerala style restaurant. Unlimited buffet breakfast is available. Parking can be done on the road side. Washroom cleanliness needs to be improved.",
+      "text_original_language": "Decent food, price is also ok. It's a Kerala style restaurant. Unlimited buffet breakfast is available. Parking can be done on the road side. Washroom cleanliness needs to be improved.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xBM2IyZGllR3cwUmt0TWExTkxiVWhYZGs5eGRYYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOlA3b2dieGw0RktMa1NLbUhXdk9xdXc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRGNsRnlRWFpxT0RORVNXSm1jSGxDTkVNM2NVRRAB",
+      "author": "Muhammed Khalid Quraishi",
+      "author_url": "https://www.google.com/maps/contrib/108359459424128893641?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": 48,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-28T16:13:39Z",
+      "iso_date_of_last_edit": "2025-09-28T16:13:39Z",
+      "text": "Just stopped buy for dinner…as ambience was gud from outside….menu n place immersive food pathetic….staff uses washroom to do video call found out as the door was open…locked again n finished video call for another 10min….coming to the food….paneer manchurian was less of paneer more of cheap tomato sauce…strong smell can’t b eaten….lollipop chicken feels plasticy n hard…Mandi rice ok ok…no one serves food…no bone plate on table…drinks gud…\n\nOver all very absurd…hope u change staff or they will help u shut down the restaurant very soon…\n\nLet’s this b between us as I have tipped dem to…pls kick dem out…",
+      "text_original_language": "Just stopped buy for dinner…as ambience was gud from outside….menu n place immersive food pathetic….staff uses washroom to do video call found out as the door was open…locked again n finished video call for another 10min….coming to the food….paneer manchurian was less of paneer more of cheap tomato sauce…strong smell can’t b eaten….lollipop chicken feels plasticy n hard…Mandi rice ok ok…no one serves food…no bone plate on table…drinks gud…\n\nOver all very absurd…hope u change staff or they will help u shut down the restaurant very soon…\n\nLet’s this b between us as I have tipped dem to…pls kick dem out…",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,200–1,400",
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCRGNsRnlRWFpxT0RORVNXSm1jSGxDTkVNM2NVRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOlBDclFyQXZqODNESWJmcHlCNEM3cUE%7C%7C?hl=en",
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDLSO9V_HfWA8S_qFF1zqfuRIm1OrfiT-Qw4HEeMjiSZNSClg9fKzf5ZWmvJ29RuBWKVe-AdoZbp65eYAx08cXQIvZMLmoC4E0_idqP3VxpYK3g_2ic8WCIxrsiSYAbnZRDs25xlIfzX4u=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod2R6WnNNV05OWmtSUllqVk9aMnhYWW5SR2FtYxAB",
+      "author": "Vincent Paul",
+      "author_url": "https://www.google.com/maps/contrib/109257647328656439597?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": 1,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-08T06:33:34Z",
+      "iso_date_of_last_edit": "2025-09-08T06:33:34Z",
+      "text": "Very bad experience. Pls avoid.\nThe restaurant is very poorly maintained.\nVery bad customer service, felt like they don't want any customers there. ACs were not working. The whole restaurant smelling of rotting wood.\nThe wait was too long even though the restaurant was empty. They even gave us items that we didn't order and billed us.\nIn the end, there was no water in the washroom.\nThey don't care about the most basic requirements for their customers. It was a really bad experience.",
+      "text_original_language": "Very bad experience. Pls avoid.\nThe restaurant is very poorly maintained.\nVery bad customer service, felt like they don't want any customers there. ACs were not working. The whole restaurant smelling of rotting wood.\nThe wait was too long even though the restaurant was empty. They even gave us items that we didn't order and billed us.\nIn the end, there was no water in the washroom.\nThey don't care about the most basic requirements for their customers. It was a really bad experience.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "price_per_person": "₹600–800",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "reservation": "Not sure",
+        "group_size": "3-4 people",
+        "wait_time": "30-60 min",
+        "parking_space": "Difficult to find parking",
+        "parking_options": "Parking is unavailable",
+        "kid_friendliness": "Very bad. They do not provide any assistance to customers with babies"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tod2R6WnNNV05OWmtSUllqVk9aMnhYWW5SR2FtYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOkhwdzZsMWNNZkRRYjVOZ2xXYnRGamc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 12,
+    "reviews_with_images": 3,
+    "review_images_found": 8,
+    "unique_review_image_urls": 8,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 12,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Itihaas Restaurant",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": null,
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 12,
+  "reviews_with_images": 3,
+  "images_found": 8,
+  "unique_image_urls": 8,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 10,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "reviews",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": null,
+      "reviews_in_response": 2,
+      "reviews_with_images": 0,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": [
+        "date",
+        "details",
+        "extracted_snippet",
+        "iso_date",
+        "iso_date_of_last_edit",
+        "likes",
+        "link",
+        "position",
+        "rating",
+        "review_id",
+        "snippet",
+        "source",
+        "user"
+      ],
+      "first_review_has_images": false,
+      "first_review_image_count": 0,
+      "first_review_image_entry_types": []
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:47:23",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 5,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:47:14"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 5,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:47:17"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:47:19"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 2,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:47:23"
+    }
+  ],
+  "next_page_token": null
+}

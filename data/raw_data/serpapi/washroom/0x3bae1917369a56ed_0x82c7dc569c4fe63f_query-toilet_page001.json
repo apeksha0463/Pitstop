@@ -1,0 +1,48 @@
+{
+  "search_metadata": {
+    "id": "6ae30e406f082b7d09778881",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pmzamZQ_IgIqmgHwGdnRe_A8sfzxLHW12zNFcN8T2c8/6ae30e406f082b7d09778881.json",
+    "markdown_endpoint": "https://serpapi.com/searches/pmzamZQ_IgIqmgHwGdnRe_A8sfzxLHW12zNFcN8T2c8/6ae30e406f082b7d09778881.md",
+    "created_at": "2026-10-29 09:13:36 UTC",
+    "processed_at": "2026-10-29 09:13:36 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1917369a56ed:0x82c7dc569c4fe63f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/pmzamZQ_IgIqmgHwGdnRe_A8sfzxLHW12zNFcN8T2c8/6ae30e406f082b7d09778881.html",
+    "prettify_html_file": "https://serpapi.com/searches/pmzamZQ_IgIqmgHwGdnRe_A8sfzxLHW12zNFcN8T2c8/6ae30e406f082b7d09778881.prettify",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1917369a56ed:0x82c7dc569c4fe63f",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURZNG9TdUV3EAE!2m1!1s0x0:0x82c7dc569c4fe63f!3m1!1s2@1:CIHM0ogKEICAgIDY4oSuEw%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "7 years ago",
+      "iso_date": "2019-05-05T09:01:16Z",
+      "iso_date_of_last_edit": "2019-05-05T09:01:16Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZNG9TdUV3EAE",
+      "user": {
+        "name": "babu reddy",
+        "link": "https://www.google.com/maps/contrib/100405064047556228631?hl=en",
+        "contributor_id": "100405064047556228631",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIAQ7_7i2F2t_wgOvmtgo98PjuCTCj8FudzEImpG3ZO4U-zZOJ6=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 11,
+        "photos": 1
+      },
+      "snippet": "Worst toilet worst hotel",
+      "extracted_snippet": {
+        "original": "Worst toilet worst hotel"
+      },
+      "likes": 0
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "search_metadata": {
+    "id": "6ae30deb4f19eec4c46cacfb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/n_8oQwK9fenRZ-qa5FKXinhxYnNmuHzIhpzguwyJLVI/6ae30deb4f19eec4c46cacfb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/n_8oQwK9fenRZ-qa5FKXinhxYnNmuHzIhpzguwyJLVI/6ae30deb4f19eec4c46cacfb.md",
+    "created_at": "2026-10-29 09:12:11 UTC",
+    "processed_at": "2026-10-29 09:12:11 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19542b663c05:0x88b58d30d2de9f91!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/n_8oQwK9fenRZ-qa5FKXinhxYnNmuHzIhpzguwyJLVI/6ae30deb4f19eec4c46cacfb.html",
+    "prettify_html_file": "https://serpapi.com/searches/n_8oQwK9fenRZ-qa5FKXinhxYnNmuHzIhpzguwyJLVI/6ae30deb4f19eec4c46cacfb.prettify",
+    "total_time_taken": 0.41
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19542b663c05:0x88b58d30d2de9f91",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaX2VlQjZBRRAB!2m1!1s0x0:0x88b58d30d2de9f91!3m1!1s2@1:CIHM0ogKEICAgICZ_eeB6AE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "3 years ago",
+      "iso_date": "2023-09-16T15:51:11Z",
+      "iso_date_of_last_edit": "2023-09-16T17:38:07Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaX2VlQjZBRRAB",
+      "user": {
+        "name": "Ajith",
+        "link": "https://www.google.com/maps/contrib/104349629058690909719?hl=en",
+        "contributor_id": "104349629058690909719",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLy86rdv3Ps3BVejmdvdRJpZbv6SLqrZOJWAy6McBvsf9sLTA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Title: Pleasant Ambience and Cleanliness, but Mediocre Mutton Biryani\n\nRating: ⭐⭐⭐\n\nTables were spotless, and the restroom facilities were well-maintained, which is always a big plus.\n\nHowever, I have to admit that I was a bit disappointed with the food, particularly the mutton biryani. Despite the promising start, the biryani fell short of expectations. The rice was fragrant and cooked to perfection, but the meat left much to be desired. The mutton in the biryani was not properly cooked – it was tough and lacked the tenderness and flavor that one would expect in a biryani dish. This was a letdown, as the quality of meat is crucial in making a biryani exceptional.\n\nWhile the rest of the dishes we ordered were decent, the mutton biryani's quality was a significant drawback for me. I believe that improving the preparation of the meat in this dish could make a substantial difference in the overall dining experience.",
+      "extracted_snippet": {
+        "original": "Title: Pleasant Ambience and Cleanliness, but Mediocre Mutton Biryani\n\nRating: ⭐⭐⭐\n\nTables were spotless, and the restroom facilities were well-maintained, which is always a big plus.\n\nHowever, I have to admit that I was a bit disappointed with the food, particularly the mutton biryani. Despite the promising start, the biryani fell short of expectations. The rice was fragrant and cooked to perfection, but the meat left much to be desired. The mutton in the biryani was not properly cooked – it was tough and lacked the tenderness and flavor that one would expect in a biryani dish. This was a letdown, as the quality of meat is crucial in making a biryani exceptional.\n\nWhile the rest of the dishes we ordered were decent, the mutton biryani's quality was a significant drawback for me. I believe that improving the preparation of the meat in this dish could make a substantial difference in the overall dining experience."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 2,
+        "service": 2,
+        "atmosphere": 3
+      },
+      "likes": 1
+    }
+  ]
+}

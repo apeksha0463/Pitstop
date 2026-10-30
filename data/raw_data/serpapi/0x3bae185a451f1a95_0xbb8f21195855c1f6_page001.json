@@ -1,0 +1,339 @@
+{
+  "search_metadata": {
+    "id": "6ae2d1ab1e760bd7fe18715a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jqITLIC8UJoBdVFZ-UC7p8ko2rd1DekIsiOLZx1gpbg/6ae2d1ab1e760bd7fe18715a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jqITLIC8UJoBdVFZ-UC7p8ko2rd1DekIsiOLZx1gpbg/6ae2d1ab1e760bd7fe18715a.md",
+    "created_at": "2026-10-29 04:55:07 UTC",
+    "processed_at": "2026-10-29 04:55:07 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae185a451f1a95:0xbb8f21195855c1f6!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/jqITLIC8UJoBdVFZ-UC7p8ko2rd1DekIsiOLZx1gpbg/6ae2d1ab1e760bd7fe18715a.html",
+    "prettify_html_file": "https://serpapi.com/searches/jqITLIC8UJoBdVFZ-UC7p8ko2rd1DekIsiOLZx1gpbg/6ae2d1ab1e760bd7fe18715a.prettify",
+    "total_time_taken": 0.86
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "9th Mile Dhaba",
+    "address": "Flying Club, Jakkur Flying Club, Bellary Road Near Jakkur, Near, Bellary Rd, Allalasandra, Yelahanka, Bengaluru, Karnataka 560065, India",
+    "rating": 3.9,
+    "reviews": 1433,
+    "type": "Punjabi restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "live music",
+      "mentions": 36,
+      "id": "bdOKu_b9hgo"
+    },
+    {
+      "keyword": "mocktails",
+      "mentions": 11,
+      "id": "JX7Ik_i1cMQ"
+    },
+    {
+      "keyword": "tandoori mushroom",
+      "mentions": 2,
+      "id": "aC0EGaFDbV8"
+    },
+    {
+      "keyword": "outdoor seating",
+      "mentions": 6,
+      "id": "AEmHqxr-_tg"
+    },
+    {
+      "keyword": "asrita",
+      "mentions": 2,
+      "id": "BUTF_DRcROo"
+    },
+    {
+      "keyword": "malai kofta",
+      "mentions": 2,
+      "id": "gB0RndqWWPs"
+    },
+    {
+      "keyword": "open kitchen",
+      "mentions": 4,
+      "id": "CEGBf5v5utg"
+    },
+    {
+      "keyword": "hygienic kitchen",
+      "mentions": 2,
+      "id": "GEHQjZLMPUA"
+    },
+    {
+      "keyword": "paneer",
+      "mentions": 3,
+      "id": "SggZbeRzYo8"
+    },
+    {
+      "keyword": "Kadhai Paneer",
+      "mentions": 2,
+      "id": "SghRv5Lxu5c"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aWGRETkZTMjh3WVZkd2FIUk5aV0ZIVVROR1kzYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmZXdDNFS28wYVdwaHRNZWFHUTNGY3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 days ago",
+      "iso_date": "2026-10-25T00:32:54Z",
+      "iso_date_of_last_edit": "2026-10-25T00:32:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWGRETkZTMjh3WVZkd2FIUk5aV0ZIVVROR1kzYxAB",
+      "user": {
+        "name": "Hemant Jadhav",
+        "link": "https://www.google.com/maps/contrib/112685872906445308200?hl=en",
+        "contributor_id": "112685872906445308200",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWVYKXR_Vo30Fx3kv9SbWGz-cvdidlhkalbT3zarszoZJCXzd8=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 38
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CbVVFNXhWVFo0TTBacGJEVllYMkl6VFdKQ1JIYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOnBmUE5xVTZ4M0ZpbDVYX2IzTWJCRHc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-12T16:00:43Z",
+      "iso_date_of_last_edit": "2026-10-12T16:00:43Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CbVVFNXhWVFo0TTBacGJEVllYMkl6VFdKQ1JIYxAB",
+      "user": {
+        "name": "Rajani Anandan",
+        "link": "https://www.google.com/maps/contrib/118435084047123511235?hl=en",
+        "contributor_id": "118435084047123511235",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIAdOXzVG3P3PQFjiSFMlA3Jt9SSeRnbo26eqNquRr1hHDNjQ=s120-c-rp-mo-br100",
+        "reviews": 11,
+        "photos": 0
+      },
+      "snippet": "Asrita was kind & courteous",
+      "extracted_snippet": {
+        "original": "Asrita was kind & courteous"
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsNGFYaERiRGxOY20xbWJ6UklOV2xmUm01WlMyYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkl4aXhDbDlNcm1mbzRINWlfRm5ZS2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T16:24:29Z",
+      "iso_date_of_last_edit": "2026-10-10T16:24:29Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcqZ8_0vNUWlPRlFqGFys9VEkEQ_7CGa4GNrPbvu3NYV_x2ZNhtx8a5dgknymT8k9qYnQI7jHoPSyjYEOyc10PdlbFHc89Kez9RovwTiqj0O6mpiidJD6dRenRSms-5BCmrz8UC5l2Ut-X7=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNGFYaERiRGxOY20xbWJ6UklOV2xmUm01WlMyYxAB",
+      "user": {
+        "name": "Arkadev Ghosh",
+        "link": "https://www.google.com/maps/contrib/100404813175528613239?hl=en",
+        "contributor_id": "100404813175528613239",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXHRnQOnWBFOYoicpI_AHtYGE0ReQz3vR3FPLEgxa7IuH5lzggJ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 17,
+        "photos": 14
+      },
+      "snippet": "Excellent ambience and food. Excellent service by Asrita",
+      "extracted_snippet": {
+        "original": "Excellent ambience and food. Excellent service by Asrita"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKb1lYSndkVFkwV0hKWVF6Tk1VMEpsYVVSaFNrRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjJoYXJwdTY0WHJYQzNMU0JlaURhSkE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 weeks ago",
+      "iso_date": "2026-10-02T09:33:23Z",
+      "iso_date_of_last_edit": "2026-10-02T09:33:23Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKb1lYSndkVFkwV0hKWVF6Tk1VMEpsYVVSaFNrRRAB",
+      "user": {
+        "name": "umangi mistry",
+        "link": "https://www.google.com/maps/contrib/112762655161779929070?hl=en",
+        "contributor_id": "112762655161779929070",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI1g4Dg4osY6JTDmWYrcJY7AZTM-veu-jgdTMz0T3D9DbbiGg=s120-c-rp-mo-br100",
+        "reviews": 11,
+        "photos": 4
+      },
+      "snippet": "Food was really good and service was fast.",
+      "extracted_snippet": {
+        "original": "Food was really good and service was fast."
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tJeVJGOXhYekoxTm5aV2VTMHpSRVZ5V2tab2FrRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOkIyRF9xXzJ1NnZWeS0zREVyWkZoakE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-27T10:29:40Z",
+      "iso_date_of_last_edit": "2026-09-27T10:29:40Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJeVJGOXhYekoxTm5aV2VTMHpSRVZ5V2tab2FrRRAB",
+      "user": {
+        "name": "Omkar Dey",
+        "link": "https://www.google.com/maps/contrib/108611396000028881022?hl=en",
+        "contributor_id": "108611396000028881022",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUXP1bBQKL-FMJ9MSQEOTyDjNvkwjemDJR5LFdBSnBjev-xT2w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 5,
+        "photos": 34
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KMk1sY3dPQzFxVFdWbk1uTTFOVFpTVldac1RsRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOmJ2MlcwOC1qTWVnMnM1NTZSVWZsTlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-10T10:18:17Z",
+      "iso_date_of_last_edit": "2026-09-10T10:18:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMk1sY3dPQzFxVFdWbk1uTTFOVFpTVldac1RsRRAB",
+      "user": {
+        "name": "Mahesh Balani",
+        "link": "https://www.google.com/maps/contrib/100318336027312472498?hl=en",
+        "contributor_id": "100318336027312472498",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWp8BuMowSqtpQ59Kq3lB9kWLJCYIke_c7xcZi79v_l0GdSoghX=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 1
+      },
+      "snippet": "Champaran mutton was excellent. Spicy, succulent meat , good portion. Overall perfect. Goes great with rice.\n\nGreat staff. Special thanks to Sanju",
+      "extracted_snippet": {
+        "original": "Champaran mutton was excellent. Spicy, succulent meat , good portion. Overall perfect. Goes great with rice.\n\nGreat staff. Special thanks to Sanju"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paZlNraElVV1pXYkY5WUxXbHNUMUUwUjFKVVJsRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjZfSkhIUWZWbF9YLWlsT1E0R1JURlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-05T20:15:47Z",
+      "iso_date_of_last_edit": "2026-09-05T20:15:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paZlNraElVV1pXYkY5WUxXbHNUMUUwUjFKVVJsRRAB",
+      "user": {
+        "name": "Vicky Saini",
+        "link": "https://www.google.com/maps/contrib/112790006071610970153?hl=en",
+        "contributor_id": "112790006071610970153",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUtkxYsaVXvEna2q5oPmMPeP4FMZc14PSL1yMcPsmAyjxS4yPI=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 6,
+        "photos": 119
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSUVRHSkJhMHAwWnpSNVRWbHNXamRJVjNkd2VuYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOjRQTGJBa0p0ZzR5TVlsWjdIV3dwenc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-02T15:15:08Z",
+      "iso_date_of_last_edit": "2026-09-02T15:15:08Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUVRHSkJhMHAwWnpSNVRWbHNXamRJVjNkd2VuYxAB",
+      "user": {
+        "name": "Rashmi Soni",
+        "link": "https://www.google.com/maps/contrib/104571661440811400502?hl=en",
+        "contributor_id": "104571661440811400502",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV_VjpWD22H1NwtywU4doXS3JbjcrbXQ71iIRs1rfBWdstaHRU=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201blVFcElkM051UTFWTVJIazBkR05xWXpaek9XYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOm5nUEpId3NuQ1VMRHk0dGNqYzZzOWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-08-31T21:49:46Z",
+      "iso_date_of_last_edit": "2026-08-31T21:49:46Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201blVFcElkM051UTFWTVJIazBkR05xWXpaek9XYxAB",
+      "user": {
+        "name": "Arjun Deka",
+        "link": "https://www.google.com/maps/contrib/111774424058932809966?hl=en",
+        "contributor_id": "111774424058932809966",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXT-gE8WSBEvLI-N0ipMdoQ8SSjezVKQCVfayTftUXT8BxNpMs=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tzMGRVMUtTVmQ0YldGNGVVbHVXWEZVTVdGdlpIYxAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CAIQACodChtycF9oOks0dU1KSVd4bWF4eUluWXFUMWFvZHc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-08-31T15:05:15Z",
+      "iso_date_of_last_edit": "2026-08-31T15:05:15Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMGRVMUtTVmQ0YldGNGVVbHVXWEZVTVdGdlpIYxAB",
+      "user": {
+        "name": "Ronald V. Rajendra",
+        "link": "https://www.google.com/maps/contrib/107118847777711595811?hl=en",
+        "contributor_id": "107118847777711595811",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXv-rrARdcWutN5-oRmUmWMUL1RJZttLLP-T2IjHpNvUBZXQ9b7=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 15,
+        "photos": 8
+      },
+      "snippet": "Nice restaurant, good food and service. Ambience could be better. Ashrita was our wonderful and amazing helper.",
+      "extracted_snippet": {
+        "original": "Nice restaurant, good food and service. Ambience could be better. Ashrita was our wonderful and amazing helper."
+      },
+      "details": {
+        "price_per_person": "₹2,000+",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4,
+        "wait_time": "No wait",
+        "seating_type": "Outdoor patio / terrace"
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x3bae185a451f1a95%3A0xbb8f21195855c1f6&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP72F-npZTX__EhBUZ8UI4zqPviiCpgYAAAAAGgn92coCX6ellNcYACIA%3A10&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72F-npZTX__EhBUZ8UI4zqPviiCpgYAAAAAGgn92coCX6ellNcYACIA:10"
+  }
+}

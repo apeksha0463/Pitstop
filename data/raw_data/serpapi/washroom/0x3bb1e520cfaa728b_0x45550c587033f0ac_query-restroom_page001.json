@@ -1,0 +1,238 @@
+{
+  "search_metadata": {
+    "id": "6ae31025a4e3cfcb077a84f8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CflGr_0zr2hOoSuc5ng_iiDMe3CIzkXJSCy13AsUEQs/6ae31025a4e3cfcb077a84f8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CflGr_0zr2hOoSuc5ng_iiDMe3CIzkXJSCy13AsUEQs/6ae31025a4e3cfcb077a84f8.md",
+    "created_at": "2026-10-29 09:21:41 UTC",
+    "processed_at": "2026-10-29 09:21:41 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e520cfaa728b:0x45550c587033f0ac!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/CflGr_0zr2hOoSuc5ng_iiDMe3CIzkXJSCy13AsUEQs/6ae31025a4e3cfcb077a84f8.html",
+    "prettify_html_file": "https://serpapi.com/searches/CflGr_0zr2hOoSuc5ng_iiDMe3CIzkXJSCy13AsUEQs/6ae31025a4e3cfcb077a84f8.prettify",
+    "total_time_taken": 0.4
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e520cfaa728b:0x45550c587033f0ac",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUREaHVqUnRBRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDDhujRtAE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-04-08T14:29:31Z",
+      "iso_date_of_last_edit": "2024-04-08T14:29:31Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREaHVqUnRBRRAB",
+      "user": {
+        "name": "Dr Siddhartha Roy",
+        "link": "https://www.google.com/maps/contrib/112782887758889812232?hl=en",
+        "contributor_id": "112782887758889812232",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLTTuRYq9Vs18kLcxVWwuiYg-B5AYpSAVoiZPQiYYzb7mwVB3oB=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 445,
+        "photos": 750
+      },
+      "snippet": "Right after Chikkbellapur, on the main highway, a great joint for having meals and snacks. For us, bikers from Namma Bengaluru, it's our usual breakfast joint. My favourites are the usual breakfast items, specially the idli, vada, coffee, kesari baath... The staff is very cordial and soft spoken. Loads of parking space. Restroom is clean too... Ideal for families as well",
+      "extracted_snippet": {
+        "original": "Right after Chikkbellapur, on the main highway, a great joint for having meals and snacks. For us, bikers from Namma Bengaluru, it's our usual breakfast joint. My favourites are the usual breakfast items, specially the idli, vada, coffee, kesari baath... The staff is very cordial and soft spoken. Loads of parking space. Restroom is clean too... Ideal for families as well"
+      },
+      "details": {
+        "food": 4,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURaeFptNlNnEAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDZxZm6Sg%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited 3 years ago",
+      "iso_date": "2023-10-05T01:00:38Z",
+      "iso_date_of_last_edit": "2023-10-06T02:03:03Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaeFptNlNnEAE",
+      "user": {
+        "name": "Gayathri Kumar",
+        "link": "https://www.google.com/maps/contrib/101260689619160493969?hl=en",
+        "contributor_id": "101260689619160493969",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJdISOAPrJF18hGTYLq9w0Z_04dYYv6EdzzJ42q1isvutP80w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 40,
+        "photos": 5
+      },
+      "snippet": "Food and atmosphere is fine.. But the restroom are very much in need of attention.. They can be better maintained.. As it is the only place around more people come... So i feel it can be maintained better..",
+      "extracted_snippet": {
+        "original": "Food and atmosphere is fine.. But the restroom are very much in need of attention.. They can be better maintained.. As it is the only place around more people come... So i feel it can be maintained better.."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1,000–1,200",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN4MTlYTmR3EAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICx19XNdw%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-05-28T11:01:30Z",
+      "iso_date_of_last_edit": "2023-05-28T11:01:30Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4MTlYTmR3EAE",
+      "user": {
+        "name": "Malathi Seshasayee",
+        "link": "https://www.google.com/maps/contrib/103787407185196061075?hl=en",
+        "contributor_id": "103787407185196061075",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVGF_aPxQxQxN0EYc3z9jN3sXmv26fO1Ck_HnU19FiZiaiicFiGZA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 112,
+        "photos": 254
+      },
+      "snippet": "Good vegetarian food, parking available, restroom is also there",
+      "extracted_snippet": {
+        "original": "Good vegetarian food, parking available, restroom is also there"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCLXRUa1BREAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICB-tTkPQ%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited 3 years ago",
+      "iso_date": "2022-12-23T10:01:43Z",
+      "iso_date_of_last_edit": "2022-12-24T10:56:21Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCLXRUa1BREAE",
+      "user": {
+        "name": "chetan salian",
+        "link": "https://www.google.com/maps/contrib/106415821589904333715?hl=en",
+        "contributor_id": "106415821589904333715",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVcyDppoR4jQkMW-kgxVCSA-_3ilM-KYGy-Io2Qm1aHvax2WOaEWQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 71,
+        "photos": 28
+      },
+      "snippet": "Very nice veg meal and quick service.\nOne of the cleanest restroom I have ever been to on a highway restaurant",
+      "extracted_snippet": {
+        "original": "Very nice veg meal and quick service.\nOne of the cleanest restroom I have ever been to on a highway restaurant"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURzX0pEbzZnRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDs_JDo6gE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "6 years ago",
+      "iso_date": "2020-02-27T01:56:05Z",
+      "iso_date_of_last_edit": "2020-02-27T01:56:05Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzX0pEbzZnRRAB",
+      "user": {
+        "name": "Jagannathan Srinivasamurthy",
+        "link": "https://www.google.com/maps/contrib/103995470005892181191?hl=en",
+        "contributor_id": "103995470005892181191",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK178aNVjxrHpbQN-HG5fx0phd2TElzjUGHjDNVdDzb1pc9Itqf=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 1665,
+        "photos": 9112
+      },
+      "snippet": "We just had vada and coffee on the way back to bangalore.  The restaurant has good parking space and the restroom areas were OK.  The coffee was very good, hot and strong.  There are outdoor and indoor seating.  Outdoor is very polluted due to the parking.  There is a fruit stall and pan shop nearby.",
+      "extracted_snippet": {
+        "original": "We just had vada and coffee on the way back to bangalore.  The restaurant has good parking space and the restroom areas were OK.  The coffee was very good, hot and strong.  There are outdoor and indoor seating.  Outdoor is very polluted due to the parking.  There is a fruit stall and pan shop nearby."
+      },
+      "likes": 2
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNzeWFqZUR3EAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICsyajeDw%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "6 years ago",
+      "iso_date": "2020-02-06T09:51:07Z",
+      "iso_date_of_last_edit": "2020-02-06T09:51:07Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzeWFqZUR3EAE",
+      "user": {
+        "name": "md. rizwan",
+        "link": "https://www.google.com/maps/contrib/106982733529040529084?hl=en",
+        "contributor_id": "106982733529040529084",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXo4_Ysq3k9E4pXTr1YwQQqNmVF-98GcxDLmezhZdERu3slk5tW=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 53,
+        "photos": 22
+      },
+      "snippet": "Nice hotel good restroom fecility here but the food is good but low quantity rice and pulses,currys are huge amount in food quantity i have disoppinted very much any have food is good i loved it",
+      "extracted_snippet": {
+        "original": "Nice hotel good restroom fecility here but the food is good but low quantity rice and pulses,currys are huge amount in food quantity i have disoppinted very much any have food is good i loved it"
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMwcU15Z3pBRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIC0qMygzAE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "7 years ago",
+      "iso_date": "2019-09-13T04:11:58Z",
+      "iso_date_of_last_edit": "2019-09-13T04:11:58Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwcU15Z3pBRRAB",
+      "user": {
+        "name": "Shakeer S",
+        "link": "https://www.google.com/maps/contrib/108419891091387807053?hl=en",
+        "contributor_id": "108419891091387807053",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVuHHOv7du99LhS3gjnjFhMvEykKY6XU6F4jbGecTMkpAI-dyY=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 1
+      },
+      "snippet": "Hotel is good food test super and restroom very very bad",
+      "extracted_snippet": {
+        "original": "Hotel is good food test super and restroom very very bad"
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURVbExXVHpBRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDUlLWTzAE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "7 years ago",
+      "iso_date": "2019-08-15T06:51:50Z",
+      "iso_date_of_last_edit": "2019-08-15T06:51:50Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVbExXVHpBRRAB",
+      "user": {
+        "name": "vishesh Kumar",
+        "link": "https://www.google.com/maps/contrib/100858523405091625754?hl=en",
+        "contributor_id": "100858523405091625754",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI-TXDzS5bXzVYYf3pCmjcZmuOolCH5nDGrqbZwm22wBhAkxnE=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 248,
+        "photos": 1688
+      },
+      "snippet": "-> Delicious Andhra food.\n-> Travelers travelling from Bangalore to Hindupur or Hyderabad can take stoppage here.\n-> Restroom available here, but not clean one.",
+      "extracted_snippet": {
+        "original": "-> Delicious Andhra food.\n-> Travelers travelling from Bangalore to Hindupur or Hyderabad can take stoppage here.\n-> Restroom available here, but not clean one."
+      },
+      "likes": 1
+    }
+  ]
+}

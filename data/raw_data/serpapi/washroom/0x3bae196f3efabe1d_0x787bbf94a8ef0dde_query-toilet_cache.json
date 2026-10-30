@@ -1,0 +1,11 @@
+{
+  "data_id": "0x3bae196f3efabe1d:0x787bbf94a8ef0dde",
+  "sort_by": "newestFirst",
+  "review_filter": "query:toilet",
+  "saved_at": "2026-10-29T14:44:00",
+  "pagination_complete": true,
+  "last_next_page_token": null,
+  "pages": [
+    "data/raw_data/serpapi/washroom/0x3bae196f3efabe1d_0x787bbf94a8ef0dde_query-toilet_page001.json"
+  ]
+}

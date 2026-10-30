@@ -1,0 +1,123 @@
+{
+  "data_id": "0x3bb1e30070aee50f:0x4b5fdf769acaf73f",
+  "page": 1,
+  "review_filter": "query:toilet",
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Fd2FWSnBNVFkzYW14TGVVUXlNM0ZhVW5GbVlWRRAB",
+      "author": "Ashwin Markod",
+      "rating": 3.0,
+      "date": "a year ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU1pWcENlV0ZSWjBwMGFIRlBSVVJoYkU0dGJFRRAB",
+      "author": "Prasanna Manjunath",
+      "rating": 4.0,
+      "date": "a year ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTlZUVkplWE40TVhreFlubEthbTEwUmtaUFRtYxAB",
+      "author": "awanish Awasthi",
+      "rating": 5.0,
+      "date": "a year ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TlNsSlVURVZQUVRGcVExWkhSMkl4Y1ZKek1VRRAB",
+      "author": "GopalRaj",
+      "rating": 5.0,
+      "date": "a year ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZsOO3g0qJlTT4v5icf7g-EFY9D0yQMyINyVHFq6BkzDMXDJ-po3hHeuqDwecZJCGXU97dRHtwdxlrPXGoRwgfn6oLZOnwG3pVGJB1aKdj4Yv7ng2aVjlwpWTXdX09i6cd-yfk0e4BHrN4=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2fLUrKCY2TN2lDHMaZ3vvA6aiRbdC2Yxu8LGXWUmG7xFWagKkB_rhpKS82f2Dj-xDVGdBqaKK8PcXmtcty478lWnodlzduJuZ1cHR0ACRiaHqo__RX9Ykrz9-Ay2G-LMD6Tjz5K7tqv8=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerjnN6GB-oezWrzpdQOJULXoqh9jrZpELNwqaYNIzfao2Oep9R2RTpZS0LC8ZuWrkZYwPCyaB1Hrk2zvq1TkgomucpUWwtzsxQfgzxOO69rqkwCgpnQzsDQ-vpj6lIxtlU6hGZF3n0yVTr=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpEniggmMRpnhp8JzA78vIVca9oqHbxTX7tb12ETrFgI1wX2A4S3yC_-vtjTfYkGFi3Oocejxy6_87Sj-4BG7jPqnM5k4woKKyTtsD4ixDfasNDymoKpmioo0AfXmaf4Hwyq9vYl4eR9te=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOebH90oBdyr6EFtcEdfYiB8crw8uTsL-XIloExItNFl2b-eDLSOhc_e89UmV6UhsfO7_1HJ8pkmIiWh3i96ChxlMz8aRpXr2MZeMp77PBz6tzUfRH_ZBcbTnMnYRKiEaN-hbmMb7tAUlD=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWLsXe5pMtANQ6Or3GUgG_We9mHDt2HdNy3pWVl8vWdVzNNab8BABVAKozdyD4K4Og5Y1jqeUTpOPJDIrrSZQMVzeZrH-ucSCxX9lvo4w7MxChC1NFlF7MyYcK4GkpkBWmivQvNOxv36Ma=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25saU5GTnRlVXBhT1VGd2NWbEJTa2hUWkZBM1drRRAB",
+      "author": "George Cherian",
+      "rating": 5.0,
+      "date": "a year ago",
+      "images": []
+    }
+  ]
+}

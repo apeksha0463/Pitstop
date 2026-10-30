@@ -1,0 +1,472 @@
+{
+  "search_metadata": {
+    "id": "6ae31028e5104cadb9998c92",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8tjVF2kq2U4ZveaehoM1lYqgfLx8n-MJIhI2OO3dGSg/6ae31028e5104cadb9998c92.json",
+    "markdown_endpoint": "https://serpapi.com/searches/8tjVF2kq2U4ZveaehoM1lYqgfLx8n-MJIhI2OO3dGSg/6ae31028e5104cadb9998c92.md",
+    "created_at": "2026-10-29 09:21:44 UTC",
+    "processed_at": "2026-10-29 09:21:44 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e520cfaa728b:0x45550c587033f0ac!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/8tjVF2kq2U4ZveaehoM1lYqgfLx8n-MJIhI2OO3dGSg/6ae31028e5104cadb9998c92.html",
+    "prettify_html_file": "https://serpapi.com/searches/8tjVF2kq2U4ZveaehoM1lYqgfLx8n-MJIhI2OO3dGSg/6ae31028e5104cadb9998c92.prettify",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e520cfaa728b:0x45550c587033f0ac",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxbU11VGh3RRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIC1mMuThwE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "Edited a year ago",
+      "iso_date": "2023-12-22T04:45:11Z",
+      "iso_date_of_last_edit": "2024-12-01T06:36:38Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbU11VGh3RRAB",
+      "user": {
+        "name": "Anuja P",
+        "link": "https://www.google.com/maps/contrib/101863553270603268010?hl=en",
+        "contributor_id": "101863553270603268010",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVw3KmODWVaqv3M79cZ1H6JAJZ0zN9OERQSGNhRvZU9pkOlo2ge=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 56,
+        "photos": 6
+      },
+      "snippet": "En route on a journey the driver suggested this place and we stopped there for lunch.\n\nThe food is simple Andhra fare and has the home cooked feeling to it.\n\nI enjoyed having good Andhra food while enjoying the view of the lake right opposite to the restaurant. It was a great mental break considering the view and good food. The pappu here is a must try!\n\nUPDATE:\n\nDECEMBER 24\nthere was a strong stench of toilet permeating the restaurant. The food was good but I was hurrying through the meal because of the strong stench. It was unbearable. I am taking away two stars now even though the food was good.\n\nCleanliness comes first.",
+      "extracted_snippet": {
+        "original": "En route on a journey the driver suggested this place and we stopped there for lunch.\n\nThe food is simple Andhra fare and has the home cooked feeling to it.\n\nI enjoyed having good Andhra food while enjoying the view of the lake right opposite to the restaurant. It was a great mental break considering the view and good food. The pappu here is a must try!\n\nUPDATE:\n\nDECEMBER 24\nthere was a strong stench of toilet permeating the restaurant. The food was good but I was hurrying through the meal because of the strong stench. It was unbearable. I am taking away two stars now even though the food was good.\n\nCleanliness comes first."
+      },
+      "details": {
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3enFXWUJBEAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIC7zqWYBA%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-15T19:37:31Z",
+      "iso_date_of_last_edit": "2024-08-15T19:37:31Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfzjhjWnRKocP3X3tAWCdXkI3UjAw8YuL25OiKuH0hpFf6M3eRjCaolTyhbbXYrE45hYpEu8duYsG_uVesaJg6yoTgt8zPolH25ybGhx1e_cz-SbnpMBhLv-Ehfe5BXK-K4oLRi6g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfv7Hl8NvECPfrQHyqnyDWn-3_zT1Zl8X6nzOcq3YmA1weMefxC28eXZmFxaQDgRMTiS4zEF-p5VPG4JFfH-jA7aZ913kfLJmxbt9GSU5AJCoAis806oMMIL3TPtIDvo2U9GQqL=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf-y0bUzSQ2Q5888aX1f0De1CSAbJHdOUe2XwDWVtjhcdjbqWJfRBE8fNAcGIL19QjQP8AvZjzdhtQIhE7BYrK09U_Z7x1XK-d7NfmRZOsgXGURRQvKEfAH5OAVLYfMh9I6reZsqQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcWq9UlDMwer_xoeV1i85SWmm0fcZ-HJ6zyN-5DxNZxZa5iUl4B__wKDW6uprPMrx08Ya6DzEgR3D0uFSMlevSQKhwZGQt8eT2zdm7bM1sYI6yeP7GtbYGfEjxeu7lGB4XgZfU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeSvKzpmDHj3pCVfBuSsBwhHq4L07AcjpCLqwCSmdTLMrNrtgeey7vxKM8HPO7XOsPfym0y9Min79-VmlCVMzyxvOTj6Owc-Xd4RDaSPK6QnxK0GatH4pbX04CxElMAL55IVbCrQQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcPJr4Lzyln8-DkKz9K5nzQAhscnJ1FcVLLfbtG8VNrLMwKmGpMiCoGZ5F5uramRA8jcRdXqLcxkFszI8jV6k2tOCI-Y7g44Vh05CaAsr3iBjxa2u6xEGo7x_2xCHRRtA3-ZGMa=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdNh5xVqkBR6FnXM4S-215NUbSbHgPUYMDn9aytXb_NsTTQ0YhUfv4SAl9Cml5nyua6VXO8tv9AXVneq416XM_WbXf9qdbHYizslTVFzOFePBD5MKv6YmlyRAiPkyommX9i1QfD=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3enFXWUJBEAE",
+      "user": {
+        "name": "Nithin Mohan",
+        "link": "https://www.google.com/maps/contrib/100512515203676182297?hl=en",
+        "contributor_id": "100512515203676182297",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU2mrhK8knzmUOJJAeXdDhRQHD1Ou9hetPxpFYacgAP-9X_Vvkcaw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 380,
+        "photos": 9688
+      },
+      "snippet": "The best veg hotel in that region, you don't have to look for another option if you're driving through here.\n\nThere's dedicated parking available for two wheelers and four wheelers. It's more than sufficient for even a large crowd.\n\nThere are also clean and hygienic toilet facilities are available for the customers.\n\nOnce we entered the hotel, it was very clean and organized. The food items are super delicious. Decent behaviour from the staff members.\n\nAlso one fruit and juice shop is available in the same compound.",
+      "extracted_snippet": {
+        "original": "The best veg hotel in that region, you don't have to look for another option if you're driving through here.\n\nThere's dedicated parking available for two wheelers and four wheelers. It's more than sufficient for even a large crowd.\n\nThere are also clean and hygienic toilet facilities are available for the customers.\n\nOnce we entered the hotel, it was very clean and organized. The food items are super delicious. Decent behaviour from the staff members.\n\nAlso one fruit and juice shop is available in the same compound."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 3
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOOXE2aUpnEAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICN9q6iJg%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-01-14T12:26:33Z",
+      "iso_date_of_last_edit": "2024-01-14T17:15:27Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLczT_5rTonMKBFWOmwr17XyvSwHLV2Dd4ebkRt9uOacX-U4fBwk2PO7cMS40dRrAKqxgD8L-kRVsFEtaeAw59Y71yJXej-odDA3mA2adFH4j9l-D9wpHa3H3A6yh09P1xrcE5OK7g=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOOXE2aUpnEAE",
+      "user": {
+        "name": "Abhay2007 Abhay",
+        "link": "https://www.google.com/maps/contrib/114463378481460878870?hl=en",
+        "contributor_id": "114463378481460878870",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUk1EzgMoL_xnrgr9jqvk6GtUmg8B5MWo7MbM1MvlTwydSLqT86=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 873,
+        "photos": 1937
+      },
+      "snippet": "Good for tea and snacks,has toilet facilities",
+      "extracted_snippet": {
+        "original": "Good for tea and snacks,has toilet facilities"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMxdDlHMUd3EAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIC1t9G1Gw%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-01-04T07:57:28Z",
+      "iso_date_of_last_edit": "2024-01-04T07:57:28Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxdDlHMUd3EAE",
+      "user": {
+        "name": "Manikant RSingh",
+        "link": "https://www.google.com/maps/contrib/110676283763542033916?hl=en",
+        "contributor_id": "110676283763542033916",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWo9G7uNiV2iqr_U7AEOlp79GuUiQ6O8IB9t9kqPWv7iAxMfJAigQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 185,
+        "photos": 27
+      },
+      "snippet": "Clean toilet and good stop for coffee on the highway.",
+      "extracted_snippet": {
+        "original": "Clean toilet and good stop for coffee on the highway."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNsanRfTnh3RRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICljt_NxwE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2023-11-18T14:18:38Z",
+      "iso_date_of_last_edit": "2023-11-18T14:18:38Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsanRfTnh3RRAB",
+      "user": {
+        "name": "I W Shaik",
+        "link": "https://www.google.com/maps/contrib/106433080610757025536?hl=en",
+        "contributor_id": "106433080610757025536",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUSfaRuU85LQ9KIXNu48569TVJPVqM4yb-B4EmTnJkb1zgrE1rD=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 165,
+        "photos": 189
+      },
+      "snippet": "This restaurant is very economical and hygienic, I always stop over while traveling from Bangalore to Hyderabad. One of the best restaurant to have breakfast. You just need to take a right turn from the signal and get there as it is located on the other side of the road. There is a good parking space and fruit stall present near parking. Good place for travellers as they can use the toilet facilities which is decent enough.\n\nThe service is slow as they do not have enough staff, however the food is decent enough and the place is worth a visit.",
+      "extracted_snippet": {
+        "original": "This restaurant is very economical and hygienic, I always stop over while traveling from Bangalore to Hyderabad. One of the best restaurant to have breakfast. You just need to take a right turn from the signal and get there as it is located on the other side of the road. There is a good parking space and fruit stall present near parking. Good place for travellers as they can use the toilet facilities which is decent enough.\n\nThe service is slow as they do not have enough staff, however the food is decent enough and the place is worth a visit."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 3,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURoaWZtQ2h3RRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDhifmChwE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-03-11T20:21:15Z",
+      "iso_date_of_last_edit": "2023-03-11T20:21:15Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoaWZtQ2h3RRAB",
+      "user": {
+        "name": "Rajdeep Biswas",
+        "link": "https://www.google.com/maps/contrib/104150145529623095017?hl=en",
+        "contributor_id": "104150145529623095017",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWQL9mDwzPRHfCu0o_IPFEIQ1NYUeTht5OGKNYNAJ8LGr18ZJTozw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 68,
+        "photos": 6
+      },
+      "snippet": "All 5. Even toilet also 5. Chai and onion pakoda and service very good.",
+      "extracted_snippet": {
+        "original": "All 5. Even toilet also 5. Chai and onion pakoda and service very good."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCcU1mVUNREAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDBqMfUCQ%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 years ago",
+      "iso_date": "2023-01-10T15:46:12Z",
+      "iso_date_of_last_edit": "2023-01-10T15:46:12Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcU1mVUNREAE",
+      "user": {
+        "name": "Shaik Shavali",
+        "link": "https://www.google.com/maps/contrib/112726184724238816523?hl=en",
+        "contributor_id": "112726184724238816523",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWMPEMEgWGB70sUtZP3HODI43McM3wjxswZwYXK-OshRUPSXN6V=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 165,
+        "photos": 169
+      },
+      "snippet": "Overall good spot for quick bite or a full meal. Breakfast, lunch, snacks and dinner is served here (Vegetarian - South Indian, North Indian and Chinese cuisine is available). There Is ample parking place. Well maintained and clean place. Toilet is a key thing especially on highways, people generally stop at hotels to mainly use toilet but here that seems to be a problem especially for the ladies toilet there is an attendant lady who demands money and if people don't give she keeps murmuring which is bad and my family was worried did not use it. They told me after leaving that place. Management should do something about this so that people are comfortable using the facilities provided by the hotel. Other than this the taste service and cost seems to be good.",
+      "extracted_snippet": {
+        "original": "Overall good spot for quick bite or a full meal. Breakfast, lunch, snacks and dinner is served here (Vegetarian - South Indian, North Indian and Chinese cuisine is available). There Is ample parking place. Well maintained and clean place. Toilet is a key thing especially on highways, people generally stop at hotels to mainly use toilet but here that seems to be a problem especially for the ladies toilet there is an attendant lady who demands money and if people don't give she keeps murmuring which is bad and my family was worried did not use it. They told me after leaving that place. Management should do something about this so that people are comfortable using the facilities provided by the hotel. Other than this the taste service and cost seems to be good."
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMyaWM2N25RRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIC2ic67nQE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "Edited 4 years ago",
+      "iso_date": "2022-04-24T05:50:43Z",
+      "iso_date_of_last_edit": "2022-05-05T12:26:25Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyaWM2N25RRRAB",
+      "user": {
+        "name": "Reyney",
+        "link": "https://www.google.com/maps/contrib/108332644975485914041?hl=en",
+        "contributor_id": "108332644975485914041",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVFHuh6d5ADBGjTjEEwKt3lA0YX3mUASx5L4NQkgdfrZTGujbT54w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 563,
+        "photos": 390
+      },
+      "snippet": "The rating is only for the food, everything was simply yummy. The seating is okay, more cleaning is required. Service with a smile and lot of parking space available. If you want to use the toilet, it's best to not stop here. The toilet was horrible and unusable, especially for women. Just 1 km ahead is Udupi Upchara, which is new and a much better option.",
+      "extracted_snippet": {
+        "original": "The rating is only for the food, everything was simply yummy. The seating is okay, more cleaning is required. Service with a smile and lot of parking space available. If you want to use the toilet, it's best to not stop here. The toilet was horrible and unusable, especially for women. Just 1 km ahead is Udupi Upchara, which is new and a much better option."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Other",
+        "price_per_person": "₹1–200"
+      },
+      "likes": 1
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5c29ydDdnRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICysort7gE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 years ago",
+      "iso_date": "2021-01-25T07:09:37Z",
+      "iso_date_of_last_edit": "2021-01-25T07:10:56Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5c29ydDdnRRAB",
+      "user": {
+        "name": "Trivedi Parsa",
+        "link": "https://www.google.com/maps/contrib/105593755032147986892?hl=en",
+        "contributor_id": "105593755032147986892",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXTlu_l8K4uPVMTGeMV6WLC7eDOn2Ttx2brR9WbvkFicA5jGIaeBQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 115,
+        "photos": 174
+      },
+      "snippet": "Food is clean and up to mark.\n\nStaff are well behaved.\nParking is available well.\nPrices are very high.\nToilet and hand wash are well maintained.",
+      "extracted_snippet": {
+        "original": "Food is clean and up to mark.\n\nStaff are well behaved.\nParking is available well.\nPrices are very high.\nToilet and hand wash are well maintained."
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5Z05UZzd3RRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICygNTg7wE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "5 years ago",
+      "iso_date": "2021-01-15T02:42:59Z",
+      "iso_date_of_last_edit": "2021-01-15T02:48:08Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5Z05UZzd3RRAB",
+      "user": {
+        "name": "sunilkumar lakshmisunilkumar",
+        "link": "https://www.google.com/maps/contrib/105356588706677986155?hl=en",
+        "contributor_id": "105356588706677986155",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIDNp5vQh-MXWynCxnBx7KzHmDTPQDon511hc1OXVqMN6uHI8w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 21,
+        "photos": 2
+      },
+      "snippet": "Nice food...But...Toilet & Handwash area ...wanted  improvement...",
+      "extracted_snippet": {
+        "original": "Nice food...But...Toilet & Handwash area ...wanted  improvement..."
+      },
+      "likes": 0
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNNbmN1THBnRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICMncuLpgE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "6 years ago",
+      "iso_date": "2019-12-01T15:48:42Z",
+      "iso_date_of_last_edit": "2019-12-01T15:48:42Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNbmN1THBnRRAB",
+      "user": {
+        "name": "Shankar Gopal",
+        "link": "https://www.google.com/maps/contrib/106408567456477412742?hl=en",
+        "contributor_id": "106408567456477412742",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKi8JsPcP80Dt_78wT82rJDxETZ_6XGE3TxPP0XUZpLR9lLkw=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Toilet is worst",
+      "extracted_snippet": {
+        "original": "Toilet is worst"
+      },
+      "likes": 0
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURVd29iVDlRRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDUwobT9QE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "7 years ago",
+      "iso_date": "2019-08-18T02:39:52Z",
+      "iso_date_of_last_edit": "2019-08-18T02:44:56Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVd29iVDlRRRAB",
+      "user": {
+        "name": "Sreekanth Vijay",
+        "link": "https://www.google.com/maps/contrib/101519237841286213213?hl=en",
+        "contributor_id": "101519237841286213213",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIkKgECHfsCN1EaMIRHQi4uSWfH_myyxkKQ53UBpNVeqoea_Dg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 52,
+        "photos": 191
+      },
+      "snippet": "Clean place..hygenic and tasty breakfast.. has toilet facility also",
+      "extracted_snippet": {
+        "original": "Clean place..hygenic and tasty breakfast.. has toilet facility also"
+      },
+      "likes": 0
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR3a3F2dkRnEAE!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDwkqvvDg%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "8 years ago",
+      "iso_date": "2018-10-23T05:01:38Z",
+      "iso_date_of_last_edit": "2018-10-23T05:02:35Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdWeqJyO2AjEqxgLradqcsmHQ-amNWFL0LiZ8YzctOTchNG3_cujFmUfkiEQtXHpJKzHAmALRV1pJ5aKQwv-1oUKmh6ueR3X9sfV0mM46Bgy8s0m8gcAgsP9LAVU6mQRuOLimuE2A=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeDVqi3KNCI52dSc9OFU3dN_HUy8-azopz1RzDok4lAbspQUs-3iLZQ6eCmwLPqs8_BV6Is0NIa_O3zchuY6VN-MO21WkiX-7e9vkv2SAR2jm8gMASA-fGtbWX_xRgau6ut4NNy=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3a3F2dkRnEAE",
+      "user": {
+        "name": "Hemkumar Gopalakrishnan",
+        "link": "https://www.google.com/maps/contrib/107196440121915192718?hl=en",
+        "contributor_id": "107196440121915192718",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLO-XdA0uzLIHw3oVsb1NPMf9-A47r2UHcOcS88tOwLq7919g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 171,
+        "photos": 1190
+      },
+      "snippet": "Good south Indian food with toilet facility on highway. Economical",
+      "extracted_snippet": {
+        "original": "Good south Indian food with toilet facility on highway. Economical"
+      },
+      "likes": 0
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURRbGFQOHpnRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDQlaP8zgE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "8 years ago",
+      "iso_date": "2018-10-07T13:56:33Z",
+      "iso_date_of_last_edit": "2018-10-07T14:02:00Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRbGFQOHpnRRAB",
+      "user": {
+        "name": "Kuttus",
+        "link": "https://www.google.com/maps/contrib/102094712327399256160?hl=en",
+        "contributor_id": "102094712327399256160",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJftlPZ4LPnLRvVsZORkuZf9OuNiABjgjCnYCI2anRCIOvmkg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 501,
+        "photos": 951
+      },
+      "snippet": "Good option for vegetarians\nNice meals..bit spicy as it's Andhra style restaurant\nJuice shop also available but outside the restaurant\nGents and ladies toilet available",
+      "extracted_snippet": {
+        "original": "Good option for vegetarians\nNice meals..bit spicy as it's Andhra style restaurant\nJuice shop also available but outside the restaurant\nGents and ladies toilet available"
+      },
+      "likes": 0
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN3d182VW5nRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgICww_6UngE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "8 years ago",
+      "iso_date": "2018-01-01T12:49:08Z",
+      "iso_date_of_last_edit": "2018-01-01T13:15:40Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3d182VW5nRRAB",
+      "user": {
+        "name": "Abhilash Janardhanan",
+        "link": "https://www.google.com/maps/contrib/113409477175680121180?hl=en",
+        "contributor_id": "113409477175680121180",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUbhsCzK9gi3yb9BJNOI23tQ8XEcz8VKVQpG6U61EQ8orVpNZlo=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 74,
+        "photos": 32
+      },
+      "snippet": "Good place for breakfast & juice.\n\nBreakfast main items were good but the sides (chutney etc) we're not that great.\n\nOffers a great parking space with the easiness in road accessibility. Apart from the restaurant, there is a juice shop (offers fruit juices and other snacks - which is excellent ), fruit shop, sweet corn stall etc.\n\nToilet is not neatly maintained. That's the only main concern I found (personal view).\n\nOverall, a good place for breakfast (Andhra style) with family & an excellent place for juice time.\n\nCheers!",
+      "extracted_snippet": {
+        "original": "Good place for breakfast & juice.\n\nBreakfast main items were good but the sides (chutney etc) we're not that great.\n\nOffers a great parking space with the easiness in road accessibility. Apart from the restaurant, there is a juice shop (offers fruit juices and other snacks - which is excellent ), fruit shop, sweet corn stall etc.\n\nToilet is not neatly maintained. That's the only main concern I found (personal view).\n\nOverall, a good place for breakfast (Andhra style) with family & an excellent place for juice time.\n\nCheers!"
+      },
+      "likes": 0
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURncVpHTGtRRRAB!2m1!1s0x0:0x45550c587033f0ac!3m1!1s2@1:CIHM0ogKEICAgIDgqZGLkQE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "8 years ago",
+      "iso_date": "2017-11-29T18:16:53Z",
+      "iso_date_of_last_edit": "2017-11-29T18:24:07Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncVpHTGtRRRAB",
+      "user": {
+        "name": "S Sathish Kumar",
+        "link": "https://www.google.com/maps/contrib/114954769191892950054?hl=en",
+        "contributor_id": "114954769191892950054",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVzjD5LrPnvFq2DbHhl4bdDxxEAAZWrOjloGBPm63dVLRC-3OBEoQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 81,
+        "photos": 617
+      },
+      "snippet": "situated on the bangalore-hyderabad highway, right at the chikballabur junction.\nFood priced moderately compared to other hotels on the same highway.\nBreakfast and lunch menu is typical darshini style. Average taste.\nGood if you want a brief stopover to grab some south Indian food.\nToilet not very clean but manageable.",
+      "extracted_snippet": {
+        "original": "situated on the bangalore-hyderabad highway, right at the chikballabur junction.\nFood priced moderately compared to other hotels on the same highway.\nBreakfast and lunch menu is typical darshini style. Average taste.\nGood if you want a brief stopover to grab some south Indian food.\nToilet not very clean but manageable."
+      },
+      "likes": 0
+    }
+  ]
+}

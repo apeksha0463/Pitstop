@@ -1,0 +1,25 @@
+{
+  "search_metadata": {
+    "id": "6ae30ea866900e0a26740f47",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/szaRZxjzxXkxHU2hXUj1Gvra62CJ9mgAa_Ud-uqKIDM/6ae30ea866900e0a26740f47.json",
+    "markdown_endpoint": "https://serpapi.com/searches/szaRZxjzxXkxHU2hXUj1Gvra62CJ9mgAa_Ud-uqKIDM/6ae30ea866900e0a26740f47.md",
+    "created_at": "2026-10-29 09:15:20 UTC",
+    "processed_at": "2026-10-29 09:15:20 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1fcd0ceaa3a3:0x920c3e619894eb14!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/szaRZxjzxXkxHU2hXUj1Gvra62CJ9mgAa_Ud-uqKIDM/6ae30ea866900e0a26740f47.html",
+    "prettify_html_file": "https://serpapi.com/searches/szaRZxjzxXkxHU2hXUj1Gvra62CJ9mgAa_Ud-uqKIDM/6ae30ea866900e0a26740f47.prettify",
+    "total_time_taken": 0.55
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1fcd0ceaa3a3:0x920c3e619894eb14",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "search_information": {
+    "reviews_results_state": "No reviews"
+  }
+}

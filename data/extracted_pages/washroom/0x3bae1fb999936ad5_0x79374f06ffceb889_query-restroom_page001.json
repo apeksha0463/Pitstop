@@ -1,0 +1,30 @@
+{
+  "data_id": "0x3bae1fb999936ad5:0x79374f06ffceb889",
+  "page": 1,
+  "review_filter": "query:restroom",
+  "has_next_page": false,
+  "reviews_on_page": 0,
+  "new_reviews": 0,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "search_information",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": "No reviews",
+    "reviews_in_response": 0,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": null,
+    "first_review_has_images": false,
+    "first_review_image_count": null,
+    "first_review_image_entry_types": null
+  },
+  "reviews": []
+}

@@ -1,0 +1,52 @@
+{
+  "search_metadata": {
+    "id": "6ae30dff2ed123831622db38",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6WJQZELuK_tjnuerAbVchfqZSibaHoLLs-mcP4FONBk/6ae30dff2ed123831622db38.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6WJQZELuK_tjnuerAbVchfqZSibaHoLLs-mcP4FONBk/6ae30dff2ed123831622db38.md",
+    "created_at": "2026-10-29 09:12:31 UTC",
+    "processed_at": "2026-10-29 09:12:31 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae199ebb434785:0x925928a22e4df686!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/6WJQZELuK_tjnuerAbVchfqZSibaHoLLs-mcP4FONBk/6ae30dff2ed123831622db38.html",
+    "prettify_html_file": "https://serpapi.com/searches/6WJQZELuK_tjnuerAbVchfqZSibaHoLLs-mcP4FONBk/6ae30dff2ed123831622db38.prettify",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae199ebb434785:0x925928a22e4df686",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNmNXRqUmRREAE!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CIHM0ogKEICAgICf5tjRdQ%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-28T16:29:16Z",
+      "iso_date_of_last_edit": "2024-12-28T16:29:16Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmNXRqUmRREAE",
+      "user": {
+        "name": "Sunita singh",
+        "link": "https://www.google.com/maps/contrib/106503882922766241321?hl=en",
+        "contributor_id": "106503882922766241321",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXJ_Y6elFuUK2fQtAMyC1zbWjKqGiaryTdm6LEuiLwZib5UWIOVkw=s120-c-rp-mo-br100",
+        "reviews": 9,
+        "photos": 17
+      },
+      "snippet": "Very disappointed after visiting this place. Very overpriced, unhygienic, half cooked food, untidy bathroom.. if you want to spoil your time n money then definitely visit this place.. n hope this feedback help them to improve the service n not only fooling the people to just charge high prices with worst service.",
+      "extracted_snippet": {
+        "original": "Very disappointed after visiting this place. Very overpriced, unhygienic, half cooked food, untidy bathroom.. if you want to spoil your time n money then definitely visit this place.. n hope this feedback help them to improve the service n not only fooling the people to just charge high prices with worst service."
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    }
+  ]
+}

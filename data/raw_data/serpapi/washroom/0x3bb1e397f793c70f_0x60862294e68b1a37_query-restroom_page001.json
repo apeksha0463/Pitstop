@@ -1,0 +1,65 @@
+{
+  "search_metadata": {
+    "id": "6ae30f9f1f56fac23a28b55f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/iC1UdILfRknabQmAix6rgtw9n_SQ6FOwV2pVHdjpY18/6ae30f9f1f56fac23a28b55f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/iC1UdILfRknabQmAix6rgtw9n_SQ6FOwV2pVHdjpY18/6ae30f9f1f56fac23a28b55f.md",
+    "created_at": "2026-10-29 09:19:28 UTC",
+    "processed_at": "2026-10-29 09:19:28 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e397f793c70f:0x60862294e68b1a37!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/iC1UdILfRknabQmAix6rgtw9n_SQ6FOwV2pVHdjpY18/6ae30f9f1f56fac23a28b55f.html",
+    "prettify_html_file": "https://serpapi.com/searches/iC1UdILfRknabQmAix6rgtw9n_SQ6FOwV2pVHdjpY18/6ae30f9f1f56fac23a28b55f.prettify",
+    "total_time_taken": 0.47
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e397f793c70f:0x60862294e68b1a37",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSVE5FbHRkazVTWm1WbWN6RXlNblZSWDNkWGFXYxAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOlRTNEltdk5SZmVmczEyMnVRX3dXaWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "11 months ago",
+      "iso_date": "2025-11-12T02:13:09Z",
+      "iso_date_of_last_edit": "2025-11-12T02:13:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVE5FbHRkazVTWm1WbWN6RXlNblZSWDNkWGFXYxAB",
+      "user": {
+        "name": "Prabhakar Vijendar",
+        "link": "https://www.google.com/maps/contrib/104391808779644271251?hl=en",
+        "contributor_id": "104391808779644271251",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVJToRe_G7HmTYkcUzkrYIHdq_VYpTHzbO9Ypcabl_jNKBfEPJJQw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 72,
+        "photos": 21
+      },
+      "snippet": "We ordered both Veg and non veg. We took parcel home. We expected tasty n good food but it was not tasty. In veg we took pulao but was stale food. We had been on trip and returned on this way and it was disappointed. Non veg was fresh and ok to eat. The restroom was in bad condition.",
+      "extracted_snippet": {
+        "original": "We ordered both Veg and non veg. We took parcel home. We expected tasty n good food but it was not tasty. In veg we took pulao but was stale food. We had been on trip and returned on this way and it was disappointed. Non veg was fresh and ok to eat. The restroom was in bad condition."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 2,
+        "atmosphere": 2,
+        "group_size": "3-4 people"
+      },
+      "likes": 0,
+      "response": {
+        "date": "11 months ago",
+        "iso_date": "2025-11-12T04:40:10Z",
+        "iso_date_of_last_edit": "2025-11-12T04:40:10Z",
+        "snippet": "Dear Guest,\nThank you for sharing your feedback. We sincerely apologize for your experience. We assure you that we maintain food quality and hygiene standards at all times. We’re sorry to hear that the veg pulao didn’t meet expectations — we’ll look into it immediately to ensure freshness is never compromised. We also take your note about the restroom seriously and have already addressed the issue. We hope you’ll give us another chance to serve you better on your next visit. 🙏\n\n— Team Devanahalli Gowdru Restaurant",
+        "extracted_snippet": {
+          "original": "Dear Guest,\nThank you for sharing your feedback. We sincerely apologize for your experience. We assure you that we maintain food quality and hygiene standards at all times. We’re sorry to hear that the veg pulao didn’t meet expectations — we’ll look into it immediately to ensure freshness is never compromised. We also take your note about the restroom seriously and have already addressed the issue. We hope you’ll give us another chance to serve you better on your next visit. 🙏\n\n— Team Devanahalli Gowdru Restaurant"
+        }
+      }
+    }
+  ]
+}

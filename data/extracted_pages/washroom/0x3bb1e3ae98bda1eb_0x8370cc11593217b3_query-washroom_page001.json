@@ -1,0 +1,89 @@
+{
+  "data_id": "0x3bb1e3ae98bda1eb:0x8370cc11593217b3",
+  "page": 1,
+  "review_filter": "query:washroom",
+  "has_next_page": false,
+  "reviews_on_page": 4,
+  "new_reviews": 4,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 4,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "response",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeVlXOTZPVlY2VEVsS2IwZEpVMDk0VFVScGFIYxAB",
+      "author": "Mahesh",
+      "rating": 5.0,
+      "date": "a day ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prdFJEbE9kbTVTV2tNeExUQkxUVGRDV1hreWJIYxAB",
+      "author": "Binod Nayak",
+      "rating": 5.0,
+      "date": "a day ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMVoyTkNRbE00TlUxRldtNW5hV1p1ZVhWS2JGRRAB",
+      "author": "Nitish Kumar",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB",
+      "author": "spoorthi Sajjan",
+      "rating": 1.0,
+      "date": "10 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxuCPaZq8UmlwunuMsh5NEJM2xrg8d4uqqCVJHHKoFabrTIbNEe8ftR39-PoNJbL3tVOdW7MtXtkqC-tjUi1r9tEkz_TWvDydhFzC4Sp8fZ29Z0gOg4_6DhkmjlWML1jmsjG2JoiEkKrQ7=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZnjLUxGRFB6I0hFY-bgxcx9i9Fu52e1-mHAu9KhSCXogjPkB3ZWNakytX1Xg38Ehysczy9ZE2dAMuUvk5YjlKZguUM9Tmy806JT-L6h6bmL88ClNKY5-l7y4LpDULEz5IE-DZGkU2dd1Y=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    }
+  ]
+}

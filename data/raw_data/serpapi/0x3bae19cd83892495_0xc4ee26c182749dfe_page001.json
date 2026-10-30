@@ -1,0 +1,449 @@
+{
+  "search_metadata": {
+    "id": "6ae2d0b1a6cfac3cc76eb45d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/N1jfKF268d_Ooxug-vdGSewsVPFd_cnw7DZPi2JOpVI/6ae2d0b1a6cfac3cc76eb45d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/N1jfKF268d_Ooxug-vdGSewsVPFd_cnw7DZPi2JOpVI/6ae2d0b1a6cfac3cc76eb45d.md",
+    "created_at": "2026-10-29 04:50:57 UTC",
+    "processed_at": "2026-10-29 04:50:57 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19cd83892495:0xc4ee26c182749dfe!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/N1jfKF268d_Ooxug-vdGSewsVPFd_cnw7DZPi2JOpVI/6ae2d0b1a6cfac3cc76eb45d.html",
+    "prettify_html_file": "https://serpapi.com/searches/N1jfKF268d_Ooxug-vdGSewsVPFd_cnw7DZPi2JOpVI/6ae2d0b1a6cfac3cc76eb45d.prettify",
+    "total_time_taken": 3.57
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19cd83892495:0xc4ee26c182749dfe",
+    "hl": "en",
+    "sort_by": "qualityScore"
+  },
+  "place_info": {
+    "title": "The Food Factory",
+    "address": "International Airport Road, Allalasandra, Yelahanka, Bengaluru, Karnataka 560065, India",
+    "rating": 4.4,
+    "reviews": 3193,
+    "type": "Eclectic restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "biriyani",
+      "mentions": 46,
+      "id": "Ig9qVSlrRys"
+    },
+    {
+      "keyword": "subbu",
+      "mentions": 12,
+      "id": "Rwau8nwyAus"
+    },
+    {
+      "keyword": "crispy corn",
+      "mentions": 7,
+      "id": "ApaVv8g7jG4"
+    },
+    {
+      "keyword": "polite staff",
+      "mentions": 47,
+      "id": "B30PdHtYgDQ"
+    },
+    {
+      "keyword": "chicken sukka",
+      "mentions": 3,
+      "id": "HDb0eU67q4E"
+    },
+    {
+      "keyword": "veg food",
+      "mentions": 21,
+      "id": "AY3D0axIfCA"
+    },
+    {
+      "keyword": "mutton fry",
+      "mentions": 2,
+      "id": "oRzcluznLXs"
+    },
+    {
+      "keyword": "chicken lolipop",
+      "mentions": 2,
+      "id": "EAPQQVGjo9U"
+    },
+    {
+      "keyword": "crowded",
+      "mentions": 22,
+      "id": "D3fEklF_iHg"
+    },
+    {
+      "keyword": "family friendly",
+      "mentions": 14,
+      "id": "FIjjlpKO9Lg"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxTFlrdGxhRjlUVkhoR01VWmljM2d3WWtkV2QwRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOk1LYktlaF9TVHhGMUZic3gwYkdWd0E%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-25T13:08:08Z",
+      "iso_date_of_last_edit": "2026-04-25T13:08:08Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdbWATvz_A2AEMwLVI3PyWNFXdbcJ4DaY6U0xbqmzl4-hOXPlNZqOZ-Hc97judUflu5Okkh7dHMLjUYuTc24PqlU0qAFLGXkB00AToyMrbaGOMEbaAa2eQ6RsGcsDz582c9ysAvnSkndaIL=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf5rQqmjFRe4QL3mmpI6s3M0j9ZuYwEnppBPaoBud4CZPVk3xO1nLkfDr89RVEcXkVDn1gfqAG9a1wMOEXomiiZY2cZIvNkI1KCplltQJLlub8b8F8ggrjyWpJwBZ8T-kpSTdXVUH0672yN=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLceZExzWKp_VMo7ontERaWFH5KBEFbka1SCJNIt3uWIdvuo_46fSEUDaEgumjZNURJ_2a2s-N9CxNlJMRLwEfUbO9PtNolRwDO_WCMcQHVzQVcHyXDMzCuVlluAl4_iawUiCY_PqIGT0jHZ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTFlrdGxhRjlUVkhoR01VWmljM2d3WWtkV2QwRRAB",
+      "user": {
+        "name": "Pradeep Patil",
+        "link": "https://www.google.com/maps/contrib/111859952007798744723?hl=en",
+        "contributor_id": "111859952007798744723",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXawOnQJeQ5YGifAwl9W2ZhUY-aetMJM6AFHuOAXCKQ1onnHKhHbg=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 3
+      },
+      "snippet": "After repeated intimation also, food (almost all food was salt less) was without salt and spice, we ordered biriyani rice with extra spicy (which was not at all spicy) when we asked about this, the waiter ( Mr. Ravi) was arrogant on us, saying that \"No one is complaining about salt and spice, and shouting on his assistant 'Hogo double spicy maduskoba' for our second order of tomato rice, which was really more spicy, we left without eating that rice  and we asked waiter to taste the same and he tasted it and admitted about spicy\"\nAnd we are not for the first time for this place...",
+      "extracted_snippet": {
+        "original": "After repeated intimation also, food (almost all food was salt less) was without salt and spice, we ordered biriyani rice with extra spicy (which was not at all spicy) when we asked about this, the waiter ( Mr. Ravi) was arrogant on us, saying that \"No one is complaining about salt and spice, and shouting on his assistant 'Hogo double spicy maduskoba' for our second order of tomato rice, which was really more spicy, we left without eating that rice  and we asked waiter to taste the same and he tasted it and admitted about spicy\"\nAnd we are not for the first time for this place..."
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxQk1rbzVkRU5EVFZSSlVIbFhkSGxxU0RaTWRuYxAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOi1BMko5dENDTVRJUHlXdHlqSDZMdnc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-22T02:00:10Z",
+      "iso_date_of_last_edit": "2026-06-22T02:00:10Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe8W0kSDBdufShAyGQITLmF5U58GNxgg0JjyvUKOenD60ni655N095vheS-XlbxwC4gP_Z6ad0o73Np4uMtK8IXGl47fDI7kTR7bLp32oSCk-5ZdGwBEJqFNniJB8rFnPUQyDBnAZ5XZ73u=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLetGZzt3dFMyLofR3MT4dtSe4gmi4FqupunP_RQx0IxRNfm2xYLJYoRsc5kDuP1l_K5z13GmcwVvF_LRyYlpNMdIiRPOX1WNKkaJNEwFFZJ_u7mfwA0mSdt97L6lwtDNnsNJ7MdJtQZW6wp=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLebX4dnP0tibA3r4Hkdyn7LsiVFjFW9vWOtT242SUyq2ZOoSWaEusPkshL9_Id22ofddYrmKcvkIXIdxa2eOkhDMya1QTu2E1coKC3kXNlUBQeW1T5WwuDmOWIkwdBtVRegVakZqWr2fp0=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxQk1rbzVkRU5EVFZSSlVIbFhkSGxxU0RaTWRuYxAB",
+      "user": {
+        "name": "Nandan N",
+        "link": "https://www.google.com/maps/contrib/115575788565888505056?hl=en",
+        "contributor_id": "115575788565888505056",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXr2ROKWQxnHlheiY8DMxT1-PzSmLK8ZZFIr5nJj4ANdSLGI6A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 13,
+        "photos": 31
+      },
+      "snippet": "great food,great staff,both veg and nonveg options were good but there could have been more desert options.",
+      "extracted_snippet": {
+        "original": "great food,great staff,both veg and nonveg options were good but there could have been more desert options."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Vegetarian menu or section"
+      },
+      "likes": 1
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xZmRsOXpNM0EyUzNSb1JGSlhMVGREVEZOZmNFRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOm1fdl9zM3A2S3RoRFJXLTdDTFNfcEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-23T03:20:02Z",
+      "iso_date_of_last_edit": "2026-06-23T03:20:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xZmRsOXpNM0EyUzNSb1JGSlhMVGREVEZOZmNFRRAB",
+      "user": {
+        "name": "Nithin Kumaran",
+        "link": "https://www.google.com/maps/contrib/108355190696813116984?hl=en",
+        "contributor_id": "108355190696813116984",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWSR4bO4YM_ruxXcSnlDMDGbSMGmYaHt5UrjtKu4tRQj-l_BvXH=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 1
+      },
+      "snippet": "I recently dined at Food Factory, and it was an absolutely fantastic experience from start to finish.\nThe Food: The food quality is top-notch. Every dish was prepared to perfection, bursting with authentic flavours and freshness. The taste truly exceeded my expectations, making it a highly memorable meal.\nThe Service, What made the visit even more special was the exceptional service. A huge shoutout to Manjunath from the kitchen staff! He went above and beyond to ensure our meal was perfect. His attentiveness, warm hospitality, and dedication to customer satisfaction were highly impressive.\nI will definitely be returning soon. Highly recommended for anyone looking for incredible food and stellar service!",
+      "extracted_snippet": {
+        "original": "I recently dined at Food Factory, and it was an absolutely fantastic experience from start to finish.\nThe Food: The food quality is top-notch. Every dish was prepared to perfection, bursting with authentic flavours and freshness. The taste truly exceeded my expectations, making it a highly memorable meal.\nThe Service, What made the visit even more special was the exceptional service. A huge shoutout to Manjunath from the kitchen staff! He went above and beyond to ensure our meal was perfect. His attentiveness, warm hospitality, and dedication to customer satisfaction were highly impressive.\nI will definitely be returning soon. Highly recommended for anyone looking for incredible food and stellar service!"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pFelNYQm5kRTUzTFZabWJGTmlXRVpYZW05VlRFRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOjEzSXBndE53LVZmbFNiWEZXem9VTEE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "iso_date": "2026-04-29T16:18:10Z",
+      "iso_date_of_last_edit": "2026-04-29T16:18:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFelNYQm5kRTUzTFZabWJGTmlXRVpYZW05VlRFRRAB",
+      "user": {
+        "name": "Siva Naik",
+        "link": "https://www.google.com/maps/contrib/103886058562391333627?hl=en",
+        "contributor_id": "103886058562391333627",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUb4C-O7y-GZu03QCNhxieCHS-iB4YyWCOlriZnyB29NO4A3Qe2=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 52,
+        "photos": 1
+      },
+      "snippet": "Recently, we visited this Food Factory along with my office colleagues for a retirement outing party. It offers a great dining experience with a wide variety of both vegetarian and non-vegetarian dishes. We tried both, along with drinks, and found the food to be tasty, fresh, and well-prepared. However, we received some feedback that the fish dishes were not up to expectations. The service was prompt, and the staff were friendly and attentive. Overall, it’s a nice place for everyone to enjoy a satisfying meal.",
+      "extracted_snippet": {
+        "original": "Recently, we visited this Food Factory along with my office colleagues for a retirement outing party. It offers a great dining experience with a wide variety of both vegetarian and non-vegetarian dishes. We tried both, along with drinks, and found the food to be tasty, fresh, and well-prepared. However, we received some feedback that the fish dishes were not up to expectations. The service was prompt, and the staff were friendly and attentive. Overall, it’s a nice place for everyone to enjoy a satisfying meal."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,000–1,200",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 3,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "parking_space": "Somewhat difficult to find parking"
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-18T15:35:59Z",
+        "iso_date_of_last_edit": "2026-05-18T15:35:59Z",
+        "snippet": "\"Hi Mr. Siva Naik, Thank you for the honest feedback! We’re delighted you enjoyed the atmosphere and our staff. We also appreciate your note about specific Fish dish items didn't meet your expectations. We are always looking to improve, and your thoughts help us do just that. We hope to give you an even better experience on your next visit.\"",
+        "extracted_snippet": {
+          "original": "\"Hi Mr. Siva Naik, Thank you for the honest feedback! We’re delighted you enjoyed the atmosphere and our staff. We also appreciate your note about specific Fish dish items didn't meet your expectations. We are always looking to improve, and your thoughts help us do just that. We hope to give you an even better experience on your next visit.\""
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KUmMxaFpZVTl6VFdONFQxRTFOM2g1WlRVelUzYxAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOmJRc1hZYU9zTWN4T1E1N3h5ZTUzU3c%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-06T11:55:47Z",
+      "iso_date_of_last_edit": "2026-06-06T11:55:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUmMxaFpZVTl6VFdONFQxRTFOM2g1WlRVelUzYxAB",
+      "user": {
+        "name": "DEEPA PATIL",
+        "link": "https://www.google.com/maps/contrib/115527389985217251024?hl=en",
+        "contributor_id": "115527389985217251024",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKZNklSFI0DZ7Hslb3lqxzsMbEAaadpSm5GvzMLI_Riyq0CDw=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 2
+      },
+      "snippet": "Just 1hr back we are listed to food factory\nWe have given our car for valet service infact parking lot people of food factory boys took key and took car for valet and after we had lunch we back and asked car the valet service boy one who took he returned car and we checked car inside in our dashboard we kept for emergency 50000rs since we are traveling out of city\nIn that 15500rs missing\n\nWe immediately noticed in parking lot and met owner and valets service boys\n\nBut owner telling that he given valet service to agency\n\nSo if the valet boys do any theft or do any criminal activities with public guest who visit restaurants is that guest mistek to come ?\n\nIs that restaurant not having valet means and if he doesn't take responsibility and run the hotel how much he give good service and safety to guest ?\n\nIs they are doing earning money in this way also means how ? Is guest fools ? To come ? Food factory is not responsible for parking ? Then why the hell appointed valet service ?\n\nThey should have mentioned its owners risk of parking and belongs\n\nIts cheating\nPublic be aware of this kind of restaurants and valets service people\n\nPublic safety and security important\nAll Public be aware of this kind of places",
+      "extracted_snippet": {
+        "original": "Just 1hr back we are listed to food factory\nWe have given our car for valet service infact parking lot people of food factory boys took key and took car for valet and after we had lunch we back and asked car the valet service boy one who took he returned car and we checked car inside in our dashboard we kept for emergency 50000rs since we are traveling out of city\nIn that 15500rs missing\n\nWe immediately noticed in parking lot and met owner and valets service boys\n\nBut owner telling that he given valet service to agency\n\nSo if the valet boys do any theft or do any criminal activities with public guest who visit restaurants is that guest mistek to come ?\n\nIs that restaurant not having valet means and if he doesn't take responsibility and run the hotel how much he give good service and safety to guest ?\n\nIs they are doing earning money in this way also means how ? Is guest fools ? To come ? Food factory is not responsible for parking ? Then why the hell appointed valet service ?\n\nThey should have mentioned its owners risk of parking and belongs\n\nIts cheating\nPublic be aware of this kind of restaurants and valets service people\n\nPublic safety and security important\nAll Public be aware of this kind of places"
+      },
+      "details": {
+        "food": 4,
+        "service": 2,
+        "atmosphere": 3
+      },
+      "likes": 0,
+      "response": {
+        "date": "4 months ago",
+        "iso_date": "2026-06-19T04:38:19Z",
+        "iso_date_of_last_edit": "2026-06-19T04:38:19Z",
+        "snippet": "We are sorry to hear about your experience and understand your concern regarding the missing cash. The safety and trust of our guests are extremely important to us.\n\nWe would like to clarify that the valet parking service is operated by an independent third-party agency.\nHowever, we take all customer concerns seriously and do not dismiss any complaint related to services provided on our premises.\n\n* As soon as the matter was brought to our attention, we cooperated with you and informed the Local jurisdiction Police station as well as valet agency so that a proper investigation could be conducted. \n* You were very confused and misinterpreted twice by saying the lost money was Rs.8,000 and then again you changed it by saying Rs. 15,500.\n* But still we valued your time and money and contacted the police to arrive at our restaurant.\n* They did arrive but you were not ready to explain and co-operate with the police officer. You just left suddenly in car without proper intimation or anything.\n\nSo this is where the doubt arises as well as confusion builds up.\n\nMaking Allegations is simple, but one has to STAND FOR the words spoken.\n\n\nWe value all our guests and are committed to maintaining a safe and pleasant experience for everyone.",
+        "extracted_snippet": {
+          "original": "We are sorry to hear about your experience and understand your concern regarding the missing cash. The safety and trust of our guests are extremely important to us.\n\nWe would like to clarify that the valet parking service is operated by an independent third-party agency.\nHowever, we take all customer concerns seriously and do not dismiss any complaint related to services provided on our premises.\n\n* As soon as the matter was brought to our attention, we cooperated with you and informed the Local jurisdiction Police station as well as valet agency so that a proper investigation could be conducted. \n* You were very confused and misinterpreted twice by saying the lost money was Rs.8,000 and then again you changed it by saying Rs. 15,500.\n* But still we valued your time and money and contacted the police to arrive at our restaurant.\n* They did arrive but you were not ready to explain and co-operate with the police officer. You just left suddenly in car without proper intimation or anything.\n\nSo this is where the doubt arises as well as confusion builds up.\n\nMaking Allegations is simple, but one has to STAND FOR the words spoken.\n\n\nWe value all our guests and are committed to maintaining a safe and pleasant experience for everyone."
+        }
+      }
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OQlYzWnNkelUyYlRWRmJtTXhja05WTUUxeGEzYxAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOnNBV3ZsdzU2bTVFbmMxckNVME1xa3c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-11T06:39:43Z",
+      "iso_date_of_last_edit": "2025-09-11T06:39:43Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfWIovJSgFiNb7XtEFTKI-ZpK6q8EGgCNOcjrT8s781rbtTMTmos6Fo4D-9Ji-yPr-kvCP2pDzhlg2btT5MYzsvuCyLFVm2vARYJg6Sgy3e6Si-v-y8bfhM_bYUrbU5aHYtMIomx__Oyags=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfnfgEPlIWKFpca-fUE1MpiNDBsQUgxChTEcvgBhzpXx0tm7mreXHJjCEnVI9pFwSkCosdxO2C3Pa3cPd8Gqt2Kofi_oG32rbY0xOeyRa6hSgSAEMOkKDY_Qdy8AkIWXkm2BEzazNFiITR2=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeS3ZyXdMA0EYbROVFQ37QLLY214KFUhm6KCG7baMcmlClNA0Ir5WosbjvBIYyoNjJTRfxyCjBIwF6vahFfGKPusDIwEGp9qAbb3G4ZZjO5PXSHDRuW7t-qUrqvt2T4u4veVDeXPWxV_zE6=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdILU9PnfDfz3Bx06huxNyUu0jaMYhp2Jg92t_zapH3J6A0QaA-EtbtuQU5CM-aY8qJYpJVh-dNR95q1Lw4QjBDTvfSABKi3OS7gV_iBw67ZKKoTAQWSwiKTNZWhZYcf3xYC0ptLpbC_mW8=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OQlYzWnNkelUyYlRWRmJtTXhja05WTUUxeGEzYxAB",
+      "user": {
+        "name": "Anilgowda",
+        "link": "https://www.google.com/maps/contrib/100200467197181824195?hl=en",
+        "contributor_id": "100200467197181824195",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLFCIV5Y09HqgSzw8k4NIyDYv3RhnHwo5pWorIp1TGnTaWw6Q=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 192,
+        "photos": 477
+      },
+      "snippet": "The Food Factory serves delicious food with rich flavors and generous portions. Right from the entry, valet parking and the staff’s warm welcome make a great first impression. The place offers plenty of seating options — ground floor huts, an open space on the first floor, and a cozy AC cabin at the top. The ambience is very pleasant, and the service is quick with staff who are friendly and attentive. It’s a great spot to hang out with friends and family. Prices are slightly on the higher side, but the  and quality of the food make it worth it. Recommended to  Try  mutton nati fry , prawns butter garlic very tasty,  nachos,  crispy corn,  potato chicken chili,  kasthuri paneer,  mutton biryani,",
+      "extracted_snippet": {
+        "original": "The Food Factory serves delicious food with rich flavors and generous portions. Right from the entry, valet parking and the staff’s warm welcome make a great first impression. The place offers plenty of seating options — ground floor huts, an open space on the first floor, and a cozy AC cabin at the top. The ambience is very pleasant, and the service is quick with staff who are friendly and attentive. It’s a great spot to hang out with friends and family. Prices are slightly on the higher side, but the  and quality of the food make it worth it. Recommended to  Try  mutton nati fry , prawns butter garlic very tasty,  nachos,  crispy corn,  potato chicken chili,  kasthuri paneer,  mutton biryani,"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,400–1,600",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "noise_level": "Moderate noise",
+        "group_size": "9+ people, Suitable for all group sizes"
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-24T10:32:17Z",
+        "iso_date_of_last_edit": "2026-05-24T10:32:17Z",
+        "snippet": "Thank you for leaving us a 4-star rating, Mr. Anil Gowda. We're so glad you had a great experience in our The Food Factory. If there is anything we can do to make your next visit an absolute 5-star experience, please let us know. We look forward to seeing you again!",
+        "extracted_snippet": {
+          "original": "Thank you for leaving us a 4-star rating, Mr. Anil Gowda. We're so glad you had a great experience in our The Food Factory. If there is anything we can do to make your next visit an absolute 5-star experience, please let us know. We look forward to seeing you again!"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KTWNEVlFNMk5yU1dwVll6RTRNMlpCV25ScFRGRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOnJMcDVQM2NrSWpVYzE4M2ZBWnRpTFE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-12T12:35:58Z",
+      "iso_date_of_last_edit": "2026-07-12T12:38:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTWNEVlFNMk5yU1dwVll6RTRNMlpCV25ScFRGRRAB",
+      "user": {
+        "name": "karthikeyan ponnusamy",
+        "link": "https://www.google.com/maps/contrib/108602687769234687084?hl=en",
+        "contributor_id": "108602687769234687084",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL7ShX2-9Fhu_MsaR75bk6mQYyoJV4ddmcEM_b7opWWKufdnQ=s120-c-rp-mo-br100",
+        "reviews": 9,
+        "photos": 1
+      },
+      "snippet": "Food factory in  aerodrome in Bangalore.I would not even give this place one star. The food quality was very poor, and the overall experience was disappointing.\n\nThe environment was noisy, with many people smoking and drinking, making it unsuitable for families. The chicken that was served was hard, had an unpleasant smell, and appeared to be made from old or stale meat.\n\nThe prices are quite high considering the poor food quality and overall experience. I would not recommend this place, especially for families looking for a comfortable dining experience.",
+      "extracted_snippet": {
+        "original": "Food factory in  aerodrome in Bangalore.I would not even give this place one star. The food quality was very poor, and the overall experience was disappointing.\n\nThe environment was noisy, with many people smoking and drinking, making it unsuitable for families. The chicken that was served was hard, had an unpleasant smell, and appeared to be made from old or stale meat.\n\nThe prices are quite high considering the poor food quality and overall experience. I would not recommend this place, especially for families looking for a comfortable dining experience."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "noise_level": "Very loud, hard to hear",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Would not recommend",
+        "vegetarian_offerings": "Not sure"
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5S1RHWk1kalYyYkV0UlZVMUdMV1ZyUWpJM1YzYxAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOk9KTGZMdjV2bEtRVU1GLWVrQjI3V3c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-18T14:38:00Z",
+      "iso_date_of_last_edit": "2026-07-18T14:38:00Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5S1RHWk1kalYyYkV0UlZVMUdMV1ZyUWpJM1YzYxAB",
+      "user": {
+        "name": "Sasidharan Ncharakottil",
+        "link": "https://www.google.com/maps/contrib/107279479265071028512?hl=en",
+        "contributor_id": "107279479265071028512",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUu7UUciiykXZzNfUc9wWvdX6I8s0ong5Y6mTWmiaCpQmU84g21=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 398,
+        "photos": 151
+      },
+      "snippet": "Food factory located close to  Hebbal Airport road near Yelahanka. The atmosphere is average, Those who favour to have privacy can opt to occupy huts. Generally foods both Veg and Non veg are ok. Starters and snacks for liquers also provided. Those who carry liquer from out side mayhave to pay extra charges.  Suppliers may ask extra tips  for their service.",
+      "extracted_snippet": {
+        "original": "Food factory located close to  Hebbal Airport road near Yelahanka. The atmosphere is average, Those who favour to have privacy can opt to occupy huts. Generally foods both Veg and Non veg are ok. Starters and snacks for liquers also provided. Those who carry liquer from out side mayhave to pay extra charges.  Suppliers may ask extra tips  for their service."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes"
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOUU9WQjBWbFYxUldsQ04zSmpMWEJXTVV4UFdrRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOkNQOVB0VlV1RWlCN3JjLXBWMUxPWkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-22T18:07:21Z",
+      "iso_date_of_last_edit": "2026-06-22T18:07:21Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUU9WQjBWbFYxUldsQ04zSmpMWEJXTVV4UFdrRRAB",
+      "user": {
+        "name": "Avinash Shetty",
+        "link": "https://www.google.com/maps/contrib/106798630422775918870?hl=en",
+        "contributor_id": "106798630422775918870",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLnftSthXHv6XBKyN9DklU-1sknTW2AV3NTj_2Z3Nd7-gPOeQ=s120-c-rp-mo-br100",
+        "reviews": 8,
+        "photos": 2
+      },
+      "snippet": "We used to like the food at Food Factory, Jakkur… but once we met *Manjunath*, we started _loving_ it.\n\nHe’s incredibly patient, listens to what we like, and always recommends the best dishes for our taste. Even when the place is packed, he makes sure the service is perfect — refills, timing, everything.\n\nMore than anything, Manju is genuinely kind and a great human being. He’s certainly an asset to Food Factory near Jakkur. Because of him, this is now our go-to spot. Thank you, Manju! ⭐⭐⭐⭐⭐",
+      "extracted_snippet": {
+        "original": "We used to like the food at Food Factory, Jakkur… but once we met *Manjunath*, we started _loving_ it.\n\nHe’s incredibly patient, listens to what we like, and always recommends the best dishes for our taste. Even when the place is packed, he makes sure the service is perfect — refills, timing, everything.\n\nMore than anything, Manju is genuinely kind and a great human being. He’s certainly an asset to Food Factory near Jakkur. Because of him, this is now our go-to spot. Thank you, Manju! ⭐⭐⭐⭐⭐"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes"
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2NjhhemVREAE!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CIHM0ogKEICAgIDv68azeQ%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited a year ago",
+      "iso_date": "2024-12-24T07:34:18Z",
+      "iso_date_of_last_edit": "2024-12-31T10:58:55Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeh_-7514f8RQ7ysr1oSbBauuSHzF4ymXK-FhJX9xXgRDstfNSYZlX0JBuHKP8tVGvUhbPsoPaCxHOIeqO2bytDwZ4gbQGtifGJ1aElG6u_HqQ9YuRez1XCLomcl2A06dOzri9mbQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdwRDqqmLKskfB8Glc-0jC4K_AfrJkBi9c5kTuFfBBL1NBU15ZMDvsE65F-uIA3X8DBM9z2JibYwRJbPQlz4G7fKfARcKvg8zt3Z0wt5LXJM_KCyTgsmcDptYCaUSdUAQW0xi4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfJyUKzvZ3dacVI2aOKC9qVJ0Z2D8hVtuCBqx7085WlWzD11G_tV-nLR3v2WaHae3g1olYOBfTmvkH9AhVZsLFjs5kxEngr8Ok4KPHc5m3s_BbddZfrDxhUsKlpschrH-ESsvtGaw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcsIBboOwqbUQWyPxwT7xZlBFfizRLrqF7dTXLdd6lHzY45T2EzyYhenxZcW2OPFymy1lqDuQi9khsb8xYD4EzI8dIx-QVXxfs_y1y43qCpH6DgX1f_1ytQ05mCXmiTDn8bfds2=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdVgydJKXQDKCKsG-U01MxuKrjGYUeRLAmWf_UcpZQIeJgvBTR21quzaqi99C2zC7ugIEP-UjrNAJoE2ys3MEv6Vy_rwl1A2uq3r7rMYNvxznUlx72XqugpNRbsKCan2DVS1yIVsQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd84u6d0ydqXtBJXDDygNo-fPeFLytgB7OV4QtHtj0rd5RkoYewao1kgPK8XVUWErlC5o3ZZ6UOY1vQ40hnRox4x-Pg2VhIvrpVYwLQFAEq7q0_w122dwe3h0dwE4_8PCW5tVXe=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcAIc-Dj9j_cjsEftjoSxu3R3-3gYV1rZPFHuq9UeWx8Rmx1ZEj2h09f0c2hMs5-koy4ya4FY3GPViRAIepkmfQx3KEaTt-4OwdhEtWO4pOlqoDwPsO6TSmL_bk51Yd4e47f3SkCQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeTjUxOtMw1DLEIY_X_FuRyW-YmVbvPx7hOst7-8NCYpdxPq0N_qZmKXd98iQKPFpcRfCBrDr_kM-8b6pZCnuJv85IyQQ4n5zg5zh1Cly9KkDX94snOghclks1dFgJJv2MTicma=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe8T8u4xVwTpkaVdcAm1iuQL93toEj6TbCfC1KhJyU0bi_x6gw5nQ3HUrLFzX9VLwCdlHdyPDvNhGYTS8edaZorwjVI9gCQGXVnqmnKFvDEAdULsXjjb4P-OQXmIembeDCimsuslQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2NjhhemVREAE",
+      "user": {
+        "name": "Vidhyaa Dayanandh (Vidu)",
+        "link": "https://www.google.com/maps/contrib/117407890836090160076?hl=en",
+        "contributor_id": "117407890836090160076",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVZS8WYdFznhIamBtPt4pMZXf21d2zWIyaRgIORLtLqDKNOfJ1x=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 250,
+        "photos": 1514
+      },
+      "snippet": "Food is amazing and so was the service.. This dhaba serves delicious food with rich flavors and generous portions. The casual, rustic ambiance adds to the experience, making it feel like a true taste of India. A perfect spot for hearty meals, from spicy curries to sea food dishes.\n\nCaptain Siddaraju is been so humble and so good in service and suggesting good dishes .",
+      "extracted_snippet": {
+        "original": "Food is amazing and so was the service.. This dhaba serves delicious food with rich flavors and generous portions. The casual, rustic ambiance adds to the experience, making it feel like a true taste of India. A perfect spot for hearty meals, from spicy curries to sea food dishes.\n\nCaptain Siddaraju is been so humble and so good in service and suggesting good dishes ."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x3bae19cd83892495%3A0xc4ee26c182749dfe&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LAeJu____EhD_2goUJrIkNBpTn4AAAAAAGgn92TkCa-OhnE8YACIA%3A10&sort_by=qualityScore",
+    "next_page_token": "CjEIARIpCgoAP7_LAeJu____EhD_2goUJrIkNBpTn4AAAAAAGgn92TkCa-OhnE8YACIA:10"
+  }
+}

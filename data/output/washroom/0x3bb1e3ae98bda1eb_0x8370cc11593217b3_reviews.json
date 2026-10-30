@@ -1,0 +1,647 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bb1e3ae98bda1eb:0x8370cc11593217b3",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPKLD2a47eDDiHLLExnyamLuqr79o2nXGnEizJuMyQeIojDzkxM0Bx8i7u4lufNmnH2lTyKPZss24fcszNqJMhWgE6PO2Gd9yGN91nR0Zb-3sOz5FCYs5MXusJTTtGylIirw-j2FAfzFwS=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVlVVk1MV2w0VFhRMVNUZzFVRzVqYW14alIyYxAB",
+      "image_index": 1
+    },
+    {
+      "position": 2,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrw6Oyjssb2SFOE7XhoE8wpW_kVddasdydd-LrFoyJR8oEbm16fBVJUqGOed4ZopvlTItoEf_d-PlfZj1x-fNT8liY6Upr74aWAjhKtqYppTMXctTomXBiArncz5Oe1C5V2cdj73--V6GX=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVlVVk1MV2w0VFhRMVNUZzFVRzVqYW14alIyYxAB",
+      "image_index": 2
+    },
+    {
+      "position": 3,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJCz5GPyWTOkb5GeH-A8uKwO-DVYJqkjZiDQo_zdzKd4xV04aZkEY2kgS7ZyyjUiLxAxrp0LrTg0Wzl1xKwhzJ0LymCyfXEIQG99Pso11QOzIffPmRpXXsA4yTQ7tPffoMMdFrWiqIHAk5=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "image_index": 1
+    },
+    {
+      "position": 4,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpkW3qi3OfUEUnv_3E8pghfgSZxL65po1OTGAt5JceU3wodroYYEl1t_BVHrT9qo9FE0BDmv-kU1LI0zki3rIKuvKb0T-d5i0KMsWMWhXYWAQ5hdRqupAeKVyvJMcS4IBLSmPUm52xg_70=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "image_index": 2
+    },
+    {
+      "position": 5,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmTemFYo1p2i7DhAtpe5PemGqHuE-dZnlGH_HpVTyTKVYc6k9o6aOteYj9BqOaTe4m7Qn-eeqs_ywGulqzv8tW2gTRg0Pvi0WLKBHmvDj5PlJTgfxTWWm6AnEHd4JUwcuVICouE4_K8Ase=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "image_index": 3
+    },
+    {
+      "position": 6,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb_Uv2qGJUIDnyOx8nduaqZ33YZUq1zqzz5GiplXLhIGjlthAQJcCdivTbddnxAttlV9SaVoPjlKGzhS8-sJ_LfdbPcgnibejfXRriZW--eYfwTHR08hBH_-vVp6eLOgD9QkiOfA_JfDs=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "image_index": 4
+    },
+    {
+      "position": 7,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdU7Ulkr5KB3iMkn_pFdtCDiUhzj_alFd-53HEzD41XUAHZgQ5vdkZ2exiGRIsznxngqVBXuNKSoBLy0JN1yFsQmWaKZGskQyUw8Qefm7ECoghiWfHJ5hBo4zcQ1cvl6DajKKfqCfKz1joG=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "image_index": 5
+    },
+    {
+      "position": 8,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdA_WXl62lt2q0pXSuuwhaMbkJFP1WD--V66XY7behqWpIAuk0BrA0eS-I2SMBb5YItrOOeAGyrQqKgTDAOOlIQuyFCn8wKqwBjZARvdJryFgoov8wK28dbGURj3PdeVwGB03b4yg7KLms=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "image_index": 6
+    },
+    {
+      "position": 9,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJ2ZTtZ_8V6PGNXhu1hFFv5YLEBw-6nPH1hdNCyZYiR-FfsZaWE9YcAUov8OnuXAnA_Q-HkWLq6oKgQ5cYUoz4nCl7yK2KUlupq1k4gvjR2Fsbysl8BkEBwSnPRdSGltf9mf1aBWj4XyhD=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "image_index": 7
+    },
+    {
+      "position": 10,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFgvyDY-Wr6JF8Pwb1hntEMHRh5R-eYdBwsi5e97FKqUewUtzMBMQjnTVZB3j065dHlBsnWlgopJmk4346TIbUwfXCjDiOjdIMHuhgtwsFw9HpS1WWSSOSa_OqVuGcKZ_r57VjItY7yQQU=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "image_index": 8
+    },
+    {
+      "position": 11,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxuCPaZq8UmlwunuMsh5NEJM2xrg8d4uqqCVJHHKoFabrTIbNEe8ftR39-PoNJbL3tVOdW7MtXtkqC-tjUi1r9tEkz_TWvDydhFzC4Sp8fZ29Z0gOg4_6DhkmjlWML1jmsjG2JoiEkKrQ7=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB",
+      "image_index": 1
+    },
+    {
+      "position": 12,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZnjLUxGRFB6I0hFY-bgxcx9i9Fu52e1-mHAu9KhSCXogjPkB3ZWNakytX1Xg38Ehysczy9ZE2dAMuUvk5YjlKZguUM9Tmy806JT-L6h6bmL88ClNKY5-l7y4LpDULEz5IE-DZGkU2dd1Y=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB",
+      "image_index": 2
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVlVVk1MV2w0VFhRMVNUZzFVRzVqYW14alIyYxAB",
+      "author": "Avinash Manur",
+      "author_url": "https://www.google.com/maps/contrib/108238697645812731890?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 449,
+      "author_photos_count": 340,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-01T16:12:10Z",
+      "iso_date_of_last_edit": "2026-03-01T16:12:10Z",
+      "text": "Posted price list, bit expensive but decent food and has good car parking area and bathroom is nice new hotel so no issue with hygiene.  Price is very high, mulbagal dosa 170rs 😢",
+      "text_original_language": "Posted price list, bit expensive but decent food and has good car parking area and bathroom is nice new hotel so no issue with hygiene.  Price is very high, mulbagal dosa 170rs 😢",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1SVlVVk1MV2w0VFhRMVNUZzFVRzVqYW14alIyYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOk5IYUVMLWl4TXQ1STg1UG5jamxjR2c%7C%7C?hl=en",
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPKLD2a47eDDiHLLExnyamLuqr79o2nXGnEizJuMyQeIojDzkxM0Bx8i7u4lufNmnH2lTyKPZss24fcszNqJMhWgE6PO2Gd9yGN91nR0Zb-3sOz5FCYs5MXusJTTtGylIirw-j2FAfzFwS=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrw6Oyjssb2SFOE7XhoE8wpW_kVddasdydd-LrFoyJR8oEbm16fBVJUqGOed4ZopvlTItoEf_d-PlfZj1x-fNT8liY6Upr74aWAjhKtqYppTMXctTomXBiArncz5Oe1C5V2cdj73--V6GX=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KelVqRjVUbGRVVVZZMWVIRnNiR2g2TFhaTFVrRRAB",
+      "author": "The Verdict",
+      "author_url": "https://www.google.com/maps/contrib/107375320258089880353?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 9,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T08:28:44Z",
+      "iso_date_of_last_edit": "2026-09-22T08:30:23Z",
+      "text": "​Had a wonderful dining experience at Aradhya Grand, Devanahalli!\n\n​Food Highlights:​\nTried both South Indian Thalis featuring Holige and Pheni.\n​Delicious spread with porial, dal, sambar, veg kurma, rasam, hot rotis, rice, baby corn salad, bitter gourd chutney, and fryums.\n\n​Sweets galores:\nDelicious rice kheer plus a lovely surprise scoop of butterscotch ice cream at the end!\n\n​Service & Ambiance:\n​Friendly, attentive customer service.\n​Comfortable and neat dining space.\n​Very clean and well-maintained restroom facilities.\n\n​Verdict: Incredible value for money. Highly recommended if you're in or passing through Devanahalli!",
+      "text_original_language": "​Had a wonderful dining experience at Aradhya Grand, Devanahalli!\n\n​Food Highlights:​\nTried both South Indian Thalis featuring Holige and Pheni.\n​Delicious spread with porial, dal, sambar, veg kurma, rasam, hot rotis, rice, baby corn salad, bitter gourd chutney, and fryums.\n\n​Sweets galores:\nDelicious rice kheer plus a lovely surprise scoop of butterscotch ice cream at the end!\n\n​Service & Ambiance:\n​Friendly, attentive customer service.\n​Comfortable and neat dining space.\n​Very clean and well-maintained restroom facilities.\n\n​Verdict: Incredible value for money. Highly recommended if you're in or passing through Devanahalli!",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KelVqRjVUbGRVVVZZMWVIRnNiR2g2TFhaTFVrRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOmJzUjF5TldUUVY1eHFsbGh6LXZLUkE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaV1JHTndYMjFPWkdZMmRGTldVMUF3TFdWbmIxRRAB",
+      "author": "annapoorna ravi",
+      "author_url": "https://www.google.com/maps/contrib/116419545547522876645?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 5,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-22T03:48:28Z",
+      "iso_date_of_last_edit": "2026-09-22T03:48:28Z",
+      "text": "Excellent, heart clean toilets god bless you.\n\nYou have highlighted restroom board",
+      "text_original_language": "Excellent, heart clean toilets god bless you.\n\nYou have highlighted restroom board",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹2,000+",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Moderate noise",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Large vegetarian selection",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Clean toilets for onlyyyyy men mot women"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaV1JHTndYMjFPWkdZMmRGTldVMUF3TFdWbmIxRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOlZWRGNwX21OZGY2dFNWU1AwLWVnb1E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB",
+      "author": "Asif Khan",
+      "author_url": "https://www.google.com/maps/contrib/107601307470902396973?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 137,
+      "author_photos_count": 1750,
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-14T02:14:56Z",
+      "iso_date_of_last_edit": "2026-03-14T02:42:52Z",
+      "text": "Ordered mulbagan masala dosa, poori sagu and idli vada,  taste was good and ambience is nice well decorated clean fine dining experience on highway. Price is bit on higher side but overall experience was good. Lots of parking space and clean restroom to get refresh and drive your way through .",
+      "text_original_language": "Ordered mulbagan masala dosa, poori sagu and idli vada,  taste was good and ambience is nice well decorated clean fine dining experience on highway. Price is bit on higher side but overall experience was good. Lots of parking space and clean restroom to get refresh and drive your way through .",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKWWIzaDVVbWwzVmtvMVIxTlBlRVJQZWtGVVFsRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOkJYb3h5Uml3Vko1R1NPeERPekFUQlE%7C%7C?hl=en",
+      "images_count": 8,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJCz5GPyWTOkb5GeH-A8uKwO-DVYJqkjZiDQo_zdzKd4xV04aZkEY2kgS7ZyyjUiLxAxrp0LrTg0Wzl1xKwhzJ0LymCyfXEIQG99Pso11QOzIffPmRpXXsA4yTQ7tPffoMMdFrWiqIHAk5=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpkW3qi3OfUEUnv_3E8pghfgSZxL65po1OTGAt5JceU3wodroYYEl1t_BVHrT9qo9FE0BDmv-kU1LI0zki3rIKuvKb0T-d5i0KMsWMWhXYWAQ5hdRqupAeKVyvJMcS4IBLSmPUm52xg_70=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmTemFYo1p2i7DhAtpe5PemGqHuE-dZnlGH_HpVTyTKVYc6k9o6aOteYj9BqOaTe4m7Qn-eeqs_ywGulqzv8tW2gTRg0Pvi0WLKBHmvDj5PlJTgfxTWWm6AnEHd4JUwcuVICouE4_K8Ase=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb_Uv2qGJUIDnyOx8nduaqZ33YZUq1zqzz5GiplXLhIGjlthAQJcCdivTbddnxAttlV9SaVoPjlKGzhS8-sJ_LfdbPcgnibejfXRriZW--eYfwTHR08hBH_-vVp6eLOgD9QkiOfA_JfDs=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdU7Ulkr5KB3iMkn_pFdtCDiUhzj_alFd-53HEzD41XUAHZgQ5vdkZ2exiGRIsznxngqVBXuNKSoBLy0JN1yFsQmWaKZGskQyUw8Qefm7ECoghiWfHJ5hBo4zcQ1cvl6DajKKfqCfKz1joG=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdA_WXl62lt2q0pXSuuwhaMbkJFP1WD--V66XY7behqWpIAuk0BrA0eS-I2SMBb5YItrOOeAGyrQqKgTDAOOlIQuyFCn8wKqwBjZARvdJryFgoov8wK28dbGURj3PdeVwGB03b4yg7KLms=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJ2ZTtZ_8V6PGNXhu1hFFv5YLEBw-6nPH1hdNCyZYiR-FfsZaWE9YcAUov8OnuXAnA_Q-HkWLq6oKgQ5cYUoz4nCl7yK2KUlupq1k4gvjR2Fsbysl8BkEBwSnPRdSGltf9mf1aBWj4XyhD=k-no",
+          "image_index": 7,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFgvyDY-Wr6JF8Pwb1hntEMHRh5R-eYdBwsi5e97FKqUewUtzMBMQjnTVZB3j065dHlBsnWlgopJmk4346TIbUwfXCjDiOjdIMHuhgtwsFw9HpS1WWSSOSa_OqVuGcKZ_r57VjItY7yQQU=k-no",
+          "image_index": 8,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVGVYcFBWMUJoT1UxdlJGWjJibGxSZEV4UU0wRRAB",
+      "author": "Nagraj Devadig",
+      "author_url": "https://www.google.com/maps/contrib/111447115049020838428?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 3,
+      "author_photos_count": 1,
+      "rating": 5.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-12T03:12:47Z",
+      "iso_date_of_last_edit": "2026-01-12T03:12:47Z",
+      "text": "*🌟🌟🌟🌟🌟 | Exceptional Service & Hospitality!*\n\n\"I had a wonderful experience at this hotel. The staff were extremely welcoming, and the service was top-notch. everything ran smoothly.  Restroom was  neet and clean the ambiance was peaceful, and the food was delicious. I truly felt like a valued guest. Highly recommend this place for anyone looking for comfort and quality service.",
+      "text_original_language": "*🌟🌟🌟🌟🌟 | Exceptional Service & Hospitality!*\n\n\"I had a wonderful experience at this hotel. The staff were extremely welcoming, and the service was top-notch. everything ran smoothly.  Restroom was  neet and clean the ambiance was peaceful, and the food was delicious. I truly felt like a valued guest. Highly recommend this place for anyone looking for comfort and quality service.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWVGVYcFBWMUJoT1UxdlJGWjJibGxSZEV4UU0wRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOjVTeXpPV1BhOU1vRFZ2bllRdExQM0E%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeVlXOTZPVlY2VEVsS2IwZEpVMDk0VFVScGFIYxAB",
+      "author": "Mahesh",
+      "author_url": "https://www.google.com/maps/contrib/105667675053490785990?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T02:47:55Z",
+      "iso_date_of_last_edit": "2026-10-28T02:47:55Z",
+      "text": "Very good service good food\nWashroom is very clean",
+      "text_original_language": "Very good service good food\nWashroom is very clean",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Very quiet",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGeVlXOTZPVlY2VEVsS2IwZEpVMDk0VFVScGFIYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOjFyYW96OVV6TElKb0dJU094TURpaHc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prdFJEbE9kbTVTV2tNeExUQkxUVGRDV1hreWJIYxAB",
+      "author": "Binod Nayak",
+      "author_url": "https://www.google.com/maps/contrib/115232649316776379157?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": null,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-28T02:30:08Z",
+      "iso_date_of_last_edit": "2026-10-28T02:30:08Z",
+      "text": "Very good food also need washroom",
+      "text_original_language": "Very good food also need washroom",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Breakfast",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Quiet, easy to talk",
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2prdFJEbE9kbTVTV2tNeExUQkxUVGRDV1hreWJIYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOjktRDlOdm5SWkMxLTBLTTdCWXkybHc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMVoyTkNRbE00TlUxRldtNW5hV1p1ZVhWS2JGRRAB",
+      "author": "Nitish Kumar",
+      "author_url": "https://www.google.com/maps/contrib/109084079759793028079?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-04T15:05:26Z",
+      "iso_date_of_last_edit": "2026-05-04T15:05:26Z",
+      "text": "Very clean maintenance\nWashroom is top",
+      "text_original_language": "Very clean maintenance\nWashroom is top",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGMVoyTkNRbE00TlUxRldtNW5hV1p1ZVhWS2JGRRAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOkF1Z2NCQlM4NU1FWm5naWZueXVKbFE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB",
+      "author": "spoorthi Sajjan",
+      "author_url": "https://www.google.com/maps/contrib/117733142926950690885?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": 2,
+      "rating": 1.0,
+      "date": "10 months ago",
+      "iso_date": "2025-12-16T02:54:14Z",
+      "iso_date_of_last_edit": "2025-12-16T02:54:14Z",
+      "text": "Taste is not so good for the price they r offering and very expensive for the quantity and quality which they are giving,\neither increase quantity or reduce the price, Tatte idli is like normal idli which is 140 rs and dosa is 180rs which looks like mini dosa worth 30-40rs anddddd ladies washroom is worst.\nStaff’s are good and friendly.",
+      "text_original_language": "Taste is not so good for the price they r offering and very expensive for the quantity and quality which they are giving,\neither increase quantity or reduce the price, Tatte idli is like normal idli which is 140 rs and dosa is 180rs which looks like mini dosa worth 30-40rs anddddd ladies washroom is worst.\nStaff’s are good and friendly.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT213dGVGWndaVFpTTVZweWJEaFZPRk0yU0ZVMFkzYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOmwteFZwZTZSMVpybDhVOFM2SFU0Y3c%7C%7C?hl=en",
+      "images_count": 2,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxuCPaZq8UmlwunuMsh5NEJM2xrg8d4uqqCVJHHKoFabrTIbNEe8ftR39-PoNJbL3tVOdW7MtXtkqC-tjUi1r9tEkz_TWvDydhFzC4Sp8fZ29Z0gOg4_6DhkmjlWML1jmsjG2JoiEkKrQ7=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZnjLUxGRFB6I0hFY-bgxcx9i9Fu52e1-mHAu9KhSCXogjPkB3ZWNakytX1Xg38Ehysczy9ZE2dAMuUvk5YjlKZguUM9Tmy806JT-L6h6bmL88ClNKY5-l7y4LpDULEz5IE-DZGkU2dd1Y=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 9,
+    "reviews_with_images": 3,
+    "review_images_found": 12,
+    "unique_review_image_urls": 12,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 9,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Aaradhya Grand",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": null,
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 9,
+  "reviews_with_images": 3,
+  "images_found": 12,
+  "unique_image_urls": 12,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 8,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "reviews",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": null,
+      "reviews_in_response": 1,
+      "reviews_with_images": 1,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": [
+        "date",
+        "details",
+        "extracted_snippet",
+        "images",
+        "iso_date",
+        "iso_date_of_last_edit",
+        "likes",
+        "link",
+        "position",
+        "rating",
+        "response",
+        "review_id",
+        "snippet",
+        "source",
+        "user"
+      ],
+      "first_review_has_images": true,
+      "first_review_image_count": 2,
+      "first_review_image_entry_types": [
+        "str"
+      ]
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:49:57",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 4,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:49:48"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 4,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:49:51"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:49:54"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 1,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:49:57"
+    }
+  ],
+  "next_page_token": null
+}

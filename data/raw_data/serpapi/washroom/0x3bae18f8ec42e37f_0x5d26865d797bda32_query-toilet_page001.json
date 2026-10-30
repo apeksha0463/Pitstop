@@ -1,0 +1,48 @@
+{
+  "search_metadata": {
+    "id": "6ae30e1ef479a34762c7ad8e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oyaHUqG6jSfjc5_cUBBybt9ccIYJS1YBajya4NFALGM/6ae30e1ef479a34762c7ad8e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oyaHUqG6jSfjc5_cUBBybt9ccIYJS1YBajya4NFALGM/6ae30e1ef479a34762c7ad8e.md",
+    "created_at": "2026-10-29 09:13:02 UTC",
+    "processed_at": "2026-10-29 09:13:02 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae18f8ec42e37f:0x5d26865d797bda32!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/oyaHUqG6jSfjc5_cUBBybt9ccIYJS1YBajya4NFALGM/6ae30e1ef479a34762c7ad8e.html",
+    "prettify_html_file": "https://serpapi.com/searches/oyaHUqG6jSfjc5_cUBBybt9ccIYJS1YBajya4NFALGM/6ae30e1ef479a34762c7ad8e.prettify",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae18f8ec42e37f:0x5d26865d797bda32",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURBMjU2NXpRRRAB!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CIHM0ogKEICAgIDA2565zQE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "9 years ago",
+      "iso_date": "2017-08-25T09:12:29Z",
+      "iso_date_of_last_edit": "2017-08-25T09:12:29Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMjU2NXpRRRAB",
+      "user": {
+        "name": "Zeiba",
+        "link": "https://www.google.com/maps/contrib/111528073726814457535?hl=en",
+        "contributor_id": "111528073726814457535",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWEXwRlokepm_AyJS5Tm93iyVxUE8RThAUIczz0I9yrJ37-N9R3Zw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 84,
+        "photos": 266
+      },
+      "snippet": "Nice and clean veg restaurant. Nice staff, clean toilet.",
+      "extracted_snippet": {
+        "original": "Nice and clean veg restaurant. Nice staff, clean toilet."
+      },
+      "likes": 0
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "search_metadata": {
+    "id": "6ae2e915e52c059fb6bef846",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0F7nSQnoEdwdF4GhoIz3WA2K1YbQ97tfTnThFkOw8sY/6ae2e915e52c059fb6bef846.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0F7nSQnoEdwdF4GhoIz3WA2K1YbQ97tfTnThFkOw8sY/6ae2e915e52c059fb6bef846.md",
+    "created_at": "2026-10-29 06:35:01 UTC",
+    "processed_at": "2026-10-29 06:35:01 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1916b73138af:0x606c34389cd7e6bd!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/0F7nSQnoEdwdF4GhoIz3WA2K1YbQ97tfTnThFkOw8sY/6ae2e915e52c059fb6bef846.html",
+    "prettify_html_file": "https://serpapi.com/searches/0F7nSQnoEdwdF4GhoIz3WA2K1YbQ97tfTnThFkOw8sY/6ae2e915e52c059fb6bef846.prettify",
+    "total_time_taken": 0.47
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1916b73138af:0x606c34389cd7e6bd",
+    "hl": "en",
+    "next_page_token": "Ci8IARInCgoAP72F8SNoxn__EhDpMOun3l-D9ncAr_oAAAAAGgf_Al8SNoxnGAAiAA:10",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oclNHSlpVRk5zTjB4elJETm9hbWRKVVZWdk1XYxAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOmhrSGJZUFNsN0xzRDNoamdJUVVvMWc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-25T05:08:35Z",
+      "iso_date_of_last_edit": "2026-09-25T05:08:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oclNHSlpVRk5zTjB4elJETm9hbWRKVVZWdk1XYxAB",
+      "user": {
+        "name": "Michael Dhinakaran",
+        "link": "https://www.google.com/maps/contrib/108740137449642140725?hl=en",
+        "contributor_id": "108740137449642140725",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUICCIHGO5oRF9yJ56qk4A8lBjGjz0cs5Bo-UNfHm9548LLsO7p=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 139,
+        "photos": 56
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 3,
+        "noise_level": "Very quiet"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paV2EyZERaRnBVVjBWcWVrNTFZVko0UzBac1dFRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOjZWa2dDZFpUV0Vqek51YVJ4S0ZsWEE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-15T09:31:16Z",
+      "iso_date_of_last_edit": "2026-09-15T09:31:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paV2EyZERaRnBVVjBWcWVrNTFZVko0UzBac1dFRRAB",
+      "user": {
+        "name": "Geeta Mallam",
+        "link": "https://www.google.com/maps/contrib/107135469845171510827?hl=en",
+        "contributor_id": "107135469845171510827",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUYEEI5iUKwpLDb9ufszV7h0e2beQqaqFrlLXl5wd7jWHUcM10=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 45,
+        "photos": 5
+      },
+      "snippet": "Extremely disappointing experience!\nWe have been visiting Andhra Vindhu since last year for its authentic Andhra taste, but today every single non-veg dish was bland and tasteless—Karivepaku Chicken, Prawns, Gongura Mutton and Fish Curry. Not one had proper salt or spices, and the flavours had not penetrated the meat or fish.\nManagement, this is basic Andhra cooking! If customers wanted bland, diet food, we could eat at home. We come here for the authentic, spicy Andhra flavours.\nPlease seriously question the cook and your quality control. When every dish is under-seasoned, it is not a one-off mistake—it is a clear failure in the kitchen. Don’t compromise the taste that brought your regular customers back. You have spoiled our birthday celebration.",
+      "extracted_snippet": {
+        "original": "Extremely disappointing experience!\nWe have been visiting Andhra Vindhu since last year for its authentic Andhra taste, but today every single non-veg dish was bland and tasteless—Karivepaku Chicken, Prawns, Gongura Mutton and Fish Curry. Not one had proper salt or spices, and the flavours had not penetrated the meat or fish.\nManagement, this is basic Andhra cooking! If customers wanted bland, diet food, we could eat at home. We come here for the authentic, spicy Andhra flavours.\nPlease seriously question the cook and your quality control. When every dish is under-seasoned, it is not a one-off mistake—it is a clear failure in the kitchen. Don’t compromise the taste that brought your regular customers back. You have spoiled our birthday celebration."
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xvdE1FRkZRbU14T1VrMlJETnpiMVZrWlhaS2EzYxAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOlotMEFFQmMxOUk2RDNzb1VkZXZKa3c%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-14T11:35:16Z",
+      "iso_date_of_last_edit": "2026-09-14T11:35:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvdE1FRkZRbU14T1VrMlJETnpiMVZrWlhaS2EzYxAB",
+      "user": {
+        "name": "Sagar Baddula",
+        "link": "https://www.google.com/maps/contrib/106190159903899312026?hl=en",
+        "contributor_id": "106190159903899312026",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVq2jy33h_Z61wz5MVJ26_9Ls8bbi536x20C9YTKSuwEJ2xntTD=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 1
+      },
+      "snippet": "Food is very spicy. Biryani and other rice items are also spicy. We had Apricot delight which is not so great. Vegetarian items were not that spicy.\n\nOverall experience is not so great",
+      "extracted_snippet": {
+        "original": "Food is very spicy. Biryani and other rice items are also spicy. We had Apricot delight which is not so great. Vegetarian items were not that spicy.\n\nOverall experience is not so great"
+      },
+      "details": {
+        "food": 3,
+        "service": 4,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOcGFDMTZWazFLT0dsNWNrdHRZMmhEYUdGdFJrRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOlNpaC16Vk1KOGl5ckttY2hDaGFtRkE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T11:58:49Z",
+      "iso_date_of_last_edit": "2026-09-13T11:58:49Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcGFDMTZWazFLT0dsNWNrdHRZMmhEYUdGdFJrRRAB",
+      "user": {
+        "name": "Entertainment Guru",
+        "link": "https://www.google.com/maps/contrib/111712058206751807374?hl=en",
+        "contributor_id": "111712058206751807374",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWZ5gAcE9obiA63SRzM4nsCnxyfHAzRiiOIjT89Wf86c2oxsj8=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 22,
+        "photos": 8
+      },
+      "snippet": "It's too expensive 🫰",
+      "extracted_snippet": {
+        "original": "It's too expensive 🫰"
+      },
+      "details": {
+        "food": 3,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OVlRtOVdRbVZCVW5GclUyRnlWMUZtZVdGa2NHYxAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOnNVTm9WQmVBUnFrU2FyV1FmeWFkcGc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-13T03:28:06Z",
+      "iso_date_of_last_edit": "2026-09-13T03:28:06Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVlRtOVdRbVZCVW5GclUyRnlWMUZtZVdGa2NHYxAB",
+      "user": {
+        "name": "PAVAN PAVI",
+        "link": "https://www.google.com/maps/contrib/101335330486839206603?hl=en",
+        "contributor_id": "101335330486839206603",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVf0sVwCgp0O-el8GjvO-iWL8C0O4sQsipyi_zrP7RHZGy4VUwvRw=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    }
+  ]
+}

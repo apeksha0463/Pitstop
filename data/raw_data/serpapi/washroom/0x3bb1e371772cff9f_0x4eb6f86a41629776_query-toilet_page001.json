@@ -1,0 +1,146 @@
+{
+  "search_metadata": {
+    "id": "6ae30fd65ae06139bad579b4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WKi4Mt6X_zlZq3hMzjzdqSGMhY-t4Zzv7NTriZO-yg8/6ae30fd65ae06139bad579b4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/WKi4Mt6X_zlZq3hMzjzdqSGMhY-t4Zzv7NTriZO-yg8/6ae30fd65ae06139bad579b4.md",
+    "created_at": "2026-10-29 09:20:22 UTC",
+    "processed_at": "2026-10-29 09:20:22 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e371772cff9f:0x4eb6f86a41629776!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/WKi4Mt6X_zlZq3hMzjzdqSGMhY-t4Zzv7NTriZO-yg8/6ae30fd65ae06139bad579b4.html",
+    "prettify_html_file": "https://serpapi.com/searches/WKi4Mt6X_zlZq3hMzjzdqSGMhY-t4Zzv7NTriZO-yg8/6ae30fd65ae06139bad579b4.prettify",
+    "total_time_taken": 0.9
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e371772cff9f:0x4eb6f86a41629776",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWQ1JYRm5VREJ6VUZsWU0zZDBNekI2VEZWdVYwRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CAIQACodChtycF9oOkVCRXFnUDBzUFlYM3d0MzB6TFVuV0E%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-17T10:53:52Z",
+      "iso_date_of_last_edit": "2026-05-17T10:54:43Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWQ1JYRm5VREJ6VUZsWU0zZDBNekI2VEZWdVYwRRAB",
+      "user": {
+        "name": "hemanth bhat",
+        "link": "https://www.google.com/maps/contrib/114724566644284030558?hl=en",
+        "contributor_id": "114724566644284030558",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXzeM8fxfgc9FLKWq1LEpI5AsTfJZ8eoK3rl_VMlaEY40Y7Liii-Q=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 52,
+        "photos": 12
+      },
+      "snippet": "Food was good and tasty at A2B. But the dining experience could be improved — the AC was not working, the wash area tap was broken, and the toilet was not clean. Hope the management fixes these issues soon.",
+      "extracted_snippet": {
+        "original": "Food was good and tasty at A2B. But the dining experience could be improved — the AC was not working, the wash area tap was broken, and the toilet was not clean. Hope the management fixes these issues soon."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 1
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-17T11:33:05Z",
+        "iso_date_of_last_edit": "2026-05-17T11:33:09Z",
+        "snippet": "Dear hemanth bhat,\n\nThanks for sharing your thoughts! I'm glad to hear you enjoyed the food, but it's disappointing to learn about the issues with the AC, wash area, and toilet cleanliness. Your feedback is really important, and we'll definitely look into these concerns to make sure your next visit is even better.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear hemanth bhat,\n\nThanks for sharing your thoughts! I'm glad to hear you enjoyed the food, but it's disappointing to learn about the issues with the AC, wash area, and toilet cleanliness. Your feedback is really important, and we'll definitely look into these concerns to make sure your next visit is even better.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VQS2QwNmpXNGZYTnJnRRAB!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEPKd06jW4fXNrgE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-18T01:43:59Z",
+      "iso_date_of_last_edit": "2025-05-18T02:04:19Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf4tDV7M4kDyTfhLuE7RNxmQPII1sUvC5EYQxRKey2Fokfo8KbZ3OJ40irZvPt8S4FonWmosdZRGf1ITL98uD63x9fP__UCtaVuA9RrTEopCMXbZUF7PgOnmXxjDu4oQSNu3bq3=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe6tZiyXtcrX7MNGHeTH4xu7kiOLBpAMzV6ZjlwW51hcdMjRbenWO7K-4Z66DDgia9IW5VTbJUBMshMre6eMpkh1E8jGiIgIIWN_MflUf8SRx_8onbzfLVedia7wSWk08prQD3BQw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcujYJ1msIax-SbAK0_foET5V1l_JKlZcOFz0sgwmvdQLEL7v0f963BwZdA0ie1aufV8rhVRVSXxmQVn-EAl7D2qdt4lt7RLUAaCpaOeMF8fXu-6VJLRDWkJbhS7ND5iDv_xy-yUw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfgaLCOGZ4vyJhkwURzdWGIrW_3HeMjp6VuZIBLXZqli_NEuN4idNctZlShJdByWzCzUQ5YHMTVtL5iIRZohjGUCU0GrVAIgTYu8ybxpEnz3sU2OZlNQYUQHujmVRRWiHP5Q-iRwA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeXPtNCSMzF4GjJndMKIHQgfdg2BZJ4zJmt6-p8htfM9QAl4MXCnWi7z5A59iAB1ANbvGmGwCJsGAeWS-qP-DovuDJcGQ7_cefQd6p-nkfchqkW3g57o8ehe-ue4KVCmJNMbhQv=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeOa3ZUY-bbknjhNkDiXol_ZKbluFHj9QSx5ngj7q1Sr0yuG3SGmSokiTIoCQbegd5TLQwcMT3VVKQ6G_2Vc_52gKrwsZ8SYkKHUanriu7RZerQwYQW9Vtr4hiu3r3zrqfLe-jB=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc5TQGvBjF1hvMD05Um2fZ9UQkDUKL6Q7JCsYoeVB1_Vt9Sdl4A4DdOTgutNRCKnilhciyAm_MpP-1IOhpvbWZZ5JNOkeKAk4cubip7lVkKh3nvDFJazgEDziXJVfYD795_sCEo=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf8DU9vIQg_Lz77eaE7VE91Pnc-J8xH9mZ3Bx7rLwjic3WgBuRoNUbCKmF4X9XcUG5uP2DlRCnC1rH3jfcyscVU1W4_EG1-MB3Ft1uLWqUrfcK6PTmvIdDoDgx_cQmwewROty5O=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdC6eteRBvUZaYEVBnuWW-dDLWs0SraWLbqZhkxypmYYoxNfxScFgH4steJwiBEOsMUQ9phNOpm6MVvxfhmSm3fznBB5XI6DQgv-ufr4yEerFyHgi5RsjNh-uINQECMkksqqGIDjw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdmW6aYLRdCtG6qNIgS4CqUsQslGmlG5BZMXh6qi26r_BeywhQb1evpdj6UzIPnSKspz9HL79T7USD7vC3oAUy_tF6D0uUBA-_t5r_Lq1DsD0U8i7s4I_wGH-oDVgnVj_JTln-G=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLTWQ-k0lzyjPm9ZiNRG_eO_MNURnjttGn1gUEJ5mNmZR9Wzgjri4Sbsd1EpYL33GxRtrXabi3Ba3mEh1dAo9yxtCOKGmLgR_Zq96doEPkqWlNc7vfDKv2GwaiXGN7VzY_qu-P=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VQS2QwNmpXNGZYTnJnRRAB",
+      "user": {
+        "name": "Alby",
+        "link": "https://www.google.com/maps/contrib/117485195542040760688?hl=en",
+        "contributor_id": "117485195542040760688",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVst3rJUQUBVGK7npE-RDvi8Opx1fH7Jk7yayCpc8ObMipLHZY=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 712,
+        "photos": 3544
+      },
+      "snippet": "Sambar was not up to the mark and vada received was very cold at the cost of 60..Toilets were not cleaned at least for a year time,...Only dosa up to the mark and please check my photos for your reference..A2B everywhere in Tamilnadu assure clean toilets but here it's like a public toilet...once you change it will be happy to give a positive review",
+      "extracted_snippet": {
+        "original": "Sambar was not up to the mark and vada received was very cold at the cost of 60..Toilets were not cleaned at least for a year time,...Only dosa up to the mark and please check my photos for your reference..A2B everywhere in Tamilnadu assure clean toilets but here it's like a public toilet...once you change it will be happy to give a positive review"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-05-18T04:53:52Z",
+        "iso_date_of_last_edit": "2025-05-18T04:53:52Z",
+        "snippet": "Dear Albert Mathew,\n\nWe are sorry to hear about your experience at our restaurant. We strive to maintain the highest standards of cleanliness and food quality, and we regret that we fell short during your visit. Your feedback is valuable to us, and we will address the issues you've raised with our team to ensure a better experience for our customers. We appreciate your understanding and hope to have the opportunity to serve you better in the future.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Albert Mathew,\n\nWe are sorry to hear about your experience at our restaurant. We strive to maintain the highest standards of cleanliness and food quality, and we regret that we fell short during your visit. Your feedback is valuable to us, and we will address the issues you've raised with our team to ensure a better experience for our customers. We appreciate your understanding and hope to have the opportunity to serve you better in the future.\n\nPlease reach us directly at care@aabsweets.com or WhatsApp us at +91-7338793387 to help us serve you better\n\nThanks and Regards, \nTeam A2B"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3d1llZUVBEAE!2m1!1s0x0:0x4eb6f86a41629776!3m1!1s2@1:CIHM0ogKEICAgID7wYeeEA%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-25T02:52:48Z",
+      "iso_date_of_last_edit": "2024-08-25T02:52:48Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3d1llZUVBEAE",
+      "user": {
+        "name": "Pavithra M",
+        "link": "https://www.google.com/maps/contrib/109558039586057818608?hl=en",
+        "contributor_id": "109558039586057818608",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW0B68ZuRlvVCh_YCLnhwJNHd9LbpkbcnQWQHU-bPFOvv406low=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 28,
+        "photos": 10
+      },
+      "snippet": "The food was amazing, staff were courteous. We had ample parking space and the toilet was also clean.",
+      "extracted_snippet": {
+        "original": "The food was amazing, staff were courteous. We had ample parking space and the toilet was also clean."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-08-25T05:14:33Z",
+        "iso_date_of_last_edit": "2024-08-25T05:14:33Z",
+        "snippet": "Dear Pavithra M,\n\nThank you for sharing your experience at our restaurant! We're delighted to hear that you enjoyed the amazing food and received courteous service from our staff. It's wonderful to know that you found ample parking space and a clean toilet during your visit. We appreciate your kind feedback and look forward to welcoming you back soon!\n\nThanks \nTeam A2B",
+        "extracted_snippet": {
+          "original": "Dear Pavithra M,\n\nThank you for sharing your experience at our restaurant! We're delighted to hear that you enjoyed the amazing food and received courteous service from our staff. It's wonderful to know that you found ample parking space and a clean toilet during your visit. We appreciate your kind feedback and look forward to welcoming you back soon!\n\nThanks \nTeam A2B"
+        }
+      }
+    }
+  ]
+}

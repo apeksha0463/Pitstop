@@ -1,0 +1,81 @@
+{
+  "data_id": "0x3bb1e3f2fe781a35:0xa978b861803d2fbb",
+  "page": 1,
+  "review_filter": "query:washroom",
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "response",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMFdtdExTalEyYWxaMVEwbG1SSEZ6ZGs0NWIzYxAB",
+      "author": "LUCKY pL",
+      "rating": 5.0,
+      "date": "2 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWWVGOVFTbVI1VUhWNU1WbFVSMFZhY1dKTVJrRRAB",
+      "author": "naveen naveen",
+      "rating": 5.0,
+      "date": "3 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxblZuTTRlazB6WHpkUGRFeFJORmxaTjBKblRWRRAB",
+      "author": "Prathiksha Gangadhar",
+      "rating": 1.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMVYySlJRVVZDWWpWU04xaG9kMnh6V2tSQ2RGRRAB",
+      "author": "Dheeraj Babu",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xselZVOVFkRGhHVFZwMVF6aGZUazQ0WHpoUWRFRRAB",
+      "author": "Sai Mouli",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "images": []
+    }
+  ]
+}

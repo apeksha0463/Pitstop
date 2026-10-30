@@ -1,0 +1,25 @@
+{
+  "search_metadata": {
+    "id": "6ae30e435e3c5cea7b5041bd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lSK7Dt8-oHCrSlICP4r11nD37trrpmuTcvA9uyE5cn8/6ae30e435e3c5cea7b5041bd.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lSK7Dt8-oHCrSlICP4r11nD37trrpmuTcvA9uyE5cn8/6ae30e435e3c5cea7b5041bd.md",
+    "created_at": "2026-10-29 09:13:39 UTC",
+    "processed_at": "2026-10-29 09:13:39 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1917369a56ed:0x82c7dc569c4fe63f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/lSK7Dt8-oHCrSlICP4r11nD37trrpmuTcvA9uyE5cn8/6ae30e435e3c5cea7b5041bd.html",
+    "prettify_html_file": "https://serpapi.com/searches/lSK7Dt8-oHCrSlICP4r11nD37trrpmuTcvA9uyE5cn8/6ae30e435e3c5cea7b5041bd.prettify",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1917369a56ed:0x82c7dc569c4fe63f",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "search_information": {
+    "reviews_results_state": "No reviews"
+  }
+}

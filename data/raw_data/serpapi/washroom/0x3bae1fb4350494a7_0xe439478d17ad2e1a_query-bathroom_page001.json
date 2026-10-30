@@ -1,0 +1,125 @@
+{
+  "search_metadata": {
+    "id": "6ae30f2e13181136ba454bf2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/yIQ02Zkhtn4keKY_SdURHRdzC9UIPWlR4pFrmfa9ovw/6ae30f2e13181136ba454bf2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/yIQ02Zkhtn4keKY_SdURHRdzC9UIPWlR4pFrmfa9ovw/6ae30f2e13181136ba454bf2.md",
+    "created_at": "2026-10-29 09:17:34 UTC",
+    "processed_at": "2026-10-29 09:17:34 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1fb4350494a7:0xe439478d17ad2e1a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/yIQ02Zkhtn4keKY_SdURHRdzC9UIPWlR4pFrmfa9ovw/6ae30f2e13181136ba454bf2.html",
+    "prettify_html_file": "https://serpapi.com/searches/yIQ02Zkhtn4keKY_SdURHRdzC9UIPWlR4pFrmfa9ovw/6ae30f2e13181136ba454bf2.prettify",
+    "total_time_taken": 0.96
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKNF8ybUhREAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICJ4_2mHQ%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "3 years ago",
+      "iso_date": "2023-07-04T07:08:52Z",
+      "iso_date_of_last_edit": "2023-07-04T07:08:52Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNF8ybUhREAE",
+      "user": {
+        "name": "Tj Shah",
+        "link": "https://www.google.com/maps/contrib/112235491739594649000?hl=en",
+        "contributor_id": "112235491739594649000",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUk3fABRcdcAjdaKj--MBqIcCSV6Z0EoZAM6tn02vldLZyQhh-Phg=s120-c-rp-mo-br100",
+        "reviews": 8,
+        "photos": 0
+      },
+      "snippet": "Good food, bad service and hospitality at the hands of the manager himself. The reserved table was next to bathroom and it smelled of pee, so we moved one table over same smell. Manager's response was well others don't have any issue so we shouldn't either. Then he put us at another table which was reserved for another family. When we said can we please get water, response was well you should have asked for it earlier. Food was good but managers hospitality was down right rude. I wouldn't visit this place no matter how good the food is.",
+      "extracted_snippet": {
+        "original": "Good food, bad service and hospitality at the hands of the manager himself. The reserved table was next to bathroom and it smelled of pee, so we moved one table over same smell. Manager's response was well others don't have any issue so we shouldn't either. Then he put us at another table which was reserved for another family. When we said can we please get water, response was well you should have asked for it earlier. Food was good but managers hospitality was down right rude. I wouldn't visit this place no matter how good the food is."
+      },
+      "details": {
+        "price_per_person": "₹1,000–1,200",
+        "food": 4,
+        "service": 1,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURPMk1paHBRRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDO2MihpQE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-27T00:50:43Z",
+      "iso_date_of_last_edit": "2022-06-27T00:50:43Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMk1paHBRRRAB",
+      "user": {
+        "name": "ASHWIN SHETTY",
+        "link": "https://www.google.com/maps/contrib/101846277270966141205?hl=en",
+        "contributor_id": "101846277270966141205",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWxMnjKXoaD7GYopgjs4NN1lwSf43T7sf7MpAMZmXi52BXgIfvGCw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 46,
+        "photos": 10
+      },
+      "snippet": "Food was good but Poor maintenance of facility. Tv , A/c bathroom fixtures and kettle not working….",
+      "extracted_snippet": {
+        "original": "Food was good but Poor maintenance of facility. Tv , A/c bathroom fixtures and kettle not working…."
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURReGYzRHd3RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDQxf3DwwE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "8 years ago",
+      "iso_date": "2018-07-06T03:09:21Z",
+      "iso_date_of_last_edit": "2018-07-06T03:12:25Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURReGYzRHd3RRAB",
+      "user": {
+        "name": "Kalyan Basu",
+        "link": "https://www.google.com/maps/contrib/113734622075535075341?hl=en",
+        "contributor_id": "113734622075535075341",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXEfJkqOPLzqkLSvEN0-bpYeip7DS_U1H1SP6C1vCbWnQf2Dr1c3Q=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 101,
+        "photos": 1633
+      },
+      "snippet": "The hotel is very beautiful both from inside as well as outside.\nA beautiful scenic beauty from the hotel rooms also available.\nThe bedding is too good, soft and  fresh bed covers and pillow covers.\nA large TV. Clean bathroom welcomes you.\nThey have a complimentary breakfast buffet available.\nFood is good there.\nMore varieties everyday would make it more perfect.\nHowever it was a good and nice short stay at the hotel.\nThe staff and room service is also delightful.",
+      "extracted_snippet": {
+        "original": "The hotel is very beautiful both from inside as well as outside.\nA beautiful scenic beauty from the hotel rooms also available.\nThe bedding is too good, soft and  fresh bed covers and pillow covers.\nA large TV. Clean bathroom welcomes you.\nThey have a complimentary breakfast buffet available.\nFood is good there.\nMore varieties everyday would make it more perfect.\nHowever it was a good and nice short stay at the hotel.\nThe staff and room service is also delightful."
+      },
+      "likes": 1
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURncE1PMXhRRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDgpMO1xQE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "10 years ago",
+      "iso_date": "2016-04-16T14:46:57Z",
+      "iso_date_of_last_edit": "2016-04-16T14:46:57Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncE1PMXhRRRAB",
+      "user": {
+        "name": "Sridhar Hegde",
+        "link": "https://www.google.com/maps/contrib/105125300249410656180?hl=en",
+        "contributor_id": "105125300249410656180",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXLNqdHNDIPyRF-jZm7LJGURPM6HjrZ7liJTyt0U6rRK-aoD4gXHA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 24,
+        "photos": 50
+      },
+      "snippet": "We stayed here for a day on our transit via Bangalore. We recd. a very warm welcome on arrival. There were 4 of us and while booking the room it charged us 1000 extra for the kids, however on arrival at the hotel we were told a bed would be provided immediately when needed. We were also told that the bed is king sized, however the bed is only queen sized and 2 adults and a 3 yr old can barely sleep on it.\nWe ordered a bed for the room before lunch, however even after an hour, the bed was not provided, it took 3 calls before someone showed up finally at our door. The room is a decent sized one, however there was no ceiling fan and only a single AC vent on the left side of the room so there is no air circulation and it got pretty stuffy at times. The bathroom has a single fixed shower, not the hand shower kind so you are forced to have a full shower each time. There is no shower cap on either so we had to request a bucket and even that needed 3calls with lots of following up and 1 hr to be delivered.\nThe hotel is located about a km inside from a side road so there are no options for eating anywhere other than the hotel. there is a restaurant inside the hotel that has breakfast and lunch, dinner buffets and they serve quite a spread. However we were never shown any menu cards for evening snacks and were charged atrocious prices for what we are ordered. The food however tasted good and the breakfast buffet was great. Service was also good in the restaurant\n\nOn the pro, this hotel has Close proximity to the international airport. Takes 15 to 20 mins to get there.however most of the cab drivers had trouble finding this place. They also have a nice pool with a large projection screen by the pool which is nice to sit by .kids under 5 eat free at the buffet which is nice.\n\nOverall, we were disappointed as this was supposedly a 4 star hotel but the service was lacking and left much to be desired.",
+      "extracted_snippet": {
+        "original": "We stayed here for a day on our transit via Bangalore. We recd. a very warm welcome on arrival. There were 4 of us and while booking the room it charged us 1000 extra for the kids, however on arrival at the hotel we were told a bed would be provided immediately when needed. We were also told that the bed is king sized, however the bed is only queen sized and 2 adults and a 3 yr old can barely sleep on it.\nWe ordered a bed for the room before lunch, however even after an hour, the bed was not provided, it took 3 calls before someone showed up finally at our door. The room is a decent sized one, however there was no ceiling fan and only a single AC vent on the left side of the room so there is no air circulation and it got pretty stuffy at times. The bathroom has a single fixed shower, not the hand shower kind so you are forced to have a full shower each time. There is no shower cap on either so we had to request a bucket and even that needed 3calls with lots of following up and 1 hr to be delivered.\nThe hotel is located about a km inside from a side road so there are no options for eating anywhere other than the hotel. there is a restaurant inside the hotel that has breakfast and lunch, dinner buffets and they serve quite a spread. However we were never shown any menu cards for evening snacks and were charged atrocious prices for what we are ordered. The food however tasted good and the breakfast buffet was great. Service was also good in the restaurant\n\nOn the pro, this hotel has Close proximity to the international airport. Takes 15 to 20 mins to get there.however most of the cab drivers had trouble finding this place. They also have a nice pool with a large projection screen by the pool which is nice to sit by .kids under 5 eat free at the buffet which is nice.\n\nOverall, we were disappointed as this was supposedly a 4 star hotel but the service was lacking and left much to be desired."
+      },
+      "likes": 1
+    }
+  ]
+}

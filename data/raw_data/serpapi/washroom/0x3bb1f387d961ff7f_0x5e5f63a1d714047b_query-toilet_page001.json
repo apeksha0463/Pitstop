@@ -1,0 +1,154 @@
+{
+  "search_metadata": {
+    "id": "6ae3104ae7a2a9d9686b1723",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/X1hJPZPMG4gu26-a7Q19i1sUnDFppCk43XatVjDMaSE/6ae3104ae7a2a9d9686b1723.json",
+    "markdown_endpoint": "https://serpapi.com/searches/X1hJPZPMG4gu26-a7Q19i1sUnDFppCk43XatVjDMaSE/6ae3104ae7a2a9d9686b1723.md",
+    "created_at": "2026-10-29 09:22:18 UTC",
+    "processed_at": "2026-10-29 09:22:18 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f387d961ff7f:0x5e5f63a1d714047b!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/X1hJPZPMG4gu26-a7Q19i1sUnDFppCk43XatVjDMaSE/6ae3104ae7a2a9d9686b1723.html",
+    "prettify_html_file": "https://serpapi.com/searches/X1hJPZPMG4gu26-a7Q19i1sUnDFppCk43XatVjDMaSE/6ae3104ae7a2a9d9686b1723.prettify",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f387d961ff7f:0x5e5f63a1d714047b",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsd2NEQm9lSE5GV0Vjd1J6aHZTRkF3YzNSUVozYxAB!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CAIQACodChtycF9oOklwcDBoeHNFWEcwRzhvSFAwc3RQZ3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-18T07:01:05Z",
+      "iso_date_of_last_edit": "2026-04-18T07:01:05Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdnHUW4U456glBZTUkwR42y82R-Nw71K9NVSeYApX2KF46VpR6BWTW1utph4JZ1j1NRAMIW5NbY1DWEZkK4dgNPdaFfg_wCfWf6Fu5b-0S8aXzlSdUyx62OMyNfies2CG8yD3jBEyQbV2Q=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdvKcYz5o584cDVm3-d_N5o0I22TfJh2dcKqM_fhXS9fVbFiYKF9_oGRZTjoLYa8pMd9oryDEgZVuUyYVF9boKfbkdZm6Xz9Po_oFmZcJgozc0dHR8mqQzyUXZF_QuaxK2kJ7j5QlVWbYw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfhrfl3QrXpX6ZYMFGacH5mPnzSvGVzDBxnwIzZoX5xURFv7ttYspv2fzH-IheKu7Y7vZOBAf-FkTspMdQAYp-FuYIiVBknmzpP3FzFZl6yKV5t1XFqmpz-sNHteo-H-NKDyM_TG2471Z4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfblQfHO92UH1SBCEfTgsSIU05JNaDIF8Ar4tSH1bGcFR8rnVH6lBDAnpKmoH1F99oymOQERdZMm71i4pfx2Zqwn9IYU0sN0lxCcRfBaxk99ztQpcWx5gvkefapZHALydKtrwDFDXmn5ZYl=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdqwggdRmdNkyR_Kw0PKwGORuISa5WpCXkQOHKQfna_U7q-oIPALB9XisMwRvI-QDjvPhOKsjtjiEZfMkkwFGt69cKw4tSrzlIMstiCOsulCxkIcQ9nhC-GIC3-rm0VrdXdLVhKkxguqw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcuvBsd93nAC7dA8H7p6-N7peu6RHffvoCvf5ib01V7s3cDL8wo3qK_9tERg8Eiy1Wg1WOvvmWKxUHpaDCkI5ROXmNqh3tPjUOCZSvlzMkU6oPWc1GtAB1MbNqXfu3Uls2MI6oyrELojgzA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe5ELQwVQHAE-rcH6dR0ym5VzY2TCGjLO7IaUcbHNSzOO4TnxeaFCmVrUuhxP3QbWFGvexRDUwK3xFjpjK4eMN-hFVdZJ_SkKODOZM8WmzHC1KjG2eSGn9O2tD8PRNzZVTl8Astu8gLgQx0=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsd2NEQm9lSE5GV0Vjd1J6aHZTRkF3YzNSUVozYxAB",
+      "user": {
+        "name": "Kiran Gopinath",
+        "link": "https://www.google.com/maps/contrib/108228956792974553318?hl=en",
+        "contributor_id": "108228956792974553318",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWG6RXTJRy3W0caNVOdvfiINma3m10MiEkS_t0TKjR2OmXsBgxQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 91,
+        "photos": 649
+      },
+      "snippet": "Clean, maintained toilet. Great ambience. Ample food courts and safe resting space for pitstops at night.",
+      "extracted_snippet": {
+        "original": "Clean, maintained toilet. Great ambience. Ample food courts and safe resting space for pitstops at night."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYbE5uQkFREAE!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgICXlNnBAQ%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-13T14:48:55Z",
+      "iso_date_of_last_edit": "2024-10-13T15:42:50Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcfTjOjVI_l79pSGACHq4RpiMlONbtXGZeJ6SJ7T88qwSSm5VQ-eFxxFrdY7MnRLtgKV2jmM8O3oqrt5bUbTiMoZL-RunzdGQGyqHjAi3s8c6O_A4ArHG8g7zJRukHwSjOQ8nmX=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd8V6WGGgSctBhI6pWQAXki1jsgQJP2tovtl-HEyqkE6iOUQLYZM0itrVv9oD016LB-q8ePxDsM06xTGQML-YLPCv89NEXjgVOoXSrlPPRnoAgcUV-a3G7y8Duda-Wgm21Bu4eS5g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcZM26_hDIRXXXXtGeGCvVIzy78I2805TkVdtold-8vieEg8x3j2RCMtWklqhJntem6vfiiQKVSeiEvCdjA_SOd72ejUefefU875InzjxjT2EKBbhezM2MCpY2MtdB9XPdu8u1t=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdMIkm4R7SbJDuDyCdc5iPI6NSg5lgQBoO4qiuRTBAugB-pojhcZ0N8kZ4uVDEfHj5pb2j5US_q5WjKnxE7FH57fKJxEHyTZ4he0meC2l8jScZ5gDIoFRGm-ZI5jQr6jZS4GilgEQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcvkFe-bxzIzIAE0hBf74848kNi6kIYKSC4ToUy6SilPMJjhac7JPp6A4tBeunKcsQDbVTbEmW6baXb-eLWVV9PdGmlRc0fjwcNd0Ev9F6ekEvTSFiqe-eAaL97D3DQhGOGMCY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe7cm1AZB0DlS4tKK_fODmF3a6xYFlUKO38nOTnqxs3VmsS1pWCLy--HmGTTA5Oh_kve4E8374RCdrpv84f-DVs3UeFPRD3kol6KglUok8ib-RqEkjAP0aM3jbZ0Luim8jZ0ZNvqQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeTdAnimWOSkjweRvjRGGhRqpvn7Gn6tlv6Roe9tZjwCDBfV49z3B_2RtNZW95UEyAWI10JxpPvV6vRMvKUmg5spwWaOeNnTEB-dwDPuhobzNacZkmUvjrjqlapXx-iRVtDx6g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeVuCgAIQCLXrLbw0TkEtmkQUDmzNPtvpmyocUJYMu4INxa-vXTFOSKed-Jn8Nl6jvQlJeGiqHrVjgtAJl_U2E0IK07_j9wCWe53V-c-TZtoaFdx5ubg35UPkGCEgWP6qZP6roAFw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdjbSwu2c63ky3E6O060zXraIwmRzyFundDWKEeC5oQoMz6jCV-4oYJgHjXXtUYPAQsqR_v_mNx0Sy8EimzNFPF8US8hyz-pWYzrsKom8ivkEe2fOJPY4kjvNCUjrdvTSz0kqRT=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLelWUeWf8z0g2wM6rvAxY3fXSOCROrooi0cJvU9HWK3IPHOX0xlU6MgmeAQrcYNAultgsurxW36F1HJMJip6JxP_RXwa_juzU1Rd7PCBBXsVnKcMOcgwDtOHqy6iLuzVa5qAUqR0g=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd4IzDbSOibECWArrdzbu5dInVBBbovs-xKnqZcv6f_xu81JFVX4n92AEgHfRT7_5lwniPFsvoCnKe0YzLUdRBY0cl3ZvBTvVR9_vTy3O_fqz2aINkiWDUKr4k-ORTxTx7hpXU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcdGZUMPPc3pZZgaKyh3RnDSOxUKn0BYliQHpAKQPXAULrcYoPlWksvbIDSz-xYLgFlCAQkwstuIMyRSGpZDBsQ3QlbJ-j39xYdzz6OJ9mHZMYziKt88m9EJbeGe072Kddti4MP=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbE5uQkFREAE",
+      "user": {
+        "name": "Ruchika Gupta",
+        "link": "https://www.google.com/maps/contrib/100824736201859263193?hl=en",
+        "contributor_id": "100824736201859263193",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVef6Qh8LgckxSFT86U9KmYzZLd_N8JJujIbui-vPUGtPMgPvTk-A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 130,
+        "photos": 498
+      },
+      "snippet": "Stopped by at this place on the way back from\nadiyogi. The place is beautiful and neat . But it was raining so toilet floors were wet and messy . There are only 5-6 restaurants . We went to Haldiram, Leon’s and everywhere they had very militia food availability from the menu . Even Starbucks had only 4/5 items . It was surprising to see that not even half the items from the menu were available on Sunday at 8pm in all these restaurants . We finally went to KfC coz they had all the items available . Empire restaurant was good and had a variety of dishes . Taking away 2 stars coz of non availability of dishes . I wish the food court restaurants are better stocked otherwise it defeats the purpose of being an highway food court stop .",
+      "extracted_snippet": {
+        "original": "Stopped by at this place on the way back from\nadiyogi. The place is beautiful and neat . But it was raining so toilet floors were wet and messy . There are only 5-6 restaurants . We went to Haldiram, Leon’s and everywhere they had very militia food availability from the menu . Even Starbucks had only 4/5 items . It was surprising to see that not even half the items from the menu were available on Sunday at 8pm in all these restaurants . We finally went to KfC coz they had all the items available . Empire restaurant was good and had a variety of dishes . Taking away 2 stars coz of non availability of dishes . I wish the food court restaurants are better stocked otherwise it defeats the purpose of being an highway food court stop ."
+      },
+      "likes": 1,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-10-15T10:10:52Z",
+        "iso_date_of_last_edit": "2024-10-15T10:10:52Z",
+        "snippet": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team. We are working towards improving the suggestions recommended by you.\n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay.",
+        "extracted_snippet": {
+          "original": "We genuinely appreciate your review! It's fantastic to hear that you enjoyed your visit to Big Bay. Your positive feedback is a source of inspiration for our team. We are working towards improving the suggestions recommended by you.\n\nWe look forward to serving you again soon.\n\nThank you,\nTeam Big Bay."
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN0eU9MWlFnEAE!2m1!1s0x0:0x5e5f63a1d714047b!3m1!1s2@1:CIHM0ogKEICAgICtyOLZQg%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-01-28T11:06:42Z",
+      "iso_date_of_last_edit": "2024-01-28T11:07:19Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeiEZjryJfu9QEng79ZLY41Gcx77q8B0pV4FJYi30LqdJGju0AqDcjmbidnl6HIBz3FAga2vxO9CaFKCSmYmP05BovHhvPsEus5NSR8r4FkMVrY7t3mWJzKwUwgotMo2IwAfs3nHw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd2y1EP4eZCAZR-ROu_sGnWPlXYcCIRa-UmGWVy_pPmedWwsm8H7Zy6KiFqZeEmXu0h3N_RSGmTdx9nvcRjrjMXoOnEcZ5TSuhHC4PCX03Jxp4GJxTyb-bxGSMgIHyf-sbRjZc=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLexT9qcR8iopb4zYshmRsB_jqj0Mtf2Dqx4Ov0eG4JDhxp7O-BHV6Yt1I75dL25OBDlr9myFhO9b_apY2Ss_fiDDPEbH3AwPnTyX8-b4mpc8t_6kMok_FOt9R6ZLTMmaFq06ROpTQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLccihCdWnPFZ1ZWwLucPviSSqVt8qXTvX7sVyzhLYqpoCMVSZooEobqA1GuCeIbKSkbDqDSEtYvmy0fnc29wTOjg61Z5ybhqJAh7Eew2Cy2iDe9L3yN4P4celVsnemwOPOUcg4r=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0eU9MWlFnEAE",
+      "user": {
+        "name": "Abhilash Pradhan",
+        "link": "https://www.google.com/maps/contrib/105426112313692720084?hl=en",
+        "contributor_id": "105426112313692720084",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUwXJF5FfT1bhVyF6FnoE1ktr_PBhtLAEoZCIIuU_aPFoX_KN8M4g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 66,
+        "photos": 168
+      },
+      "snippet": "Big Bay India Food Mall is a welcome oasis along the highway, offering a plethora of dining options amidst a stretch devoid of alternatives. From international chains like Burger King, Starbucks, KFC, and Baskin Robbins to local favorites such as Empire Restaurant and GoPizza, there's something to satiate every palate. The inclusion of clean and well-equipped toilet facilities, along with a refueling station, makes it a convenient pitstop for travelers. The design exudes the charm of a well-maintained food street, with ample parking space ensuring hassle-free access. Whether craving a quick bite or a leisurely meal, Big Bay India Food Mall delivers on both variety and convenience, making it a standout stopover for highway travelers.",
+      "extracted_snippet": {
+        "original": "Big Bay India Food Mall is a welcome oasis along the highway, offering a plethora of dining options amidst a stretch devoid of alternatives. From international chains like Burger King, Starbucks, KFC, and Baskin Robbins to local favorites such as Empire Restaurant and GoPizza, there's something to satiate every palate. The inclusion of clean and well-equipped toilet facilities, along with a refueling station, makes it a convenient pitstop for travelers. The design exudes the charm of a well-maintained food street, with ample parking space ensuring hassle-free access. Whether craving a quick bite or a leisurely meal, Big Bay India Food Mall delivers on both variety and convenience, making it a standout stopover for highway travelers."
+      },
+      "likes": 1,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-01-31T17:33:37Z",
+        "iso_date_of_last_edit": "2024-01-31T17:33:37Z",
+        "snippet": "Dear Abhilash Pradhan,\n\nThank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time.  \nYour support means a lot to us, and it's a testament to our commitment to providing exceptional service. We look forward to serving you again soon.\n\nThank you\nTeam Big Bay",
+        "extracted_snippet": {
+          "original": "Dear Abhilash Pradhan,\n\nThank you for sharing your wonderful experience at Big Bay! We're thrilled that you had a great time.  \nYour support means a lot to us, and it's a testament to our commitment to providing exceptional service. We look forward to serving you again soon.\n\nThank you\nTeam Big Bay"
+        }
+      }
+    }
+  ]
+}

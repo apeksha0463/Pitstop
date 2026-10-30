@@ -1,0 +1,97 @@
+{
+  "search_metadata": {
+    "id": "6ae30df7be4c9ac63a232397",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/yrEuDSOr2_U25nwX5JrQyVE6FQFoumLoQR3Bo83l5CA/6ae30df7be4c9ac63a232397.json",
+    "markdown_endpoint": "https://serpapi.com/searches/yrEuDSOr2_U25nwX5JrQyVE6FQFoumLoQR3Bo83l5CA/6ae30df7be4c9ac63a232397.md",
+    "created_at": "2026-10-29 09:12:23 UTC",
+    "processed_at": "2026-10-29 09:12:23 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae199ebb434785:0x925928a22e4df686!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/yrEuDSOr2_U25nwX5JrQyVE6FQFoumLoQR3Bo83l5CA/6ae30df7be4c9ac63a232397.html",
+    "prettify_html_file": "https://serpapi.com/searches/yrEuDSOr2_U25nwX5JrQyVE6FQFoumLoQR3Bo83l5CA/6ae30df7be4c9ac63a232397.prettify",
+    "total_time_taken": 0.73
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae199ebb434785:0x925928a22e4df686",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkaWEyRlhUMXBDZFVSNU5raEpPRzVyUmxjeWJXYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOldia2FXT1pCdUR5NkhJOG5rRlcybWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-14T10:00:09Z",
+      "iso_date_of_last_edit": "2026-04-14T10:00:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaWEyRlhUMXBDZFVSNU5raEpPRzVyUmxjeWJXYxAB",
+      "user": {
+        "name": "Dwaraganathan DK",
+        "link": "https://www.google.com/maps/contrib/116754838674375621826?hl=en",
+        "contributor_id": "116754838674375621826",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKRqGG0FA_iaRzgsNvaVOqZI-whYni03EJfzztaARLeq1rLAQ=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "This is easily one of the worst dining experiences I’ve had in Bangalore. I visited this restaurant today for lunch, and it was extremely disappointing from start to finish.\n\nFor a thali priced at around ₹390, the food quality is nowhere near acceptable. What you get is a very basic, average meal with nothing special to justify the high price. It feels completely overpriced for what is served.\n\nThe service is equally poor — slow, inattentive, and unprofessional. There is clearly a lack of basic customer handling.\n\nWhat’s even more concerning is the hygiene. The handwash area is in a terrible state — dirty and poorly maintained to the point that it’s unpleasant to even stand there. The restroom is worse; it is so unclean that you can barely open the door.\n\nOverall, this place fails in food quality, service, and cleanliness. I would strongly advise others to avoid this restaurant unless there is a significant improvement in standards.",
+      "extracted_snippet": {
+        "original": "This is easily one of the worst dining experiences I’ve had in Bangalore. I visited this restaurant today for lunch, and it was extremely disappointing from start to finish.\n\nFor a thali priced at around ₹390, the food quality is nowhere near acceptable. What you get is a very basic, average meal with nothing special to justify the high price. It feels completely overpriced for what is served.\n\nThe service is equally poor — slow, inattentive, and unprofessional. There is clearly a lack of basic customer handling.\n\nWhat’s even more concerning is the hygiene. The handwash area is in a terrible state — dirty and poorly maintained to the point that it’s unpleasant to even stand there. The restroom is worse; it is so unclean that you can barely open the door.\n\nOverall, this place fails in food quality, service, and cleanliness. I would strongly advise others to avoid this restaurant unless there is a significant improvement in standards."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "noise_level": "Loud, but you can still talk",
+        "recommendation_for_vegetarians": "Would not recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Somewhat difficult to find parking",
+        "parking_options": "Free parking lot",
+        "kid_friendliness": "na",
+        "wheelchair_accessibility": "na"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GbVJ6WnpibFpVYkU4elJtTktNMlJUVTFOc1RIYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOnFmRzZzblZUbE8zRmNKM2RTU1NsTHc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-19T13:34:36Z",
+      "iso_date_of_last_edit": "2025-10-19T13:37:26Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf2rbLCy8haJk1WS4uTu95S6_SI0MuWn5qK4fG2HnjAJfOAbak9wzZPr2Pv3erextIYeN4Z1uc4trNonLg8w4D0YCMfrUTZOL5kv3Z3k_eILVb_x2HrurQLRnfQDlV5daVHl6oIBIGQHP6y=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbVJ6WnpibFpVYkU4elJtTktNMlJUVTFOc1RIYxAB",
+      "user": {
+        "name": "Kuttus",
+        "link": "https://www.google.com/maps/contrib/102094712327399256160?hl=en",
+        "contributor_id": "102094712327399256160",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJftlPZ4LPnLRvVsZORkuZf9OuNiABjgjCnYCI2anRCIOvmkg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 501,
+        "photos": 951
+      },
+      "snippet": "May be being  south indian I felt that the  Food is average, Lassi tastes nice\nCurries were spicy so I didn't like much also the ghee phulka or rotty didn't have much ghee on it. Overall an average experience\nDigital UPI payments are accepted however couldn't find credit card payment option\nRestroom and parking area Is too small for the size of restaurant",
+      "extracted_snippet": {
+        "original": "May be being  south indian I felt that the  Food is average, Lassi tastes nice\nCurries were spicy so I didn't like much also the ghee phulka or rotty didn't have much ghee on it. Overall an average experience\nDigital UPI payments are accepted however couldn't find credit card payment option\nRestroom and parking area Is too small for the size of restaurant"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 4,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    }
+  ]
+}

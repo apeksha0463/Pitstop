@@ -1,0 +1,236 @@
+{
+  "search_metadata": {
+    "id": "6ae30f97aefbb465e59cb3e9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Z0rrlcXRrMY4wxDjm0fqGRQuC2unh_hjmkvTiawomzU/6ae30f97aefbb465e59cb3e9.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Z0rrlcXRrMY4wxDjm0fqGRQuC2unh_hjmkvTiawomzU/6ae30f97aefbb465e59cb3e9.md",
+    "created_at": "2026-10-29 09:19:19 UTC",
+    "processed_at": "2026-10-29 09:19:19 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e390a5514f65:0x3b8f2ca25b4423de!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Z0rrlcXRrMY4wxDjm0fqGRQuC2unh_hjmkvTiawomzU/6ae30f97aefbb465e59cb3e9.html",
+    "prettify_html_file": "https://serpapi.com/searches/Z0rrlcXRrMY4wxDjm0fqGRQuC2unh_hjmkvTiawomzU/6ae30f97aefbb465e59cb3e9.prettify",
+    "total_time_taken": 0.57
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e390a5514f65:0x3b8f2ca25b4423de",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTURnNFoyVUZBEAE!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgMDg4Z2UFA%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-02-25T09:50:14Z",
+      "iso_date_of_last_edit": "2025-02-25T09:50:14Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnNFoyVUZBEAE",
+      "user": {
+        "name": "dileep gowda",
+        "link": "https://www.google.com/maps/contrib/107696587324883419411?hl=en",
+        "contributor_id": "107696587324883419411",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWpLHCWS0YoTcIfdP-bsVYnH1h4O8q_aJs3zbiKWcmEzPwap0Mx=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 5
+      },
+      "snippet": "Hotel is good but toilet 🚽 not maintained clean",
+      "extracted_snippet": {
+        "original": "Hotel is good but toilet 🚽 not maintained clean"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURGMV9qd1NREAE!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgIDF1_jwSQ%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2023-11-11T06:42:19Z",
+      "iso_date_of_last_edit": "2023-11-11T06:42:19Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGMV9qd1NREAE",
+      "user": {
+        "name": "Srinivasa Girri",
+        "link": "https://www.google.com/maps/contrib/114897328197024292136?hl=en",
+        "contributor_id": "114897328197024292136",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV9HadzjzseNfjvS0Ts4wUxozVSLW_S8tkvtd-WW5HcwBhppC6zdg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 173,
+        "photos": 734
+      },
+      "snippet": "Extremely good place with average toilet facility, especially if you are travelling for long on a highway.",
+      "extracted_snippet": {
+        "original": "Extremely good place with average toilet facility, especially if you are travelling for long on a highway."
+      },
+      "details": {
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5,
+        "recommended_dishes": "Open Butter Masala Dosa, Special South Indian Meals"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNwa2JHeUtREAE!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgICpkbGyKQ%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "3 years ago",
+      "iso_date": "2023-08-05T13:13:12Z",
+      "iso_date_of_last_edit": "2023-08-05T13:13:12Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwa2JHeUtREAE",
+      "user": {
+        "name": "anil kumar",
+        "link": "https://www.google.com/maps/contrib/112758227134572225549?hl=en",
+        "contributor_id": "112758227134572225549",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocILyLh78hSTSr0FS8d6IU_a_6BL_rTaVI51ssGpGUfxaWA7Hw=s120-c-rp-mo-br100",
+        "reviews": 9,
+        "photos": 0
+      },
+      "snippet": "The toilet seats are broken and they are not maintained properly..",
+      "extracted_snippet": {
+        "original": "The toilet seats are broken and they are not maintained properly.."
+      },
+      "details": {
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMyd3JMYW9nRRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgIC2wrLaogE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 years ago",
+      "iso_date": "2022-04-16T06:33:08Z",
+      "iso_date_of_last_edit": "2022-04-16T06:37:19Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf2h7y9eex3lJYMtAbBPXyiqVGgzmz1eVICJ8cF68Nf-kVUfgXbrKFe8MbYRYHZsAVF1i6oJrRXa3bYo6X20U2ppuvBwg1fvZ89JcWglxnC5KfEPY1GF5pQWbIwffiTKViSBkin=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyd3JMYW9nRRAB",
+      "user": {
+        "name": "Jim Varghese",
+        "link": "https://www.google.com/maps/contrib/114483504088933241789?hl=en",
+        "contributor_id": "114483504088933241789",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV2_8K0RFxGvnkxGYTb0YAeJOGZaOIRxBgUnaqW4hQ3hK4qELiVcg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 195,
+        "photos": 689
+      },
+      "snippet": "Nice veg restaurant situated on highway. Easily noticable from road. Has good parking and ac restaurant. Wide variety of breakfast, lunch and dinner varieties are available here. Toilet facility is also available and clean. Good for families. Rates are moderate. We tried Masala Dosa and idili. We were 5 adults. It cost around Rs 723 total..  It was really nice. Tea is strong and good if you like strong tea. They also have black coffee.",
+      "extracted_snippet": {
+        "original": "Nice veg restaurant situated on highway. Easily noticable from road. Has good parking and ac restaurant. Wide variety of breakfast, lunch and dinner varieties are available here. Toilet facility is also available and clean. Good for families. Rates are moderate. We tried Masala Dosa and idili. We were 5 adults. It cost around Rs 723 total..  It was really nice. Tea is strong and good if you like strong tea. They also have black coffee."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹600–800"
+      },
+      "likes": 2
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR5cXBLUGhRRRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgIDyqpKPhQE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited 5 years ago",
+      "iso_date": "2021-03-03T12:15:04Z",
+      "iso_date_of_last_edit": "2021-04-18T14:50:28Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd-FGaeKiuEzW8kEmDY8r_xpOX60wFiXfeLwyi9lni2I8aZSCnEy35E12wnHsTj7GAIv4aox_pLaW504VPcvHNftV6n4Bhr2EkCG-0Uok1NleLgiVEZkujFBj2m3lW7j1eeTsUn=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcBGBL2fhYBqQl5Lz7VZIl7SnM9irNeDRp4ixMb08KtR8lQqJfbUGoMVidv2I9z-vWQf7vujza3zq2jtnMPBMKoL1XVe58nJP2BPBOfEnuddJiVY4a-ON8GmZvUoYn3oYQ7dIzCYQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5cXBLUGhRRRAB",
+      "user": {
+        "name": "Kapil",
+        "link": "https://www.google.com/maps/contrib/113804699144136001403?hl=en",
+        "contributor_id": "113804699144136001403",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJCk4e0bZZAsaIL5zoCFBAo_QBoYDTSKRhCOOv5WyFG0Nut3RQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 391,
+        "photos": 4953
+      },
+      "snippet": "Stopped for breakfast,  dosa and tea was good.\nIt was crowded on sunday morning, so please plan accordingly being covid cases on rise.\nEnough Parking. Toilet facility outside.\nThough ordered was delayed.\n\nHope u find this review useful then click thumbs up :)",
+      "extracted_snippet": {
+        "original": "Stopped for breakfast,  dosa and tea was good.\nIt was crowded on sunday morning, so please plan accordingly being covid cases on rise.\nEnough Parking. Toilet facility outside.\nThough ordered was delayed.\n\nHope u find this review useful then click thumbs up :)"
+      },
+      "likes": 2
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNzeFlMbzdRRRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgICsxYLo7QE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "6 years ago",
+      "iso_date": "2020-02-08T14:48:25Z",
+      "iso_date_of_last_edit": "2020-02-08T14:48:25Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzeFlMbzdRRRAB",
+      "user": {
+        "name": "SYED ABBAS",
+        "link": "https://www.google.com/maps/contrib/104162851486340361170?hl=en",
+        "contributor_id": "104162851486340361170",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWcghp9Nz1lyDaz1wbc-lNnUgYxWzVGJvtPeqlpEJ5sn_9juteY=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 8
+      },
+      "snippet": "Very nice PLACE TO have BREAKFAST  LUNCH  & DINNER  AND  also  TOILET FACILITIES.",
+      "extracted_snippet": {
+        "original": "Very nice PLACE TO have BREAKFAST  LUNCH  & DINNER  AND  also  TOILET FACILITIES."
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURFaG9YLU5REAE!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgIDEhoX-NQ%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "7 years ago",
+      "iso_date": "2019-06-19T10:00:07Z",
+      "iso_date_of_last_edit": "2019-06-19T10:00:07Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURFaG9YLU5REAE",
+      "user": {
+        "name": "Vishnu Prasad Suresh",
+        "link": "https://www.google.com/maps/contrib/112170571095295780974?hl=en",
+        "contributor_id": "112170571095295780974",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWnbB5hkpdDqRL8_fmBcIS6dV_TD93FIzWyEregdycRf3xyewk=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 246,
+        "photos": 178
+      },
+      "snippet": "Only good for South Indian food, ambience good, Toilet is not clean",
+      "extracted_snippet": {
+        "original": "Only good for South Indian food, ambience good, Toilet is not clean"
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURBeEo2ZHV3RRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgIDAxJ6duwE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "8 years ago",
+      "iso_date": "2018-09-13T10:42:26Z",
+      "iso_date_of_last_edit": "2018-09-13T10:42:26Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBeEo2ZHV3RRAB",
+      "user": {
+        "name": "Runa Mukherji",
+        "link": "https://www.google.com/maps/contrib/116001624586975209211?hl=en",
+        "contributor_id": "116001624586975209211",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL0eBKV2l02Inji9zZlh_SeDZyQqcsPbhTsCzKH4A-E-r4MkA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 222,
+        "photos": 100
+      },
+      "snippet": "Good place for family dining on the highway. Food quality is good. Very clean toilet. Service little slow",
+      "extracted_snippet": {
+        "original": "Good place for family dining on the highway. Food quality is good. Very clean toilet. Service little slow"
+      },
+      "likes": 0
+    }
+  ]
+}

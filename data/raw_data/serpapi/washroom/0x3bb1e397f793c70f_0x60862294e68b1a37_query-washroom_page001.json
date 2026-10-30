@@ -1,0 +1,219 @@
+{
+  "search_metadata": {
+    "id": "6ae30f9d37a2c6822548b8ee",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6_XY1oWy1ZjO3nP7gwf0gwhqyz6cb_LVTQx9IA7kZK8/6ae30f9d37a2c6822548b8ee.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6_XY1oWy1ZjO3nP7gwf0gwhqyz6cb_LVTQx9IA7kZK8/6ae30f9d37a2c6822548b8ee.md",
+    "created_at": "2026-10-29 09:19:25 UTC",
+    "processed_at": "2026-10-29 09:19:25 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e397f793c70f:0x60862294e68b1a37!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/6_XY1oWy1ZjO3nP7gwf0gwhqyz6cb_LVTQx9IA7kZK8/6ae30f9d37a2c6822548b8ee.html",
+    "prettify_html_file": "https://serpapi.com/searches/6_XY1oWy1ZjO3nP7gwf0gwhqyz6cb_LVTQx9IA7kZK8/6ae30f9d37a2c6822548b8ee.prettify",
+    "total_time_taken": 0.7
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e397f793c70f:0x60862294e68b1a37",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tod09XcElUVWxEYmpGV1gzUlNjbUpMWXpGVlRHYxAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CAIQACodChtycF9oOkhwOWpITUlDbjFWX3RScmJLYzFVTGc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-14T08:09:05Z",
+      "iso_date_of_last_edit": "2026-04-14T08:09:05Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod09XcElUVWxEYmpGV1gzUlNjbUpMWXpGVlRHYxAB",
+      "user": {
+        "name": "Jayesh reddy",
+        "link": "https://www.google.com/maps/contrib/117070089977106799435?hl=en",
+        "contributor_id": "117070089977106799435",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ3Am0nOc5GyZ-kdg1Ydwasvw16TG7CHSxZe2xkEtEZ15n7KQ=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Very horrible food and very dirty. Forget about even entering the washroom, you’ll probably puke your previous or present meal. The cashier hasn’t taken a bath for two days",
+      "extracted_snippet": {
+        "original": "Very horrible food and very dirty. Forget about even entering the washroom, you’ll probably puke your previous or present meal. The cashier hasn’t taken a bath for two days"
+      },
+      "likes": 0,
+      "response": {
+        "date": "4 months ago",
+        "iso_date": "2026-06-06T02:37:34Z",
+        "iso_date_of_last_edit": "2026-06-06T02:37:34Z",
+        "snippet": "Thank you for your feedback. We regret that your experience was not satisfactory and will review your concerns with our team.",
+        "extracted_snippet": {
+          "original": "Thank you for your feedback. We regret that your experience was not satisfactory and will review your concerns with our team."
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJRFI1ZHJwcHZESG5RRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEIDR5drppvDHnQE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-05-31T04:53:39Z",
+      "iso_date_of_last_edit": "2025-05-31T04:53:39Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfYe1MHabytb51iFRrX2M5Ly7qN-g7DmqJkhCWVqEyB9MsUEhKbQu9LZfnKqtnFJBfBk3ey2ockGz0XAOJIQfEt58L2YD-8ZW7FqUQDXCEJZPQJEfTwFw2VGvv8wPYd-sHNnhIx6Q=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJRFI1ZHJwcHZESG5RRRAB",
+      "user": {
+        "name": "Rahul Ram",
+        "link": "https://www.google.com/maps/contrib/117862644375313224607?hl=en",
+        "contributor_id": "117862644375313224607",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWKqaXf8mH1FGwDagWJxWXsfAfe1vXgOnTDvWypmniEhFRrecuxwg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 50,
+        "photos": 212
+      },
+      "snippet": "I checked the Google reviews and thought it would be decent, but the food was just below average . Definitely not worth.\n\nAlso, be 100% sure about your order because once you say it, that's it. You can’t change your order even if it’s just a second later. No flexibility, no courtesy. The service felt rigid and unfriendly.\nThere is no good washroom. No proper handwash area\nOverall, very disappointing experience. Won’t be coming back.",
+      "extracted_snippet": {
+        "original": "I checked the Google reviews and thought it would be decent, but the food was just below average . Definitely not worth.\n\nAlso, be 100% sure about your order because once you say it, that's it. You can’t change your order even if it’s just a second later. No flexibility, no courtesy. The service felt rigid and unfriendly.\nThere is no good washroom. No proper handwash area\nOverall, very disappointing experience. Won’t be coming back."
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-10-15T07:20:28Z",
+        "iso_date_of_last_edit": "2025-10-15T07:20:28Z",
+        "snippet": "Dear Guest,\nWe’re truly sorry to hear that your experience at Devanahalli Gowdru Restaurant did not meet expectations. We always aim to serve authentic Nati-style food with good hospitality, and we regret we fell short this time.\nKindly share more details at 9663274969 so our manager can personally address your concern. Your feedback helps us serve better.\n\n— Team Devanahalli Gowdru Restaurant",
+        "extracted_snippet": {
+          "original": "Dear Guest,\nWe’re truly sorry to hear that your experience at Devanahalli Gowdru Restaurant did not meet expectations. We always aim to serve authentic Nati-style food with good hospitality, and we regret we fell short this time.\nKindly share more details at 9663274969 so our manager can personally address your concern. Your feedback helps us serve better.\n\n— Team Devanahalli Gowdru Restaurant"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNEdUptc0d3EAE!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgICDuJmsGw%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "2 years ago",
+      "iso_date": "2024-03-24T08:11:31Z",
+      "iso_date_of_last_edit": "2024-03-24T08:17:28Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEdUptc0d3EAE",
+      "user": {
+        "name": "pavan srikanth",
+        "link": "https://www.google.com/maps/contrib/116198568875486939530?hl=en",
+        "contributor_id": "116198568875486939530",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV0PUD1Yi_90Q7UW1yM_5tah84G4nhrfFBTLvN2nPgo5VozULFWpg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 111,
+        "photos": 64
+      },
+      "snippet": "Posting this review only on mutton biryani.(Other dishes not tried).\nThe biriyani rice was not good.\nMutton was also average.\nOverall all taste was not good at all.\nSuggest:I f you people are going in group don't buy biriyani for every one just try with one biriyani, if you like then go for more. Don't get disappointed.\nWashroom are available.\nSmall and sufficient parking place available.",
+      "extracted_snippet": {
+        "original": "Posting this review only on mutton biryani.(Other dishes not tried).\nThe biriyani rice was not good.\nMutton was also average.\nOverall all taste was not good at all.\nSuggest:I f you people are going in group don't buy biriyani for every one just try with one biriyani, if you like then go for more. Don't get disappointed.\nWashroom are available.\nSmall and sufficient parking place available."
+      },
+      "likes": 1,
+      "response": {
+        "date": "2 years ago",
+        "iso_date": "2024-03-26T01:52:00Z",
+        "iso_date_of_last_edit": "2024-03-26T01:52:00Z",
+        "snippet": "Thank you for sharing your feedback on our Mutton Biryani. We're disappointed to hear that it did not meet your expectations, and we apologize for any inconvenience caused.\n\nWe take pride in our dishes and strive to ensure that each one meets the high standards we set for ourselves. It's disheartening to learn that the biryani rice and mutton did not meet your taste preferences.\n\nYour suggestion regarding trying one biryani before ordering more is a valuable one, and we appreciate your insight. We always encourage our guests to sample dishes before making a larger order to ensure satisfaction.\n\nRegarding your mention of washrooms and parking, we're glad to hear that you found these facilities sufficient and available during your visit. We understand the importance of providing convenience to our guests in all aspects of their experience.\n\nOnce again, we apologize for falling short of your expectations with our Mutton Biryani. Your feedback is valuable to us, and we will use it to improve our offerings.\n\nWe hope to have the opportunity to better serve you in the future and provide you with a more enjoyable dining experience.",
+        "extracted_snippet": {
+          "original": "Thank you for sharing your feedback on our Mutton Biryani. We're disappointed to hear that it did not meet your expectations, and we apologize for any inconvenience caused.\n\nWe take pride in our dishes and strive to ensure that each one meets the high standards we set for ourselves. It's disheartening to learn that the biryani rice and mutton did not meet your taste preferences.\n\nYour suggestion regarding trying one biryani before ordering more is a valuable one, and we appreciate your insight. We always encourage our guests to sample dishes before making a larger order to ensure satisfaction.\n\nRegarding your mention of washrooms and parking, we're glad to hear that you found these facilities sufficient and available during your visit. We understand the importance of providing convenience to our guests in all aspects of their experience.\n\nOnce again, we apologize for falling short of your expectations with our Mutton Biryani. Your feedback is valuable to us, and we will use it to improve our offerings.\n\nWe hope to have the opportunity to better serve you in the future and provide you with a more enjoyable dining experience."
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKN3BmNHdRRRAB!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDJ7pf4wQE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-07-17T14:15:16Z",
+      "iso_date_of_last_edit": "2023-07-17T14:15:16Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKN3BmNHdRRRAB",
+      "user": {
+        "name": "Darshan",
+        "link": "https://www.google.com/maps/contrib/102409174775864538519?hl=en",
+        "contributor_id": "102409174775864538519",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVbYSYsIsYXxzbOiWVHNiC76Uf31NDMFx-7E3ZWTMNNGWTxijQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 676,
+        "photos": 766
+      },
+      "snippet": "Good non veg restaurant in the locality. Quality & quantity of food is satisfactory with reasonable price. Not a very sophisticated restaurant but hygienic. I took ragi ball & mutton boti . Ragi ball was not fresh & boti was good. Cool drinks like sprite are available. I am not sure about the washroom.",
+      "extracted_snippet": {
+        "original": "Good non veg restaurant in the locality. Quality & quantity of food is satisfactory with reasonable price. Not a very sophisticated restaurant but hygienic. I took ragi ball & mutton boti . Ragi ball was not fresh & boti was good. Cool drinks like sprite are available. I am not sure about the washroom."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 2,
+        "atmosphere": 2,
+        "vegetarian_options": "Not many options. I don't recommend it for vegetarians.",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Ample parking space in front of the restaurant",
+        "kid_friendliness": "Since it is spacious, it is good for kids"
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2023-07-17T16:35:26Z",
+        "iso_date_of_last_edit": "2023-07-17T16:35:26Z",
+        "snippet": "Dear Valuable customer \nDarshan Sir 🙏\nThank you for sharing your review of the restaurant. It's great to hear that you enjoyed the mutton boti, but I'm sorry to hear that the ragi ball was not fresh. It's important for restaurants to maintain the quality of their food consistently. However, it's good to know that the prices are reasonable and the portion sizes satisfactory.\n\nYou mentioned that the restaurant is not very sophisticated but hygienic, which is a crucial aspect of any dining establishment. It's unfortunate that you are unsure about the washroom facilities. Clean and well-maintained washrooms are essential for a positive dining experience.\n\nOverall, it seems like the restaurant has its strengths and areas for improvement. Your feedback regarding the freshness of the food and the washroom situation could be valuable for the management to address. Thank you for sharing your review, and I hope your future dining experiences are more enjoyable.",
+        "extracted_snippet": {
+          "original": "Dear Valuable customer \nDarshan Sir 🙏\nThank you for sharing your review of the restaurant. It's great to hear that you enjoyed the mutton boti, but I'm sorry to hear that the ragi ball was not fresh. It's important for restaurants to maintain the quality of their food consistently. However, it's good to know that the prices are reasonable and the portion sizes satisfactory.\n\nYou mentioned that the restaurant is not very sophisticated but hygienic, which is a crucial aspect of any dining establishment. It's unfortunate that you are unsure about the washroom facilities. Clean and well-maintained washrooms are essential for a positive dining experience.\n\nOverall, it seems like the restaurant has its strengths and areas for improvement. Your feedback regarding the freshness of the food and the washroom situation could be valuable for the management to address. Thank you for sharing your review, and I hope your future dining experiences are more enjoyable."
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCclpPZVlREAE!2m1!1s0x0:0x60862294e68b1a37!3m1!1s2@1:CIHM0ogKEICAgIDBrZOeYQ%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-01-26T03:44:45Z",
+      "iso_date_of_last_edit": "2023-01-26T03:47:48Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCclpPZVlREAE",
+      "user": {
+        "name": "Shrikant",
+        "link": "https://www.google.com/maps/contrib/117014821653259858045?hl=en",
+        "contributor_id": "117014821653259858045",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIpwk95r39_2aWiaxd7PLPN1FPOV105VERnz7n18nRnPNwX1edQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 20,
+        "photos": 1
+      },
+      "snippet": "Had morning breakfast here and it was amazing. Very reasonable and quick service. Very higenic place. Hotel owner Rakesh is very friendly. Must visit place. You have parking space. Washroom available. Self Service or service at table is also available.",
+      "extracted_snippet": {
+        "original": "Had morning breakfast here and it was amazing. Very reasonable and quick service. Very higenic place. Hotel owner Rakesh is very friendly. Must visit place. You have parking space. Washroom available. Self Service or service at table is also available."
+      },
+      "details": {
+        "order_type": "Delivery",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Gowdru Special Thatte Idli",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2023-01-26T06:09:22Z",
+        "iso_date_of_last_edit": "2023-01-26T06:09:22Z",
+        "snippet": "Thank you Shrikant Sir for your kind words 🙏\nIt means a lot ",
+        "extracted_snippet": {
+          "original": "Thank you Shrikant Sir for your kind words 🙏\nIt means a lot "
+        }
+      }
+    }
+  ]
+}

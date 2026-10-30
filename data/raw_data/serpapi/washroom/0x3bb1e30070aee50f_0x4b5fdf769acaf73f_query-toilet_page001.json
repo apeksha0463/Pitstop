@@ -1,0 +1,193 @@
+{
+  "search_metadata": {
+    "id": "6ae30fe178727edc5748510f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Y-UtpQtyhXSc8gHlPeLZSIvhRAuW1rHhBzFDs3ujiWw/6ae30fe178727edc5748510f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Y-UtpQtyhXSc8gHlPeLZSIvhRAuW1rHhBzFDs3ujiWw/6ae30fe178727edc5748510f.md",
+    "created_at": "2026-10-29 09:20:33 UTC",
+    "processed_at": "2026-10-29 09:20:33 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e30070aee50f:0x4b5fdf769acaf73f!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Y-UtpQtyhXSc8gHlPeLZSIvhRAuW1rHhBzFDs3ujiWw/6ae30fe178727edc5748510f.html",
+    "prettify_html_file": "https://serpapi.com/searches/Y-UtpQtyhXSc8gHlPeLZSIvhRAuW1rHhBzFDs3ujiWw/6ae30fe178727edc5748510f.prettify",
+    "total_time_taken": 0.65
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e30070aee50f:0x4b5fdf769acaf73f",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Fd2FWSnBNVFkzYW14TGVVUXlNM0ZhVW5GbVlWRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOnEwaVJpMTY3amxLeUQyM3FaUnFmYVE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-12T10:28:09Z",
+      "iso_date_of_last_edit": "2025-10-12T10:28:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Fd2FWSnBNVFkzYW14TGVVUXlNM0ZhVW5GbVlWRRAB",
+      "user": {
+        "name": "Ashwin Markod",
+        "link": "https://www.google.com/maps/contrib/101929522265669595358?hl=en",
+        "contributor_id": "101929522265669595358",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIv2_tF4hnvDPjw0EcuIyQ4pkdp_3h9yREAOuPA_4yl7ZCP1bzo=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 122,
+        "photos": 123
+      },
+      "snippet": "Located on highway with huge parking space and clean toilet food is good but price lots on higher side can be reduced very costly",
+      "extracted_snippet": {
+        "original": "Located on highway with huge parking space and clean toilet food is good but price lots on higher side can be reduced very costly"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,000–1,200",
+        "noise_level": "Moderate noise",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psU1pWcENlV0ZSWjBwMGFIRlBSVVJoYkU0dGJFRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOjlSZVpCeWFRZ0p0aHFPRURhbE4tbEE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-04T12:34:05Z",
+      "iso_date_of_last_edit": "2025-10-04T12:34:05Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU1pWcENlV0ZSWjBwMGFIRlBSVVJoYkU0dGJFRRAB",
+      "user": {
+        "name": "Prasanna Manjunath",
+        "link": "https://www.google.com/maps/contrib/103862947126785128991?hl=en",
+        "contributor_id": "103862947126785128991",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUpkuplih2zybtB-Q2M7kUWOdrQ6Fn6w_SOk2MbOzaW6iw7DI1G3w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 640,
+        "photos": 823
+      },
+      "snippet": "Good place to have pure veg on the highway before Devanahalli. Great food. Ample parking, neat toilet.",
+      "extracted_snippet": {
+        "original": "Good place to have pure veg on the highway before Devanahalli. Great food. Ample parking, neat toilet."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,400–1,600",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGTlZUVkplWE40TVhreFlubEthbTEwUmtaUFRtYxAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOkFNVTVJeXN4MXkxYnlKam10RkZPTmc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-26T10:18:53Z",
+      "iso_date_of_last_edit": "2025-08-26T10:18:53Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTlZUVkplWE40TVhreFlubEthbTEwUmtaUFRtYxAB",
+      "user": {
+        "name": "awanish Awasthi",
+        "link": "https://www.google.com/maps/contrib/113067614226294486987?hl=en",
+        "contributor_id": "113067614226294486987",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLLD7B377MyxYnGm52v18xzixGUtisJYeeKTI7KkCZoGQHJKA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 95,
+        "photos": 20
+      },
+      "snippet": "Awesome view .clean toilet.must try koteshwaram idli",
+      "extracted_snippet": {
+        "original": "Awesome view .clean toilet.must try koteshwaram idli"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2025-08-30T09:23:54Z",
+        "iso_date_of_last_edit": "2025-08-30T09:23:54Z",
+        "snippet": "Grateful for your kind words! Your support means everything to us we’ll keep the good vibes and great food coming!\n\nRegards,\nKoteshwaram-The Temple Of divine food",
+        "extracted_snippet": {
+          "original": "Grateful for your kind words! Your support means everything to us we’ll keep the good vibes and great food coming!\n\nRegards,\nKoteshwaram-The Temple Of divine food"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214TlNsSlVURVZQUVRGcVExWkhSMkl4Y1ZKek1VRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOmxNSlJUTEVPQTFqQ1ZHR2IxcVJzMUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-11T05:25:18Z",
+      "iso_date_of_last_edit": "2025-08-11T05:25:18Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeZsOO3g0qJlTT4v5icf7g-EFY9D0yQMyINyVHFq6BkzDMXDJ-po3hHeuqDwecZJCGXU97dRHtwdxlrPXGoRwgfn6oLZOnwG3pVGJB1aKdj4Yv7ng2aVjlwpWTXdX09i6cd-yfk0e4BHrN4=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe2fLUrKCY2TN2lDHMaZ3vvA6aiRbdC2Yxu8LGXWUmG7xFWagKkB_rhpKS82f2Dj-xDVGdBqaKK8PcXmtcty478lWnodlzduJuZ1cHR0ACRiaHqo__RX9Ykrz9-Ay2G-LMD6Tjz5K7tqv8=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLerjnN6GB-oezWrzpdQOJULXoqh9jrZpELNwqaYNIzfao2Oep9R2RTpZS0LC8ZuWrkZYwPCyaB1Hrk2zvq1TkgomucpUWwtzsxQfgzxOO69rqkwCgpnQzsDQ-vpj6lIxtlU6hGZF3n0yVTr=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfpEniggmMRpnhp8JzA78vIVca9oqHbxTX7tb12ETrFgI1wX2A4S3yC_-vtjTfYkGFi3Oocejxy6_87Sj-4BG7jPqnM5k4woKKyTtsD4ixDfasNDymoKpmioo0AfXmaf4Hwyq9vYl4eR9te=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeOebH90oBdyr6EFtcEdfYiB8crw8uTsL-XIloExItNFl2b-eDLSOhc_e89UmV6UhsfO7_1HJ8pkmIiWh3i96ChxlMz8aRpXr2MZeMp77PBz6tzUfRH_ZBcbTnMnYRKiEaN-hbmMb7tAUlD=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeWLsXe5pMtANQ6Or3GUgG_We9mHDt2HdNy3pWVl8vWdVzNNab8BABVAKozdyD4K4Og5Y1jqeUTpOPJDIrrSZQMVzeZrH-ucSCxX9lvo4w7MxChC1NFlF7MyYcK4GkpkBWmivQvNOxv36Ma=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TlNsSlVURVZQUVRGcVExWkhSMkl4Y1ZKek1VRRAB",
+      "user": {
+        "name": "GopalRaj",
+        "link": "https://www.google.com/maps/contrib/115972641076976594146?hl=en",
+        "contributor_id": "115972641076976594146",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXe6S621xtuQiFnnMxf90s6YR6lvqGw2oi7eVrAoiZMloWbhRw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 333,
+        "photos": 224
+      },
+      "snippet": "Excellent place for food and rest. Adjacent to highway.  Beautiful, clean and spacious restaurant. Pure vegetarian. Value for money. Five star equivalent toilet facilities. Friendly staff.",
+      "extracted_snippet": {
+        "original": "Excellent place for food and rest. Adjacent to highway.  Beautiful, clean and spacious restaurant. Pure vegetarian. Value for money. Five star equivalent toilet facilities. Friendly staff."
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25saU5GTnRlVXBhT1VGd2NWbEJTa2hUWkZBM1drRRAB!2m1!1s0x0:0x4b5fdf769acaf73f!3m1!1s2@1:CAIQACodChtycF9oOnliNFNteUpaOUFwcVlBSkhTZFA3WkE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-08-06T02:55:07Z",
+      "iso_date_of_last_edit": "2025-08-06T02:55:07Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25saU5GTnRlVXBhT1VGd2NWbEJTa2hUWkZBM1drRRAB",
+      "user": {
+        "name": "George Cherian",
+        "link": "https://www.google.com/maps/contrib/117963994852225542477?hl=en",
+        "contributor_id": "117963994852225542477",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVtLf3EkmYgVFzNJtvhAESZCjPQjJBhJUUbjU6fYEPT5Y2mBKIWFQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 394,
+        "photos": 578
+      },
+      "snippet": "Beautiful place, excellent ambiance, good food, very spacious, very good destination for a ride from city to outskirts especially for bikers. Lot of parking and lot of place and space to walk around. The main dining hall is air conditioned. Also if you want to stand and eat \"darshini\" style, that is too is possible. The toilets are excellent with Airport toilet level cleanliness.",
+      "extracted_snippet": {
+        "original": "Beautiful place, excellent ambiance, good food, very spacious, very good destination for a ride from city to outskirts especially for bikers. Lot of parking and lot of place and space to walk around. The main dining hall is air conditioned. Also if you want to stand and eat \"darshini\" style, that is too is possible. The toilets are excellent with Airport toilet level cleanliness."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "wait_time": "No wait",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    }
+  ]
+}

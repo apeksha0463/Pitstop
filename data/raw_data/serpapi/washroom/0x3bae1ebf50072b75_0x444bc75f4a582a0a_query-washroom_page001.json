@@ -1,0 +1,192 @@
+{
+  "search_metadata": {
+    "id": "6ae30f195e878b51bc344716",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YDkjJx-ymzopyJ29Kh7xsLWME36ZlFUki6_cZCkiw90/6ae30f195e878b51bc344716.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YDkjJx-ymzopyJ29Kh7xsLWME36ZlFUki6_cZCkiw90/6ae30f195e878b51bc344716.md",
+    "created_at": "2026-10-29 09:17:13 UTC",
+    "processed_at": "2026-10-29 09:17:13 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1ebf50072b75:0x444bc75f4a582a0a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/YDkjJx-ymzopyJ29Kh7xsLWME36ZlFUki6_cZCkiw90/6ae30f195e878b51bc344716.html",
+    "prettify_html_file": "https://serpapi.com/searches/YDkjJx-ymzopyJ29Kh7xsLWME36ZlFUki6_cZCkiw90/6ae30f195e878b51bc344716.prettify",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1ebf50072b75:0x444bc75f4a582a0a",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25STGRXMWFSbGszVEVFMVNEQk5NWGg1YkUxblFsRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOnRLdW1aRlk3TEE1SDBNMXh5bE1nQlE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-11T18:26:27Z",
+      "iso_date_of_last_edit": "2026-10-11T18:26:27Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STGRXMWFSbGszVEVFMVNEQk5NWGg1YkUxblFsRRAB",
+      "user": {
+        "name": "Jagriti Agrawal",
+        "link": "https://www.google.com/maps/contrib/102866985897420649545?hl=en",
+        "contributor_id": "102866985897420649545",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ5sOhlvQd1yzJ7tD4CNaOpKGiWdG--wdedy3ge1Mw52OpYJA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 456,
+        "photos": 2761
+      },
+      "snippet": "I am giving stars purely on the basis of rest stop that we took to change our baby's diaper on the way. Since this was rated as a good restaurant, we assumed washroom would be good. But alas! washroom didn't have water! After using washroom when we headed for the basin, there was no water! Very weird for a family place! We had thought of eating as well something here but then decided not to. Again, since we didn't have food, cant comment on that but a dining place on the highway is supposed to have water in the washroom. Basic requirement!",
+      "extracted_snippet": {
+        "original": "I am giving stars purely on the basis of rest stop that we took to change our baby's diaper on the way. Since this was rated as a good restaurant, we assumed washroom would be good. But alas! washroom didn't have water! After using washroom when we headed for the basin, there was no water! Very weird for a family place! We had thought of eating as well something here but then decided not to. Again, since we didn't have food, cant comment on that but a dining place on the highway is supposed to have water in the washroom. Basic requirement!"
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 weeks ago",
+        "iso_date": "2026-10-12T04:29:55Z",
+        "iso_date_of_last_edit": "2026-10-12T04:29:55Z",
+        "snippet": "Dear Jagriti,\nWe sincerely apologize for the inconvenience you experienced with the washroom facilities during your visit to Itihaas Restaurant. We understand how important clean and properly functioning washrooms with a continuous water supply are, especially for families travelling with young children.\nThis is certainly not the experience we want our guests to have. We take your feedback seriously and will look into this issue with our team to ensure the necessary improvements are made.\nThank you for bringing this to our attention. We hope to have another opportunity to welcome you and provide you with a much better experience at Itihaas Restaurant.\nRegards,\nTeam Itihaas Restaurant",
+        "extracted_snippet": {
+          "original": "Dear Jagriti,\nWe sincerely apologize for the inconvenience you experienced with the washroom facilities during your visit to Itihaas Restaurant. We understand how important clean and properly functioning washrooms with a continuous water supply are, especially for families travelling with young children.\nThis is certainly not the experience we want our guests to have. We take your feedback seriously and will look into this issue with our team to ensure the necessary improvements are made.\nThank you for bringing this to our attention. We hope to have another opportunity to welcome you and provide you with a much better experience at Itihaas Restaurant.\nRegards,\nTeam Itihaas Restaurant"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZNVdGSkNOalo1Tm1aRVQzUmFOV2h1TUdkdVRuYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOkY5WFJCNjZ5NmZET3RaNWhuMGduTnc%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-12T04:16:39Z",
+      "iso_date_of_last_edit": "2026-05-12T04:16:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZNVdGSkNOalo1Tm1aRVQzUmFOV2h1TUdkdVRuYxAB",
+      "user": {
+        "name": "Anurag Bose",
+        "link": "https://www.google.com/maps/contrib/105463439219431721213?hl=en",
+        "contributor_id": "105463439219431721213",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXfbK5kafCRQmIzMqiR79bbLXPQ3trcz2pUDEuCUbLqhujCxuWv=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 174,
+        "photos": 186
+      },
+      "snippet": "I came in to use the washroom and stayed to have some good mallu cuisine. Opted for chicken stew and malabar parotha. The chicken pieces for the stew can be better I feel. Overall food was good.",
+      "extracted_snippet": {
+        "original": "I came in to use the washroom and stayed to have some good mallu cuisine. Opted for chicken stew and malabar parotha. The chicken pieces for the stew can be better I feel. Overall food was good."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 3,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait",
+        "recommendation_for_vegetarians": "Somewhat recommend",
+        "vegetarian_offerings": "Clearly labeled vegetarian dishes",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free street parking",
+        "wheelchair_accessibility": "Place is not accessible by wheelchair"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xBM2IyZGllR3cwUmt0TWExTkxiVWhYZGs5eGRYYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOlA3b2dieGw0RktMa1NLbUhXdk9xdXc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "9 months ago",
+      "iso_date": "2026-01-16T16:13:06Z",
+      "iso_date_of_last_edit": "2026-01-16T16:13:06Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBM2IyZGllR3cwUmt0TWExTkxiVWhYZGs5eGRYYxAB",
+      "user": {
+        "name": "Shriram Murugananthan",
+        "link": "https://www.google.com/maps/contrib/105785922779619270033?hl=en",
+        "contributor_id": "105785922779619270033",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUWaT_rwq_49RNbBPHkbPefih_WEro5ia6pdfVj8MvAA8AVIapUWQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 109,
+        "photos": 66
+      },
+      "snippet": "Decent food, price is also ok. It's a Kerala style restaurant. Unlimited buffet breakfast is available. Parking can be done on the road side. Washroom cleanliness needs to be improved.",
+      "extracted_snippet": {
+        "original": "Decent food, price is also ok. It's a Kerala style restaurant. Unlimited buffet breakfast is available. Parking can be done on the road side. Washroom cleanliness needs to be improved."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCRGNsRnlRWFpxT0RORVNXSm1jSGxDTkVNM2NVRRAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOlBDclFyQXZqODNESWJmcHlCNEM3cUE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-28T16:13:39Z",
+      "iso_date_of_last_edit": "2025-09-28T16:13:39Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfDLSO9V_HfWA8S_qFF1zqfuRIm1OrfiT-Qw4HEeMjiSZNSClg9fKzf5ZWmvJ29RuBWKVe-AdoZbp65eYAx08cXQIvZMLmoC4E0_idqP3VxpYK3g_2ic8WCIxrsiSYAbnZRDs25xlIfzX4u=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRGNsRnlRWFpxT0RORVNXSm1jSGxDTkVNM2NVRRAB",
+      "user": {
+        "name": "Muhammed Khalid Quraishi",
+        "link": "https://www.google.com/maps/contrib/108359459424128893641?hl=en",
+        "contributor_id": "108359459424128893641",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUDc9yVwKmRtFvcsZ9_SQeTcM86KDhodvKYJqO0ipS-U7eo9oRGNw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 48
+      },
+      "snippet": "Just stopped buy for dinner…as ambience was gud from outside….menu n place immersive food pathetic….staff uses washroom to do video call found out as the door was open…locked again n finished video call for another 10min….coming to the food….paneer manchurian was less of paneer more of cheap tomato sauce…strong smell can’t b eaten….lollipop chicken feels plasticy n hard…Mandi rice ok ok…no one serves food…no bone plate on table…drinks gud…\n\nOver all very absurd…hope u change staff or they will help u shut down the restaurant very soon…\n\nLet’s this b between us as I have tipped dem to…pls kick dem out…",
+      "extracted_snippet": {
+        "original": "Just stopped buy for dinner…as ambience was gud from outside….menu n place immersive food pathetic….staff uses washroom to do video call found out as the door was open…locked again n finished video call for another 10min….coming to the food….paneer manchurian was less of paneer more of cheap tomato sauce…strong smell can’t b eaten….lollipop chicken feels plasticy n hard…Mandi rice ok ok…no one serves food…no bone plate on table…drinks gud…\n\nOver all very absurd…hope u change staff or they will help u shut down the restaurant very soon…\n\nLet’s this b between us as I have tipped dem to…pls kick dem out…"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,200–1,400",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tod2R6WnNNV05OWmtSUllqVk9aMnhYWW5SR2FtYxAB!2m1!1s0x0:0x444bc75f4a582a0a!3m1!1s2@1:CAIQACodChtycF9oOkhwdzZsMWNNZkRRYjVOZ2xXYnRGamc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-08T06:33:34Z",
+      "iso_date_of_last_edit": "2025-09-08T06:33:34Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod2R6WnNNV05OWmtSUllqVk9aMnhYWW5SR2FtYxAB",
+      "user": {
+        "name": "Vincent Paul",
+        "link": "https://www.google.com/maps/contrib/109257647328656439597?hl=en",
+        "contributor_id": "109257647328656439597",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXQ0CwO5t3zfLQpX8thn-4pdsID9AiGzqKXNjNV1IbrG9dwBGfn=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 1
+      },
+      "snippet": "Very bad experience. Pls avoid.\nThe restaurant is very poorly maintained.\nVery bad customer service, felt like they don't want any customers there. ACs were not working. The whole restaurant smelling of rotting wood.\nThe wait was too long even though the restaurant was empty. They even gave us items that we didn't order and billed us.\nIn the end, there was no water in the washroom.\nThey don't care about the most basic requirements for their customers. It was a really bad experience.",
+      "extracted_snippet": {
+        "original": "Very bad experience. Pls avoid.\nThe restaurant is very poorly maintained.\nVery bad customer service, felt like they don't want any customers there. ACs were not working. The whole restaurant smelling of rotting wood.\nThe wait was too long even though the restaurant was empty. They even gave us items that we didn't order and billed us.\nIn the end, there was no water in the washroom.\nThey don't care about the most basic requirements for their customers. It was a really bad experience."
+      },
+      "details": {
+        "price_per_person": "₹600–800",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "reservation": "Not sure",
+        "group_size": "3-4 people",
+        "wait_time": "30-60 min",
+        "parking_space": "Difficult to find parking",
+        "parking_options": "Parking is unavailable",
+        "kid_friendliness": "Very bad. They do not provide any assistance to customers with babies"
+      },
+      "likes": 0
+    }
+  ]
+}

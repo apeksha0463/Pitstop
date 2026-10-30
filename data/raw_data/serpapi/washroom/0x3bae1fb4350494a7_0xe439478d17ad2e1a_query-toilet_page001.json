@@ -1,0 +1,98 @@
+{
+  "search_metadata": {
+    "id": "6ae30f2bfcf0d9ad6d65fb40",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/DARO9E8Bo6S8CqJQD2jkDBf49GvsnEDCqe9ch8Uo3Ls/6ae30f2bfcf0d9ad6d65fb40.json",
+    "markdown_endpoint": "https://serpapi.com/searches/DARO9E8Bo6S8CqJQD2jkDBf49GvsnEDCqe9ch8Uo3Ls/6ae30f2bfcf0d9ad6d65fb40.md",
+    "created_at": "2026-10-29 09:17:31 UTC",
+    "processed_at": "2026-10-29 09:17:31 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1fb4350494a7:0xe439478d17ad2e1a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/DARO9E8Bo6S8CqJQD2jkDBf49GvsnEDCqe9ch8Uo3Ls/6ae30f2bfcf0d9ad6d65fb40.html",
+    "prettify_html_file": "https://serpapi.com/searches/DARO9E8Bo6S8CqJQD2jkDBf49GvsnEDCqe9ch8Uo3Ls/6ae30f2bfcf0d9ad6d65fb40.prettify",
+    "total_time_taken": 0.52
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPd3RHcjl3RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICOwtGr9wE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-05T08:27:12Z",
+      "iso_date_of_last_edit": "2022-06-05T08:44:38Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPd3RHcjl3RRAB",
+      "user": {
+        "name": "avinash s",
+        "link": "https://www.google.com/maps/contrib/100376826932551865770?hl=en",
+        "contributor_id": "100376826932551865770",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVkf4v144bzqtWGm0XoX4xkLhUOiXxz63d-HVOih81nrmwVPOw2=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 108,
+        "photos": 20
+      },
+      "snippet": "There are many things which are not good in this property.\n\n• Do not think as an resort and go, u will be disappointed. Its an club house.\n• Rooms are small and huge cost.\n• Showers handles are not working, Toilet seats are having stains.\n• Room service is bad.\n• Pool is very small / tiny. If half of rooms crowed come to pool it will be full.\n•  Food one of the worst food. Weekends are only buffet dinner. Which Is high value low quality. Options are also less.\nAmenities except small pool , billards , cycling. There are not much to say.\n\nOverall rating 1/ 10",
+      "extracted_snippet": {
+        "original": "There are many things which are not good in this property.\n\n• Do not think as an resort and go, u will be disappointed. Its an club house.\n• Rooms are small and huge cost.\n• Showers handles are not working, Toilet seats are having stains.\n• Room service is bad.\n• Pool is very small / tiny. If half of rooms crowed come to pool it will be full.\n•  Food one of the worst food. Weekends are only buffet dinner. Which Is high value low quality. Options are also less.\nAmenities except small pool , billards , cycling. There are not much to say.\n\nOverall rating 1/ 10"
+      },
+      "likes": 2
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHMy15WF9RRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDG3-yX_QE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2021-12-14T03:25:22Z",
+      "iso_date_of_last_edit": "2021-12-14T03:32:07Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMy15WF9RRRAB",
+      "user": {
+        "name": "Ankur Saraf",
+        "link": "https://www.google.com/maps/contrib/116030984526568958156?hl=en",
+        "contributor_id": "116030984526568958156",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVImHG9tUjQoVS7mJ28oXnrm10IiRfpEGmcegU6UUYQ2Enevoo=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 1223,
+        "photos": 44359
+      },
+      "snippet": "Despite having a very good property, the service is third class.. even I can say that it can go more worst.. let's have look what I experienced..\n- On check in to the room (107) (13th Dec 2021) found that no water bottles was placed in the room.\n- House Keeping do not picks up the call.\n- Reception picked up the call after atleast 10mins and making 4 calls..\n- Then the person turned in even after another 10 mins .. and too after making one more call and showing the dissatisfaction.\n- Thereafter called reception to send someone for checking TV, as it was not working.. the person never turned in.\n- Hot water kettle placed in the room was in bad shape (broken lid), even after making complaint it was not replaced.(Check Pics)\n- The toilet flush button was found broken and hanging.. when one push the same the water kept flowing and does not stops automatically.\n- Now comes to Dinner.. firstly, the service was extremely slow.. even on that when you ask something from their Menu.. the person tells ki preparing that thing took more time (normal time for serving the items of their choice was more than 30 mins, God know how much more time they require.\n- Then the served food was cold and even the taste was not good.\n- Even categorically asked the reception manager to get ready the breakfast by 7:00 am morning, the breakfast not made available on time. And even the morning shift manager is saying that the breakfast will be served by 8 am, and didn't received any instructions. This happened when the breakfast was said to be complimentary and the cost was included in our stay.\nOverall had a very pathetic experience here... and will say..  Never. Ever. Go. There.\n\nWorst & Pathetic Service/ Maintenance !!",
+      "extracted_snippet": {
+        "original": "Despite having a very good property, the service is third class.. even I can say that it can go more worst.. let's have look what I experienced..\n- On check in to the room (107) (13th Dec 2021) found that no water bottles was placed in the room.\n- House Keeping do not picks up the call.\n- Reception picked up the call after atleast 10mins and making 4 calls..\n- Then the person turned in even after another 10 mins .. and too after making one more call and showing the dissatisfaction.\n- Thereafter called reception to send someone for checking TV, as it was not working.. the person never turned in.\n- Hot water kettle placed in the room was in bad shape (broken lid), even after making complaint it was not replaced.(Check Pics)\n- The toilet flush button was found broken and hanging.. when one push the same the water kept flowing and does not stops automatically.\n- Now comes to Dinner.. firstly, the service was extremely slow.. even on that when you ask something from their Menu.. the person tells ki preparing that thing took more time (normal time for serving the items of their choice was more than 30 mins, God know how much more time they require.\n- Then the served food was cold and even the taste was not good.\n- Even categorically asked the reception manager to get ready the breakfast by 7:00 am morning, the breakfast not made available on time. And even the morning shift manager is saying that the breakfast will be served by 8 am, and didn't received any instructions. This happened when the breakfast was said to be complimentary and the cost was included in our stay.\nOverall had a very pathetic experience here... and will say..  Never. Ever. Go. There.\n\nWorst & Pathetic Service/ Maintenance !!"
+      },
+      "likes": 1
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2eW9TdG53RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgID6yoStnwE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "5 years ago",
+      "iso_date": "2021-09-26T04:39:49Z",
+      "iso_date_of_last_edit": "2021-09-26T04:39:49Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2eW9TdG53RRAB",
+      "user": {
+        "name": "P G",
+        "link": "https://www.google.com/maps/contrib/115504289338989942569?hl=en",
+        "contributor_id": "115504289338989942569",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI9xR9TebojiOtH1UFj7SLlHR-rrYnpVmiBFx1L545pE5kHyw=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 0
+      },
+      "snippet": "We stayed in Goldfinch Retreat for 2 nights check in 23 September 2021 and check out 25 September 2021.  All hotel staff behaviour was excellent.  Food was excellent.  But when it comes to room, I want to bring the following few points for the Managements kind consideration:\n\n1) Toilet door did not have a lock.\n2) There was no liquid handwash provided.  Hence we had to purchase one from the market.\n3) Two adults were there but only one soap was provided\n4) The window facing the garden where a platform was there was looking very ugly as if it was not cleaned for days.",
+      "extracted_snippet": {
+        "original": "We stayed in Goldfinch Retreat for 2 nights check in 23 September 2021 and check out 25 September 2021.  All hotel staff behaviour was excellent.  Food was excellent.  But when it comes to room, I want to bring the following few points for the Managements kind consideration:\n\n1) Toilet door did not have a lock.\n2) There was no liquid handwash provided.  Hence we had to purchase one from the market.\n3) Two adults were there but only one soap was provided\n4) The window facing the garden where a platform was there was looking very ugly as if it was not cleaned for days."
+      },
+      "details": {
+        "trip_type": "Vacation"
+      },
+      "likes": 0
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "data_id": "0x3bb1e29159d69fe1:0x324d96dade0efb15",
+  "page": 1,
+  "review_filter": "query:restroom",
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "response",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 4,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGS1NraE5RMDVuWnpONmJXMTJiall0VVZKdWNHYxAB",
+      "author": "Dr.Chaithanya H K",
+      "rating": 4.0,
+      "date": "3 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoJRoChj99gkzUNnF1v_RMW_mGA37KcR-lWR7At59gADuRYhLz1J8hIz495qlLjWrmpnH1V1we8uGUAuJF3fetDBAeQqjUk1aAqjKkrAXPMcLNatAsj-RqJWxc5A4WUQqiHf978QTalM9A=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0n2Cxq2gBsc70S2y5R8UbeSlzm9eCWUGPWp3lO0O0XbPEk9ifFnQCdY0LU7-uxc7yS6QKrl4kyo1YxkUK4B2EJgFbl_HtADl7evpqG0TVGb3wpE3L5UHd8CCrAfvrkD7-GtguG_pSlbeo=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWGXDs01hu-ZSIwCeTvsdDbm42IpvYi2IFr_8ASGSQ1dBbSSgb7_tacR1F0REhRTDBrLTr6IeO9xPV7x1rJ6fplqDYKHdTxyhLX24YxvnvA6ocZEjjnkweYp9iyzc4A_5N05iqe8mpW9c=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9Cr0p0-sWt2deGtxUhvDIzLWV9Kd8qY0EdeaYOKj5QOdT1oUa8Ua6f5tSUbst5KpQHOz5dFsQBGg_wJF6Q7T989NbpHgA_RcKkXZYJqaI1RKV5a0IjXsT9RPoPbrvOQqQiBGd7uCqO_g=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0N3I2cGxRRRAB",
+      "author": "Abhiraaj Ray",
+      "rating": 1.0,
+      "date": "2 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxc2NyYm13RRAB",
+      "author": "Priti Singh",
+      "rating": 3.0,
+      "date": "2 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2eUxidTJRRRAB",
+      "author": "Ansh Paliwal",
+      "rating": 4.0,
+      "date": "5 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhc3JXc1JREAE",
+      "author": "Thirumala Raju (STR)",
+      "rating": 1.0,
+      "date": "5 years ago",
+      "images": []
+    }
+  ]
+}

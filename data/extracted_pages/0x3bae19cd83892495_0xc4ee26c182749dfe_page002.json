@@ -1,0 +1,231 @@
+{
+  "search_metadata": {
+    "id": "6ae1bf9ed5fd7421ad3db1a3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mFUasq3w9HvVmHtYBsklsbOxXGQ_-hfJduXlfbDvJGQ/6ae1bf9ed5fd7421ad3db1a3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/mFUasq3w9HvVmHtYBsklsbOxXGQ_-hfJduXlfbDvJGQ/6ae1bf9ed5fd7421ad3db1a3.md",
+    "created_at": "2026-10-28 09:25:50 UTC",
+    "processed_at": "2026-10-28 09:25:50 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19cd83892495:0xc4ee26c182749dfe!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/mFUasq3w9HvVmHtYBsklsbOxXGQ_-hfJduXlfbDvJGQ/6ae1bf9ed5fd7421ad3db1a3.html",
+    "prettify_html_file": "https://serpapi.com/searches/mFUasq3w9HvVmHtYBsklsbOxXGQ_-hfJduXlfbDvJGQ/6ae1bf9ed5fd7421ad3db1a3.prettify",
+    "total_time_taken": 2.92
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19cd83892495:0xc4ee26c182749dfe",
+    "hl": "en",
+    "next_page_token": "CjEIARIpCgoAP7_LAeJu____EhD_2goUJrIkNBpTn4AAAAAAGgn92TkCa-OhnE8YACIA:10"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNQNHZfZzV3RRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CIHM0ogKEICAgICP4v_g5wE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2024-11-22T20:12:15Z",
+      "iso_date_of_last_edit": "2024-11-22T20:12:15Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcbKOxwHmotIbJ32jC3uulD5OAMRvpqRLIxIdGp54C6txSBchCEdnYEjCw4yGGUBobPtIHqGItSJ-vTBVydI9HyHxoRdd2QOiPoP4lb5vZV8jOAAsj-9LPkQQxJjqwLLOOja9m-=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcoJK19r0H6tDGVK-sJeyN0onDiljLacrU3ok4DbFQOxyCBNyDSm8edpwsoDaXwNCc0jsMMyUs63dfAAvwDDOIgCE8nwCYkInrSo616PSWyQf4lZcG9_j6nSy1twTpMjEKpq3oNAw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeTeWKVa54M6k_jKGBmQHPKgHkRo5Hem8LWPVkQzmLz2gCBMD_NF08znEF-XSome15O_XPfoLs5gECrKNj7sIB-9rmsE58ceM0ZQ0ODw-fGJnXSK8YjsYm4f7mXO_4EvejITpUJ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfDnxeX7s6OFufX5kq5sS7Psh90pbGpjkTJOXNojhNGZZxJTpqn0LkyhkJxG9_2LmSbXpRK2w5_j5vj5Zm-_mxn9EFn36ySm1RN076m67OFMfVt_3e2FEZvdsZ0m2RG-Y4DYFtSGA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc0RU2BAx_tiYvurPK4m33VWXlh5OlTQZrQ6TtcPNpP8sCoyBVeGkXlrW1-fXz84pBIf3Gi_RToAxzVZ1A9i06WFGaEMMzIirGFfVJUrE7CGCLmt-9pQYnQti5Wal8_M6RLN4wH=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf_fw2dTKzH_CB5RFL7VlTLD_cmsFJm_GmiraWyKHe5eGTn0xIP8YI3GDDro-KraSJbsFBJUMsgPKGAhfSOMU-1OqzxEF64zpvpHiLzGLxbGI1Qk_k4rdTio2zSrVrdyMgknh1z=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLea96N54_x6xSunrbCDWTqyxb2kiPHGnKX3L-zTToPKj2Rv6dFoEpsCuvg_3IDk4cQ4Sgovit3-YqpNYEc6hMXFU3SI97naRuSV6XJTKmbCbDRj6-Akw5MGWaDa9hCpbKOgWpM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfEY1b6R1W_qR9ydMkwrT4ZsZo65bBfHRM9pzR0nuilqTBDmLXgeGEJOv7GgCmxjaTkhzUF9UfWzJbENQOMTieg0SBVaI8zgdR-SVFvBn0gbbom9Qke99Ufp7QPyLRm9WquHyVACA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdNRFNPVgXDSX1YOW63WGkfunQxPFszbZc0TROehQp8DbSkO3m4OmMtTsb1Wv2f0usof4ruzB8VKUjUv-qzBZPLXZpXO4nIevVfIZcUsdV1Rspbf5nMd1ULbAyR6oPs9CkTmycR=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe0AwzQ5qS8_WjP6zsOECYnMAuihCfRXzcTYdHINUqda6DoXfWskBaTbRC0rtdXVbasfNEtNwg1zAQqLjSTXzeo9ThBlmOOkBL2CZSgASRR9CcG3yXxKdvGJXfFJWf3u8la-2UEng=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdtQs4Uco_UhIftWcAth5bCFFfs6_kSExeyJj9ROxI_ZuVf5KNUhXJKS5rDlo6NJGiN3cyb4fdWwAOtIDqa7b7Abib0KnjdKmQ2IoNNJnJGvOTZdd2uLu6FJCiCbOEVxQn60Y8C=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfQzVz1urzXf6UNcbMa_-bzFq8ohwg4XZZmoPVQiTp5YNSuAy63VxLUoQgX8eZTd_BnN0jOvp2v2Vfr3Hj5vkm7U5mlTGIM6sDS3zWCK87T3zc0dtEbEcqpCBHJs0SEVAB2EAcSBA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfgUCkmMnSPidB24P_BMtTunJ4dYgxRh0Szu2Q9df-U2nB_Ya0OQ1TWyT_5dMNOu4mvkfamiaMqaQui5KKSI_zhnu_yyvc-czgPmn-8x1dBJGDTwqJyW2EGh6hq7dAjcu2rvK8w=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQNHZfZzV3RRAB",
+      "user": {
+        "name": "Ramesh G",
+        "link": "https://www.google.com/maps/contrib/116865996148179936880?hl=en",
+        "contributor_id": "116865996148179936880",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWO5kQ_Y3sdZLiKpKKnsvMGC-go8PYjobMBMHixZboG_kDhJ8tq=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 23
+      },
+      "snippet": "Awesome place Restaurant to hangout with Family & Friends, Had Multiple Ambience for Dining\nHave Air conditioned Cabins, Roof Top Family Open Air Restaurant, Individual Huts, Have Casual Dining in Ground floor ,\nServes best of North Indian, Chinese, Tandoori, Coastal, Continental, Italian & Naati Style Delicacies at budget friendly price, Quality of the food is Excellent here , Service is good  & fast , Over all , The Food Factory is best restaurant in Yelahanka..",
+      "extracted_snippet": {
+        "original": "Awesome place Restaurant to hangout with Family & Friends, Had Multiple Ambience for Dining\nHave Air conditioned Cabins, Roof Top Family Open Air Restaurant, Individual Huts, Have Casual Dining in Ground floor ,\nServes best of North Indian, Chinese, Tandoori, Coastal, Continental, Italian & Naati Style Delicacies at budget friendly price, Quality of the food is Excellent here , Service is good  & fast , Over all , The Food Factory is best restaurant in Yelahanka.."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Mushroom Pepper",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Opposite to Jakkur Aerodrome, Next to Attide Hotel, Allalasandra, Yelahanka, Bengaluru",
+        "kid_friendliness": "Have Kid friendly Italian foods, pizzas, French fries,pastas, Garden restaurant with Natural air",
+        "wheelchair_accessibility": "Yes"
+      },
+      "likes": 0,
+      "response": {
+        "date": "a year ago",
+        "iso_date": "2024-12-01T04:05:56Z",
+        "iso_date_of_last_edit": "2024-12-01T04:05:56Z",
+        "snippet": "Dear Mr Ramesh G thank you so much for your time and appreciation. We are glad that you loved our service and had a good experience here . We look forward to your next visit ❤️❤️❤️💐💐💐",
+        "extracted_snippet": {
+          "original": "Dear Mr Ramesh G thank you so much for your time and appreciation. We are glad that you loved our service and had a good experience here . We look forward to your next visit ❤️❤️❤️💐💐💐"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOc2RuWXhWMVJNVUVWWFJXcGlVRmhqUlZkMlRXYxAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOlNsdnYxV1RMUEVXRWpiUFhjRVd2TWc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "iso_date": "2026-05-12T17:39:23Z",
+      "iso_date_of_last_edit": "2026-05-12T17:39:23Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOc2RuWXhWMVJNVUVWWFJXcGlVRmhqUlZkMlRXYxAB",
+      "user": {
+        "name": "Vicky N",
+        "link": "https://www.google.com/maps/contrib/108958690411938831993?hl=en",
+        "contributor_id": "108958690411938831993",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU1zSf_zMQOMviUhbCsSWdwUglwh5jsXmowREW6M1C2iAmdc6fQYg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 13,
+        "photos": 6
+      },
+      "snippet": "Best place to hangout at any given point of time. Best Location. Bloodymary Cocktail is good and must try. Mr. Subbu managed very well in getting our food on time. Great service overall",
+      "extracted_snippet": {
+        "original": "Best place to hangout at any given point of time. Best Location. Bloodymary Cocktail is good and must try. Mr. Subbu managed very well in getting our food on time. Great service overall"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-18T14:59:57Z",
+        "iso_date_of_last_edit": "2026-05-18T14:59:57Z",
+        "snippet": " \"Hi VICKY , Thank you for visiting! We’re so glad you loved our BLOODYMARY cocktail. It’s one of our favorites too! We’ll be sure to pass your compliments on to our BARTENDER as well as to our Captain Mr. SUBBU for his management and service. See you next time!\"",
+        "extracted_snippet": {
+          "original": " \"Hi VICKY , Thank you for visiting! We’re so glad you loved our BLOODYMARY cocktail. It’s one of our favorites too! We’ll be sure to pass your compliments on to our BARTENDER as well as to our Captain Mr. SUBBU for his management and service. See you next time!\""
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twa1lWbGZZVTkzYm04ME5tTmFNMDlNTFU1SFlVRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOkpkYVlfYU93bm80NmNaM09MLU5HYUE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-26T22:16:02Z",
+      "iso_date_of_last_edit": "2026-09-26T22:16:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twa1lWbGZZVTkzYm04ME5tTmFNMDlNTFU1SFlVRRAB",
+      "user": {
+        "name": "Sharuk Shaik",
+        "link": "https://www.google.com/maps/contrib/115720532803861994564?hl=en",
+        "contributor_id": "115720532803861994564",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKg79bg6Y4UFCvZ4xZDOkEUhDYdQyGw8c6AAoomYuwK9XVDiQ=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Manager Nithin provided an extremely disappointing experience. He turned off the lights without any warning or heads-up that it was getting late, and when we asked for them to be turned back on so we could finish our food, we were made to wait for around 30 minutes.\n\nHis behavior came across as rude, unprofessional, and unnecessarily disrespectful. It felt as though he intentionally made the situation difficult for us instead of handling it professionally. This was extremely poor service and completely ruined our experience. Very disappointing.",
+      "extracted_snippet": {
+        "original": "Manager Nithin provided an extremely disappointing experience. He turned off the lights without any warning or heads-up that it was getting late, and when we asked for them to be turned back on so we could finish our food, we were made to wait for around 30 minutes.\n\nHis behavior came across as rude, unprofessional, and unnecessarily disrespectful. It felt as though he intentionally made the situation difficult for us instead of handling it professionally. This was extremely poor service and completely ruined our experience. Very disappointing."
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0,
+      "response": {
+        "date": "3 weeks ago",
+        "iso_date": "2026-10-05T15:00:22Z",
+        "iso_date_of_last_edit": "2026-10-05T15:00:22Z",
+        "snippet": "Hi Sharuk,\n\nWe’re genuinely sorry to hear about your experience, and we’re disappointed that your evening ended on such a frustrating note. This is certainly not the level of hospitality or professionalism we expect from our team.\n\nWe completely understand how upsetting it must have been to be left waiting while trying to finish your meal, and we’ll be addressing this internally with the team.\n\nWe’d truly appreciate the opportunity to welcome you back and give you the experience you deserved in the first place — **with the lights on, the food hot, and absolutely no surprise “closing ceremony”!** 😅 We hope you’ll give us another chance to serve you better. ❤️",
+        "extracted_snippet": {
+          "original": "Hi Sharuk,\n\nWe’re genuinely sorry to hear about your experience, and we’re disappointed that your evening ended on such a frustrating note. This is certainly not the level of hospitality or professionalism we expect from our team.\n\nWe completely understand how upsetting it must have been to be left waiting while trying to finish your meal, and we’ll be addressing this internally with the team.\n\nWe’d truly appreciate the opportunity to welcome you back and give you the experience you deserved in the first place — **with the lights on, the food hot, and absolutely no surprise “closing ceremony”!** 😅 We hope you’ll give us another chance to serve you better. ❤️"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGbGVYSnNXRUpUUlcwNGJqUTNMVEJaVkVsc1VGRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOkFleXJsWEJTRW04bjQ3LTBZVElsUFE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-01T20:22:39Z",
+      "iso_date_of_last_edit": "2026-08-01T20:22:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbGVYSnNXRUpUUlcwNGJqUTNMVEJaVkVsc1VGRRAB",
+      "user": {
+        "name": "Soyaf Akter",
+        "link": "https://www.google.com/maps/contrib/100931148300605445469?hl=en",
+        "contributor_id": "100931148300605445469",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWdUNhMiAC9hnfG3WCT-FI0EahnJTIBfbyOAkfRunfSchxeAmIxuw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 28,
+        "photos": 0
+      },
+      "snippet": "Soo damn noisy. Like ppl wer literally screaming. Got evry irritated. They should do something to maintain the crowd and the noise. Other then that it was good.",
+      "extracted_snippet": {
+        "original": "Soo damn noisy. Like ppl wer literally screaming. Got evry irritated. They should do something to maintain the crowd and the noise. Other then that it was good."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 5,
+        "atmosphere": 1,
+        "wait_time": "10-30 min",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sSFVrTTFSMVZGTUVwR1JsbzJYeTFSYTA1Qk9FRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOmlHUkM1R1VFMEpGRlo2Xy1Ra05BOEE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-08T05:07:04Z",
+      "iso_date_of_last_edit": "2025-09-08T05:07:04Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfUU8-fCL2VcnF4sJ-hBZjEDPIbwl_WPDvSDrhzrug6eGvXYExBomIDhkWE1OH-rsB_QrBGxSqmfhKVdEZqRnuRsrVBijqZWSGokIGn66sKOwnkbz2SJjDVyK42JmQ0CdENxWozo-eF9ho=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSFVrTTFSMVZGTUVwR1JsbzJYeTFSYTA1Qk9FRRAB",
+      "user": {
+        "name": "Nischal Gowda",
+        "link": "https://www.google.com/maps/contrib/113509342165215391359?hl=en",
+        "contributor_id": "113509342165215391359",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWMyf3e37ZmOhBKijpslTI1VsTxK2ulOh99N6AKXk5txzDNYy2h=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 94,
+        "photos": 89
+      },
+      "snippet": "Nice restaurant has variety of food options has also brewfactory, we went for luch with my team mates we ordered tandoori platter, silver fish rava fry, biryani, kabab, & chicken inplatter was so juicy and tender nice must try once with family",
+      "extracted_snippet": {
+        "original": "Nice restaurant has variety of food options has also brewfactory, we went for luch with my team mates we ordered tandoori platter, silver fish rava fry, biryani, kabab, & chicken inplatter was so juicy and tender nice must try once with family"
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,600–1,800",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 3,
+        "noise_level": "Very quiet",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    }
+  ]
+}

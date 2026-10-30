@@ -1,0 +1,384 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bae197d9384cd9d:0x11226b272c6be0b2",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIThhD1o3SITSNeScnLs22svytjxUvkaIJo3SZAASNWuQSYGLVqZ7Ts7GWbaBSFVB-YQKFxKpAloVhmaXpLaco2EI4_PTJNRikB_bjDe9iyGDuKSRmo8TwjQwC7DYtc7smMF68cA=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbF9ESWlnRRAB",
+      "image_index": 1
+    },
+    {
+      "position": 2,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddUJISi61Vak-4jG_H5jM54bnA7wDqWldKFelypygD7R9V7AYsvVUSXT1JVlKszLL8vcogKb1DXzmZgFZf7Mgm3W6Y1qXbhg7dyD8uipknWbU-3lGMkWWO1iKDZxaoE-DSD2w=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbF9ESWlnRRAB",
+      "image_index": 2
+    },
+    {
+      "position": 3,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmoDH17kq1WAzEFVcxiEwpG5YRTxEXa7Uq_gbxlmDmdwXBW9FKI9XsH0SKHE8He9z8q2F5ki3T01WpYrM8KmLFE0HHrGyVdVVXXkUGapd2RqJexEoPn_MQhuuHR3_YAUzTCpM=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbF9ESWlnRRAB",
+      "image_index": 3
+    },
+    {
+      "position": 4,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVzFWgmHI7oLtdwn_1w3y4TRfXzLcV94XrFO0Ikz7xk218gBmPvg-Vu2HK_k-2G_TtmrxWBnduXM1FRU4o9f2acY5uwwxky5WlUJ_-PImvIw1_r8EwRKbWfYlRsn73yCHZBRc=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbF9ESWlnRRAB",
+      "image_index": 4
+    },
+    {
+      "position": 5,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhM4mGp1oDGTOcW0aMrNK6ORF8MvjrVFFKRNO7ex2MPiCWvhVsnDFRFyss7uBOBQw3g13tcqOvcTlyYzDhqolHk3mjlXCapzYD9Y0Sz_o6ANqgUKLXby0aJPN9TN6N6jdq81yH=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbF9ESWlnRRAB",
+      "image_index": 5
+    },
+    {
+      "position": 6,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXEVpaxNetoayX-OR67zxTpCGSV8kZ3wVFvdsZIJdarsXIq3e52Um4Fw8P5CISOZETc5AAiBNhx_T9o-zqh_sthZH9DLWK5n2j2YwEomufmhlWB6-KaJF2z1vIkGqIM9Jf6yDZ=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbF9ESWlnRRAB",
+      "image_index": 6
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oYVZqWk5lRXhZWW1wa1VXaFdjVzlLUlVoV1FrRRAB",
+      "author": "Geo Rajan",
+      "author_url": "https://www.google.com/maps/contrib/100423862469085498979?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-21T14:04:48Z",
+      "iso_date_of_last_edit": "2026-08-21T14:04:48Z",
+      "text": "I had a very disappointing experience at this restaurant.\n\nThe hygiene standards were worse. The washroom was very poorly maintained and had a terrible smell. I could barely stand inside for a minute because of the smell. The wash area was also dirty, with food particles left around. For a restaurant, maintaining cleanliness in these areas should be a basic priority.\n\nI brought the issue to the attention of the billing counter, but the response was that there was a shortage of water. If water is unavailable to maintain basic sanitation, the washroom should be closed temporarily or the restaurant should make alternative arrangements. Simply continuing to operate with such poor hygiene is not acceptable.\n\nI also had stomach issues the following day. I cannot conclusively attribute this to the food, but given the overall experience, it was understandably concerning.\n\nThe combination of disappointing food, blood in the chicken and extremely poor hygiene made this a very unpleasant experience. I would not recommend this restaurant.",
+      "text_original_language": "I had a very disappointing experience at this restaurant.\n\nThe hygiene standards were worse. The washroom was very poorly maintained and had a terrible smell. I could barely stand inside for a minute because of the smell. The wash area was also dirty, with food particles left around. For a restaurant, maintaining cleanliness in these areas should be a basic priority.\n\nI brought the issue to the attention of the billing counter, but the response was that there was a shortage of water. If water is unavailable to maintain basic sanitation, the washroom should be closed temporarily or the restaurant should make alternative arrangements. Simply continuing to operate with such poor hygiene is not acceptable.\n\nI also had stomach issues the following day. I cannot conclusively attribute this to the food, but given the overall experience, it was understandably concerning.\n\nThe combination of disappointing food, blood in the chicken and extremely poor hygiene made this a very unpleasant experience. I would not recommend this restaurant.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oYVZqWk5lRXhZWW1wa1VXaFdjVzlLUlVoV1FrRRAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CAIQACodChtycF9oOnhaVjZNeExYYmpkUWhWcW9KRUhWQkE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmd2JPeTVBRRAB",
+      "author": "Gracy N",
+      "author_url": "https://www.google.com/maps/contrib/113901372474070764558?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 44,
+      "author_photos_count": 17,
+      "rating": 2.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-29T18:45:08Z",
+      "iso_date_of_last_edit": "2024-12-29T18:45:08Z",
+      "text": "Well, after a long ride from Bidadi. We were very hungry and after seeing good for reviews for Thamaq, we decided to give it a try. Unfortunately the excitement and enthusiasm all went for a toss, when after 40 mins We were still didn't get the order that we placed. Customers who came after us got their orders and we were blankly staring at each other's faces. Finally when we got the order our hopes went high, however, needless to say we were again utterly disappointed with the chicken ghee roast which came as a dish that was made out of sheer neglect and was so sour, the naans were cold and the ghee rice had no cashews or raisins or any other whole spices that were supposed to be in the dish. The only thing that did justice to the dinner was the coconut and mango pudding. The waiter and the manager tried their best to apologize but this could have been resorted in a much better way. Also the washroom stinks strongly of urine you could almost throw up. Advice:- please don't fall for tall claims through Google reviews.",
+      "text_original_language": "Well, after a long ride from Bidadi. We were very hungry and after seeing good for reviews for Thamaq, we decided to give it a try. Unfortunately the excitement and enthusiasm all went for a toss, when after 40 mins We were still didn't get the order that we placed. Customers who came after us got their orders and we were blankly staring at each other's faces. Finally when we got the order our hopes went high, however, needless to say we were again utterly disappointed with the chicken ghee roast which came as a dish that was made out of sheer neglect and was so sour, the naans were cold and the ghee rice had no cashews or raisins or any other whole spices that were supposed to be in the dish. The only thing that did justice to the dinner was the coconut and mango pudding. The waiter and the manager tried their best to apologize but this could have been resorted in a much better way. Also the washroom stinks strongly of urine you could almost throw up. Advice:- please don't fall for tall claims through Google reviews.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹600–800",
+        "food": 2,
+        "service": 2,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNmd2JPeTVBRRAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CIHM0ogKEICAgICfwbOy5AE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabDZlVXN3RRAB",
+      "author": "Muhammed Nashid",
+      "author_url": "https://www.google.com/maps/contrib/101038874809537110101?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 6,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 years ago",
+      "iso_date": "2023-10-08T14:12:19Z",
+      "iso_date_of_last_edit": "2023-10-08T14:12:19Z",
+      "text": "Very bad service waiting for food very long time cleanless washroom",
+      "text_original_language": "Very bad service waiting for food very long time cleanless washroom",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURabDZlVXN3RRAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CIHM0ogKEICAgIDZl6eUswE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbF9ESWlnRRAB",
+      "author": "Aadil Adam",
+      "author_url": "https://www.google.com/maps/contrib/117262980561733664992?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 130,
+      "author_photos_count": 1391,
+      "rating": 1.0,
+      "date": "3 years ago",
+      "iso_date": "2023-05-05T16:43:01Z",
+      "iso_date_of_last_edit": "2023-05-05T16:50:59Z",
+      "text": "The only thing I liked here was the vibe and washroom cleanliness. Lol.\n\nThe food is below average. They do not know what is meaning of crispy chicken and difference between pulao and Mandi rice.\n\nMandi rice was exactly like Veg Pulao with burnt chicken which tasted awful.\nThe baked chicken was not good. Please change the spices you add to it.\n\nThe best advice is to change the head chef of your restaurant.  Please ask them to try dishes at other arabian cuisine restaurant to understand how a dish should look and taste. I mean, the CHEF is amateur.\n\nService - PLEASE CHANGE THE STAFF. OR TEACH THEM SOME BASIC ETIQUETTES. They are rude to a different level and are never interested to welcome, take order or serve the customers. Mr. NOUSH , please change your horrible attitude towards customers.\n\nMr. RAMNAAS was better in attending people. Kudos to you.\n\nAlso, please change the way you serve the dishes. Its just looks like some local cook serves in highway side dhaba.\n\nDisappointed.",
+      "text_original_language": "The only thing I liked here was the vibe and washroom cleanliness. Lol.\n\nThe food is below average. They do not know what is meaning of crispy chicken and difference between pulao and Mandi rice.\n\nMandi rice was exactly like Veg Pulao with burnt chicken which tasted awful.\nThe baked chicken was not good. Please change the spices you add to it.\n\nThe best advice is to change the head chef of your restaurant.  Please ask them to try dishes at other arabian cuisine restaurant to understand how a dish should look and taste. I mean, the CHEF is amateur.\n\nService - PLEASE CHANGE THE STAFF. OR TEACH THEM SOME BASIC ETIQUETTES. They are rude to a different level and are never interested to welcome, take order or serve the customers. Mr. NOUSH , please change your horrible attitude towards customers.\n\nMr. RAMNAAS was better in attending people. Kudos to you.\n\nAlso, please change the way you serve the dishes. Its just looks like some local cook serves in highway side dhaba.\n\nDisappointed.",
+      "language": null,
+      "translated": false,
+      "likes": 9,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 2
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURSbF9ESWlnRRAB!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CIHM0ogKEICAgIDRl_DIigE%7C%7C?hl=en",
+      "images_count": 6,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIThhD1o3SITSNeScnLs22svytjxUvkaIJo3SZAASNWuQSYGLVqZ7Ts7GWbaBSFVB-YQKFxKpAloVhmaXpLaco2EI4_PTJNRikB_bjDe9iyGDuKSRmo8TwjQwC7DYtc7smMF68cA=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddUJISi61Vak-4jG_H5jM54bnA7wDqWldKFelypygD7R9V7AYsvVUSXT1JVlKszLL8vcogKb1DXzmZgFZf7Mgm3W6Y1qXbhg7dyD8uipknWbU-3lGMkWWO1iKDZxaoE-DSD2w=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmoDH17kq1WAzEFVcxiEwpG5YRTxEXa7Uq_gbxlmDmdwXBW9FKI9XsH0SKHE8He9z8q2F5ki3T01WpYrM8KmLFE0HHrGyVdVVXXkUGapd2RqJexEoPn_MQhuuHR3_YAUzTCpM=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVzFWgmHI7oLtdwn_1w3y4TRfXzLcV94XrFO0Ikz7xk218gBmPvg-Vu2HK_k-2G_TtmrxWBnduXM1FRU4o9f2acY5uwwxky5WlUJ_-PImvIw1_r8EwRKbWfYlRsn73yCHZBRc=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhM4mGp1oDGTOcW0aMrNK6ORF8MvjrVFFKRNO7ex2MPiCWvhVsnDFRFyss7uBOBQw3g13tcqOvcTlyYzDhqolHk3mjlXCapzYD9Y0Sz_o6ANqgUKLXby0aJPN9TN6N6jdq81yH=k-no",
+          "image_index": 5,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXEVpaxNetoayX-OR67zxTpCGSV8kZ3wVFvdsZIJdarsXIq3e52Um4Fw8P5CISOZETc5AAiBNhx_T9o-zqh_sthZH9DLWK5n2j2YwEomufmhlWB6-KaJF2z1vIkGqIM9Jf6yDZ=k-no",
+          "image_index": 6,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScDh1YkhREAE",
+      "author": "chinnu chinnu",
+      "author_url": "https://www.google.com/maps/contrib/109953541555086402022?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 38,
+      "author_photos_count": 15,
+      "rating": 1.0,
+      "date": "3 years ago",
+      "iso_date": "2023-04-12T10:21:27Z",
+      "iso_date_of_last_edit": "2023-04-12T10:22:06Z",
+      "text": "Good ambiance,thats all I can say about the place.The food has no taste consistency, each time food taste different or worst, so it depends on your luck, whether you get a tasty food or not.\nAnother sad reality is that , even if you see so many waiters and staff walking around, nobody comes themself to take your order unless you call out to them\nThe behavior of the staff is very rude and impolite, except the person at the cash counter. The staffs in white shirts have the worst conduct and rude behavior towards customers.\nNevertheless considering the fact that this is only restaurant in that area that has a photogenic ambiance, in bagalur cross, we are left with very little choice and thats what is making these people to provide customers with such a BAD SERVICE.\nHalf things in menu is not available.\nBUT.... Shawarma and snacks in outside outlet is good.\nBut there are no tissues in washroom🥺.\nAir conditioner does not work or they donot make it work🥲.",
+      "text_original_language": "Good ambiance,thats all I can say about the place.The food has no taste consistency, each time food taste different or worst, so it depends on your luck, whether you get a tasty food or not.\nAnother sad reality is that , even if you see so many waiters and staff walking around, nobody comes themself to take your order unless you call out to them\nThe behavior of the staff is very rude and impolite, except the person at the cash counter. The staffs in white shirts have the worst conduct and rude behavior towards customers.\nNevertheless considering the fact that this is only restaurant in that area that has a photogenic ambiance, in bagalur cross, we are left with very little choice and thats what is making these people to provide customers with such a BAD SERVICE.\nHalf things in menu is not available.\nBUT.... Shawarma and snacks in outside outlet is good.\nBut there are no tissues in washroom🥺.\nAir conditioner does not work or they donot make it work🥲.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": {
+        "order_type": "Dine in"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNScDh1YkhREAE!2m1!1s0x0:0x11226b272c6be0b2!3m1!1s2@1:CIHM0ogKEICAgICRp8ubHQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 5,
+    "reviews_with_images": 1,
+    "review_images_found": 6,
+    "unique_review_image_urls": 6,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 5,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Thamaq Restaurant",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": "No reviews",
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 5,
+  "reviews_with_images": 1,
+  "images_found": 6,
+  "unique_image_urls": 6,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 5,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed_with_no_reviews",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "search_information",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": "No reviews",
+      "reviews_in_response": 0,
+      "reviews_with_images": 0,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": null,
+      "first_review_has_images": false,
+      "first_review_image_count": null,
+      "first_review_image_entry_types": null
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:43:52",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 5,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:43"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:46"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:49"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:43:52"
+    }
+  ],
+  "next_page_token": null
+}

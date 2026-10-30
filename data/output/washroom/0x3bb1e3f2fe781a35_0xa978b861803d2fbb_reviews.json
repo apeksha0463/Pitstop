@@ -1,0 +1,509 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bb1e3f2fe781a35:0xa978b861803d2fbb",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8ZPlXNvqdXWx-Dqto-CcTRzIreZcrYm9ufgwkgaVXYRFtH-Z80FLK3d85c15Fy4mU13job1YW3r9NLvuodwZCrhGSus9FTgsVHnYREy-_BvrlYy6AMSVRBxfxAA0K4V4p7cjjJeBT6mHm=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB",
+      "image_index": 1
+    },
+    {
+      "position": 2,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFime6EDjIuBWrBUvFsQ8txaaN_rllHuk2UFROzuEG6nZlu9OMEPf21DM542kCEvleo-Ot-9tJFSFjlWQorg_lk2rwA40NgjNjVanhb7PVyz33zEqsASJhwOc_cAs5yY_9iEiblMrBPuE=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB",
+      "image_index": 2
+    },
+    {
+      "position": 3,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJCbMuufdirZ-HXXaQCBWWOmtTqh9eTSZwSv6GdiNS2XSJs9QS5QyaoQn3oNoGV_Wy3UZPbyopF1UGSFBVQBbbuPElYZDlN93PrvD02aWUW1HG8u5Bc3-lQI-FI4wCnG_rJ9FyB8jDndhT=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB",
+      "image_index": 3
+    },
+    {
+      "position": 4,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvVBYJFEDynklAqOg9_jIoaLxoGRd0Dw7tXhhdpxeIOBpJrfMRb7IMXlk_tzad2Y0aQjDJhTHf_xUdvaw7kFcjZypMNlazwyTWQSQfQ4DR-enzACJgAPg1VuJhCKsCM_laMZH-aqo-RyXE=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB",
+      "image_index": 4
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB",
+      "author": "Rama chandra",
+      "author_url": "https://www.google.com/maps/contrib/114325072811136484302?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 338,
+      "author_photos_count": 2007,
+      "rating": 4.0,
+      "date": "Edited 6 months ago",
+      "iso_date": "2026-04-03T17:53:08Z",
+      "iso_date_of_last_edit": "2026-04-04T18:52:09Z",
+      "text": "This Empire restaurant is located at bangalore to hyderabad highway. And they have very good parking facility. The food like halfam and bucket Biryani in very testy.  But the return room toilet need maintenance require properly",
+      "text_original_language": "This Empire restaurant is located at bangalore to hyderabad highway. And they have very good parking facility. The food like halfam and bucket Biryani in very testy.  But the return room toilet need maintenance require properly",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 5,
+        "service": 3,
+        "atmosphere": 4,
+        "recommended_dishes": "Biriyani, Grill Chicken",
+        "noise_level": "Quiet, easy to talk"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOmFaTVBfZ1JieHQ5akRSTXJKbHp1dWc%7C%7C?hl=en",
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8ZPlXNvqdXWx-Dqto-CcTRzIreZcrYm9ufgwkgaVXYRFtH-Z80FLK3d85c15Fy4mU13job1YW3r9NLvuodwZCrhGSus9FTgsVHnYREy-_BvrlYy6AMSVRBxfxAA0K4V4p7cjjJeBT6mHm=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFime6EDjIuBWrBUvFsQ8txaaN_rllHuk2UFROzuEG6nZlu9OMEPf21DM542kCEvleo-Ot-9tJFSFjlWQorg_lk2rwA40NgjNjVanhb7PVyz33zEqsASJhwOc_cAs5yY_9iEiblMrBPuE=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJCbMuufdirZ-HXXaQCBWWOmtTqh9eTSZwSv6GdiNS2XSJs9QS5QyaoQn3oNoGV_Wy3UZPbyopF1UGSFBVQBbbuPElYZDlN93PrvD02aWUW1HG8u5Bc3-lQI-FI4wCnG_rJ9FyB8jDndhT=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvVBYJFEDynklAqOg9_jIoaLxoGRd0Dw7tXhhdpxeIOBpJrfMRb7IMXlk_tzad2Y0aQjDJhTHf_xUdvaw7kFcjZypMNlazwyTWQSQfQ4DR-enzACJgAPg1VuJhCKsCM_laMZH-aqo-RyXE=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWVpVcE5ObGxTUVU4NFozRktlRVJQZW1SRGJuYxAB",
+      "author": "Nirmalya Mahanti",
+      "author_url": "https://www.google.com/maps/contrib/114399340390894818670?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": 9,
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T14:07:39Z",
+      "iso_date_of_last_edit": "2026-08-23T14:07:39Z",
+      "text": "Nice place with clean restroom and ample parking. Good food.",
+      "text_original_language": "Nice place with clean restroom and ample parking. Good food.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWWVpVcE5ObGxTUVU4NFozRktlRVJQZW1SRGJuYxAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOjVYZUpNNllSQU84Z3FKeERPemRDbnc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLTRYdWVREAE",
+      "author": "Muniraju KM",
+      "author_url": "https://www.google.com/maps/contrib/112167526292543519427?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-10T16:45:50Z",
+      "iso_date_of_last_edit": "2024-10-10T16:45:50Z",
+      "text": "Warish attended our table given excellent service food is mouth watering restaurant was clean and neat ...restroom is well maintend\nService -excellent\nAmvience-good",
+      "text_original_language": "Warish attended our table given excellent service food is mouth watering restaurant was clean and neat ...restroom is well maintend\nService -excellent\nAmvience-good",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Tandoori Chicken"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuLTRYdWVREAE!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CIHM0ogKEICAgIDn-4XueQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNObXFtblVnEAE",
+      "author": "Shubajit Saha",
+      "author_url": "https://www.google.com/maps/contrib/100475681199279088049?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 107,
+      "author_photos_count": 217,
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-01-13T19:10:58Z",
+      "iso_date_of_last_edit": "2024-01-13T19:10:58Z",
+      "text": "Atmosphere and service is great. Food quality and quantity is not upto the mark. The shwarma can be eaten in 2 bites. The biriyani had a strange smell. Restroom was clean.",
+      "text_original_language": "Atmosphere and service is great. Food quality and quantity is not upto the mark. The shwarma can be eaten in 2 bites. The biriyani had a strange smell. Restroom was clean.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNObXFtblVnEAE!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CIHM0ogKEICAgICNmqmnUg%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWMzgzdnVnRRAB",
+      "author": "Jibin Sivanand",
+      "author_url": "https://www.google.com/maps/contrib/105846049090467171706?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 28,
+      "author_photos_count": 1,
+      "rating": 2.0,
+      "date": "2 years ago",
+      "iso_date": "2023-12-10T03:16:48Z",
+      "iso_date_of_last_edit": "2023-12-10T03:16:48Z",
+      "text": "Food quality is poor. Dont expect food as per ambience.Restroom facility and parking is Good.Better to find out other restaurants in this highway.Worst experiance.",
+      "text_original_language": "Food quality is poor. Dont expect food as per ambience.Restroom facility and parking is Good.Better to find out other restaurants in this highway.Worst experiance.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 3,
+        "atmosphere": 4,
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Security available and they will support for parking."
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNWMzgzdnVnRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CIHM0ogKEICAgICV383vugE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMFdtdExTalEyYWxaMVEwbG1SSEZ6ZGs0NWIzYxAB",
+      "author": "LUCKY pL",
+      "author_url": "https://www.google.com/maps/contrib/114160238262485872633?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-26T16:53:34Z",
+      "iso_date_of_last_edit": "2026-08-26T16:53:34Z",
+      "text": "Very good service by sagar.\nWashroom are clean and teddy...",
+      "text_original_language": "Very good service by sagar.\nWashroom are clean and teddy...",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxMFdtdExTalEyYWxaMVEwbG1SSEZ6ZGs0NWIzYxAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOk10WmtLSjQ2alZ1Q0lmRHFzdk45b3c%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWWVGOVFTbVI1VUhWNU1WbFVSMFZhY1dKTVJrRRAB",
+      "author": "naveen naveen",
+      "author_url": "https://www.google.com/maps/contrib/105425595227547919192?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 4,
+      "author_photos_count": 1,
+      "rating": 5.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-24T14:37:10Z",
+      "iso_date_of_last_edit": "2026-07-24T14:37:10Z",
+      "text": "Good experience today at Empire restaurant Devanahalli. Washroom are clean and teddy. And very friendly service stafe. Mr sagar. We visited again...!!",
+      "text_original_language": "Good experience today at Empire restaurant Devanahalli. Washroom are clean and teddy. And very friendly service stafe. Mr sagar. We visited again...!!",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOWWVGOVFTbVI1VUhWNU1WbFVSMFZhY1dKTVJrRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOjNYeF9QSmR5UHV5MVlUR0VacWJMRkE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxblZuTTRlazB6WHpkUGRFeFJORmxaTjBKblRWRRAB",
+      "author": "Prathiksha Gangadhar",
+      "author_url": "https://www.google.com/maps/contrib/110532376420006584832?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 13,
+      "author_photos_count": 1,
+      "rating": 1.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-16T18:13:23Z",
+      "iso_date_of_last_edit": "2026-06-16T18:13:23Z",
+      "text": "The washroom is very dirty very un hygienic",
+      "text_original_language": "The washroom is very dirty very un hygienic",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxblZuTTRlazB6WHpkUGRFeFJORmxaTjBKblRWRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOi1nVnM4ek0zXzdPdExRNFlZN0JnTVE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMVYySlJRVVZDWWpWU04xaG9kMnh6V2tSQ2RGRRAB",
+      "author": "Dheeraj Babu",
+      "author_url": "https://www.google.com/maps/contrib/112906237052131737950?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-20T17:03:57Z",
+      "iso_date_of_last_edit": "2026-02-20T17:03:57Z",
+      "text": "Nice atmosphere. Washroom are clean and teddy. And very good service sagar",
+      "text_original_language": "Nice atmosphere. Washroom are clean and teddy. And very good service sagar",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kMVYySlJRVVZDWWpWU04xaG9kMnh6V2tSQ2RGRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOmd1V2JRQUVCYjVSN1hod2xzWkRCdFE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xselZVOVFkRGhHVFZwMVF6aGZUazQ0WHpoUWRFRRAB",
+      "author": "Sai Mouli",
+      "author_url": "https://www.google.com/maps/contrib/118436462331877320657?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 5.0,
+      "date": "8 months ago",
+      "iso_date": "2026-02-11T18:01:28Z",
+      "iso_date_of_last_edit": "2026-02-11T18:01:28Z",
+      "text": "It was very good experience. Good hygiene restaurant washroom are clean and teddy stafe behaviour is good specially thanks to mr sagar he suggested very tasty foods",
+      "text_original_language": "It was very good experience. Good hygiene restaurant washroom are clean and teddy stafe behaviour is good specially thanks to mr sagar he suggested very tasty foods",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xselZVOVFkRGhHVFZwMVF6aGZUazQ0WHpoUWRFRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOllzVU9QdDhGTVp1QzhfTk44XzhQdEE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 10,
+    "reviews_with_images": 1,
+    "review_images_found": 4,
+    "unique_review_image_urls": 4,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 10,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Empire Restaurant Devanahalli",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": "No reviews",
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 10,
+  "reviews_with_images": 1,
+  "images_found": 4,
+  "unique_image_urls": 4,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 10,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed_with_no_reviews",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "search_information",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": "No reviews",
+      "reviews_in_response": 0,
+      "reviews_with_images": 0,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": null,
+      "first_review_has_images": false,
+      "first_review_image_count": null,
+      "first_review_image_entry_types": null
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:50:14",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 5,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:50:00"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 4,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:50:08"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 1,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:50:12"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:50:14"
+    }
+  ],
+  "next_page_token": null
+}

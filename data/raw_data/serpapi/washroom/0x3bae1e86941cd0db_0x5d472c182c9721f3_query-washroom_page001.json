@@ -1,0 +1,122 @@
+{
+  "search_metadata": {
+    "id": "6ae30f3c3eba3da115d47c6d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OrF9UkEk_7t6FTMvaq-B6JtQmqfjjBhBa9AUfHVCwj0/6ae30f3c3eba3da115d47c6d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/OrF9UkEk_7t6FTMvaq-B6JtQmqfjjBhBa9AUfHVCwj0/6ae30f3c3eba3da115d47c6d.md",
+    "created_at": "2026-10-29 09:17:48 UTC",
+    "processed_at": "2026-10-29 09:17:48 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1e86941cd0db:0x5d472c182c9721f3!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/OrF9UkEk_7t6FTMvaq-B6JtQmqfjjBhBa9AUfHVCwj0/6ae30f3c3eba3da115d47c6d.html",
+    "prettify_html_file": "https://serpapi.com/searches/OrF9UkEk_7t6FTMvaq-B6JtQmqfjjBhBa9AUfHVCwj0/6ae30f3c3eba3da115d47c6d.prettify",
+    "total_time_taken": 0.69
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1e86941cd0db:0x5d472c182c9721f3",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4Qk1VaFJkbnBPWWtaSWRtNXVObDlqYkZVNGRIYxAB!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CAIQACodChtycF9oOkxBMUhRdnpOYkZIdm5uNl9jbFU4dHc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-24T17:53:23Z",
+      "iso_date_of_last_edit": "2026-08-24T17:55:13Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4Qk1VaFJkbnBPWWtaSWRtNXVObDlqYkZVNGRIYxAB",
+      "user": {
+        "name": "Chandrashekar G",
+        "link": "https://www.google.com/maps/contrib/105327431854886755831?hl=en",
+        "contributor_id": "105327431854886755831",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLQbTDfcl4OPyUoKbXtFy6pV2HLrDKWfbWA-L0G8fXOSsGrLQ=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Overall nice but the men's washroom is open and there is an high chance of risk that anyone entering any second",
+      "extracted_snippet": {
+        "original": "Overall nice but the men's washroom is open and there is an high chance of risk that anyone entering any second"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 2
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM1N1lDT1hnEAE!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CIHM0ogKEICAgIC57YCOXg%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-10-16T11:26:37Z",
+      "iso_date_of_last_edit": "2023-10-16T11:36:35Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeW9KnyLsW0k1T0tpUrcpvzjeRG1-l22PVg9EkOWIWG460y9LUOY1WOW3ugsrWddlnBkVxBfNfYTFHK4FqUVGu5yzvBqMwDW7nClVbcF32zUI3bpPtNHNllQ_jDDYxNYPFQLrCh=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLehWKiOx9aGI8fJ0hjF_MMGTqsArhaisAT4gczRXdvM2eDzRMgTgeWXJl9Jtses3zgNtH-cj1eMxW5e6GUdXrwQ_NquX7iIPIyYxcoRDTClaC71H61hhFhw99og4hDEifUxkwG2PQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcVLFh0T0VgK-JVLPuFSbaAUKFMshFMPDNksqdzu4A0iuiyhbKUsjLF_CijTu_FEKP5EwmrjwcxA4XwPkXT0PPCSp4MtmYgkyI52nBCqUWHAqRV_58an3Dos2eeLrlKOpK7PrUS=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1N1lDT1hnEAE",
+      "user": {
+        "name": "Arshma Ansari",
+        "link": "https://www.google.com/maps/contrib/101434025809701144215?hl=en",
+        "contributor_id": "101434025809701144215",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWgJg5ZpL24FnD9b1shfCnaBAoib2IxshMQcq5_XHU08PQ756zWuA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 65,
+        "photos": 47
+      },
+      "snippet": "This place is located at prime locations, but the one we visited for 10 minutes away from Bangalore airport. The chicken is Halal here so it was a plus point for me. We tried chicken noodles and sweet lassi both were 5/5 in taste and quality. They also serve Arabic and Mexican food which is a unique cuisine to find in the South. They have a clean washroom too. Must try sea food here.",
+      "extracted_snippet": {
+        "original": "This place is located at prime locations, but the one we visited for 10 minutes away from Bangalore airport. The chicken is Halal here so it was a plus point for me. We tried chicken noodles and sweet lassi both were 5/5 in taste and quality. They also serve Arabic and Mexican food which is a unique cuisine to find in the South. They have a clean washroom too. Must try sea food here."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 3,
+      "response": {
+        "date": "3 years ago",
+        "iso_date": "2023-10-16T12:18:04Z",
+        "iso_date_of_last_edit": "2023-10-16T12:18:04Z",
+        "snippet": "Hi Arshma Ansari,\nThank you for your wonderful review! We're thrilled that you had a great time at our restaurant. Your support means a lot to us, and we look forward to serving you again soon.\nBest regards,\nSeasons Restaurant\n",
+        "extracted_snippet": {
+          "original": "Hi Arshma Ansari,\nThank you for your wonderful review! We're thrilled that you had a great time at our restaurant. Your support means a lot to us, and we look forward to serving you again soon.\nBest regards,\nSeasons Restaurant\n"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMyX1Btc3FBRRAB!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CIHM0ogKEICAgIC2_PmsqAE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "4 years ago",
+      "iso_date": "2022-04-15T19:36:33Z",
+      "iso_date_of_last_edit": "2022-04-15T19:36:33Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyX1Btc3FBRRAB",
+      "user": {
+        "name": "Anu Mathew",
+        "link": "https://www.google.com/maps/contrib/110795953470378592369?hl=en",
+        "contributor_id": "110795953470378592369",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW6-NkMnQOL-3z2SO4Ua7YOWmKxdw81ChBTI1JUY2qtSKz93osr=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 29,
+        "photos": 0
+      },
+      "snippet": "Overall food was okay! You will get good option of snacks. Not sure about the meals and last but not least.washroom facility is not upto the mark!! Not .Please note it.",
+      "extracted_snippet": {
+        "original": "Overall food was okay! You will get good option of snacks. Not sure about the meals and last but not least.washroom facility is not upto the mark!! Not .Please note it."
+      },
+      "likes": 0
+    }
+  ]
+}

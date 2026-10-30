@@ -1,0 +1,48 @@
+{
+  "search_metadata": {
+    "id": "6ae30e19c8ef26d352a4667b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FDHYLfk9vzY8LBTSeiHAbBSpsOPd_enNj-1gtZnrbyg/6ae30e19c8ef26d352a4667b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FDHYLfk9vzY8LBTSeiHAbBSpsOPd_enNj-1gtZnrbyg/6ae30e19c8ef26d352a4667b.md",
+    "created_at": "2026-10-29 09:12:57 UTC",
+    "processed_at": "2026-10-29 09:12:57 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae18f8ec42e37f:0x5d26865d797bda32!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/FDHYLfk9vzY8LBTSeiHAbBSpsOPd_enNj-1gtZnrbyg/6ae30e19c8ef26d352a4667b.html",
+    "prettify_html_file": "https://serpapi.com/searches/FDHYLfk9vzY8LBTSeiHAbBSpsOPd_enNj-1gtZnrbyg/6ae30e19c8ef26d352a4667b.prettify",
+    "total_time_taken": 0.96
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae18f8ec42e37f:0x5d26865d797bda32",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQwNXNXUmRBEAE!2m1!1s0x0:0x5d26865d797bda32!3m1!1s2@1:CIHM0ogKEICAgID05sWRdA%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "Edited 6 years ago",
+      "iso_date": "2019-11-03T16:33:52Z",
+      "iso_date_of_last_edit": "2019-11-06T09:56:19Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwNXNXUmRBEAE",
+      "user": {
+        "name": "vasu devan",
+        "link": "https://www.google.com/maps/contrib/117301395379794155906?hl=en",
+        "contributor_id": "117301395379794155906",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVOgM8409pEvPqemS4F4iPTPC4JCT-RaAiHpuKW4X0gSjD_HhU=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 5,
+        "photos": 1
+      },
+      "snippet": "Very bad washroom and handwash facilities",
+      "extracted_snippet": {
+        "original": "Very bad washroom and handwash facilities"
+      },
+      "likes": 0
+    }
+  ]
+}

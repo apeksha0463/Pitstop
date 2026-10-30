@@ -1,0 +1,85 @@
+{
+  "data_id": "0x3bb1e3f2fe781a35:0xa978b861803d2fbb",
+  "page": 1,
+  "review_filter": "query:toilet",
+  "has_next_page": false,
+  "reviews_on_page": 1,
+  "new_reviews": 1,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 1,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "images",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "response",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": true,
+    "first_review_image_count": 4,
+    "first_review_image_entry_types": [
+      "str"
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB",
+      "author": "Rama chandra",
+      "rating": 4.0,
+      "date": "Edited 6 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8ZPlXNvqdXWx-Dqto-CcTRzIreZcrYm9ufgwkgaVXYRFtH-Z80FLK3d85c15Fy4mU13job1YW3r9NLvuodwZCrhGSus9FTgsVHnYREy-_BvrlYy6AMSVRBxfxAA0K4V4p7cjjJeBT6mHm=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFime6EDjIuBWrBUvFsQ8txaaN_rllHuk2UFROzuEG6nZlu9OMEPf21DM542kCEvleo-Ot-9tJFSFjlWQorg_lk2rwA40NgjNjVanhb7PVyz33zEqsASJhwOc_cAs5yY_9iEiblMrBPuE=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJCbMuufdirZ-HXXaQCBWWOmtTqh9eTSZwSv6GdiNS2XSJs9QS5QyaoQn3oNoGV_Wy3UZPbyopF1UGSFBVQBbbuPElYZDlN93PrvD02aWUW1HG8u5Bc3-lQI-FI4wCnG_rJ9FyB8jDndhT=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvVBYJFEDynklAqOg9_jIoaLxoGRd0Dw7tXhhdpxeIOBpJrfMRb7IMXlk_tzad2Y0aQjDJhTHf_xUdvaw7kFcjZypMNlazwyTWQSQfQ4DR-enzACJgAPg1VuJhCKsCM_laMZH-aqo-RyXE=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    }
+  ]
+}

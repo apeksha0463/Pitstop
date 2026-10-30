@@ -1,0 +1,59 @@
+{
+  "search_metadata": {
+    "id": "6ae30e2434262ac75ff2708a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SWmoQJHgSTHyjOLuG-gVK9RNlLx2roj18KhATc7YiKA/6ae30e2434262ac75ff2708a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SWmoQJHgSTHyjOLuG-gVK9RNlLx2roj18KhATc7YiKA/6ae30e2434262ac75ff2708a.md",
+    "created_at": "2026-10-29 09:13:08 UTC",
+    "processed_at": "2026-10-29 09:13:08 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19abdd77a72f:0x74f0cec84dee5ccd!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/SWmoQJHgSTHyjOLuG-gVK9RNlLx2roj18KhATc7YiKA/6ae30e2434262ac75ff2708a.html",
+    "prettify_html_file": "https://serpapi.com/searches/SWmoQJHgSTHyjOLuG-gVK9RNlLx2roj18KhATc7YiKA/6ae30e2434262ac75ff2708a.prettify",
+    "total_time_taken": 0.53
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19abdd77a72f:0x74f0cec84dee5ccd",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNPbzV5TldnEAE!2m1!1s0x0:0x74f0cec84dee5ccd!3m1!1s2@1:CIHM0ogKEICAgICOo5yNWg%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-18T10:43:19Z",
+      "iso_date_of_last_edit": "2022-06-18T10:46:04Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfFldrQ8Xbe-SjmI7KmF_C7M_dchq5OGXdTxBgd5EvotsqdnHdTbKjjx-YUP0LWDHjnDu3gL1dnAhAUv08CfFAkUADuY5KXXdt4aHezLPEUu8dRrRFcuxY1ukpKhAP26sjNPubVvg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdtxXjnWyVFQIvdd8bSfIEJriCuloI2kUZVvrO2CKJ88M3LFyy7CNZCgxA1WB5I_Qg9ggbHA4gozUfK8z5mAtdIfUtJfmLPfynZaBDMLfSqqVXWrOKGXFhczblHNvjPm3mhngU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdLsCTYWVTVS-kM-Xgmj0Ravll2477yjoFPWNYfuIaR49hoBWycod7BYQMMIw7N1jU2ycFL77epGoIT7JRHA1UOu3E0yRkr31PLD3Nr2eC97bpbcmdaPPAEbo1XHCzZ94fXyFjP=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeoNe437QOPZOUg5SKH1dtKeyflJH6Mby5oLTQE_b6rl8LHZvpIUYOf1uVlE6tNIRhuH13JxafKwaxx1_ZD4z66UfTSD8Pm6Epu55JNwaIoxBkp2ra6hy75PoFaOAEwShSIRyEU=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbzV5TldnEAE",
+      "user": {
+        "name": "Gaurav Nagar",
+        "link": "https://www.google.com/maps/contrib/105964710340349479572?hl=en",
+        "contributor_id": "105964710340349479572",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXp55bUsXP8babCHJShqdRHT6v4vQUnmvX-xrZGchqtZhNqeBwiXw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 234,
+        "photos": 513
+      },
+      "snippet": "A good place to have food with family & friends far from the city crowd ( at least till now), focused on North Indian food, nice hygienic with clean washroom. Had paav bhaji & Masala Dosa with family 👪 it was fresh & reach in teste.\n\nYou might find it a little expensive but still decent.",
+      "extracted_snippet": {
+        "original": "A good place to have food with family & friends far from the city crowd ( at least till now), focused on North Indian food, nice hygienic with clean washroom. Had paav bhaji & Masala Dosa with family 👪 it was fresh & reach in teste.\n\nYou might find it a little expensive but still decent."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Brunch",
+        "price_per_person": "₹200–400"
+      },
+      "likes": 6
+    }
+  ]
+}

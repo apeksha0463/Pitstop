@@ -1,0 +1,116 @@
+{
+  "search_metadata": {
+    "id": "6ae30db2122bd1c859060b11",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sRMZge_ekGFk1aIBI5mkhfbcvixyewiyo0_DtEKUovk/6ae30db2122bd1c859060b11.json",
+    "markdown_endpoint": "https://serpapi.com/searches/sRMZge_ekGFk1aIBI5mkhfbcvixyewiyo0_DtEKUovk/6ae30db2122bd1c859060b11.md",
+    "created_at": "2026-10-29 09:11:14 UTC",
+    "processed_at": "2026-10-29 09:11:14 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19cd83892495:0xc4ee26c182749dfe!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/sRMZge_ekGFk1aIBI5mkhfbcvixyewiyo0_DtEKUovk/6ae30db2122bd1c859060b11.html",
+    "prettify_html_file": "https://serpapi.com/searches/sRMZge_ekGFk1aIBI5mkhfbcvixyewiyo0_DtEKUovk/6ae30db2122bd1c859060b11.prettify",
+    "total_time_taken": 0.22
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19cd83892495:0xc4ee26c182749dfe",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wQ2JuZ3RWMGhQVEdaRmNqVkRjRU5vY2tOYVVXYxAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CAIQACodChtycF9oOnpCbngtV0hPTGZFcjVDcENockNaUWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-06T14:25:54Z",
+      "iso_date_of_last_edit": "2025-10-06T14:25:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQ2JuZ3RWMGhQVEdaRmNqVkRjRU5vY2tOYVVXYxAB",
+      "user": {
+        "name": "Sindhu",
+        "link": "https://www.google.com/maps/contrib/107159985242974625297?hl=en",
+        "contributor_id": "107159985242974625297",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJRD7L_UVnC-DfISp1aOvmJ7I4EXyCzcy0_xZxJcDDQOi7Sv_Y=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Everything is not good. Washroom are untidy and smells a lot.",
+      "extracted_snippet": {
+        "original": "Everything is not good. Washroom are untidy and smells a lot."
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN2cHBtQ3N3RRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CIHM0ogKEICAgICvppmCswE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-10T15:02:21Z",
+      "iso_date_of_last_edit": "2024-12-10T15:02:21Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cHBtQ3N3RRAB",
+      "user": {
+        "name": "Devamrutha S",
+        "link": "https://www.google.com/maps/contrib/113215178108801344181?hl=en",
+        "contributor_id": "113215178108801344181",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXVF0WgjEoMfMt0si6TI4QvZsBbvNRxueKT6jHIQ98ekcMm7q-yXA=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 1
+      },
+      "snippet": "The food is just overpriced and not tasty. For that much amount, the food is just worst. Not even a single handwash in the washroom. Very bad. Worst experience. Even the plain water costs more.",
+      "extracted_snippet": {
+        "original": "The food is just overpriced and not tasty. For that much amount, the food is just worst. Not even a single handwash in the washroom. Very bad. Worst experience. Even the plain water costs more."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1,800–2,000",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 2
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ2bG8zdFRBEAE!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CIHM0ogKEICAgID6lo3tTA%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited 3 years ago",
+      "iso_date": "2021-09-28T17:06:28Z",
+      "iso_date_of_last_edit": "2023-04-26T16:33:18Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2bG8zdFRBEAE",
+      "user": {
+        "name": "ashwin kumar",
+        "link": "https://www.google.com/maps/contrib/104340939143226885179?hl=en",
+        "contributor_id": "104340939143226885179",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK5-tYIs2Uqe7tGgapVxfcd2K7O4blcpoLinndV45tJYRUL-A=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 13
+      },
+      "snippet": "Food is delicious,  must try Fish and mushroom Tikka is just awesome , the taste is much better than Ab's and barbeque Nation. U will have the best time here watching ipl. Service  is top class.\n\nEditing my review just to add the the washroom facility newly built, High class, would definitely say not less than a 3 star restaurant.\n. Amazing. This place is getting better and better.",
+      "extracted_snippet": {
+        "original": "Food is delicious,  must try Fish and mushroom Tikka is just awesome , the taste is much better than Ab's and barbeque Nation. U will have the best time here watching ipl. Service  is top class.\n\nEditing my review just to add the the washroom facility newly built, High class, would definitely say not less than a 3 star restaurant.\n. Amazing. This place is getting better and better."
+      },
+      "likes": 2,
+      "response": {
+        "date": "5 years ago",
+        "iso_date": "2021-10-23T11:23:57Z",
+        "iso_date_of_last_edit": "2021-10-23T11:23:57Z",
+        "snippet": "MUCH LOVE FROM TFF....thank you soo much for u r previous feed back please visit once again with your family  and friends'",
+        "extracted_snippet": {
+          "original": "MUCH LOVE FROM TFF....thank you soo much for u r previous feed back please visit once again with your family  and friends'"
+        }
+      }
+    }
+  ]
+}

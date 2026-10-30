@@ -1,0 +1,88 @@
+{
+  "data_id": "0x3bb1e397f793c70f:0x60862294e68b1a37",
+  "page": 1,
+  "review_filter": "query:washroom",
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "response",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod09XcElUVWxEYmpGV1gzUlNjbUpMWXpGVlRHYxAB",
+      "author": "Jayesh reddy",
+      "rating": 1.0,
+      "date": "6 months ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJRFI1ZHJwcHZESG5RRRAB",
+      "author": "Rahul Ram",
+      "rating": 1.0,
+      "date": "a year ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYe1MHabytb51iFRrX2M5Ly7qN-g7DmqJkhCWVqEyB9MsUEhKbQu9LZfnKqtnFJBfBk3ey2ockGz0XAOJIQfEt58L2YD-8ZW7FqUQDXCEJZPQJEfTwFw2VGvv8wPYd-sHNnhIx6Q=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEdUptc0d3EAE",
+      "author": "pavan srikanth",
+      "rating": 2.0,
+      "date": "2 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKN3BmNHdRRRAB",
+      "author": "Darshan",
+      "rating": 3.0,
+      "date": "3 years ago",
+      "images": []
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCclpPZVlREAE",
+      "author": "Shrikant",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "images": []
+    }
+  ]
+}

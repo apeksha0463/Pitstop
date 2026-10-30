@@ -1,0 +1,47 @@
+{
+  "search_metadata": {
+    "id": "6ae30e5a2cd7a1799c138d0b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/NZc8X2Jf0k3qbwSSMuXnSMIYfnDz98DTe2j7lI847OY/6ae30e5a2cd7a1799c138d0b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/NZc8X2Jf0k3qbwSSMuXnSMIYfnDz98DTe2j7lI847OY/6ae30e5a2cd7a1799c138d0b.md",
+    "created_at": "2026-10-29 09:14:02 UTC",
+    "processed_at": "2026-10-29 09:14:02 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae196f3efabe1d:0x787bbf94a8ef0dde!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/NZc8X2Jf0k3qbwSSMuXnSMIYfnDz98DTe2j7lI847OY/6ae30e5a2cd7a1799c138d0b.html",
+    "prettify_html_file": "https://serpapi.com/searches/NZc8X2Jf0k3qbwSSMuXnSMIYfnDz98DTe2j7lI847OY/6ae30e5a2cd7a1799c138d0b.prettify",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae196f3efabe1d:0x787bbf94a8ef0dde",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSUN5anJFeRAB!2m1!1s0x0:0x787bbf94a8ef0dde!3m1!1s2@1:CIHM0ogKEICAgICyjrEy%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "5 years ago",
+      "iso_date": "2021-01-30T08:34:20Z",
+      "iso_date_of_last_edit": "2021-01-30T08:34:20Z",
+      "source": "Google",
+      "review_id": "ChRDSUhNMG9nS0VJQ0FnSUN5anJFeRAB",
+      "user": {
+        "name": "Abhishek Dhar",
+        "link": "https://www.google.com/maps/contrib/113581918379725338872?hl=en",
+        "contributor_id": "113581918379725338872",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXzI4ovboC4M-mYOHqUBNig2TMEdZz52cfalRuEZaB4fvSjoKY=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "The food was very good ... especially dosas and pooris. However, the bathroom was not clean.",
+      "extracted_snippet": {
+        "original": "The food was very good ... especially dosas and pooris. However, the bathroom was not clean."
+      },
+      "likes": 0
+    }
+  ]
+}

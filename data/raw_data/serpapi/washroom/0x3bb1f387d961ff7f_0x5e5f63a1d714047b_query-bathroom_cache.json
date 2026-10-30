@@ -1,0 +1,11 @@
+{
+  "data_id": "0x3bb1f387d961ff7f:0x5e5f63a1d714047b",
+  "sort_by": "newestFirst",
+  "review_filter": "query:bathroom",
+  "saved_at": "2026-10-29T14:52:26",
+  "pagination_complete": true,
+  "last_next_page_token": null,
+  "pages": [
+    "data/raw_data/serpapi/washroom/0x3bb1f387d961ff7f_0x5e5f63a1d714047b_query-bathroom_page001.json"
+  ]
+}

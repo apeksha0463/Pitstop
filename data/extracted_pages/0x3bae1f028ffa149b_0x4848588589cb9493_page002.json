@@ -1,0 +1,76 @@
+{
+  "data_id": "0x3bae1f028ffa149b:0x4848588589cb9493",
+  "page": 2,
+  "has_next_page": false,
+  "reviews_on_page": 5,
+  "new_reviews": 5,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 5,
+    "reviews_with_images": 0,
+    "has_serpapi_pagination": false,
+    "has_next_page_token": false,
+    "first_review_keys": [
+      "date",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxa2NVTlJlRmhoUjBKbWVIVTFaMFZIVGw5c2NIYxAB",
+      "author": "Bethsy Shohe",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWFNFcG5aM1pzTW5STGNreDJVbFY1VDFCMlgyYxAB",
+      "author": "Deepa Siddharthan",
+      "rating": 1.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zd1JrUndNSEpSZFVsUVkzaE9jSFZXTUVGdU0xRRAB",
+      "author": "Nachikethan Nachi",
+      "rating": 5.0,
+      "date": "6 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MlZ6VldaVUozTnpSb2IxUk9hVFowU21GM04zYxAB",
+      "author": "Dilipamkumar Dilipam",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWVdYaFFNbGxoTW1reVVWbHhhRW90TlZKR2FtYxAB",
+      "author": "Juliane Schuler",
+      "rating": 5.0,
+      "date": "8 months ago",
+      "images": []
+    }
+  ]
+}

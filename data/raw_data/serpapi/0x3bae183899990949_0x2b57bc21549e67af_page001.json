@@ -1,0 +1,27 @@
+{
+  "search_metadata": {
+    "id": "6ae2cd366551b5b17f825596",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eUogo9aRiV3k6Uhn6dTY55ZXkgeai_Hv5q1VCEoTyw4/6ae2cd366551b5b17f825596.json",
+    "markdown_endpoint": "https://serpapi.com/searches/eUogo9aRiV3k6Uhn6dTY55ZXkgeai_Hv5q1VCEoTyw4/6ae2cd366551b5b17f825596.md",
+    "created_at": "2026-10-29 04:36:06 UTC",
+    "processed_at": "2026-10-29 04:36:06 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae183899990949:0x2b57bc21549e67af!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/eUogo9aRiV3k6Uhn6dTY55ZXkgeai_Hv5q1VCEoTyw4/6ae2cd366551b5b17f825596.html",
+    "prettify_html_file": "https://serpapi.com/searches/eUogo9aRiV3k6Uhn6dTY55ZXkgeai_Hv5q1VCEoTyw4/6ae2cd366551b5b17f825596.prettify",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae183899990949:0x2b57bc21549e67af",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "G",
+    "type": "Level"
+  },
+  "search_information": {
+    "reviews_results_state": "No reviews"
+  }
+}

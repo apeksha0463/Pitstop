@@ -1,0 +1,47 @@
+{
+  "search_metadata": {
+    "id": "6ae30ddc7e702898e5ec8210",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ePEuJpJePi1UlB64M0TiPjvMMo5yHQSxoFFofIYhJ0A/6ae30ddc7e702898e5ec8210.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ePEuJpJePi1UlB64M0TiPjvMMo5yHQSxoFFofIYhJ0A/6ae30ddc7e702898e5ec8210.md",
+    "created_at": "2026-10-29 09:11:56 UTC",
+    "processed_at": "2026-10-29 09:11:56 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae185a451f1a95:0xbb8f21195855c1f6!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/ePEuJpJePi1UlB64M0TiPjvMMo5yHQSxoFFofIYhJ0A/6ae30ddc7e702898e5ec8210.html",
+    "prettify_html_file": "https://serpapi.com/searches/ePEuJpJePi1UlB64M0TiPjvMMo5yHQSxoFFofIYhJ0A/6ae30ddc7e702898e5ec8210.prettify",
+    "total_time_taken": 0.7
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN4MTdmem5nRRAB!2m1!1s0x0:0xbb8f21195855c1f6!3m1!1s2@1:CIHM0ogKEICAgICx17fzngE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "3 years ago",
+      "iso_date": "2023-05-28T12:00:06Z",
+      "iso_date_of_last_edit": "2023-05-28T12:00:06Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4MTdmem5nRRAB",
+      "user": {
+        "name": "Rahul Kumar Rai",
+        "link": "https://www.google.com/maps/contrib/103189592159756185980?hl=en",
+        "contributor_id": "103189592159756185980",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKkMlIyJufytu04MykA4LtqjIpDRilpxs69cUhbEUh6SiT_Ow=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Pathetic place to visit.. Too expensive and food is worst then street food taste...washroom is not clean.. Service is not good.. If you oder something they get something else and say this is what you oder..its just what they have the serve that... Menu is useless",
+      "extracted_snippet": {
+        "original": "Pathetic place to visit.. Too expensive and food is worst then street food taste...washroom is not clean.. Service is not good.. If you oder something they get something else and say this is what you oder..its just what they have the serve that... Menu is useless"
+      },
+      "likes": 0
+    }
+  ]
+}

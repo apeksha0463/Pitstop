@@ -1,0 +1,302 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bae199ebb434785:0x925928a22e4df686",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2rbLCy8haJk1WS4uTu95S6_SI0MuWn5qK4fG2HnjAJfOAbak9wzZPr2Pv3erextIYeN4Z1uc4trNonLg8w4D0YCMfrUTZOL5kv3Z3k_eILVb_x2HrurQLRnfQDlV5daVHl6oIBIGQHP6y=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbVJ6WnpibFpVYkU4elJtTktNMlJUVTFOc1RIYxAB",
+      "image_index": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmNXRqUmRREAE",
+      "author": "Sunita singh",
+      "author_url": "https://www.google.com/maps/contrib/106503882922766241321?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 9,
+      "author_photos_count": 17,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2024-12-28T16:29:16Z",
+      "iso_date_of_last_edit": "2024-12-28T16:29:16Z",
+      "text": "Very disappointed after visiting this place. Very overpriced, unhygienic, half cooked food, untidy bathroom.. if you want to spoil your time n money then definitely visit this place.. n hope this feedback help them to improve the service n not only fooling the people to just charge high prices with worst service.",
+      "text_original_language": "Very disappointed after visiting this place. Very overpriced, unhygienic, half cooked food, untidy bathroom.. if you want to spoil your time n money then definitely visit this place.. n hope this feedback help them to improve the service n not only fooling the people to just charge high prices with worst service.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNmNXRqUmRREAE!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CIHM0ogKEICAgICf5tjRdQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaWEyRlhUMXBDZFVSNU5raEpPRzVyUmxjeWJXYxAB",
+      "author": "Dwaraganathan DK",
+      "author_url": "https://www.google.com/maps/contrib/116754838674375621826?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 1,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "6 months ago",
+      "iso_date": "2026-04-14T10:00:09Z",
+      "iso_date_of_last_edit": "2026-04-14T10:00:09Z",
+      "text": "This is easily one of the worst dining experiences I’ve had in Bangalore. I visited this restaurant today for lunch, and it was extremely disappointing from start to finish.\n\nFor a thali priced at around ₹390, the food quality is nowhere near acceptable. What you get is a very basic, average meal with nothing special to justify the high price. It feels completely overpriced for what is served.\n\nThe service is equally poor — slow, inattentive, and unprofessional. There is clearly a lack of basic customer handling.\n\nWhat’s even more concerning is the hygiene. The handwash area is in a terrible state — dirty and poorly maintained to the point that it’s unpleasant to even stand there. The restroom is worse; it is so unclean that you can barely open the door.\n\nOverall, this place fails in food quality, service, and cleanliness. I would strongly advise others to avoid this restaurant unless there is a significant improvement in standards.",
+      "text_original_language": "This is easily one of the worst dining experiences I’ve had in Bangalore. I visited this restaurant today for lunch, and it was extremely disappointing from start to finish.\n\nFor a thali priced at around ₹390, the food quality is nowhere near acceptable. What you get is a very basic, average meal with nothing special to justify the high price. It feels completely overpriced for what is served.\n\nThe service is equally poor — slow, inattentive, and unprofessional. There is clearly a lack of basic customer handling.\n\nWhat’s even more concerning is the hygiene. The handwash area is in a terrible state — dirty and poorly maintained to the point that it’s unpleasant to even stand there. The restroom is worse; it is so unclean that you can barely open the door.\n\nOverall, this place fails in food quality, service, and cleanliness. I would strongly advise others to avoid this restaurant unless there is a significant improvement in standards.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "noise_level": "Loud, but you can still talk",
+        "recommendation_for_vegetarians": "Would not recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Somewhat difficult to find parking",
+        "parking_options": "Free parking lot",
+        "kid_friendliness": "na",
+        "wheelchair_accessibility": "na"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkaWEyRlhUMXBDZFVSNU5raEpPRzVyUmxjeWJXYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOldia2FXT1pCdUR5NkhJOG5rRlcybWc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbVJ6WnpibFpVYkU4elJtTktNMlJUVTFOc1RIYxAB",
+      "author": "Kuttus",
+      "author_url": "https://www.google.com/maps/contrib/102094712327399256160?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 501,
+      "author_photos_count": 951,
+      "rating": 3.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-19T13:34:36Z",
+      "iso_date_of_last_edit": "2025-10-19T13:37:26Z",
+      "text": "May be being  south indian I felt that the  Food is average, Lassi tastes nice\nCurries were spicy so I didn't like much also the ghee phulka or rotty didn't have much ghee on it. Overall an average experience\nDigital UPI payments are accepted however couldn't find credit card payment option\nRestroom and parking area Is too small for the size of restaurant",
+      "text_original_language": "May be being  south indian I felt that the  Food is average, Lassi tastes nice\nCurries were spicy so I didn't like much also the ghee phulka or rotty didn't have much ghee on it. Overall an average experience\nDigital UPI payments are accepted however couldn't find credit card payment option\nRestroom and parking area Is too small for the size of restaurant",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 4,
+        "wait_time": "No wait"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GbVJ6WnpibFpVYkU4elJtTktNMlJUVTFOc1RIYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOnFmRzZzblZUbE8zRmNKM2RTU1NsTHc%7C%7C?hl=en",
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2rbLCy8haJk1WS4uTu95S6_SI0MuWn5qK4fG2HnjAJfOAbak9wzZPr2Pv3erextIYeN4Z1uc4trNonLg8w4D0YCMfrUTZOL5kv3Z3k_eILVb_x2HrurQLRnfQDlV5daVHl6oIBIGQHP6y=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVWNFOVdTR0ZqTFhwemQxcElRM1JDVTBKWU5XYxAB",
+      "author": "NACHIKET KAMBLE",
+      "author_url": "https://www.google.com/maps/contrib/116184369195613584140?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 2,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T16:12:22Z",
+      "iso_date_of_last_edit": "2026-08-23T16:38:16Z",
+      "text": "The food was tasteless and poorly prepared, while the prices were ridiculously high. On top of that, the service was painfully slow and inattentive—even the washroom facilities lacked basic hand wash. Complete waste of money.",
+      "text_original_language": "The food was tasteless and poorly prepared, while the prices were ridiculously high. On top of that, the service was painfully slow and inattentive—even the washroom facilities lacked basic hand wash. Complete waste of money.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WVWNFOVdTR0ZqTFhwemQxcElRM1JDVTBKWU5XYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOnVUcE9WSGFjLXpzd1pIQ3RCU0JYNWc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 4,
+    "reviews_with_images": 1,
+    "review_images_found": 1,
+    "unique_review_image_urls": 1,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 4,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Kapoor's Cafe",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": null,
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 4,
+  "reviews_with_images": 1,
+  "images_found": 1,
+  "unique_image_urls": 1,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 3,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "reviews",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": null,
+      "reviews_in_response": 1,
+      "reviews_with_images": 0,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": [
+        "date",
+        "details",
+        "extracted_snippet",
+        "iso_date",
+        "iso_date_of_last_edit",
+        "likes",
+        "link",
+        "position",
+        "rating",
+        "review_id",
+        "snippet",
+        "source",
+        "user"
+      ],
+      "first_review_has_images": false,
+      "first_review_image_count": 0,
+      "first_review_image_entry_types": []
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:42:32",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 1,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:42:20"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 2,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:42:24"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 0,
+      "collection_status": "completed_with_no_reviews",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:42:29"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 1,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:42:32"
+    }
+  ],
+  "next_page_token": null
+}

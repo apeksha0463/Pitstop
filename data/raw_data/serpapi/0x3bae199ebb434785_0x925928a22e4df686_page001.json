@@ -1,0 +1,377 @@
+{
+  "search_metadata": {
+    "id": "6ae2e4b24674de0484b133c3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/k6WwVQlbx7nYH_pRlgW3vx186KA8xpD3QOcnSRx7FQM/6ae2e4b24674de0484b133c3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/k6WwVQlbx7nYH_pRlgW3vx186KA8xpD3QOcnSRx7FQM/6ae2e4b24674de0484b133c3.md",
+    "created_at": "2026-10-29 06:16:18 UTC",
+    "processed_at": "2026-10-29 06:16:18 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae199ebb434785:0x925928a22e4df686!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/k6WwVQlbx7nYH_pRlgW3vx186KA8xpD3QOcnSRx7FQM/6ae2e4b24674de0484b133c3.html",
+    "prettify_html_file": "https://serpapi.com/searches/k6WwVQlbx7nYH_pRlgW3vx186KA8xpD3QOcnSRx7FQM/6ae2e4b24674de0484b133c3.prettify",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae199ebb434785:0x925928a22e4df686",
+    "hl": "en",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Kapoor's Cafe - Yelahanka",
+    "address": "3rd Floor, BB Rd, opp. to The Galleria Mall, above Malabar Gold, Ambedkar Colony, Yelahanka New Town, Bengaluru, Karnataka 560064, India",
+    "rating": 4.6,
+    "reviews": 6968,
+    "type": "Punjabi restaurant"
+  },
+  "topics": [
+    {
+      "keyword": "Maharaja Thali",
+      "mentions": 31,
+      "id": "t12h37FqXoo"
+    },
+    {
+      "keyword": "aloo paratha",
+      "mentions": 41,
+      "id": "AQY53cC2Udk"
+    },
+    {
+      "keyword": "parathas",
+      "mentions": 50,
+      "id": "aTlJ7B5mYAw"
+    },
+    {
+      "keyword": "seating options",
+      "mentions": 8,
+      "id": "EBDGJGre1s0"
+    },
+    {
+      "keyword": "punjabi music",
+      "mentions": 2,
+      "id": "Np8oPFo1Kq8"
+    },
+    {
+      "keyword": "paneer paratha",
+      "mentions": 24,
+      "id": "CghR7e52Iow"
+    },
+    {
+      "keyword": "crispy corn",
+      "mentions": 20,
+      "id": "ApaVv8g7jG4"
+    },
+    {
+      "keyword": "lassi",
+      "mentions": 68,
+      "id": "ZwPRfxd1Ig8"
+    },
+    {
+      "keyword": "chaas",
+      "mentions": 18,
+      "id": "grpEpDeUvW8"
+    },
+    {
+      "keyword": "milan",
+      "mentions": 13,
+      "id": "aDviHGq2M2M"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsWmVIZFplV1YwYWpBMlpXOTRMWEJGWldSUWRHYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOklZeHdZeWV0ajA2ZW94LXBFZWRQdGc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "13 hours ago",
+      "iso_date": "2026-10-28T16:26:27Z",
+      "iso_date_of_last_edit": "2026-10-28T16:26:38Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWmVIZFplV1YwYWpBMlpXOTRMWEJGWldSUWRHYxAB",
+      "user": {
+        "name": "Arjun Chaudhary",
+        "link": "https://www.google.com/maps/contrib/116845773322139338561?hl=en",
+        "contributor_id": "116845773322139338561",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLPR7eKtTnK0JsPItZG59Sa6MxelVBlNbhUOLiRjVwhHJp03A=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "snippet": "Food is delicious. Only change I would recommend is that the taste has become very obvious and repetitive . I think the recipe should change a bit.",
+      "extracted_snippet": {
+        "original": "Food is delicious. Only change I would recommend is that the taste has become very obvious and repetitive . I think the recipe should change a bit."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹400–600",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4,
+        "group_size": "3-4 people",
+        "wait_time": "Up to 10 min",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "vegetarian_options": "Please change some recipes so that taste doesn’t become repetitive",
+        "dietary_restrictions": "Good",
+        "parking_space": "Somewhat difficult to find parking",
+        "parking_options": "Free parking lot",
+        "parking": "Location is good",
+        "kid_friendliness": "Good",
+        "wheelchair_accessibility": "No idea"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twa2NpMUNNRlZMY1hRMFFtVlhjVlpIU1dzMk1YYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOkpkci1CMFVLcXQ0QmVXcVZHSWs2MXc%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "23 hours ago",
+      "iso_date": "2026-10-28T06:57:57Z",
+      "iso_date_of_last_edit": "2026-10-28T06:57:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twa2NpMUNNRlZMY1hRMFFtVlhjVlpIU1dzMk1YYxAB",
+      "user": {
+        "name": "Namitha Chandana",
+        "link": "https://www.google.com/maps/contrib/107775680604156590246?hl=en",
+        "contributor_id": "107775680604156590246",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKH-RPJjIJGUI-OwOmMf62TEM3DU6waRg4ZTFNn3KMSpHd-Mw=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "details": {
+        "meal_type": "Brunch",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsVFNucFpWRUV5VWtKVVVFUlZXRkpRYm1wTFIwRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOklTSnpZVEEyUkJUUERVWFJQbmpLR0E%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "a day ago",
+      "iso_date": "2026-10-27T16:37:24Z",
+      "iso_date_of_last_edit": "2026-10-27T16:37:24Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVFNucFpWRUV5VWtKVVVFUlZXRkpRYm1wTFIwRRAB",
+      "user": {
+        "name": "Deepanshu Bisht",
+        "link": "https://www.google.com/maps/contrib/102815069892608033590?hl=en",
+        "contributor_id": "102815069892608033590",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIn1i2Symb0Ky2Ops0qNJFHWuNL96j9SwcjE4jLwsHLrCsoRw=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Lil overpriced if see the portion",
+      "extracted_snippet": {
+        "original": "Lil overpriced if see the portion"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 3,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "Suitable for all group sizes",
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pFMlZ6WTFkbE0zUlhSUGRrNUphV3AyYUhKbFgwRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOjE2VzY1dlM3RXRPdk5JaWp2aHJlX0E%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-26T17:25:58Z",
+      "iso_date_of_last_edit": "2026-10-26T17:25:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMlZ6WTFkbE0zUlhSUGRrNUphV3AyYUhKbFgwRRAB",
+      "user": {
+        "name": "betakunta purushotham",
+        "link": "https://www.google.com/maps/contrib/100898721183437081729?hl=en",
+        "contributor_id": "100898721183437081729",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIMmxgRMERxens43rJ4yhlARkHNpFxFRLxcVRYlUhOMXZorEg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 594,
+        "photos": 82
+      },
+      "snippet": "all fine but far too expensive!!!",
+      "extracted_snippet": {
+        "original": "all fine but far too expensive!!!"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201RGRIVkZYMWh3VG5KVmRWWldYMU0yY0ZNd2MxRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOm5DdHVFX1hwTnJVdVZWX1M2cFMwc1E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 days ago",
+      "iso_date": "2026-10-26T16:15:59Z",
+      "iso_date_of_last_edit": "2026-10-26T16:15:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RGRIVkZYMWh3VG5KVmRWWldYMU0yY0ZNd2MxRRAB",
+      "user": {
+        "name": "Akshay Kumar",
+        "link": "https://www.google.com/maps/contrib/117813222121085938854?hl=en",
+        "contributor_id": "117813222121085938854",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUqvxNEJ6FZXgflaxGcSZhxQRMKcyw-VfPZ_PMTo4Z8BkOsffm6Mw=s120-c-rp-mo-br100",
+        "reviews": 8,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaemVUazVkMFppVWxCTGRHcDROVlJDWWxFdGIwRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOlZzeTk5d0ZiUlBLdGp4NVRCYlEtb0E%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-26T01:29:35Z",
+      "iso_date_of_last_edit": "2026-10-26T01:29:35Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaemVUazVkMFppVWxCTGRHcDROVlJDWWxFdGIwRRAB",
+      "user": {
+        "name": "Nilesh Kant",
+        "link": "https://www.google.com/maps/contrib/108565573209045827620?hl=en",
+        "contributor_id": "108565573209045827620",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVs0U3VxMSnDmYmUKfYFIwVmfB8AhfoWBtcpO3X917N1aqW38Ax=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 7,
+        "photos": 140
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 5,
+        "service": 4,
+        "atmosphere": 4,
+        "noise_level": "Moderate noise",
+        "group_size": "Suitable for all group sizes",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaQmRHUnllRkJuUXpnMWNHWTNNR3BvY1RkTlIzYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOlZBdGRyeFBnQzg1cGY3MGpocTdNR3c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-25T15:18:23Z",
+      "iso_date_of_last_edit": "2026-10-25T15:18:23Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQmRHUnllRkJuUXpnMWNHWTNNR3BvY1RkTlIzYxAB",
+      "user": {
+        "name": "subhash kulkarni",
+        "link": "https://www.google.com/maps/contrib/101723647406499976650?hl=en",
+        "contributor_id": "101723647406499976650",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKo7zZPbtKoopf5AHFO6vC6ezFRUtmiIdg0uswlfEaMwfBjHA=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 1
+      },
+      "snippet": "Excellent food and it's very tasty",
+      "extracted_snippet": {
+        "original": "Excellent food and it's very tasty"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT213M1dYcFhaREV4UzFkeFZYTmlVMDAxUm1sblFsRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOmw3WXpXZDExS1dxVXNiU001RmlnQlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited 3 days ago",
+      "iso_date": "2025-12-06T14:29:07Z",
+      "iso_date_of_last_edit": "2026-10-25T15:09:46Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213M1dYcFhaREV4UzFkeFZYTmlVMDAxUm1sblFsRRAB",
+      "user": {
+        "name": "Kevin Ruben",
+        "link": "https://www.google.com/maps/contrib/111698434895421279398?hl=en",
+        "contributor_id": "111698434895421279398",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUkNWuX7PmF4xOTF2jIXSdn5c3aRXrp3Hixu1ku8OKrQ40n6ZY=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Good food and Suraj provided our orders in time. Overall a good experience",
+      "extracted_snippet": {
+        "original": "Good food and Suraj provided our orders in time. Overall a good experience"
+      },
+      "details": {
+        "price_per_person": "₹1,600–1,800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKME1qTkRRelpaYTJsM2RFZEhjVlJpTFdFMFRFRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOlJ0MjNDQzZZa2l3dEdHcVRiLWE0TEE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-25T15:05:49Z",
+      "iso_date_of_last_edit": "2026-10-25T15:05:49Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKME1qTkRRelpaYTJsM2RFZEhjVlJpTFdFMFRFRRAB",
+      "user": {
+        "name": "Sanjana B",
+        "link": "https://www.google.com/maps/contrib/103803347630259472080?hl=en",
+        "contributor_id": "103803347630259472080",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK0JKZyYNfHk-8St0viUwl8cuziZ9AWiwOdXjSS_SiQDtfWeA=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "price_per_person": "₹400–600",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "noise_level": "Moderate noise",
+        "group_size": "Suitable for all group sizes",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxSmFqZFJZV2hNYkMxTE9HUjBUa2R0VWtOcFZWRRAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOi1JajdRYWhMbC1LOGR0TkdtUkNpVVE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "3 days ago",
+      "iso_date": "2026-10-25T14:44:07Z",
+      "iso_date_of_last_edit": "2026-10-25T14:44:07Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSmFqZFJZV2hNYkMxTE9HUjBUa2R0VWtOcFZWRRAB",
+      "user": {
+        "name": "Ram Charan K",
+        "link": "https://www.google.com/maps/contrib/108744870226656248290?hl=en",
+        "contributor_id": "108744870226656248290",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXED_MvYnvn6BD5IsYy3lFvNeQkK9E0XEyA0Ju2N2CBej19BxAn=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "details": {
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x3bae199ebb434785%3A0x925928a22e4df686&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F6Meyuv__EhC_tUAaAdaGDtxMu3IAAAAAGgf_Al6MeyuvGAAiAA%3A10&sort_by=newestFirst",
+    "next_page_token": "Ci8IARInCgoAP72F6Meyuv__EhC_tUAaAdaGDtxMu3IAAAAAGgf_Al6MeyuvGAAiAA:10"
+  }
+}

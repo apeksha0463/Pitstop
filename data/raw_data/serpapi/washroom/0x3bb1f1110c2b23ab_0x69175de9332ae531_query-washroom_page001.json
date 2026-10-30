@@ -1,0 +1,25 @@
+{
+  "search_metadata": {
+    "id": "6ae3100c655956ff48db2f69",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/k0gt_HDrNkoPz-falrho4AQr_Tn98ZZXxjUuPXiTA3k/6ae3100c655956ff48db2f69.json",
+    "markdown_endpoint": "https://serpapi.com/searches/k0gt_HDrNkoPz-falrho4AQr_Tn98ZZXxjUuPXiTA3k/6ae3100c655956ff48db2f69.md",
+    "created_at": "2026-10-29 09:21:16 UTC",
+    "processed_at": "2026-10-29 09:21:16 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f1110c2b23ab:0x69175de9332ae531!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/k0gt_HDrNkoPz-falrho4AQr_Tn98ZZXxjUuPXiTA3k/6ae3100c655956ff48db2f69.html",
+    "prettify_html_file": "https://serpapi.com/searches/k0gt_HDrNkoPz-falrho4AQr_Tn98ZZXxjUuPXiTA3k/6ae3100c655956ff48db2f69.prettify",
+    "total_time_taken": 0.15
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f1110c2b23ab:0x69175de9332ae531",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "search_information": {
+    "reviews_results_state": "No reviews"
+  }
+}

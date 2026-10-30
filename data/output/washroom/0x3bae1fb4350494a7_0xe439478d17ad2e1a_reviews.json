@@ -1,0 +1,643 @@
+{
+  "restaurant_name": "Unknown",
+  "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+  "main_restaurant_photo": null,
+  "image_gallery": [
+    {
+      "position": 1,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfizn5YqSvpNbk11u5Ycky6LZdG1g3ev8RSvCl9VeJ0r2X4zcHAOh_g7VIc8bp_pAdKPtg72k4Uuoe_fpnd7Ysb8XCPxV_Lze5FJF2kNX10joH4GiYqy0QSuqBluJoxWDBNmXGY-iqIkHE=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1lWSlZSV1Z4VjNONWJWcEZYMjlHVVhKTU4xRRAB",
+      "image_index": 1
+    },
+    {
+      "position": 2,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevvymvUlCNlnjbUpIk7IHO2YN6KpTgIXP-YUn2vv_LA62xSVWkDPxMFK-yvm-sj5YZ6C97qES8QucZJbgDQxfxTrzXK9ECTdS-bsnouPTWQ4rJEOtLZzWHb-IkYJIgq1ZSZcicSvwD8lY=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB",
+      "image_index": 1
+    },
+    {
+      "position": 3,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJCq-EmZwV4zxi3BELe3k5pgz-WGOp9v30w17tBalvXApWuV4Hy3IXqhmtVdJFJ1eAX9FmA32Srd1PZncLKuFFyW6krYF2NOrxLQ2VljAh-2Mjo4oJR2LFNRrNyYkxcv01PKyifnhwUaNU=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB",
+      "image_index": 2
+    },
+    {
+      "position": 4,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTafA2vwCKi1Xiq2McLV6bH3nRjc2cwljRMM1BklJanSWTs3_TnS4AvO6BlRtEL44EYD-fWq6wzNidE5VmZKm3aux12OkujDn1azy92-7Jnxc71HwUIQZeyF-zqGhEU9d4u2VuH36y5R6c=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB",
+      "image_index": 3
+    },
+    {
+      "position": 5,
+      "image_type": "customer_review_photo",
+      "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqIp1_JBZckvNBZLP-bKz0TFKeGlAdg0s2Hxfs3vpdtvURZ6IBZFqQnoE3Pnjfv7wwtY0w5Qgj4TV-ob9yvHZMx4geUAD3S9_k8Ys9binkpXbclFM2fUrasVA-stO_DlVe-PQyGgK61Lwa=k-no",
+      "local_path": null,
+      "download_status": "not_requested",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB",
+      "image_index": 4
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNF8ybUhREAE",
+      "author": "Tj Shah",
+      "author_url": "https://www.google.com/maps/contrib/112235491739594649000?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "3 years ago",
+      "iso_date": "2023-07-04T07:08:52Z",
+      "iso_date_of_last_edit": "2023-07-04T07:08:52Z",
+      "text": "Good food, bad service and hospitality at the hands of the manager himself. The reserved table was next to bathroom and it smelled of pee, so we moved one table over same smell. Manager's response was well others don't have any issue so we shouldn't either. Then he put us at another table which was reserved for another family. When we said can we please get water, response was well you should have asked for it earlier. Food was good but managers hospitality was down right rude. I wouldn't visit this place no matter how good the food is.",
+      "text_original_language": "Good food, bad service and hospitality at the hands of the manager himself. The reserved table was next to bathroom and it smelled of pee, so we moved one table over same smell. Manager's response was well others don't have any issue so we shouldn't either. Then he put us at another table which was reserved for another family. When we said can we please get water, response was well you should have asked for it earlier. Food was good but managers hospitality was down right rude. I wouldn't visit this place no matter how good the food is.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "price_per_person": "₹1,000–1,200",
+        "food": 4,
+        "service": 1,
+        "atmosphere": 4
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKNF8ybUhREAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICJ4_2mHQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMk1paHBRRRAB",
+      "author": "ASHWIN SHETTY",
+      "author_url": "https://www.google.com/maps/contrib/101846277270966141205?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 46,
+      "author_photos_count": 10,
+      "rating": 2.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-27T00:50:43Z",
+      "iso_date_of_last_edit": "2022-06-27T00:50:43Z",
+      "text": "Food was good but Poor maintenance of facility. Tv , A/c bathroom fixtures and kettle not working….",
+      "text_original_language": "Food was good but Poor maintenance of facility. Tv , A/c bathroom fixtures and kettle not working….",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURPMk1paHBRRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDO2MihpQE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURReGYzRHd3RRAB",
+      "author": "Kalyan Basu",
+      "author_url": "https://www.google.com/maps/contrib/113734622075535075341?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 101,
+      "author_photos_count": 1633,
+      "rating": 4.0,
+      "date": "8 years ago",
+      "iso_date": "2018-07-06T03:09:21Z",
+      "iso_date_of_last_edit": "2018-07-06T03:12:25Z",
+      "text": "The hotel is very beautiful both from inside as well as outside.\nA beautiful scenic beauty from the hotel rooms also available.\nThe bedding is too good, soft and  fresh bed covers and pillow covers.\nA large TV. Clean bathroom welcomes you.\nThey have a complimentary breakfast buffet available.\nFood is good there.\nMore varieties everyday would make it more perfect.\nHowever it was a good and nice short stay at the hotel.\nThe staff and room service is also delightful.",
+      "text_original_language": "The hotel is very beautiful both from inside as well as outside.\nA beautiful scenic beauty from the hotel rooms also available.\nThe bedding is too good, soft and  fresh bed covers and pillow covers.\nA large TV. Clean bathroom welcomes you.\nThey have a complimentary breakfast buffet available.\nFood is good there.\nMore varieties everyday would make it more perfect.\nHowever it was a good and nice short stay at the hotel.\nThe staff and room service is also delightful.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURReGYzRHd3RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDQxf3DwwE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncE1PMXhRRRAB",
+      "author": "Sridhar Hegde",
+      "author_url": "https://www.google.com/maps/contrib/105125300249410656180?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 24,
+      "author_photos_count": 50,
+      "rating": 2.0,
+      "date": "10 years ago",
+      "iso_date": "2016-04-16T14:46:57Z",
+      "iso_date_of_last_edit": "2016-04-16T14:46:57Z",
+      "text": "We stayed here for a day on our transit via Bangalore. We recd. a very warm welcome on arrival. There were 4 of us and while booking the room it charged us 1000 extra for the kids, however on arrival at the hotel we were told a bed would be provided immediately when needed. We were also told that the bed is king sized, however the bed is only queen sized and 2 adults and a 3 yr old can barely sleep on it.\nWe ordered a bed for the room before lunch, however even after an hour, the bed was not provided, it took 3 calls before someone showed up finally at our door. The room is a decent sized one, however there was no ceiling fan and only a single AC vent on the left side of the room so there is no air circulation and it got pretty stuffy at times. The bathroom has a single fixed shower, not the hand shower kind so you are forced to have a full shower each time. There is no shower cap on either so we had to request a bucket and even that needed 3calls with lots of following up and 1 hr to be delivered.\nThe hotel is located about a km inside from a side road so there are no options for eating anywhere other than the hotel. there is a restaurant inside the hotel that has breakfast and lunch, dinner buffets and they serve quite a spread. However we were never shown any menu cards for evening snacks and were charged atrocious prices for what we are ordered. The food however tasted good and the breakfast buffet was great. Service was also good in the restaurant\n\nOn the pro, this hotel has Close proximity to the international airport. Takes 15 to 20 mins to get there.however most of the cab drivers had trouble finding this place. They also have a nice pool with a large projection screen by the pool which is nice to sit by .kids under 5 eat free at the buffet which is nice.\n\nOverall, we were disappointed as this was supposedly a 4 star hotel but the service was lacking and left much to be desired.",
+      "text_original_language": "We stayed here for a day on our transit via Bangalore. We recd. a very warm welcome on arrival. There were 4 of us and while booking the room it charged us 1000 extra for the kids, however on arrival at the hotel we were told a bed would be provided immediately when needed. We were also told that the bed is king sized, however the bed is only queen sized and 2 adults and a 3 yr old can barely sleep on it.\nWe ordered a bed for the room before lunch, however even after an hour, the bed was not provided, it took 3 calls before someone showed up finally at our door. The room is a decent sized one, however there was no ceiling fan and only a single AC vent on the left side of the room so there is no air circulation and it got pretty stuffy at times. The bathroom has a single fixed shower, not the hand shower kind so you are forced to have a full shower each time. There is no shower cap on either so we had to request a bucket and even that needed 3calls with lots of following up and 1 hr to be delivered.\nThe hotel is located about a km inside from a side road so there are no options for eating anywhere other than the hotel. there is a restaurant inside the hotel that has breakfast and lunch, dinner buffets and they serve quite a spread. However we were never shown any menu cards for evening snacks and were charged atrocious prices for what we are ordered. The food however tasted good and the breakfast buffet was great. Service was also good in the restaurant\n\nOn the pro, this hotel has Close proximity to the international airport. Takes 15 to 20 mins to get there.however most of the cab drivers had trouble finding this place. They also have a nice pool with a large projection screen by the pool which is nice to sit by .kids under 5 eat free at the buffet which is nice.\n\nOverall, we were disappointed as this was supposedly a 4 star hotel but the service was lacking and left much to be desired.",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURncE1PMXhRRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDgpMO1xQE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:bathroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPd3RHcjl3RRAB",
+      "author": "avinash s",
+      "author_url": "https://www.google.com/maps/contrib/100376826932551865770?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 108,
+      "author_photos_count": 20,
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2022-06-05T08:27:12Z",
+      "iso_date_of_last_edit": "2022-06-05T08:44:38Z",
+      "text": "There are many things which are not good in this property.\n\n• Do not think as an resort and go, u will be disappointed. Its an club house.\n• Rooms are small and huge cost.\n• Showers handles are not working, Toilet seats are having stains.\n• Room service is bad.\n• Pool is very small / tiny. If half of rooms crowed come to pool it will be full.\n•  Food one of the worst food. Weekends are only buffet dinner. Which Is high value low quality. Options are also less.\nAmenities except small pool , billards , cycling. There are not much to say.\n\nOverall rating 1/ 10",
+      "text_original_language": "There are many things which are not good in this property.\n\n• Do not think as an resort and go, u will be disappointed. Its an club house.\n• Rooms are small and huge cost.\n• Showers handles are not working, Toilet seats are having stains.\n• Room service is bad.\n• Pool is very small / tiny. If half of rooms crowed come to pool it will be full.\n•  Food one of the worst food. Weekends are only buffet dinner. Which Is high value low quality. Options are also less.\nAmenities except small pool , billards , cycling. There are not much to say.\n\nOverall rating 1/ 10",
+      "language": null,
+      "translated": false,
+      "likes": 2,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPd3RHcjl3RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICOwtGr9wE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMy15WF9RRRAB",
+      "author": "Ankur Saraf",
+      "author_url": "https://www.google.com/maps/contrib/116030984526568958156?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 1223,
+      "author_photos_count": 44359,
+      "rating": 1.0,
+      "date": "4 years ago",
+      "iso_date": "2021-12-14T03:25:22Z",
+      "iso_date_of_last_edit": "2021-12-14T03:32:07Z",
+      "text": "Despite having a very good property, the service is third class.. even I can say that it can go more worst.. let's have look what I experienced..\n- On check in to the room (107) (13th Dec 2021) found that no water bottles was placed in the room.\n- House Keeping do not picks up the call.\n- Reception picked up the call after atleast 10mins and making 4 calls..\n- Then the person turned in even after another 10 mins .. and too after making one more call and showing the dissatisfaction.\n- Thereafter called reception to send someone for checking TV, as it was not working.. the person never turned in.\n- Hot water kettle placed in the room was in bad shape (broken lid), even after making complaint it was not replaced.(Check Pics)\n- The toilet flush button was found broken and hanging.. when one push the same the water kept flowing and does not stops automatically.\n- Now comes to Dinner.. firstly, the service was extremely slow.. even on that when you ask something from their Menu.. the person tells ki preparing that thing took more time (normal time for serving the items of their choice was more than 30 mins, God know how much more time they require.\n- Then the served food was cold and even the taste was not good.\n- Even categorically asked the reception manager to get ready the breakfast by 7:00 am morning, the breakfast not made available on time. And even the morning shift manager is saying that the breakfast will be served by 8 am, and didn't received any instructions. This happened when the breakfast was said to be complimentary and the cost was included in our stay.\nOverall had a very pathetic experience here... and will say..  Never. Ever. Go. There.\n\nWorst & Pathetic Service/ Maintenance !!",
+      "text_original_language": "Despite having a very good property, the service is third class.. even I can say that it can go more worst.. let's have look what I experienced..\n- On check in to the room (107) (13th Dec 2021) found that no water bottles was placed in the room.\n- House Keeping do not picks up the call.\n- Reception picked up the call after atleast 10mins and making 4 calls..\n- Then the person turned in even after another 10 mins .. and too after making one more call and showing the dissatisfaction.\n- Thereafter called reception to send someone for checking TV, as it was not working.. the person never turned in.\n- Hot water kettle placed in the room was in bad shape (broken lid), even after making complaint it was not replaced.(Check Pics)\n- The toilet flush button was found broken and hanging.. when one push the same the water kept flowing and does not stops automatically.\n- Now comes to Dinner.. firstly, the service was extremely slow.. even on that when you ask something from their Menu.. the person tells ki preparing that thing took more time (normal time for serving the items of their choice was more than 30 mins, God know how much more time they require.\n- Then the served food was cold and even the taste was not good.\n- Even categorically asked the reception manager to get ready the breakfast by 7:00 am morning, the breakfast not made available on time. And even the morning shift manager is saying that the breakfast will be served by 8 am, and didn't received any instructions. This happened when the breakfast was said to be complimentary and the cost was included in our stay.\nOverall had a very pathetic experience here... and will say..  Never. Ever. Go. There.\n\nWorst & Pathetic Service/ Maintenance !!",
+      "language": null,
+      "translated": false,
+      "likes": 1,
+      "details": null,
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHMy15WF9RRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgIDG3-yX_QE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2eW9TdG53RRAB",
+      "author": "P G",
+      "author_url": "https://www.google.com/maps/contrib/115504289338989942569?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 7,
+      "author_photos_count": null,
+      "rating": 3.0,
+      "date": "5 years ago",
+      "iso_date": "2021-09-26T04:39:49Z",
+      "iso_date_of_last_edit": "2021-09-26T04:39:49Z",
+      "text": "We stayed in Goldfinch Retreat for 2 nights check in 23 September 2021 and check out 25 September 2021.  All hotel staff behaviour was excellent.  Food was excellent.  But when it comes to room, I want to bring the following few points for the Managements kind consideration:\n\n1) Toilet door did not have a lock.\n2) There was no liquid handwash provided.  Hence we had to purchase one from the market.\n3) Two adults were there but only one soap was provided\n4) The window facing the garden where a platform was there was looking very ugly as if it was not cleaned for days.",
+      "text_original_language": "We stayed in Goldfinch Retreat for 2 nights check in 23 September 2021 and check out 25 September 2021.  All hotel staff behaviour was excellent.  Food was excellent.  But when it comes to room, I want to bring the following few points for the Managements kind consideration:\n\n1) Toilet door did not have a lock.\n2) There was no liquid handwash provided.  Hence we had to purchase one from the market.\n3) Two adults were there but only one soap was provided\n4) The window facing the garden where a platform was there was looking very ugly as if it was not cleaned for days.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "trip_type": "Vacation"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2eW9TdG53RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgID6yoStnwE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:toilet"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdk5qU0ZnEAE",
+      "author": "RAMAKRUSHNA PATRA",
+      "author_url": "https://www.google.com/maps/contrib/111833577103548287930?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 23,
+      "author_photos_count": 2,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-03-31T07:07:04Z",
+      "iso_date_of_last_edit": "2025-03-31T07:07:04Z",
+      "text": "Extremely rude and unprofessional staff with no sense of decency. The restroom had no details or water glasses, and the towels were dirty. One of the worst experiences with such discourteous staff. I strongly advise against considering this place.",
+      "text_original_language": "Extremely rude and unprofessional staff with no sense of decency. The restroom had no details or water glasses, and the towels were dirty. One of the worst experiences with such discourteous staff. I strongly advise against considering this place.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "rooms": 1,
+        "service": 1,
+        "location": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNJdk5qU0ZnEAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgMCIvNjSFg%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYa04ySURREAE",
+      "author": "Divya Shakti",
+      "author_url": "https://www.google.com/maps/contrib/110030264460702761307?hl=en",
+      "author_local_guide": false,
+      "author_reviews_count": 8,
+      "author_photos_count": null,
+      "rating": 1.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-12T10:58:47Z",
+      "iso_date_of_last_edit": "2024-10-12T10:58:47Z",
+      "text": "Bad experience, bad food & staff is very rude, they turned off the water supply at the restroom & forced us to pay the bill even before we finished our dinner & asked us to go! Pathetic experience!",
+      "text_original_language": "Bad experience, bad food & staff is very rude, they turned off the water supply at the restroom & forced us to pay the bill even before we finished our dinner & asked us to go! Pathetic experience!",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYa04ySURREAE!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEICAgICXkN2IDQ%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:restroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1lWSlZSV1Z4VjNONWJWcEZYMjlHVVhKTU4xRRAB",
+      "author": "Vivek Soni",
+      "author_url": "https://www.google.com/maps/contrib/106904502386034388522?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 61,
+      "author_photos_count": 41,
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-06T08:45:28Z",
+      "iso_date_of_last_edit": "2026-09-06T09:01:07Z",
+      "text": "Food is third class, pizza was having strange cheese with some strange flavoured dough , aglio olio was having rubber dried tomato, and volcano ramen not arrived till the time this review was written, washroom was dirt like govt bus stand. Staff too is below average dressed poorly and not attentive to the table they are serving.\nI mean in Bangalore there is always scope to find worst restaurant.",
+      "text_original_language": "Food is third class, pizza was having strange cheese with some strange flavoured dough , aglio olio was having rubber dried tomato, and volcano ramen not arrived till the time this review was written, washroom was dirt like govt bus stand. Staff too is below average dressed poorly and not attentive to the table they are serving.\nI mean in Bangalore there is always scope to find worst restaurant.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "group_size": "2 people",
+        "seating_type": "Indoor dining area"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZM1lWSlZSV1Z4VjNONWJWcEZYMjlHVVhKTU4xRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOkY3YVJVRWVxV3N5bVpFX29GUXJMN1E%7C%7C?hl=en",
+      "images_count": 1,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfizn5YqSvpNbk11u5Ycky6LZdG1g3ev8RSvCl9VeJ0r2X4zcHAOh_g7VIc8bp_pAdKPtg72k4Uuoe_fpnd7Ysb8XCPxV_Lze5FJF2kNX10joH4GiYqy0QSuqBluJoxWDBNmXGY-iqIkHE=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB",
+      "author": "Nikita Sinha",
+      "author_url": "https://www.google.com/maps/contrib/101764323555742157344?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 51,
+      "author_photos_count": 28,
+      "rating": 3.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-20T17:10:42Z",
+      "iso_date_of_last_edit": "2026-07-20T17:10:42Z",
+      "text": "The food was below average overall. The sushi wasn't good, the dim sum was disappointing, and the Angara chicken lacked flavor. The only dish I really enjoyed was the Black Pepper Chicken.\nThe place itself was nice and had a good ambiance, but the washroom was smelly and not clean, which affected the overall experience.\n\nOverall, I wouldn't recommend this place for the food.",
+      "text_original_language": "The food was below average overall. The sushi wasn't good, the dim sum was disappointing, and the Angara chicken lacked flavor. The only dish I really enjoyed was the Black Pepper Chicken.\nThe place itself was nice and had a good ambiance, but the washroom was smelly and not clean, which affected the overall experience.\n\nOverall, I wouldn't recommend this place for the food.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 2,
+        "service": 3,
+        "atmosphere": 3,
+        "group_size": "9+ people",
+        "wait_time": "10-30 min"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOllMSTMxMUNnWjhZLVc3QWExNmVfOVE%7C%7C?hl=en",
+      "images_count": 4,
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevvymvUlCNlnjbUpIk7IHO2YN6KpTgIXP-YUn2vv_LA62xSVWkDPxMFK-yvm-sj5YZ6C97qES8QucZJbgDQxfxTrzXK9ECTdS-bsnouPTWQ4rJEOtLZzWHb-IkYJIgq1ZSZcicSvwD8lY=k-no",
+          "image_index": 1,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJCq-EmZwV4zxi3BELe3k5pgz-WGOp9v30w17tBalvXApWuV4Hy3IXqhmtVdJFJ1eAX9FmA32Srd1PZncLKuFFyW6krYF2NOrxLQ2VljAh-2Mjo4oJR2LFNRrNyYkxcv01PKyifnhwUaNU=k-no",
+          "image_index": 2,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTafA2vwCKi1Xiq2McLV6bH3nRjc2cwljRMM1BklJanSWTs3_TnS4AvO6BlRtEL44EYD-fWq6wzNidE5VmZKm3aux12OkujDn1azy92-7Jnxc71HwUIQZeyF-zqGhEU9d4u2VuH36y5R6c=k-no",
+          "image_index": 3,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqIp1_JBZckvNBZLP-bKz0TFKeGlAdg0s2Hxfs3vpdtvURZ6IBZFqQnoE3Pnjfv7wwtY0w5Qgj4TV-ob9yvHZMx4geUAD3S9_k8Ys9binkpXbclFM2fUrasVA-stO_DlVe-PQyGgK61Lwa=k-no",
+          "image_index": 4,
+          "image_type": "customer_review_photo",
+          "local_path": null,
+          "download_status": "not_requested"
+        }
+      ],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUE9WVk5TVkJ2ZW5SYVRYbFJlRjh4ZUhCU1lYYxAB",
+      "author": "raffath ashreen",
+      "author_url": "https://www.google.com/maps/contrib/113376586517815726461?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": 5,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-22T18:44:45Z",
+      "iso_date_of_last_edit": "2025-10-22T18:44:45Z",
+      "text": "A good place near by the highway and decent atmosphere however it is suggested to have wheelchair accessible washroom and a short ramp can make this place a good one for everyone. To be an inclusive place it does not take much",
+      "text_original_language": "A good place near by the highway and decent atmosphere however it is suggested to have wheelchair accessible washroom and a short ramp can make this place a good one for everyone. To be an inclusive place it does not take much",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 2,
+        "noise_level": "Moderate noise",
+        "wait_time": "10-30 min",
+        "wheelchair_accessibility": "No wheelchair accessible washroom a small step at the entrance"
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsUE9WVk5TVkJ2ZW5SYVRYbFJlRjh4ZUhCU1lYYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOllPOVVNSVBvenRaTXlReF8xeHBSYXc%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SlYyVk1VRGRUVkdObmVVSllWMVJOYTJ3MlJGRRAB",
+      "author": "neeraj rao",
+      "author_url": "https://www.google.com/maps/contrib/100307752441412876975?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 67,
+      "author_photos_count": 821,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-05T18:57:21Z",
+      "iso_date_of_last_edit": "2025-09-05T18:57:21Z",
+      "text": "The restaurant is located at a prime spot with a beautiful property, making it an attractive place for hanging out, especially for young crowds. After reading several positive Google reviews, we decided to give it a try.\n\nUnfortunately, the experience was disappointing. The staff gave us cold greetings, seemed indifferent, and were constantly busy on their phones rather than attending to customers. While placing the order, they appeared aloof, and the food took unusually long to arrive.\n\nWe ordered butter garlic prawns and fish & chips. Both dishes were far from expectations—the prawns were drowning in a cornflour-heavy sauce, and the fish was stale, lacking freshness. The batter on the fish was so thick that it completely overpowered the taste of the fish.\n\nOverall, the food quality ruined what began as an enthusiastic outing. Also, the restaurant washroom was very dirty. This place seems more suited for youngsters looking to hang out over drinks rather than those hoping to enjoy good food.",
+      "text_original_language": "The restaurant is located at a prime spot with a beautiful property, making it an attractive place for hanging out, especially for young crowds. After reading several positive Google reviews, we decided to give it a try.\n\nUnfortunately, the experience was disappointing. The staff gave us cold greetings, seemed indifferent, and were constantly busy on their phones rather than attending to customers. While placing the order, they appeared aloof, and the food took unusually long to arrive.\n\nWe ordered butter garlic prawns and fish & chips. Both dishes were far from expectations—the prawns were drowning in a cornflour-heavy sauce, and the fish was stale, lacking freshness. The batter on the fish was so thick that it completely overpowered the taste of the fish.\n\nOverall, the food quality ruined what began as an enthusiastic outing. Also, the restaurant washroom was very dirty. This place seems more suited for youngsters looking to hang out over drinks rather than those hoping to enjoy good food.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1SlYyVk1VRGRUVkdObmVVSllWMVJOYTJ3MlJGRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOk5JV2VMUDdTVGNneUJYV1RNa2w2RFE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    },
+    {
+      "review_id": "ChdDSUhNMG9nS0VKUGp1ZFhWbXV5N293RRAB",
+      "author": "vyshak Jayan",
+      "author_url": "https://www.google.com/maps/contrib/107213502331032323168?hl=en",
+      "author_local_guide": true,
+      "author_reviews_count": 16,
+      "author_photos_count": 2,
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-04T15:55:14Z",
+      "iso_date_of_last_edit": "2025-06-04T15:56:40Z",
+      "text": "Mosquito 🦟 breeding centre.\nWashroom Washroom cleaned a decade ago stinks.",
+      "text_original_language": "Mosquito 🦟 breeding centre.\nWashroom Washroom cleaned a decade ago stinks.",
+      "language": null,
+      "translated": false,
+      "likes": 0,
+      "details": {
+        "service": 1
+      },
+      "owner_response": null,
+      "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VKUGp1ZFhWbXV5N293RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEJPjudXVmuy7owE%7C%7C?hl=en",
+      "images_count": 0,
+      "images": [],
+      "source": "Google Maps via SerpApi",
+      "matched_by": [
+        "query:washroom"
+      ]
+    }
+  ],
+  "image_summary": {
+    "main_photo_downloaded": false,
+    "main_photo_is_fallback": false,
+    "reviews_collected": 14,
+    "reviews_with_images": 2,
+    "review_images_found": 5,
+    "unique_review_image_urls": 5,
+    "review_images_downloaded": 0,
+    "unique_review_image_files": 0,
+    "review_image_download_failures": 0
+  },
+  "review_coverage": {
+    "reviews_reported_by_google": null,
+    "reviews_collected": 14,
+    "all_reported_reviews_collected": null,
+    "note": null
+  },
+  "source": "SerpApi Google Maps Reviews",
+  "restaurant_name_source": null,
+  "expected_restaurant_name": "Acre Bengaluru (Bar & Kitchen)",
+  "restaurant_name_matches_expected": false,
+  "place_warning": "The response has no place_info title; the restaurant name is NOT verified.",
+  "address": null,
+  "rating": null,
+  "type": null,
+  "phone": null,
+  "website": null,
+  "total_reviews_reported": null,
+  "reviews_results_state": null,
+  "main_restaurant_photo_unavailable_reason": "The restaurant details lookup was not run.",
+  "restaurant_photos": [],
+  "place_lookup": null,
+  "reviews_collected": 14,
+  "reviews_with_images": 2,
+  "images_found": 5,
+  "unique_image_urls": 5,
+  "images_downloaded": 0,
+  "unique_image_files": 0,
+  "images_failed": 0,
+  "images_download_failed": 0,
+  "duplicates_skipped": 0,
+  "previous_reviews_retained": 10,
+  "pages_fetched": 1,
+  "api_requests_used": 1,
+  "restaurant_details_requests_used": 0,
+  "api_requests_used_total": 1,
+  "max_requests": 1,
+  "sort_by": "newestFirst",
+  "from_cache": false,
+  "collection_complete": true,
+  "collection_status": "completed",
+  "stop_reason": null,
+  "api_error": null,
+  "page_diagnostics": [
+    {
+      "page": 1,
+      "http_status": 200,
+      "search_status": "Success",
+      "api_error": null,
+      "top_level_keys": [
+        "reviews",
+        "search_metadata",
+        "search_parameters"
+      ],
+      "place_title": null,
+      "place_type": null,
+      "reviews_results_state": null,
+      "reviews_in_response": 4,
+      "reviews_with_images": 0,
+      "has_serpapi_pagination": false,
+      "has_next_page_token": false,
+      "first_review_keys": [
+        "date",
+        "details",
+        "extracted_snippet",
+        "iso_date",
+        "iso_date_of_last_edit",
+        "likes",
+        "link",
+        "position",
+        "rating",
+        "review_id",
+        "snippet",
+        "source",
+        "user"
+      ],
+      "first_review_has_images": false,
+      "first_review_image_count": 0,
+      "first_review_image_entry_types": []
+    }
+  ],
+  "images_folder": null,
+  "extracted_at": "2026-10-29T14:47:35",
+  "review_filter": "query:bathroom",
+  "topics": [],
+  "filter_runs": [
+    {
+      "review_filter": "query:washroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 5,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:47:26"
+    },
+    {
+      "review_filter": "query:restroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 2,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:47:29"
+    },
+    {
+      "review_filter": "query:toilet",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 3,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:47:32"
+    },
+    {
+      "review_filter": "query:bathroom",
+      "first_page": 1,
+      "pages_fetched": 1,
+      "requests_used": 1,
+      "reviews_returned": 4,
+      "collection_status": "completed",
+      "next_page_token": null,
+      "from_cache": false,
+      "run_at": "2026-10-29T14:47:35"
+    }
+  ],
+  "next_page_token": null
+}

@@ -1,0 +1,154 @@
+{
+  "search_metadata": {
+    "id": "6ae30fc2b69cbe6e89ed44fc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CEH3hHa2wPeXD3VCIKlO9Sk9FTyBjEU1R-0ZZ_wRTjM/6ae30fc2b69cbe6e89ed44fc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CEH3hHa2wPeXD3VCIKlO9Sk9FTyBjEU1R-0ZZ_wRTjM/6ae30fc2b69cbe6e89ed44fc.md",
+    "created_at": "2026-10-29 09:20:02 UTC",
+    "processed_at": "2026-10-29 09:20:02 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e3f2fe781a35:0xa978b861803d2fbb!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/CEH3hHa2wPeXD3VCIKlO9Sk9FTyBjEU1R-0ZZ_wRTjM/6ae30fc2b69cbe6e89ed44fc.html",
+    "prettify_html_file": "https://serpapi.com/searches/CEH3hHa2wPeXD3VCIKlO9Sk9FTyBjEU1R-0ZZ_wRTjM/6ae30fc2b69cbe6e89ed44fc.prettify",
+    "total_time_taken": 5.4
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e3f2fe781a35:0xa978b861803d2fbb",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWWVpVcE5ObGxTUVU4NFozRktlRVJQZW1SRGJuYxAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOjVYZUpNNllSQU84Z3FKeERPemRDbnc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T14:07:39Z",
+      "iso_date_of_last_edit": "2026-08-23T14:07:39Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWVpVcE5ObGxTUVU4NFozRktlRVJQZW1SRGJuYxAB",
+      "user": {
+        "name": "Nirmalya Mahanti",
+        "link": "https://www.google.com/maps/contrib/114399340390894818670?hl=en",
+        "contributor_id": "114399340390894818670",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVc44YrMsMb844u5R2LYEL5txPqRJxpzwCWvx8mLQaveQpimMJl=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 9
+      },
+      "snippet": "Nice place with clean restroom and ample parking. Good food.",
+      "extracted_snippet": {
+        "original": "Nice place with clean restroom and ample parking. Good food."
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 months ago",
+        "iso_date": "2026-08-23T14:20:02Z",
+        "iso_date_of_last_edit": "2026-08-23T14:20:02Z",
+        "snippet": "Dear Nirmalya,\n\nThanks! Glad the food, parking and cleanliness all worked out for you. Come back soon to Devanahalli.\n\nWarm regards,\nTeam Empire",
+        "extracted_snippet": {
+          "original": "Dear Nirmalya,\n\nThanks! Glad the food, parking and cleanliness all worked out for you. Come back soon to Devanahalli.\n\nWarm regards,\nTeam Empire"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuLTRYdWVREAE!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CIHM0ogKEICAgIDn-4XueQ%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-10-10T16:45:50Z",
+      "iso_date_of_last_edit": "2024-10-10T16:45:50Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLTRYdWVREAE",
+      "user": {
+        "name": "Muniraju KM",
+        "link": "https://www.google.com/maps/contrib/112167526292543519427?hl=en",
+        "contributor_id": "112167526292543519427",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIADQ3bsXKZKXRNgLfg-fdPMYPkm1KwFpGBA0pmwPasaX05GQ=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Warish attended our table given excellent service food is mouth watering restaurant was clean and neat ...restroom is well maintend\nService -excellent\nAmvience-good",
+      "extracted_snippet": {
+        "original": "Warish attended our table given excellent service food is mouth watering restaurant was clean and neat ...restroom is well maintend\nService -excellent\nAmvience-good"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast",
+        "price_per_person": "₹800–1,000",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Tandoori Chicken"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNObXFtblVnEAE!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CIHM0ogKEICAgICNmqmnUg%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-01-13T19:10:58Z",
+      "iso_date_of_last_edit": "2024-01-13T19:10:58Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNObXFtblVnEAE",
+      "user": {
+        "name": "Shubajit Saha",
+        "link": "https://www.google.com/maps/contrib/100475681199279088049?hl=en",
+        "contributor_id": "100475681199279088049",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXNHdlii60lJgZ78R181Sz53U0-mQriLyec1Ixd7WQHv96W7fk2pA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 107,
+        "photos": 217
+      },
+      "snippet": "Atmosphere and service is great. Food quality and quantity is not upto the mark. The shwarma can be eaten in 2 bites. The biriyani had a strange smell. Restroom was clean.",
+      "extracted_snippet": {
+        "original": "Atmosphere and service is great. Food quality and quantity is not upto the mark. The shwarma can be eaten in 2 bites. The biriyani had a strange smell. Restroom was clean."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹200–400",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 5
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNWMzgzdnVnRRAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CIHM0ogKEICAgICV383vugE%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "2 years ago",
+      "iso_date": "2023-12-10T03:16:48Z",
+      "iso_date_of_last_edit": "2023-12-10T03:16:48Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWMzgzdnVnRRAB",
+      "user": {
+        "name": "Jibin Sivanand",
+        "link": "https://www.google.com/maps/contrib/105846049090467171706?hl=en",
+        "contributor_id": "105846049090467171706",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXxPBmF15cb0_OSQf5625rdg0NNflM-Q9T7FYWfyl_hiM_85Lm9=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 28,
+        "photos": 1
+      },
+      "snippet": "Food quality is poor. Dont expect food as per ambience.Restroom facility and parking is Good.Better to find out other restaurants in this highway.Worst experiance.",
+      "extracted_snippet": {
+        "original": "Food quality is poor. Dont expect food as per ambience.Restroom facility and parking is Good.Better to find out other restaurants in this highway.Worst experiance."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 3,
+        "atmosphere": 4,
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot",
+        "parking": "Security available and they will support for parking."
+      },
+      "likes": 0
+    }
+  ]
+}

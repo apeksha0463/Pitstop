@@ -1,0 +1,57 @@
+{
+  "search_metadata": {
+    "id": "6ae30f3fa20802c9efea5223",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/P34Kikr5qinYXnLhKRw6abMGD8X3A83VEXoEPVKs4Wc/6ae30f3fa20802c9efea5223.json",
+    "markdown_endpoint": "https://serpapi.com/searches/P34Kikr5qinYXnLhKRw6abMGD8X3A83VEXoEPVKs4Wc/6ae30f3fa20802c9efea5223.md",
+    "created_at": "2026-10-29 09:17:51 UTC",
+    "processed_at": "2026-10-29 09:17:51 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1e86941cd0db:0x5d472c182c9721f3!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/P34Kikr5qinYXnLhKRw6abMGD8X3A83VEXoEPVKs4Wc/6ae30f3fa20802c9efea5223.html",
+    "prettify_html_file": "https://serpapi.com/searches/P34Kikr5qinYXnLhKRw6abMGD8X3A83VEXoEPVKs4Wc/6ae30f3fa20802c9efea5223.prettify",
+    "total_time_taken": 0.44
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1e86941cd0db:0x5d472c182c9721f3",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSTlJVMVpVVTlRUVZaTVFVMHdNbU4yWldocFJIYxAB!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CAIQACodChtycF9oOkRNRU1ZUU9QQVZMQU0wMmN2ZWhpRHc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-07-30T01:55:20Z",
+      "iso_date_of_last_edit": "2025-07-30T01:55:20Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTlJVMVpVVTlRUVZaTVFVMHdNbU4yWldocFJIYxAB",
+      "user": {
+        "name": "R C",
+        "link": "https://www.google.com/maps/contrib/103992283973064683162?hl=en",
+        "contributor_id": "103992283973064683162",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJHLaHWiDJngrlIrhX7yn04MPcEcMM06Mi_RzIJ0I4JHWZpf756=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 119,
+        "photos": 12
+      },
+      "snippet": "Avoid at all costs.Absolutely Horrific Experience. My Child Got Food Poisoning + Filthy Conditions.\n\nIf I could leave zero stars, I would. Our visit to seasons on July 2025 was one of the worst dining experiences we’ve ever had and it ended with my child getting severe food poisoning within 5 hours she had only chicken Beriyani.\nShe suffered a lot with vomiting, diarrhea, high fever n sever stomach aches.This was clearly caused by contaminated chicken that she consumed In Beriyani.\n\nAnd don’t even get me started on the condition of the women’s restroom — it was absolutely disgusting. Filthy toilets, literally feces and urine on floor and pungent stench.If the restroom is this unhygienic, I can only imagine what the kitchen looks like and seriously feel bad this restaurant workers .\n\nThis place is a health hazard, plain and simple. Strongly urge others to stay far away.\n\nNO CHILD SHOULD SUFFER BECAUSE OF SUCH NEGLEGENCE..",
+      "extracted_snippet": {
+        "original": "Avoid at all costs.Absolutely Horrific Experience. My Child Got Food Poisoning + Filthy Conditions.\n\nIf I could leave zero stars, I would. Our visit to seasons on July 2025 was one of the worst dining experiences we’ve ever had and it ended with my child getting severe food poisoning within 5 hours she had only chicken Beriyani.\nShe suffered a lot with vomiting, diarrhea, high fever n sever stomach aches.This was clearly caused by contaminated chicken that she consumed In Beriyani.\n\nAnd don’t even get me started on the condition of the women’s restroom — it was absolutely disgusting. Filthy toilets, literally feces and urine on floor and pungent stench.If the restroom is this unhygienic, I can only imagine what the kitchen looks like and seriously feel bad this restaurant workers .\n\nThis place is a health hazard, plain and simple. Strongly urge others to stay far away.\n\nNO CHILD SHOULD SUFFER BECAUSE OF SUCH NEGLEGENCE.."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "wait_time": "No wait"
+      },
+      "likes": 0
+    }
+  ]
+}

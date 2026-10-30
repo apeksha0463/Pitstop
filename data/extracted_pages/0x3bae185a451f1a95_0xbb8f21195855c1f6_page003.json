@@ -1,0 +1,206 @@
+{
+  "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+  "page": 3,
+  "has_next_page": true,
+  "reviews_on_page": 20,
+  "new_reviews": 20,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "serpapi_pagination"
+    ],
+    "place_title": null,
+    "place_type": null,
+    "reviews_results_state": null,
+    "reviews_in_response": 20,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": true,
+    "has_next_page_token": true,
+    "first_review_keys": [
+      "date",
+      "details",
+      "extracted_snippet",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "snippet",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5aU5VSTJURGhmTFhGWVkyMVlPRGhzYW1jeU5WRRAB",
+      "author": "Sonali Gupta",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaU1URmphbkowYWtSU1pVbE5NRFJLTjFGM2IwRRAB",
+      "author": "Lovin Babu",
+      "rating": 3.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sWVZVbFRUM3BPTTB0RVV6WTBSa0pvUmpORmIzYxAB",
+      "author": "Sudha Ashok",
+      "rating": 3.0,
+      "date": "Edited 4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMVNDMUdkVU5hTlZrMWNFNHhhMGxWUW0xb05GRRAB",
+      "author": "SSP mgr",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oU1kwNTVTMkZNUkZCYWFIQmtWekZzUlVKNk5uYxAB",
+      "author": "mohit ritolia",
+      "rating": 3.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWGQyOUJkV3huVm10S2MxSnVVMWhGY1ZOTmIwRRAB",
+      "author": "Pushpa V",
+      "rating": 4.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sc2RFVjViVFY1WW1NNVp6ZFpka2xQZEhKTVFVRRAB",
+      "author": "Arun Alex P",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUE9GcFdXa2RxZFVSSGIzbHpiak5LWlU5bWJuYxAB",
+      "author": "Poorvika Putrevu",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cVYwNWlPSGhJUW5sdU5reHlPV0ZaYnkxclZVRRAB",
+      "author": "Jeslyn George",
+      "rating": 5.0,
+      "date": "4 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNFkwdFJNMHcyTkc1T2FGWnFPSEIzZWtGQlluYxAB",
+      "author": "nagaraj sanikerematada",
+      "rating": 1.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNFRtWkRaVXRhZHpNME5qSldSMDlZUTJGU1JWRRAB",
+      "author": "Sahana Aital",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKZlNFdHJOMHBPV0hKb1MwMTRia3RuTWxaM1NtYxAB",
+      "author": "SANKET HARSUR",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cVN6aFdhVTAxTjIxM1h6Rk5UMVJ4VTFGdFUxRRAB",
+      "author": "Aditya Kshetrapal",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcVpVWnBjMDFYUWpoa1RUTkpWbTFXUjB4WmNsRRAB",
+      "author": "GIRISH JOSHI",
+      "rating": 4.0,
+      "date": "5 months ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcykOvs53WqEJyDr7ghO_HA-W1fkEyhbtPNXdTXNCV7-toNDjEHGHkTEb8WOWKvgb4emjU2mL2OPABANuPqxRr4rUEe2C5entz5PHxCXJdlP-N0nPi6XFT6bo0K-p_crRvcmSPfPYe1lgSP=k-no",
+          "image_index": 1,
+          "local_path": "data/extracted_images/0x3bae185a451f1a95_0xbb8f21195855c1f6/Ci9DQUlRQUNvZENodHljRjlvT2xwcVpVWnBjMDFYUWpoa1RUTk_6ae4ef2a_1.jpg",
+          "download_status": "downloaded",
+          "http_status": 200,
+          "content_type": "image/jpeg",
+          "file_size_bytes": 83890,
+          "sha256": "adac28899b89c4d8c74fea6bc6bec1e340cebe10a69415f6f9bdc3d3b36a0a52"
+        },
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWg0V-dfa8uOLKNeLCESR07Z_qCO2bllqEUovKbs23s5kUZcA3PVpD5sLYLufIpS9Qbf6dEAeSDlL_5pXwggjU3jHyHMQ4ZP_srLz0u6zZ3EIOgpksJzKSkReiyEBPAKgwNZtLkXFEB31o=k-no",
+          "image_index": 2,
+          "local_path": "data/extracted_images/0x3bae185a451f1a95_0xbb8f21195855c1f6/Ci9DQUlRQUNvZENodHljRjlvT2xwcVpVWnBjMDFYUWpoa1RUTk_6ae4ef2a_2.jpg",
+          "download_status": "downloaded",
+          "http_status": 200,
+          "content_type": "image/jpeg",
+          "file_size_bytes": 62557,
+          "sha256": "ed9faab6ddc68dfbf7542c29919c6277559c9d3a922bedffa0b7058003121663"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MGJHb3plWEJxZUdWemJXMU9hMHd6YURKTVJuYxAB",
+      "author": "divya joshi",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOZlptbERkM2gwTFd0WU1tUTFUazlOWDFWeWQyYxAB",
+      "author": "Jey Ganesh",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MFVrdERkREJNTkMxWmRGOW5XbXB1TlhsT1FYYxAB",
+      "author": "Aamina Firdous",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMlVUUldYMloxWDBwMVQxbEZVbVJZZUdSbU5GRRAB",
+      "author": "Sangeetha R 010",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRGEySlRkelo0ZW10TWRuSlNSMHhhUVVkQldXYxAB",
+      "author": "Nithya A",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRFJIWkRVbEYzU2tSeGFqUjBjR2xQVmtORVlrRRAB",
+      "author": "Abhishek Bhui",
+      "rating": 5.0,
+      "date": "5 months ago",
+      "images": []
+    }
+  ]
+}

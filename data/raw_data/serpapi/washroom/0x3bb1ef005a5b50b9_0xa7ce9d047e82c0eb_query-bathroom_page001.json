@@ -1,0 +1,62 @@
+{
+  "search_metadata": {
+    "id": "6ae3101f287034d60170233b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xjiH6C_W-TKUzRRwy8QdoaZEaxPM8KGlaA3aSsX3SPA/6ae3101f287034d60170233b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/xjiH6C_W-TKUzRRwy8QdoaZEaxPM8KGlaA3aSsX3SPA/6ae3101f287034d60170233b.md",
+    "created_at": "2026-10-29 09:21:35 UTC",
+    "processed_at": "2026-10-29 09:21:35 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/xjiH6C_W-TKUzRRwy8QdoaZEaxPM8KGlaA3aSsX3SPA/6ae3101f287034d60170233b.html",
+    "prettify_html_file": "https://serpapi.com/searches/xjiH6C_W-TKUzRRwy8QdoaZEaxPM8KGlaA3aSsX3SPA/6ae3101f287034d60170233b.prettify",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1ef005a5b50b9:0xa7ce9d047e82c0eb",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxaU1FbHpWR3hEVjBSUVoyRm1OMVZ5TlROeFlVRRAB!2m1!1s0x0:0xa7ce9d047e82c0eb!3m1!1s2@1:CAIQACodChtycF9oOk1iMElzVGxDV0RQZ2FmN1VyNTNxYUE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "iso_date": "2026-10-10T02:06:02Z",
+      "iso_date_of_last_edit": "2026-10-10T02:06:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaU1FbHpWR3hEVjBSUVoyRm1OMVZ5TlROeFlVRRAB",
+      "user": {
+        "name": "Anamay Chaturbedi",
+        "link": "https://www.google.com/maps/contrib/115383614501107752379?hl=en",
+        "contributor_id": "115383614501107752379",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUXSAroC4kUM_G4vyk1vwq5s41EK31a5Oc6xVZ6Z_y_zA0j37W43w=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Very nice place the bathroom was very clean service was also good",
+      "extracted_snippet": {
+        "original": "Very nice place the bathroom was very clean service was also good"
+      },
+      "details": {
+        "meal_type": "Breakfast",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "2 weeks ago",
+        "iso_date": "2026-10-11T00:56:49Z",
+        "iso_date_of_last_edit": "2026-10-11T00:56:49Z",
+        "snippet": "Thank you for your wonderful 5-star review! 😊 We’re happy to hear that you enjoyed our clean facilities, good service, and overall atmosphere. Maintaining cleanliness and providing a comfortable experience for our guests are very important to us. We truly appreciate your kind words and look forward to welcoming you back soon! ❤️",
+        "extracted_snippet": {
+          "original": "Thank you for your wonderful 5-star review! 😊 We’re happy to hear that you enjoyed our clean facilities, good service, and overall atmosphere. Maintaining cleanliness and providing a comfortable experience for our guests are very important to us. We truly appreciate your kind words and look forward to welcoming you back soon! ❤️"
+        }
+      }
+    }
+  ]
+}

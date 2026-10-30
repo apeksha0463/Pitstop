@@ -1,0 +1,57 @@
+{
+  "search_metadata": {
+    "id": "6ae3100e391b382ead34d525",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eDnKru6plio_3-H7p64gyyB9CllznnYNtCx-T4mzBvI/6ae3100e391b382ead34d525.json",
+    "markdown_endpoint": "https://serpapi.com/searches/eDnKru6plio_3-H7p64gyyB9CllznnYNtCx-T4mzBvI/6ae3100e391b382ead34d525.md",
+    "created_at": "2026-10-29 09:21:18 UTC",
+    "processed_at": "2026-10-29 09:21:18 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f1110c2b23ab:0x69175de9332ae531!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/eDnKru6plio_3-H7p64gyyB9CllznnYNtCx-T4mzBvI/6ae3100e391b382ead34d525.html",
+    "prettify_html_file": "https://serpapi.com/searches/eDnKru6plio_3-H7p64gyyB9CllznnYNtCx-T4mzBvI/6ae3100e391b382ead34d525.prettify",
+    "total_time_taken": 0.71
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f1110c2b23ab:0x69175de9332ae531",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwWmFXdFllVzl6UVZnM1JrdHFNME5OVjJJNVJsRRAB!2m1!1s0x0:0x69175de9332ae531!3m1!1s2@1:CAIQACodChtycF9oOlpZaWtYeW9zQVg3RktqM0NNV2I5RlE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-22T09:18:49Z",
+      "iso_date_of_last_edit": "2025-06-22T09:18:49Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWmFXdFllVzl6UVZnM1JrdHFNME5OVjJJNVJsRRAB",
+      "user": {
+        "name": "NAAFIAH SADIQUE",
+        "link": "https://www.google.com/maps/contrib/100590512334643255814?hl=en",
+        "contributor_id": "100590512334643255814",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVAx0DvEEOMkzBplPA6wHJVilz5hsYvcKdIdXqjm08OYPVVSJKp=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 43,
+        "photos": 72
+      },
+      "snippet": "Ordered their pot mutton biryani. One pot will be enough portion size for 4 people and it costs 500. Naati style biryani tasted really good. Mutton was well cooked and tasty. Starter options such as mutton roast and chicken kebab were also good. Overall good food at reasonable price. They have ample space to accommodate a group of 8 people. Enough parking space was there. The place is clean. Restroom facilities were also good.",
+      "extracted_snippet": {
+        "original": "Ordered their pot mutton biryani. One pot will be enough portion size for 4 people and it costs 500. Naati style biryani tasted really good. Mutton was well cooked and tasty. Starter options such as mutton roast and chicken kebab were also good. Overall good food at reasonable price. They have ample space to accommodate a group of 8 people. Enough parking space was there. The place is clean. Restroom facilities were also good."
+      },
+      "details": {
+        "meal_type": "Lunch",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "group_size": "5-8 people",
+        "wait_time": "No wait",
+        "parking_space": "Plenty of parking"
+      },
+      "likes": 0
+    }
+  ]
+}

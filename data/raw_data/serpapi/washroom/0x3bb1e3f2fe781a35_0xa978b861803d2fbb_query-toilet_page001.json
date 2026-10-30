@@ -1,0 +1,72 @@
+{
+  "search_metadata": {
+    "id": "6ae30fca951d7369953aff4d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/i-UdjnsqlHMCr6HwttNAWAruXaAokrcIztZ57zMl5FY/6ae30fca951d7369953aff4d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/i-UdjnsqlHMCr6HwttNAWAruXaAokrcIztZ57zMl5FY/6ae30fca951d7369953aff4d.md",
+    "created_at": "2026-10-29 09:20:10 UTC",
+    "processed_at": "2026-10-29 09:20:10 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e3f2fe781a35:0xa978b861803d2fbb!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/i-UdjnsqlHMCr6HwttNAWAruXaAokrcIztZ57zMl5FY/6ae30fca951d7369953aff4d.html",
+    "prettify_html_file": "https://serpapi.com/searches/i-UdjnsqlHMCr6HwttNAWAruXaAokrcIztZ57zMl5FY/6ae30fca951d7369953aff4d.prettify",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e3f2fe781a35:0xa978b861803d2fbb",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB!2m1!1s0x0:0xa978b861803d2fbb!3m1!1s2@1:CAIQACodChtycF9oOmFaTVBfZ1JieHQ5akRSTXJKbHp1dWc%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited 6 months ago",
+      "iso_date": "2026-04-03T17:53:08Z",
+      "iso_date_of_last_edit": "2026-04-04T18:52:09Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf8ZPlXNvqdXWx-Dqto-CcTRzIreZcrYm9ufgwkgaVXYRFtH-Z80FLK3d85c15Fy4mU13job1YW3r9NLvuodwZCrhGSus9FTgsVHnYREy-_BvrlYy6AMSVRBxfxAA0K4V4p7cjjJeBT6mHm=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcFime6EDjIuBWrBUvFsQ8txaaN_rllHuk2UFROzuEG6nZlu9OMEPf21DM542kCEvleo-Ot-9tJFSFjlWQorg_lk2rwA40NgjNjVanhb7PVyz33zEqsASJhwOc_cAs5yY_9iEiblMrBPuE=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdJCbMuufdirZ-HXXaQCBWWOmtTqh9eTSZwSv6GdiNS2XSJs9QS5QyaoQn3oNoGV_Wy3UZPbyopF1UGSFBVQBbbuPElYZDlN93PrvD02aWUW1HG8u5Bc3-lQI-FI4wCnG_rJ9FyB8jDndhT=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdvVBYJFEDynklAqOg9_jIoaLxoGRd0Dw7tXhhdpxeIOBpJrfMRb7IMXlk_tzad2Y0aQjDJhTHf_xUdvaw7kFcjZypMNlazwyTWQSQfQ4DR-enzACJgAPg1VuJhCKsCM_laMZH-aqo-RyXE=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVRWQmZaMUppZUhRNWFrUlNUWEpLYkhwMWRXYxAB",
+      "user": {
+        "name": "Rama chandra",
+        "link": "https://www.google.com/maps/contrib/114325072811136484302?hl=en",
+        "contributor_id": "114325072811136484302",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWCuVV-oyQtvUd7xC9UcU7wfVm3MBuCIAajq12T7sPH2wluQog=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 338,
+        "photos": 2007
+      },
+      "snippet": "This Empire restaurant is located at bangalore to hyderabad highway. And they have very good parking facility. The food like halfam and bucket Biryani in very testy.  But the return room toilet need maintenance require properly",
+      "extracted_snippet": {
+        "original": "This Empire restaurant is located at bangalore to hyderabad highway. And they have very good parking facility. The food like halfam and bucket Biryani in very testy.  But the return room toilet need maintenance require properly"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 5,
+        "service": 3,
+        "atmosphere": 4,
+        "recommended_dishes": "Biriyani, Grill Chicken",
+        "noise_level": "Quiet, easy to talk"
+      },
+      "likes": 0,
+      "response": {
+        "date": "6 months ago",
+        "iso_date": "2026-04-04T11:23:49Z",
+        "iso_date_of_last_edit": "2026-04-04T11:23:49Z",
+        "snippet": "Dear Rama chandra, \n\nWe are sorry to hear about your experience with us. The hygiene you received is not acceptable, and we are taking this matter seriously. We are reviewing the issue to ensure improvements are made promptly. Please contact our customer care at +91 97418 88822 so we can discuss this further. \n\nWarm Regards, \nTeam Empire",
+        "extracted_snippet": {
+          "original": "Dear Rama chandra, \n\nWe are sorry to hear about your experience with us. The hygiene you received is not acceptable, and we are taking this matter seriously. We are reviewing the issue to ensure improvements are made promptly. Please contact our customer care at +91 97418 88822 so we can discuss this further. \n\nWarm Regards, \nTeam Empire"
+        }
+      }
+    }
+  ]
+}

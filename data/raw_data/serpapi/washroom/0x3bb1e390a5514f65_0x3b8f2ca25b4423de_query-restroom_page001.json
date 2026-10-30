@@ -1,0 +1,203 @@
+{
+  "search_metadata": {
+    "id": "6ae30f94d20e1655a7c0d065",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tpfPM1xqIFAQNq1E9fxPIvaNNZ3YLRhKmZ5z5Gcgecw/6ae30f94d20e1655a7c0d065.json",
+    "markdown_endpoint": "https://serpapi.com/searches/tpfPM1xqIFAQNq1E9fxPIvaNNZ3YLRhKmZ5z5Gcgecw/6ae30f94d20e1655a7c0d065.md",
+    "created_at": "2026-10-29 09:19:16 UTC",
+    "processed_at": "2026-10-29 09:19:16 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e390a5514f65:0x3b8f2ca25b4423de!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/tpfPM1xqIFAQNq1E9fxPIvaNNZ3YLRhKmZ5z5Gcgecw/6ae30f94d20e1655a7c0d065.html",
+    "prettify_html_file": "https://serpapi.com/searches/tpfPM1xqIFAQNq1E9fxPIvaNNZ3YLRhKmZ5z5Gcgecw/6ae30f94d20e1655a7c0d065.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e390a5514f65:0x3b8f2ca25b4423de",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSTWNYUjRUWEZHYjI5emFYbEpRM0JzTlVkNlYzYxAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CAIQACodChtycF9oOkRMcXR4TXFGb29zaXlJQ3BsNUd6V3c%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "4 months ago",
+      "iso_date": "2026-06-04T03:22:14Z",
+      "iso_date_of_last_edit": "2026-06-04T03:22:14Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLejGVnvK6ID9kjGi4r8sGfpHt3WRzvqXyEP67yTMMwTfzP_1JlP-x_YuaA9LRspWvRzNVCRENg4vkoSsD6YtsdBQDyou4iOZq30m3aGqkQqcvRt68m83AmzC59uCkcKsykJ96ELwOkNZpM=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeMYlgPQSoDhXNlS4bd6UrhWVrFaA4M6IxvBB1xQz831WF3UVzsdmNCuPE4FsOHElxnYssaUCQDTA0OYBUjFGBQlFG_Gc0Y2agxxl15h_wKbBM-h3yPwsY53vXjHxj7T-cY89Fthc1F1sc=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfqynNIRBiYlKuO2dsCqHyXfE04vMf1Cf72pMn92LhvPnD5pLSW01KOyr7KBsDWmmuG_-boGDdLDLVEYWntfXoITwzQDixXA-yn28fGqbkS3zvhkDcQb9-vMYPyQyJQ7ALIDvwvVl3TXgQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe3lUrOArkzh2uafu0nSBIqAptTYZwc1KeSsV5f-oAldWe_3Nxc-FSVgUqvFGzHYmz72j6ydFaEEiQjRmypeJlcmPoRyZT8y76IjS5bdRADTt927zRvFY6GGwk0sC3G9QnTt1bKnV4l_bU=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTWNYUjRUWEZHYjI5emFYbEpRM0JzTlVkNlYzYxAB",
+      "user": {
+        "name": "Subal Basak",
+        "link": "https://www.google.com/maps/contrib/102103744514740618052?hl=en",
+        "contributor_id": "102103744514740618052",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWazbbW0OA7CDMqAb_zCAuOzd7cTU9B0_0ibToxkq0kAc3NdnLY=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 135,
+        "photos": 252
+      },
+      "snippet": "While returning to Bengaluru city, visited this with friends for a quick bite in the self-service area.\nHad vada pav and tea. Both items were good but nothing exceptional. It is on the highway (NH 44) and has ample parking area. There is a clean restroom.\nIt is recommended for highway travelers.",
+      "extracted_snippet": {
+        "original": "While returning to Bengaluru city, visited this with friends for a quick bite in the self-service area.\nHad vada pav and tea. Both items were good but nothing exceptional. It is on the highway (NH 44) and has ample parking area. There is a clean restroom.\nIt is recommended for highway travelers."
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹1–200",
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3,
+        "group_size": "9+ people",
+        "wait_time": "Up to 10 min",
+        "vegetarian_offerings": "Menu is all vegetarian",
+        "parking_space": "Plenty of parking"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3OXBpX0Z3EAE!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgID79pi_Fw%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "2 years ago",
+      "iso_date": "2024-08-24T08:09:35Z",
+      "iso_date_of_last_edit": "2024-08-24T08:09:35Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfwyo7JZcbIkeMuMWR6WdOwxVN4Okp4Ztgp0gOFON3S8ZlObb6Q1zam6lS3foQQTSXbzHlTBJKWyFE5wzd7fwL_QeMFqfcN7_TCaV2oOxseYQ_sXgMK09L_yItJUbysJhUeRj0GWg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcXazb8J4urRYZ_-XQBaffrWISL8bY_Z59GMa6STCKUmq30NGT4KIF4ZRjcuQ1-8NtKC0zukL2oBKZgOMFXDkV08ch32XOG51nMdXFGkiO3mPaWqKQ0i_1wGBz9gCW0X42PVumZ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcafgVmYo_wThQHTg-mRSariJEVZ6ano3fpRZBM7CcDR8viLyN3uk1BAYKjziv1-VdqXD2tXU080Xr_Z1Pp49j28nRfRNG4QMyLVg-XMfI9CvgjNJG9g0ES4ZntGsBimGHmJgd_=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeZckW3rvjHTCsZ4RSeR3Z77ikCCNbb7foF42ED9v5woTU5XbBLPiXSRdASQVD9mxpIu65fGqljZL-wsQ1Rb_LwDnmQjMzlCFZc-SK4XIXU8lnTsyRn1-OoxqEJA0aS4kcG_6ns=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcOEDfwcvEyU6A1wrfJjcnznM_NTzS-Ak1RrF4qtMh0MC0lwOg_5cceZJtd0Qp-2LTXabZFdPshomScHK_1soh1E24W2pnRNCL7ytbYTlFu-UELYP3picXUEmIcrqZeE1s_losc=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OXBpX0Z3EAE",
+      "user": {
+        "name": "Shushma Kalkur",
+        "link": "https://www.google.com/maps/contrib/109929379183627444008?hl=en",
+        "contributor_id": "109929379183627444008",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVmjjjON2AyYuq8z-HoVC6KLP4yXxBi6DBlEzYNrPVZcVho5aJG=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 127,
+        "photos": 744
+      },
+      "snippet": "This vegetarian restaurant offers a pleasant dining experience with a nicely designed interior and air-conditioned comfort. It's one of the better options in the area for vegetarian cuisine.\nThe food is generally good, though some dishes might be a bit spicy for those with milder preferences. A nice touch is the complimentary ice cream, available with meals between 12 pm and 4 pm. The prices are reasonable, making it a good value for money. Additionally, the restroom is clean, and there's ample parking space available, adding to the overall convenience.",
+      "extracted_snippet": {
+        "original": "This vegetarian restaurant offers a pleasant dining experience with a nicely designed interior and air-conditioned comfort. It's one of the better options in the area for vegetarian cuisine.\nThe food is generally good, though some dishes might be a bit spicy for those with milder preferences. A nice touch is the complimentary ice cream, available with meals between 12 pm and 4 pm. The prices are reasonable, making it a good value for money. Additionally, the restroom is clean, and there's ample parking space available, adding to the overall convenience."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹200–400",
+        "food": 4,
+        "service": 4,
+        "atmosphere": 4
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURMMzRIcXZnRRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgIDL34HqvgE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "2 years ago",
+      "iso_date": "2024-07-02T18:16:40Z",
+      "iso_date_of_last_edit": "2024-07-02T18:16:40Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMzRIcXZnRRAB",
+      "user": {
+        "name": "Deepak Sridhar",
+        "link": "https://www.google.com/maps/contrib/114215189934319229882?hl=en",
+        "contributor_id": "114215189934319229882",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVsw3v8JrzN9ZvFWHm9qnvycsqB_yt8qqL8ZzhvJvzzRQ1gOFad=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 177,
+        "photos": 1892
+      },
+      "snippet": "Food: very high quality! Vada sambhar is a must try. The sambhar is particularly tasty. Chutney is good too.\nSouth Indian meals is very nice. On the spicy side. Very filling.\nWe also ate open butter masala dosa. An absolute delight! Perfect spice level, and very tasty! Very filling!\nWe also had coffee which was great!\n\nPrices are on the higher side. But worth the quality of food!\n\nService: quite good. A lot of staff and they are responsive and quick.\n\nAmbience: a generic restaurant. Pleasant.\n\nRestrooms: the men's restroom was smelling (strongly), an unpleasant experience especially after such a great meal. Considering the footfall, they should clean it more often.",
+      "extracted_snippet": {
+        "original": "Food: very high quality! Vada sambhar is a must try. The sambhar is particularly tasty. Chutney is good too.\nSouth Indian meals is very nice. On the spicy side. Very filling.\nWe also ate open butter masala dosa. An absolute delight! Perfect spice level, and very tasty! Very filling!\nWe also had coffee which was great!\n\nPrices are on the higher side. But worth the quality of food!\n\nService: quite good. A lot of staff and they are responsive and quick.\n\nAmbience: a generic restaurant. Pleasant.\n\nRestrooms: the men's restroom was smelling (strongly), an unpleasant experience especially after such a great meal. Considering the footfall, they should clean it more often."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 4,
+        "recommended_dishes": "Open Butter Masala Dosa, Special South Indian Meals",
+        "recommendation_for_vegetarians": "Highly recommend",
+        "vegetarian_offerings": "Menu is all vegetarian, Large vegetarian selection",
+        "vegetarian_options": "High quality and a lot of options!"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURhNU5MX0dREAE!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgIDa5NL_GQ%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "Edited 3 years ago",
+      "iso_date": "2021-08-15T19:18:36Z",
+      "iso_date_of_last_edit": "2023-07-22T19:31:20Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhNU5MX0dREAE",
+      "user": {
+        "name": "Sumit Kumar",
+        "link": "https://www.google.com/maps/contrib/101040087391713433630?hl=en",
+        "contributor_id": "101040087391713433630",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUSPrwdr_NfHrTlChQu5WruKdncQGYOZWgsanofF40NYfDBMtt5tQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 46,
+        "photos": 4
+      },
+      "snippet": "The food is tasty and affordable. You get wide variety of South and North Indian dishes besides the chats and snacks offered here. There's ample parking space near the restaurant. There is also a service hall if you don't like self service. The service hall is spacious and clean. The staff wears mask and the table is sanitized frequently.\nThe restroom at the this place is also clean.",
+      "extracted_snippet": {
+        "original": "The food is tasty and affordable. You get wide variety of South and North Indian dishes besides the chats and snacks offered here. There's ample parking space near the restaurant. There is also a service hall if you don't like self service. The service hall is spacious and clean. The staff wears mask and the table is sanitized frequently.\nThe restroom at the this place is also clean."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Dinner",
+        "price_per_person": "₹1–200",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Gobi Manchurian",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNNellTWTJnRRAB!2m1!1s0x0:0x3b8f2ca25b4423de!3m1!1s2@1:CIHM0ogKEICAgICMzYSY2gE%7C%7C?hl=en",
+      "rating": 4.0,
+      "date": "Edited 4 years ago",
+      "iso_date": "2019-11-30T13:29:56Z",
+      "iso_date_of_last_edit": "2022-03-05T08:14:56Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNellTWTJnRRAB",
+      "user": {
+        "name": "Suhas",
+        "link": "https://www.google.com/maps/contrib/106150435400161461348?hl=en",
+        "contributor_id": "106150435400161461348",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUSh-24gR5ecRSdGGa_YNMTrZNqJVDmEno52ADooHpEQ9FvWPHx=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 266,
+        "photos": 707
+      },
+      "snippet": "+ Good food\n+ Good service\n- Not that clean restroom",
+      "extracted_snippet": {
+        "original": "+ Good food\n+ Good service\n- Not that clean restroom"
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Breakfast"
+      },
+      "likes": 0
+    }
+  ]
+}

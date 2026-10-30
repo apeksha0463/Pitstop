@@ -1,0 +1,66 @@
+{
+  "search_metadata": {
+    "id": "6ae30fbc2c2f13f8722588d1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5zDZbNi2Lu3xK4pejCPdy88p0mpQcGK3QMj6mDrR3qc/6ae30fbc2c2f13f8722588d1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5zDZbNi2Lu3xK4pejCPdy88p0mpQcGK3QMj6mDrR3qc/6ae30fbc2c2f13f8722588d1.md",
+    "created_at": "2026-10-29 09:19:56 UTC",
+    "processed_at": "2026-10-29 09:19:56 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e3ae98bda1eb:0x8370cc11593217b3!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/5zDZbNi2Lu3xK4pejCPdy88p0mpQcGK3QMj6mDrR3qc/6ae30fbc2c2f13f8722588d1.html",
+    "prettify_html_file": "https://serpapi.com/searches/5zDZbNi2Lu3xK4pejCPdy88p0mpQcGK3QMj6mDrR3qc/6ae30fbc2c2f13f8722588d1.prettify",
+    "total_time_taken": 1.03
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e3ae98bda1eb:0x8370cc11593217b3",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1SVlVVk1MV2w0VFhRMVNUZzFVRzVqYW14alIyYxAB!2m1!1s0x0:0x8370cc11593217b3!3m1!1s2@1:CAIQACodChtycF9oOk5IYUVMLWl4TXQ1STg1UG5jamxjR2c%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "7 months ago",
+      "iso_date": "2026-03-01T16:12:10Z",
+      "iso_date_of_last_edit": "2026-03-01T16:12:10Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfPKLD2a47eDDiHLLExnyamLuqr79o2nXGnEizJuMyQeIojDzkxM0Bx8i7u4lufNmnH2lTyKPZss24fcszNqJMhWgE6PO2Gd9yGN91nR0Zb-3sOz5FCYs5MXusJTTtGylIirw-j2FAfzFwS=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfrw6Oyjssb2SFOE7XhoE8wpW_kVddasdydd-LrFoyJR8oEbm16fBVJUqGOed4ZopvlTItoEf_d-PlfZj1x-fNT8liY6Upr74aWAjhKtqYppTMXctTomXBiArncz5Oe1C5V2cdj73--V6GX=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVlVVk1MV2w0VFhRMVNUZzFVRzVqYW14alIyYxAB",
+      "user": {
+        "name": "Avinash Manur",
+        "link": "https://www.google.com/maps/contrib/108238697645812731890?hl=en",
+        "contributor_id": "108238697645812731890",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVYALltaVIDBnXuCb_lIQN-TD5DfTylylig3UdPyfybdXGiOtSoQA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 449,
+        "photos": 340
+      },
+      "snippet": "Posted price list, bit expensive but decent food and has good car parking area and bathroom is nice new hotel so no issue with hygiene.  Price is very high, mulbagal dosa 170rs 😢",
+      "extracted_snippet": {
+        "original": "Posted price list, bit expensive but decent food and has good car parking area and bathroom is nice new hotel so no issue with hygiene.  Price is very high, mulbagal dosa 170rs 😢"
+      },
+      "details": {
+        "food": 4,
+        "service": 3,
+        "atmosphere": 3
+      },
+      "likes": 0,
+      "response": {
+        "date": "5 months ago",
+        "iso_date": "2026-05-08T17:31:06Z",
+        "iso_date_of_last_edit": "2026-05-08T17:31:06Z",
+        "snippet": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!\n",
+        "extracted_snippet": {
+          "original": "Thank you for your fantastic 5-star review! We’re thrilled to hear that you loved our food, ambience, and service, and that you had a memorable family dining experience with us.\nYour appreciation inspires us to continue providing exceptional hospitality. We look forward to serving you again at Aaradhya Grand!\n"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "data_id": "0x3bae185a451f1a95:0xbb8f21195855c1f6",
+  "page": 1,
+  "has_next_page": true,
+  "reviews_on_page": 10,
+  "new_reviews": 10,
+  "diagnostics": {
+    "http_status": 200,
+    "search_status": "Success",
+    "api_error": null,
+    "top_level_keys": [
+      "place_info",
+      "reviews",
+      "search_metadata",
+      "search_parameters",
+      "serpapi_pagination",
+      "topics"
+    ],
+    "place_title": "9th Mile Dhaba",
+    "place_type": "Punjabi restaurant",
+    "reviews_results_state": null,
+    "reviews_in_response": 10,
+    "reviews_with_images": 1,
+    "has_serpapi_pagination": true,
+    "has_next_page_token": true,
+    "first_review_keys": [
+      "date",
+      "iso_date",
+      "iso_date_of_last_edit",
+      "likes",
+      "link",
+      "position",
+      "rating",
+      "review_id",
+      "source",
+      "user"
+    ],
+    "first_review_has_images": false,
+    "first_review_image_count": 0,
+    "first_review_image_entry_types": []
+  },
+  "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWGRETkZTMjh3WVZkd2FIUk5aV0ZIVVROR1kzYxAB",
+      "author": "Hemant Jadhav",
+      "rating": 5.0,
+      "date": "4 days ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CbVVFNXhWVFo0TTBacGJEVllYMkl6VFdKQ1JIYxAB",
+      "author": "Rajani Anandan",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNGFYaERiRGxOY20xbWJ6UklOV2xmUm01WlMyYxAB",
+      "author": "Arkadev Ghosh",
+      "rating": 5.0,
+      "date": "2 weeks ago",
+      "images": [
+        {
+          "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqZ8_0vNUWlPRlFqGFys9VEkEQ_7CGa4GNrPbvu3NYV_x2ZNhtx8a5dgknymT8k9qYnQI7jHoPSyjYEOyc10PdlbFHc89Kez9RovwTiqj0O6mpiidJD6dRenRSms-5BCmrz8UC5l2Ut-X7=k-no",
+          "image_index": 1,
+          "local_path": "data/extracted_images/0x3bae185a451f1a95_0xbb8f21195855c1f6/Ci9DQUlRQUNvZENodHljRjlvT2tsNGFYaERiRGxOY20xbWJ6Uk_2a8b9b8e_1.jpg",
+          "download_status": "downloaded",
+          "http_status": 200,
+          "content_type": "image/jpeg",
+          "file_size_bytes": 67916,
+          "sha256": "5620b067803171219456d9a52b26807d025310d911729765d9dad448b708f2d3"
+        }
+      ]
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKb1lYSndkVFkwV0hKWVF6Tk1VMEpsYVVSaFNrRRAB",
+      "author": "umangi mistry",
+      "rating": 4.0,
+      "date": "3 weeks ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJeVJGOXhYekoxTm5aV2VTMHpSRVZ5V2tab2FrRRAB",
+      "author": "Omkar Dey",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMk1sY3dPQzFxVFdWbk1uTTFOVFpTVldac1RsRRAB",
+      "author": "Mahesh Balani",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paZlNraElVV1pXYkY5WUxXbHNUMUUwUjFKVVJsRRAB",
+      "author": "Vicky Saini",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUVRHSkJhMHAwWnpSNVRWbHNXamRJVjNkd2VuYxAB",
+      "author": "Rashmi Soni",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201blVFcElkM051UTFWTVJIazBkR05xWXpaek9XYxAB",
+      "author": "Arjun Deka",
+      "rating": 5.0,
+      "date": "a month ago",
+      "images": []
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMGRVMUtTVmQ0YldGNGVVbHVXWEZVTVdGdlpIYxAB",
+      "author": "Ronald V. Rajendra",
+      "rating": 4.0,
+      "date": "a month ago",
+      "images": []
+    }
+  ]
+}

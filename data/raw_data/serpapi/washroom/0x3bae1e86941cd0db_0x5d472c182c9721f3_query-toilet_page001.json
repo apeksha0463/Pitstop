@@ -1,0 +1,84 @@
+{
+  "search_metadata": {
+    "id": "6ae30f42d181690de3d42980",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Ix9r8X-nKit1mmGdWQPf2iv9xHYmUJMFgRzQVmBjPQ8/6ae30f42d181690de3d42980.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Ix9r8X-nKit1mmGdWQPf2iv9xHYmUJMFgRzQVmBjPQ8/6ae30f42d181690de3d42980.md",
+    "created_at": "2026-10-29 09:17:54 UTC",
+    "processed_at": "2026-10-29 09:17:54 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1e86941cd0db:0x5d472c182c9721f3!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Ix9r8X-nKit1mmGdWQPf2iv9xHYmUJMFgRzQVmBjPQ8/6ae30f42d181690de3d42980.html",
+    "prettify_html_file": "https://serpapi.com/searches/Ix9r8X-nKit1mmGdWQPf2iv9xHYmUJMFgRzQVmBjPQ8/6ae30f42d181690de3d42980.prettify",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1e86941cd0db:0x5d472c182c9721f3",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "toilet"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNwajc2a1VBEAE!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CIHM0ogKEICAgICpj76kUA%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 years ago",
+      "iso_date": "2023-08-12T16:35:42Z",
+      "iso_date_of_last_edit": "2023-08-12T16:35:42Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdBxfCRor0AERJZ0hBwrGVBFQMenyF_QA1ivHxmKJBkU2uZClLeqwwH0Vwuvmm_2TgEzKAIXQ1DczZm8Fon_DrVul6NFtQGZTVDRCsqBuXD_1-yG3khApsne-u81virY1pCVppXFw=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfjRc2Vap9LCjmPUnX0G7Ehafgk5vmRrzxhR0jYYK6Wi7cOrXonnE4LTfwav3bVHoZYC5NlX8KfD2q41uvfb643lT4f7TcCdiRCetGc-eePRG5tzQVBQBPURw44z8Cj_XtzjADp=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfj0Eslw_ehoiP46ry4dzvWPhj_kdMfSxR1cecIayUpxKVgLigiz4L0eoo4f3qtK6SDYC4IAv1bnv0TVHeveO3EYSVotl5Lvobud9-Jfi8RYJBM3eftC88T7Rn78fagiNiximsn=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe8iUsEOnTEN-dMymWB6Bo1ki3R5EcHhw3mJbS2YNRgo9Z8mEh8wfCX4Llci0ejutBZty3V2W6WDBPCS78Uw2R_yp9LBvjonTlaXc1PCzDxr5vZz-IjbaIqDICZsh03nmWkKd1-=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe_q-crVxn9nVIcFAD0JXD9fMWZlDCQO6vDXm78o3AQYd_ucfEMmAPGigcHQuk_cKmR6LDiX9W5N4iSrcJdZWxHGDRhlx90YuENxJyYHe936hqpq6AIJDpQn872sQxVuYp3Qn6kIQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwajc2a1VBEAE",
+      "user": {
+        "name": "Popular Traders",
+        "link": "https://www.google.com/maps/contrib/100743636749785555179?hl=en",
+        "contributor_id": "100743636749785555179",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUP7V3lrd2yImbwq8LrlWDMFU9HwiTeAGYwYwxMxAXXKveacTadPQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 835,
+        "photos": 11718
+      },
+      "snippet": "Nice parking available toilet needs more sanitizer",
+      "extracted_snippet": {
+        "original": "Nice parking available toilet needs more sanitizer"
+      },
+      "details": {
+        "food": 4,
+        "service": 3,
+        "atmosphere": 2
+      },
+      "likes": 2
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN3bmRfOVZREAE!2m1!1s0x0:0x5d472c182c9721f3!3m1!1s2@1:CIHM0ogKEICAgICwnd_9VQ%7C%7C?hl=en",
+      "rating": 2.0,
+      "date": "8 years ago",
+      "iso_date": "2018-08-23T02:26:41Z",
+      "iso_date_of_last_edit": "2018-08-23T02:27:02Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3bmRfOVZREAE",
+      "user": {
+        "name": "Ryan Fernandez",
+        "link": "https://www.google.com/maps/contrib/108599750260343962163?hl=en",
+        "contributor_id": "108599750260343962163",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUbJXM00sn9zg3jVRO2G4SjOdE-uxn49xY6o69wAmyaispXbxxZsw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 324,
+        "photos": 35
+      },
+      "snippet": "Whole restaurant smells like a toilet",
+      "extracted_snippet": {
+        "original": "Whole restaurant smells like a toilet"
+      },
+      "likes": 0
+    }
+  ]
+}

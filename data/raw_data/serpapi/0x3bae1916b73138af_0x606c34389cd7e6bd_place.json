@@ -1,0 +1,246 @@
+{
+  "search_metadata": {
+    "id": "6ae2e90f66900e1e305a3664",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/umSa4ghheQ5gcGEJHu6cIsGOxGZPv_wV56_b7mYuD4k/6ae2e90f66900e1e305a3664.json",
+    "markdown_endpoint": "https://serpapi.com/searches/umSa4ghheQ5gcGEJHu6cIsGOxGZPv_wV56_b7mYuD4k/6ae2e90f66900e1e305a3664.md",
+    "created_at": "2026-10-29 06:34:55 UTC",
+    "processed_at": "2026-10-29 06:34:55 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0x0:0x606c34389cd7e6bd!8m2!3d0!4d0!16s?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/umSa4ghheQ5gcGEJHu6cIsGOxGZPv_wV56_b7mYuD4k/6ae2e90f66900e1e305a3664.html",
+    "prettify_html_file": "https://serpapi.com/searches/umSa4ghheQ5gcGEJHu6cIsGOxGZPv_wV56_b7mYuD4k/6ae2e90f66900e1e305a3664.prettify",
+    "total_time_taken": 0.33
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "data_cid": "6947985742880040637",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "place_results": {
+    "title": "Andhra Vindu Multicuisine Family Restaurant",
+    "place_id": "ChIJrzgxtxYZrjsRvebXnDg0bGA",
+    "data_id": "0x3bae1916b73138af:0x606c34389cd7e6bd",
+    "data_cid": "6947985742880040637",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1916b73138af%3A0x606c34389cd7e6bd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1916b73138af%3A0x606c34389cd7e6bd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 13.1218811,
+      "longitude": 77.6238831
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrzgxtxYZrjsRvebXnDg0bGA",
+    "provider_id": "/g/11dynbj0rf",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp7FhCHPUmb9VoZ5syLNnNn3V9TMycHUeeDHcpphQNua-0k-gO9C_zSOOt4KO3WKGz3vswMX5CwpNHfCldi9TdcOsgZbpd77ELOvIWNG8P88hhFodUM-9bZcUWB_JbCuS9L_muPQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/tg1n13icHcRRDoIgAADQE5E2a0pbH0WZlYKtzOaPUyRoKbDAXN2wI3Sbtt7H-36EtdrMHKcV3ogrxVvWG_agSlom7YiqzuGPyhhAjbNYLO9dfNV-KFCUZl0Nz6qYmleMJZbeGZ6SF40yxlYR1VoccF8B9w44gah8Hwmxkz3x8v3m7T3NkFymaNA4uqK2ucFTQ4nhRa0b31_H5LnN8SZIg0CIUDVZAmBd0Cxflrsa9UcYl12fHubD2HVdIP5TIH8NY0VA",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 377
+      },
+      {
+        "stars": 2,
+        "amount": 176
+      },
+      {
+        "stars": 3,
+        "amount": 460
+      },
+      {
+        "stars": 4,
+        "amount": 1117
+      },
+      {
+        "stars": 5,
+        "amount": 1908
+      }
+    ],
+    "rating": 4,
+    "reviews": 4038,
+    "type": [
+      "Andhra restaurant",
+      "North Indian restaurant",
+      "South Indian restaurant"
+    ],
+    "reservation": {
+      "link": "https://www.swiggy.com/restaurants/andhra-vindu-multicuisine-family-restaurant-yelahanka-bangalore-115809/dineout?is_retargeting=true&media_source=GoogleReserve&utm_campaign=GoogleMap&utm_source=GoogleReserve",
+      "source": "swiggy.com"
+    },
+    "order_online_link": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFkeW5iajByZhgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=D-niauTjCa2Gw8cPu6qYyAs&ei=D-niauTjCa2Gw8cPu6qYyAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "address": "183/2, above Corporation Bank, Priyanka Layout, Kattigenahalli, Bagalur, Mainroad, Bengaluru, Karnataka 560064, India",
+    "country": "India",
+    "phone": "+91 93419 77977",
+    "open_state": "Open · Closes 11 PM",
+    "plus_code": "4JCF+QH Bengaluru, Karnataka, India",
+    "hours": [
+      {
+        "thursday": "11:30 AM–11 PM"
+      },
+      {
+        "friday": "11:30 AM–11 PM"
+      },
+      {
+        "saturday": "11:30 AM–11 PM"
+      },
+      {
+        "sunday": "11:30 AM–11 PM (Karnataka Rajyotsava might affect these hours)"
+      },
+      {
+        "monday": "11:30 AM–11 PM"
+      },
+      {
+        "tuesday": "11:30 AM–11 PM"
+      },
+      {
+        "wednesday": "11:30 AM–11 PM"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Delicious food, great ambience, food was a bit spicy but they did mention it.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKEnV072Zis7IZDZSRlZI0HKAleHSisJi_fD9bpTBTGJHR6FQ=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Dry Mutton biryani.. very bad, Andhra veg meal quality not good\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUTbsoZ7Oib_R1kjfdDV8BynxY2nYHRNBSjRbHkl82icTQj2KnM=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"We ordered mutton garlic and chicken chili in starter.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXXhI9rFrGhrXvWR0x86qV1SgOkc1l6dWmN-JkE9tCysTT5zacZ=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Lijo Chacko",
+          "rating": 3,
+          "contributor_id": "113426358345686956912",
+          "user_review_count": 164,
+          "user_photo_count": 493,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW11PwHRt8dal53Lmja-uEDUw6M33aTUKu7nMGTST04suoRTFmL=s120-c-rp-mo-ba12-br100",
+          "description": "The experience was average overall. The service was the best part—staff were attentive and courteous. The food was decent, and the authentic Andhra-style spice level was enjoyable. However, many items on the menu were unavailable, and the beverage options were quite limited. Also, despite specifically requesting some dishes to be made less spicy, they were still served spicy. The ambience was okay, but better menu availability and attention to customer preferences would improve the overall experience.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCcVNGbHZhVlpPZEhab016UnFhM0pZZEVkSU1WRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOjBqSFlvaVZOdHZoMzRqa3JYdEdIMVE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLexbyYA9h_JlfckiniDMMjconOWobD1FXHrMKHtDPXW0Dg5-BhsJ-Hk8C6TLyQY6csWjMib5NLOb22Ubvai0SRcH2-xkEoJmIuw-rBo_ScKWDCDi7L5CDyJ0WpttwVUYg9ZZTatgL7w2jM=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_OyTNVQs1UjYxAQPVqrjEtXkapOqzsoH3vYB34yDh_9P_q3zXSv0wX_JsVd-n9Gq4-ssMtU423SjlcjFygL8Rd4bKZI1mfQ_6lQDbaYO691iKFa6S0riK-DoOL3hru5WlRMUBkR4XwfI=k-no"
+            }
+          ],
+          "date": "3 months ago",
+          "date_iso8601": "2026-07-07T14:08:10+00:00"
+        },
+        {
+          "username": "Arudra Aru",
+          "rating": 1,
+          "contributor_id": "102186092945034832147",
+          "user_review_count": 3,
+          "user_photo_count": 2,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL-e3jsVklj-EE9s05PQNM-EqGGk0PA8KwpMLL3SSkfwvgFYw=s120-c-rp-mo-ba12-br100",
+          "description": "We had chicken drumstick with sauce and godavari fry piece biryani saying andhra style it taste like scrap.\n\nDrumstick had more slat in sauce.\n\nWhy would anyone call white basamathi rice with little jeera and curry made with tomato a fry piece biriyani does the chef and owner what's exactly the word fry means.\n\nPlease improve dont ruin the name of andhra.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsYU4wZzFZekZ2TUROUE1VSjBPVXBoT0RkdFpGRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOllaN0g1YzFvMDNPMUJ0OUphODdtZFE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb9hO8SM9F6a2AkJckd7oRxhbsBY7xz_DevzYSm10GJqjOzFeD9p48uNno9-jjawwL4b_L4TrCkXDRbvJCvdkCYNZyEZmAbXtkVVENVbRNlXU6we8nRAE0Nm3ae4dlJ7YQwLrFgOqGR1c=k-no"
+            }
+          ],
+          "date": "3 months ago",
+          "date_iso8601": "2026-07-24T14:33:41+00:00"
+        },
+        {
+          "username": "Victor Lobo",
+          "rating": 4,
+          "contributor_id": "112999219232620392605",
+          "user_review_count": 154,
+          "user_photo_count": 772,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLoj7G8I64etmgNVqrbeChd25LjlKuV47G30Z3CqL2S4xrO0A=s120-c-rp-mo-ba12-br100",
+          "description": "Good place to grab a meal when you’re in the area. The ambience is decent and comfortable. Staff courtesy is good. The mutton dish I received was undercooked, so consistency in preparation needs attention. Overall, worth visiting for a quick, satisfying meal, but there’s room for improvement.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkbWNEUkxNbUZwVFVkS1JrUkJUVVJGU25jd1JIYxAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOkdmcDRLMmFpTUdKRkRBTURFSncwRHc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc24DsV0MWWrq69Dn24x0w1F9uBN1Md29Z370txaw7W4RK5e7x5-cHTfvbLUjrViyBog3o5jXRZD0h7jj707Mu6d6MX3O-SqC0Y2C_fvAbjF9suAJIYu4vMaZ1rF_mmN77-PFG-8T3Wy3I=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdN0KRJjEgXwpdaq_ItYUsHxzAocUtENnuWqNiJnxNDJxtB2R8PI3VIZEyDurX0eGndGp5OCpvO4BKuh_OxT1m5MAEnGdx7zJ6e66caONWpWDZ_VhAWVCpV_hpk9srJkq7qhDKUZ-WCi6nw=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSrWuWcXHSesBTIIUTNl3CLgj9wt2PqsoC0KTtjxtn9DqaE4BAjkaYV-L9BzDha6bgSHUVeEgrRAD3f8MX4yF-0_TVwsVCjGHyzsJPIfL2iBCy8Sy3cpNaEESwDCiGnHP7mwYHcU0TX9GR=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLflhEZGhgx6VQ6_YJFYqJfaoE1rB-WJDcQSZ_q7tHw0drmi4XKutvrou7Obeoql9pnxgKu1RoYdrEG0A1uDZ-VXqbeAi9tSFlBZVbOGQDDqS5fV7Mmp-xEJyouC_5p70OPfVFrTOFfAyEFI=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLclrcoCnxlNTcQhHUr4clIY9CTAqdqrbUBmHXjCXFjLsg5yN1Yfw1YVZ-H8udpwqaGwbNdQvjsnoQgJzeK7k1_DWRle1RSxEF5iKbe81f23UrrYG4DjNp-4s6OoQHuENpQdQzD2nw5mkbmd=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0fs9huvHY4i2hVzO4XwdhgTm72alCrmDsJanACjtR_SyCAwLKhs7YWEVkGOPNoNpOzWQzkir669pH-oc2crzoZm0I7AUnipUkkZ4JjwfPk1-70y55-xfBhAU7Od1Xhs3nY6ozg-O3d2Y=k-no"
+            }
+          ],
+          "date": "11 months ago",
+          "date_iso8601": "2025-11-15T13:03:47+00:00"
+        },
+        {
+          "username": "People Lens",
+          "rating": 5,
+          "contributor_id": "101500525909257539570",
+          "user_review_count": 14,
+          "user_photo_count": 72,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXlS0QU3D0eQ0SMfouZf3C6KNxYrunohbR2kXie5Fw2BFyp3rI=s120-c-rp-mo-ba12-br100",
+          "description": "I visited Andra Vindu Multicuisine Restaurant and ordered the meals, and the experience was truly amazing. The food tasted exactly like original home-cooked food, full of authentic flavors and freshness. The meals were unlimited and very satisfying, making it great value for money. Every item felt well prepared and comforting. If you love traditional, homemade-style meals, I highly recommend everyone to visit and experience this place at least once. 😊🍽️",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGRVkzRTRSbTFsZEc5TkxXRlhjbFpUWjJvdFowRRAB!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CAIQACodChtycF9oOlFEY3E4Rm1ldG9NLWFXclZTZ2otZ0E%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqMwDzIBVM7gpvMNnoPcpOEovesd3M3Wuh5aRfTYBGgLqybAmhQu4EV5jRnMfoB8QrFkKvUhYGGmINWeHN0__j7QKVo2XYxxXNhhMfWvxof4m6t89vkJfV6iUTN_UEynCZHT6NOHGCuzP6=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXLVLWH2iLVwRpYr-oOz4jXHG2P3PPCI9cAvrWqWBrY_aM41jvsS50k-rGIQ8vr2byBw9J8nqKqk1nZTHfcEm-jfGXRIMpQh_0nbDn9JGGzY-oeyDNVbSDJNK8OWfhazK7RZeK8v2uQ_wP=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyw1e4i9eo2yy2CPwd1epzFL0gXxf-iHh3b3-fJ7uB6dGxHAIkkR6b3hWL47xOfWJnu7vNt2zro8oGuDaAiO9SwFlDVtFr70MzydW9GwTQ8a5Sqxlab651vbDWExBzF0vo2T5W1DV2gzY=k-no"
+            }
+          ],
+          "date": "9 months ago",
+          "date_iso8601": "2026-01-23T13:15:57+00:00"
+        },
+        {
+          "username": "Sebin K Kottackal",
+          "rating": 4,
+          "contributor_id": "102018217864332406105",
+          "user_review_count": 220,
+          "user_photo_count": 356,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVfh7z6ALIrYI7_Grh24St7epL8XbiXJ7SmQ7iDhrV4PWOxpG71Mw=s120-c-rp-mo-ba12-br100",
+          "description": "I have been ordering from this restaurant through Swiggy. Based on my experience I visited this restaurant for dinner and had a very great experience. Enjoyed kebabs and non veg meals.\n\nStaff were very friendly and warm.\n\nEnough parking space available.\n\nRates are reasonable.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMeExpZUtnEAE!2m1!1s0x0:0x606c34389cd7e6bd!3m1!1s2@1:CIHM0ogKEICAgIDLxLieKg%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLewTm1x7Q3OdWZ6UAElXMytTCC4k0iscs-8l28U-3sB7RwKC5laG63ecohzDdaDv56UtuEiqe8L0PMZMRXVTWEhfuVa_sQzCI_bme4Nu2XUPtPvxwp9onXJL-6N9bl3t4qS5To8=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLewDjfxyXyXg8Grkz5hB1mETDvoREIDeD1eYwLdQfVjDxGwJ0Gc7hJsrF3NIkx0doksLL6JKARop-E-o716GZvNqgA4gi-itOQ4eiGc5YBCRGqwtdNnIaY2BhTd7YqnWmh0xuoN=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEBH1Hkz4z8jc_rKVj5VQWolF0BUvcwaozS3nGyt9bIaPePNwT85zGFfqAelrNOI2Kabba0JJXfCRYaBVVxpxD2c0KO3X3xj3o1rk_q8oEYlH9yry8pMNCJtgGhsPXmBLsaGlmrA=k-no"
+            }
+          ],
+          "date": "2 years ago",
+          "date_iso8601": "2024-06-25T12:33:19+00:00"
+        }
+      ]
+    }
+  }
+}

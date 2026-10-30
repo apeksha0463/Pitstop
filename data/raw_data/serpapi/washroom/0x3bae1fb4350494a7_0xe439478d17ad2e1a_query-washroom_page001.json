@@ -1,0 +1,189 @@
+{
+  "search_metadata": {
+    "id": "6ae30f251e760b5bc8eed600",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MqlxUxNoBAcmOaxpU3Y3vn_cyiLf64kVrii-53LoHFM/6ae30f251e760b5bc8eed600.json",
+    "markdown_endpoint": "https://serpapi.com/searches/MqlxUxNoBAcmOaxpU3Y3vn_cyiLf64kVrii-53LoHFM/6ae30f251e760b5bc8eed600.md",
+    "created_at": "2026-10-29 09:17:25 UTC",
+    "processed_at": "2026-10-29 09:17:25 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1fb4350494a7:0xe439478d17ad2e1a!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/MqlxUxNoBAcmOaxpU3Y3vn_cyiLf64kVrii-53LoHFM/6ae30f251e760b5bc8eed600.html",
+    "prettify_html_file": "https://serpapi.com/searches/MqlxUxNoBAcmOaxpU3Y3vn_cyiLf64kVrii-53LoHFM/6ae30f251e760b5bc8eed600.prettify",
+    "total_time_taken": 0.38
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae1fb4350494a7:0xe439478d17ad2e1a",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZM1lWSlZSV1Z4VjNONWJWcEZYMjlHVVhKTU4xRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOkY3YVJVRWVxV3N5bVpFX29GUXJMN1E%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a month ago",
+      "iso_date": "2026-09-06T08:45:28Z",
+      "iso_date_of_last_edit": "2026-09-06T09:01:07Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfizn5YqSvpNbk11u5Ycky6LZdG1g3ev8RSvCl9VeJ0r2X4zcHAOh_g7VIc8bp_pAdKPtg72k4Uuoe_fpnd7Ysb8XCPxV_Lze5FJF2kNX10joH4GiYqy0QSuqBluJoxWDBNmXGY-iqIkHE=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1lWSlZSV1Z4VjNONWJWcEZYMjlHVVhKTU4xRRAB",
+      "user": {
+        "name": "Vivek Soni",
+        "link": "https://www.google.com/maps/contrib/106904502386034388522?hl=en",
+        "contributor_id": "106904502386034388522",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVZkdUbGBg_rBb1OXeunfSFA_Adli33FdKUe2L-t-_xq6IO67sT=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 61,
+        "photos": 41
+      },
+      "snippet": "Food is third class, pizza was having strange cheese with some strange flavoured dough , aglio olio was having rubber dried tomato, and volcano ramen not arrived till the time this review was written, washroom was dirt like govt bus stand. Staff too is below average dressed poorly and not attentive to the table they are serving.\nI mean in Bangalore there is always scope to find worst restaurant.",
+      "extracted_snippet": {
+        "original": "Food is third class, pizza was having strange cheese with some strange flavoured dough , aglio olio was having rubber dried tomato, and volcano ramen not arrived till the time this review was written, washroom was dirt like govt bus stand. Staff too is below average dressed poorly and not attentive to the table they are serving.\nI mean in Bangalore there is always scope to find worst restaurant."
+      },
+      "details": {
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1,
+        "group_size": "2 people",
+        "seating_type": "Indoor dining area"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOllMSTMxMUNnWjhZLVc3QWExNmVfOVE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "3 months ago",
+      "iso_date": "2026-07-20T17:10:42Z",
+      "iso_date_of_last_edit": "2026-07-20T17:10:42Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLevvymvUlCNlnjbUpIk7IHO2YN6KpTgIXP-YUn2vv_LA62xSVWkDPxMFK-yvm-sj5YZ6C97qES8QucZJbgDQxfxTrzXK9ECTdS-bsnouPTWQ4rJEOtLZzWHb-IkYJIgq1ZSZcicSvwD8lY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeJCq-EmZwV4zxi3BELe3k5pgz-WGOp9v30w17tBalvXApWuV4Hy3IXqhmtVdJFJ1eAX9FmA32Srd1PZncLKuFFyW6krYF2NOrxLQ2VljAh-2Mjo4oJR2LFNRrNyYkxcv01PKyifnhwUaNU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeTafA2vwCKi1Xiq2McLV6bH3nRjc2cwljRMM1BklJanSWTs3_TnS4AvO6BlRtEL44EYD-fWq6wzNidE5VmZKm3aux12OkujDn1azy92-7Jnxc71HwUIQZeyF-zqGhEU9d4u2VuH36y5R6c=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcqIp1_JBZckvNBZLP-bKz0TFKeGlAdg0s2Hxfs3vpdtvURZ6IBZFqQnoE3Pnjfv7wwtY0w5Qgj4TV-ob9yvHZMx4geUAD3S9_k8Ys9binkpXbclFM2fUrasVA-stO_DlVe-PQyGgK61Lwa=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTVNUTXhNVU5uV2poWkxWYzNRV0V4Tm1WZk9WRRAB",
+      "user": {
+        "name": "Nikita Sinha",
+        "link": "https://www.google.com/maps/contrib/101764323555742157344?hl=en",
+        "contributor_id": "101764323555742157344",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWWCvs79ntfvU_u8hjifc-5k1GfliLplbrhqWY9P-uMkA0zOKKcgg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 51,
+        "photos": 28
+      },
+      "snippet": "The food was below average overall. The sushi wasn't good, the dim sum was disappointing, and the Angara chicken lacked flavor. The only dish I really enjoyed was the Black Pepper Chicken.\nThe place itself was nice and had a good ambiance, but the washroom was smelly and not clean, which affected the overall experience.\n\nOverall, I wouldn't recommend this place for the food.",
+      "extracted_snippet": {
+        "original": "The food was below average overall. The sushi wasn't good, the dim sum was disappointing, and the Angara chicken lacked flavor. The only dish I really enjoyed was the Black Pepper Chicken.\nThe place itself was nice and had a good ambiance, but the washroom was smelly and not clean, which affected the overall experience.\n\nOverall, I wouldn't recommend this place for the food."
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹2,000+",
+        "food": 2,
+        "service": 3,
+        "atmosphere": 3,
+        "group_size": "9+ people",
+        "wait_time": "10-30 min"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsUE9WVk5TVkJ2ZW5SYVRYbFJlRjh4ZUhCU1lYYxAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOllPOVVNSVBvenRaTXlReF8xeHBSYXc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-10-22T18:44:45Z",
+      "iso_date_of_last_edit": "2025-10-22T18:44:45Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUE9WVk5TVkJ2ZW5SYVRYbFJlRjh4ZUhCU1lYYxAB",
+      "user": {
+        "name": "raffath ashreen",
+        "link": "https://www.google.com/maps/contrib/113376586517815726461?hl=en",
+        "contributor_id": "113376586517815726461",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLAFgwM4D1ZN69z6yEtc6Ya4hQvNZUAKzVDBjvtJwPIHmRt6g=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 5
+      },
+      "snippet": "A good place near by the highway and decent atmosphere however it is suggested to have wheelchair accessible washroom and a short ramp can make this place a good one for everyone. To be an inclusive place it does not take much",
+      "extracted_snippet": {
+        "original": "A good place near by the highway and decent atmosphere however it is suggested to have wheelchair accessible washroom and a short ramp can make this place a good one for everyone. To be an inclusive place it does not take much"
+      },
+      "details": {
+        "meal_type": "Dinner",
+        "price_per_person": "₹800–1,000",
+        "food": 3,
+        "service": 4,
+        "atmosphere": 2,
+        "noise_level": "Moderate noise",
+        "wait_time": "10-30 min",
+        "wheelchair_accessibility": "No wheelchair accessible washroom a small step at the entrance"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1SlYyVk1VRGRUVkdObmVVSllWMVJOYTJ3MlJGRRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CAIQACodChtycF9oOk5JV2VMUDdTVGNneUJYV1RNa2w2RFE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-09-05T18:57:21Z",
+      "iso_date_of_last_edit": "2025-09-05T18:57:21Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SlYyVk1VRGRUVkdObmVVSllWMVJOYTJ3MlJGRRAB",
+      "user": {
+        "name": "neeraj rao",
+        "link": "https://www.google.com/maps/contrib/100307752441412876975?hl=en",
+        "contributor_id": "100307752441412876975",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKOx7pOQI_NKtoielOUC1T20ayq1CT-NO4GcOdDdM5x71i-XaMb=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 67,
+        "photos": 821
+      },
+      "snippet": "The restaurant is located at a prime spot with a beautiful property, making it an attractive place for hanging out, especially for young crowds. After reading several positive Google reviews, we decided to give it a try.\n\nUnfortunately, the experience was disappointing. The staff gave us cold greetings, seemed indifferent, and were constantly busy on their phones rather than attending to customers. While placing the order, they appeared aloof, and the food took unusually long to arrive.\n\nWe ordered butter garlic prawns and fish & chips. Both dishes were far from expectations—the prawns were drowning in a cornflour-heavy sauce, and the fish was stale, lacking freshness. The batter on the fish was so thick that it completely overpowered the taste of the fish.\n\nOverall, the food quality ruined what began as an enthusiastic outing. Also, the restaurant washroom was very dirty. This place seems more suited for youngsters looking to hang out over drinks rather than those hoping to enjoy good food.",
+      "extracted_snippet": {
+        "original": "The restaurant is located at a prime spot with a beautiful property, making it an attractive place for hanging out, especially for young crowds. After reading several positive Google reviews, we decided to give it a try.\n\nUnfortunately, the experience was disappointing. The staff gave us cold greetings, seemed indifferent, and were constantly busy on their phones rather than attending to customers. While placing the order, they appeared aloof, and the food took unusually long to arrive.\n\nWe ordered butter garlic prawns and fish & chips. Both dishes were far from expectations—the prawns were drowning in a cornflour-heavy sauce, and the fish was stale, lacking freshness. The batter on the fish was so thick that it completely overpowered the taste of the fish.\n\nOverall, the food quality ruined what began as an enthusiastic outing. Also, the restaurant washroom was very dirty. This place seems more suited for youngsters looking to hang out over drinks rather than those hoping to enjoy good food."
+      },
+      "details": {
+        "meal_type": "Other",
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 3
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VKUGp1ZFhWbXV5N293RRAB!2m1!1s0x0:0xe439478d17ad2e1a!3m1!1s2@1:CIHM0ogKEJPjudXVmuy7owE%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "a year ago",
+      "iso_date": "2025-06-04T15:55:14Z",
+      "iso_date_of_last_edit": "2025-06-04T15:56:40Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VKUGp1ZFhWbXV5N293RRAB",
+      "user": {
+        "name": "vyshak Jayan",
+        "link": "https://www.google.com/maps/contrib/107213502331032323168?hl=en",
+        "contributor_id": "107213502331032323168",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJfAIrMznBzT9xXmc5zXh_ob326-EGAfLRKR4pmiqzorSUaGA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 2
+      },
+      "snippet": "Mosquito 🦟 breeding centre.\nWashroom Washroom cleaned a decade ago stinks.",
+      "extracted_snippet": {
+        "original": "Mosquito 🦟 breeding centre.\nWashroom Washroom cleaned a decade ago stinks."
+      },
+      "details": {
+        "service": 1
+      },
+      "likes": 0
+    }
+  ]
+}

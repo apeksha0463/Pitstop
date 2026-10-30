@@ -1,0 +1,53 @@
+{
+  "search_metadata": {
+    "id": "6ae30df3258828d9e0f1b5e5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/nvKq2JxWjyPnwfpLlfcxR0c7LNTNt-VI1vt7P8Flebs/6ae30df3258828d9e0f1b5e5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/nvKq2JxWjyPnwfpLlfcxR0c7LNTNt-VI1vt7P8Flebs/6ae30df3258828d9e0f1b5e5.md",
+    "created_at": "2026-10-29 09:12:19 UTC",
+    "processed_at": "2026-10-29 09:12:19 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae199ebb434785:0x925928a22e4df686!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/nvKq2JxWjyPnwfpLlfcxR0c7LNTNt-VI1vt7P8Flebs/6ae30df3258828d9e0f1b5e5.html",
+    "prettify_html_file": "https://serpapi.com/searches/nvKq2JxWjyPnwfpLlfcxR0c7LNTNt-VI1vt7P8Flebs/6ae30df3258828d9e0f1b5e5.prettify",
+    "total_time_taken": 0.44
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae199ebb434785:0x925928a22e4df686",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WVWNFOVdTR0ZqTFhwemQxcElRM1JDVTBKWU5XYxAB!2m1!1s0x0:0x925928a22e4df686!3m1!1s2@1:CAIQACodChtycF9oOnVUcE9WSGFjLXpzd1pIQ3RCU0JYNWc%7C%7C?hl=en",
+      "rating": 1.0,
+      "date": "2 months ago",
+      "iso_date": "2026-08-23T16:12:22Z",
+      "iso_date_of_last_edit": "2026-08-23T16:38:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVWNFOVdTR0ZqTFhwemQxcElRM1JDVTBKWU5XYxAB",
+      "user": {
+        "name": "NACHIKET KAMBLE",
+        "link": "https://www.google.com/maps/contrib/116184369195613584140?hl=en",
+        "contributor_id": "116184369195613584140",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVgFsC87Dq6MiQD-LMn6yz-kf-XnMefzdnLGOydtWBpCGaFXUpk=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "The food was tasteless and poorly prepared, while the prices were ridiculously high. On top of that, the service was painfully slow and inattentive—even the washroom facilities lacked basic hand wash. Complete waste of money.",
+      "extracted_snippet": {
+        "original": "The food was tasteless and poorly prepared, while the prices were ridiculously high. On top of that, the service was painfully slow and inattentive—even the washroom facilities lacked basic hand wash. Complete waste of money."
+      },
+      "details": {
+        "price_per_person": "₹2,000+",
+        "food": 1,
+        "service": 1,
+        "atmosphere": 1
+      },
+      "likes": 0
+    }
+  ]
+}

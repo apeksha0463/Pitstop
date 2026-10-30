@@ -1,0 +1,88 @@
+{
+  "search_metadata": {
+    "id": "6ae30dc5be4c9ab52e5e6709",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SrXq4eSJK83XoZyK7BG4BynkMCD3fUpba-tbmhQMqug/6ae30dc5be4c9ab52e5e6709.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SrXq4eSJK83XoZyK7BG4BynkMCD3fUpba-tbmhQMqug/6ae30dc5be4c9ab52e5e6709.md",
+    "created_at": "2026-10-29 09:11:33 UTC",
+    "processed_at": "2026-10-29 09:11:33 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae19cd83892495:0xc4ee26c182749dfe!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/SrXq4eSJK83XoZyK7BG4BynkMCD3fUpba-tbmhQMqug/6ae30dc5be4c9ab52e5e6709.html",
+    "prettify_html_file": "https://serpapi.com/searches/SrXq4eSJK83XoZyK7BG4BynkMCD3fUpba-tbmhQMqug/6ae30dc5be4c9ab52e5e6709.prettify",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bae19cd83892495:0xc4ee26c182749dfe",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "restroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURabk9HZTJRRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CIHM0ogKEICAgIDZnOGe2QE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-09-26T11:49:19Z",
+      "iso_date_of_last_edit": "2023-09-26T11:49:19Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabk9HZTJRRRAB",
+      "user": {
+        "name": "Raghuraj Raja",
+        "link": "https://www.google.com/maps/contrib/100853274869764579732?hl=en",
+        "contributor_id": "100853274869764579732",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJX_cWomXIghz4lIjMrhdRMJMC96jYRnueb5J6-q7qAKifOGA=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 0
+      },
+      "snippet": "Captain siddaraju was given great service....food taste was great and feels like eating In 5 star restaurant the environment was awesome and cleaning in resturant and restroom is super...",
+      "extracted_snippet": {
+        "original": "Captain siddaraju was given great service....food taste was great and feels like eating In 5 star restaurant the environment was awesome and cleaning in resturant and restroom is super..."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹600–800",
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Tandoori Chicken Full",
+        "parking_options": "Free parking lot, Free street parking"
+      },
+      "likes": 1
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURabk5heS1nRRAB!2m1!1s0x0:0xc4ee26c182749dfe!3m1!1s2@1:CIHM0ogKEICAgIDZnNay-gE%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "3 years ago",
+      "iso_date": "2023-09-26T11:30:04Z",
+      "iso_date_of_last_edit": "2023-09-26T11:30:04Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdri5wGU_aNiySu9nCR-M9iAgwUP9vjKacWt664CZmvEeNE77SF92TtsK2MtkpkAin2uukQIBjVOSvYTFp5uUAwUfRwlavASHRqH8PNLbxFZE-iw4xYl7qpMI7mZrtAZXSIXXI=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabk5heS1nRRAB",
+      "user": {
+        "name": "pramod gowda",
+        "link": "https://www.google.com/maps/contrib/109958301829137550017?hl=en",
+        "contributor_id": "109958301829137550017",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUumKwcax9M17ctsFy4gfS3BPGaXRYNk27p5PF5KI24QBVxV5p9WA=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 1
+      },
+      "snippet": "It was amazing place to enjoying the delicious food and atmosphere and ambiance was good people are good behaving and awesome service captain Siddaraju was giving a great service food taste is out of the world…cleaning and hygiene in restroom was great",
+      "extracted_snippet": {
+        "original": "It was amazing place to enjoying the delicious food and atmosphere and ambiance was good people are good behaving and awesome service captain Siddaraju was giving a great service food taste is out of the world…cleaning and hygiene in restroom was great"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "search_metadata": {
+    "id": "6ae310405c50d1e3a0e5b1dd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jhfQVei_ueLh9g0VCTi9Gonwua0pVSSdxpWBv_0oj3E/6ae310405c50d1e3a0e5b1dd.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jhfQVei_ueLh9g0VCTi9Gonwua0pVSSdxpWBv_0oj3E/6ae310405c50d1e3a0e5b1dd.md",
+    "created_at": "2026-10-29 09:22:08 UTC",
+    "processed_at": "2026-10-29 09:22:08 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1f3b47678b4ad:0x7ea45b9283828a19!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/jhfQVei_ueLh9g0VCTi9Gonwua0pVSSdxpWBv_0oj3E/6ae310405c50d1e3a0e5b1dd.html",
+    "prettify_html_file": "https://serpapi.com/searches/jhfQVei_ueLh9g0VCTi9Gonwua0pVSSdxpWBv_0oj3E/6ae310405c50d1e3a0e5b1dd.prettify",
+    "total_time_taken": 0.58
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1f3b47678b4ad:0x7ea45b9283828a19",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "bathroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25FNVoxbGpkWFZNVWsxNE4yNWpRa1J4V0ZjM2QwRRAB!2m1!1s0x0:0x7ea45b9283828a19!3m1!1s2@1:CAIQACodChtycF9oOnE5Z1ljdXVMUk14N25jQkRxWFc3d0E%7C%7C?hl=en",
+      "rating": 5.0,
+      "date": "5 days ago",
+      "iso_date": "2026-10-24T09:08:12Z",
+      "iso_date_of_last_edit": "2026-10-24T09:08:12Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNVoxbGpkWFZNVWsxNE4yNWpRa1J4V0ZjM2QwRRAB",
+      "user": {
+        "name": "Divya Arora",
+        "link": "https://www.google.com/maps/contrib/114410257537830268336?hl=en",
+        "contributor_id": "114410257537830268336",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLsGp7_ucIus-J5c23thNJTXBXZPgIL6TrzR20SAUCk8JXk4w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Pretty good highway stop. Good food and very clean bathroom",
+      "extracted_snippet": {
+        "original": "Pretty good highway stop. Good food and very clean bathroom"
+      },
+      "details": {
+        "food": 5,
+        "service": 5,
+        "atmosphere": 5
+      },
+      "likes": 1
+    }
+  ]
+}

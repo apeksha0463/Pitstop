@@ -1,0 +1,62 @@
+{
+  "search_metadata": {
+    "id": "6ae30fe84e12bd54fea42dda",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UoHR7klGB3HQWEICjz-VDQbXWF6jMDZuDN1CIBiVMeY/6ae30fe84e12bd54fea42dda.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UoHR7klGB3HQWEICjz-VDQbXWF6jMDZuDN1CIBiVMeY/6ae30fe84e12bd54fea42dda.md",
+    "created_at": "2026-10-29 09:20:40 UTC",
+    "processed_at": "2026-10-29 09:20:40 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde!5m2!4m1!1i2!9m1!1b1?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/UoHR7klGB3HQWEICjz-VDQbXWF6jMDZuDN1CIBiVMeY/6ae30fe84e12bd54fea42dda.html",
+    "prettify_html_file": "https://serpapi.com/searches/UoHR7klGB3HQWEICjz-VDQbXWF6jMDZuDN1CIBiVMeY/6ae30fe84e12bd54fea42dda.prettify",
+    "total_time_taken": 1.0
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x3bb1e5d00b6dc3d3:0x37d618e0212c1fde",
+    "hl": "en",
+    "num": "20",
+    "sort_by": "newestFirst",
+    "query": "washroom"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Bd1MySlBVVTVuTkVwaE9ETnZXR0psYjJRMGFWRRAB!2m1!1s0x0:0x37d618e0212c1fde!3m1!1s2@1:CAIQACodChtycF9oOnAwS2JPUU5nNEphODNvWGJlb2Q0aVE%7C%7C?hl=en",
+      "rating": 3.0,
+      "date": "Edited 9 months ago",
+      "iso_date": "2026-01-10T18:25:07Z",
+      "iso_date_of_last_edit": "2026-01-15T02:18:36Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc3BuDznNqHwlJCCEkC4FGnFwDkH0BVVzrfLOGt2B7aoKTadj-C8GhwTgv6AVIrq2utqzywGMQ3Y1Ky37qQi2YPwyYTRCRdYts1grAKhRUJ6j_fTRUED0vwRuqrOcZMizgEMmwdd-zBCe0=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Bd1MySlBVVTVuTkVwaE9ETnZXR0psYjJRMGFWRRAB",
+      "user": {
+        "name": "Chanchal Singh",
+        "link": "https://www.google.com/maps/contrib/101244311218976783079?hl=en",
+        "contributor_id": "101244311218976783079",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV7LwQhDsn00VOGx5ywdsd2aqyMsUxdT5T7yNgy3hc1vRzdvHrXKw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 243,
+        "photos": 63
+      },
+      "snippet": "I will be honest here. Its a NO for me.\nI went to to this place seeing so many stars on Google review for this place. But I have to say I was disappointed.\nSitting there I started reading reviews in detail and realized it has got mixed reviews.\nTalking about Ambience, it is not so good as it looks in the pictures. This place needs maintenance now, it's dirty, washroom is bad etc.\n\nFood was ok, nothing so great or nice about it. It was just fine.  Food serving time was average. But they brought starter and main course together.\n\nThe moment they served us the paneer Nilgiris loaded with artificial green color (photo attached), I understood what we gona get.\nI felt Chicken was not so freash.\nFor me it's a NO for the next time.",
+      "extracted_snippet": {
+        "original": "I will be honest here. Its a NO for me.\nI went to to this place seeing so many stars on Google review for this place. But I have to say I was disappointed.\nSitting there I started reading reviews in detail and realized it has got mixed reviews.\nTalking about Ambience, it is not so good as it looks in the pictures. This place needs maintenance now, it's dirty, washroom is bad etc.\n\nFood was ok, nothing so great or nice about it. It was just fine.  Food serving time was average. But they brought starter and main course together.\n\nThe moment they served us the paneer Nilgiris loaded with artificial green color (photo attached), I understood what we gona get.\nI felt Chicken was not so freash.\nFor me it's a NO for the next time."
+      },
+      "details": {
+        "order_type": "Dine in",
+        "meal_type": "Lunch",
+        "price_per_person": "₹1,000–1,200",
+        "food": 3,
+        "service": 3,
+        "atmosphere": 3,
+        "noise_level": "Quiet, easy to talk",
+        "parking_space": "Plenty of parking",
+        "parking_options": "Free parking lot"
+      },
+      "likes": 0
+    }
+  ]
+}
