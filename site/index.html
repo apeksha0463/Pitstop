@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Pitstop Route Explorer</title>
+<meta name="description" content="Restaurants and washroom ratings on the highway from Phoenix Mall of Asia to Big Bay.">
+<link rel="stylesheet" href="styles.css">
+<!-- fetched in parallel with the CSS; run after parsing. data.js holds the route and the offline copy of the stops;
+     app.js loads the live stops from Supabase (config.js) and falls back to data.js -->
+<script src="data.js" defer blocking="render"></script>
+<script src="config.js" defer></script>
+<script src="app.js" defer blocking="render"></script>
+</head>
+<body>
+<a class="skip" href="#list">Skip to the list of stops</a>
+
+<header class="site-header">
+  <div class="title-row">
+    <h1>Pitstop <span aria-hidden="true">·</span> Mall of Asia → Big Bay</h1>
+    <p class="lede">Every restaurant on the <span id="route-km">66</span> km highway drive, drawn as a metro line and graded by what reviewers say about the washrooms.</p>
+    <p class="data-note" id="data-note" role="status" hidden>Offline data: Supabase could not be reached, so this is the copy saved with the page.</p>
+  </div>
+  <ul class="chips" id="chips" aria-label="Summary"></ul>
+</header>
+
+<div class="toolbar">
+  <fieldset class="seg" id="direction">
+    <legend class="sr-only">Direction of travel</legend>
+    <label><input type="radio" name="dir" value="bigbay" checked><span>Going to Big Bay</span></label>
+    <label><input type="radio" name="dir" value="blr"><span>Going to Bengaluru</span></label>
+  </fieldset>
+  <p class="side-hint" id="side-hint" aria-live="polite"></p>
+  <button type="button" class="btn filters-open" id="filters-open" aria-controls="filters" aria-expanded="false">Filters <span class="badge-count" id="filters-count" hidden></span></button>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+
+<main class="layout">
+  <section class="filters" id="filters" aria-label="Filters">
+  <div class="sheet-head">
+    <h2>Filters</h2>
+    <button type="button" class="btn" id="filters-done">Done</button>
+  </div>
+  <div class="filter-grid">
+    <fieldset class="filter grades" id="grade-filter">
+      <legend>Washroom</legend>
+      <button type="button" class="toggle" data-grade="good" aria-pressed="true"><span class="sym g-good" aria-hidden="true">✓</span>Good</button>
+      <button type="button" class="toggle" data-grade="moderate" aria-pressed="true"><span class="sym g-moderate" aria-hidden="true">~</span>Moderate</button>
+      <button type="button" class="toggle" data-grade="bad" aria-pressed="true"><span class="sym g-bad" aria-hidden="true">✕</span>Bad</button>
+      <button type="button" class="toggle" data-grade="none" aria-pressed="true"><span class="sym g-none" aria-hidden="true">–</span>No data</button>
+    </fieldset>
+    <fieldset class="filter seg small" id="pos-filter">
+      <legend>Position</legend>
+      <label><input type="radio" name="pos" value="all" checked><span>All</span></label>
+      <label><input type="radio" name="pos" value="highway"><span>On the highway</span></label>
+      <label><input type="radio" name="pos" value="detour"><span>Detour</span></label>
+    </fieldset>
+    <div class="filter">
+      <label for="min-rating" class="filter-label">Google rating</label>
+      <select id="min-rating">
+        <option value="0">Any</option>
+        <option value="3.5">3.5 and up</option>
+        <option value="4">4.0 and up</option>
+        <option value="4.5">4.5 and up</option>
+      </select>
+    </div>
+    <div class="filter checks">
+      <label class="check"><input type="checkbox" id="veg-only"><span>Veg only</span></label>
+      <label class="check"><input type="checkbox" id="my-side"><span>Only stops on my side</span></label>
+    </div>
+    <div class="filter search">
+      <label for="search" class="filter-label">Search</label>
+      <input type="search" id="search" placeholder="Restaurant or cuisine" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="filter result">
+      <p id="result-count" aria-live="polite"></p>
+      <button type="button" class="btn ghost" id="clear-filters">Clear filters</button>
+    </div>
+  </div>
+</section>
+
+  <section class="map-card" aria-labelledby="map-title">
+    <div class="map-head">
+      <h2 id="map-title">Route map</h2>
+      <div class="jumps" role="group" aria-label="Jump to landmark" id="jumps"></div>
+      <div class="zoom" role="group" aria-label="Zoom">
+        <button type="button" class="btn icon" id="zoom-out" aria-label="Zoom out">−</button>
+        <button type="button" class="btn icon" id="zoom-in" aria-label="Zoom in">+</button>
+        <button type="button" class="btn" id="zoom-fit">Fit</button>
+      </div>
+    </div>
+    <div class="minimap" id="minimap" role="slider" tabindex="0" aria-label="Route overview: part of the route in view"
+         aria-valuemin="0" aria-valuemax="66" aria-valuenow="0"></div>
+    <div class="map-scroll" id="map-scroll"></div>
+    <ul class="legend" aria-label="Legend">
+      <li><span class="sym g-good" aria-hidden="true">✓</span>Good washroom</li>
+      <li><span class="sym g-moderate" aria-hidden="true">~</span>Moderate</li>
+      <li><span class="sym g-bad" aria-hidden="true">✕</span>Bad</li>
+      <li><span class="sym g-none" aria-hidden="true">–</span>No reviews</li>
+      <li><span class="sym ring-low" aria-hidden="true"></span>Dashed ring: under 5 reviews</li>
+      <li><span class="leg-spur" aria-hidden="true"></span>Spur: detour, labelled with distance from the road</li>
+      <li><span class="leg-road" aria-hidden="true"></span>Keep left: west lane runs to Big Bay</li>
+    </ul>
+  </section>
+
+  <aside class="list-card" aria-labelledby="list-title">
+    <h2 id="list-title">Stops <span id="list-order" class="muted"></span></h2>
+    <div class="list-scroll">
+      <ol class="cards" id="list"></ol>
+      <p class="empty" id="empty" hidden>No stops match these filters.</p>
+    </div>
+  </aside>
+</main>
+
+<aside class="panel" id="panel" role="dialog" aria-modal="false" aria-labelledby="panel-title" tabindex="-1">
+  <div class="panel-inner" id="panel-body"></div>
+</aside>
+
+<div class="tip" id="tip" role="tooltip" hidden></div>
+
+</body>
+</html>

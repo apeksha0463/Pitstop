@@ -7,5 +7,12 @@ transformers>=4.40
 sentencepiece>=0.2
 protobuf>=4.0
 
+# Route map screenshot (build_route_map.py; uses installed Edge, else `playwright install chromium`)
+playwright>=1.40
+
 # Development & Testing
 pytest>=7.0.0
+
+# Supabase upload (upload_to_supabase.py)
+psycopg[binary]>=3.2
+supabase>=2.10

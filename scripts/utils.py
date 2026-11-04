@@ -67,7 +67,8 @@ def to_project_relative(path: Path | str) -> str:
     """
     p = Path(path).resolve()
     try:
-        return p.relative_to(PROJECT_ROOT).as_posix()
+        # resolve both sides: Windows 8.3 short names (SHIVAP~1) or symlinks would not match
+        return p.relative_to(Path(PROJECT_ROOT).resolve()).as_posix()
     except ValueError:
         return p.as_posix()
 
